@@ -1,12 +1,12 @@
 ITEM_20150317_000001	空_头盔 
 ITEM_20150317_000002	姆尔米洛头盔 
-ITEM_20150317_000003	空_臂章 
-ITEM_20150317_000004	红臂章 
-ITEM_20150317_000005	臂章 
-ITEM_20150317_000006	打结的臂章 
-ITEM_20150317_000007	长臂章 
-ITEM_20150317_000008	羽毛臂章 
-ITEM_20150317_000009	缨旒臂章 
+ITEM_20150317_000003	空_护腕 
+ITEM_20150317_000004	红护腕 
+ITEM_20150317_000005	护腕 
+ITEM_20150317_000006	打结的护腕 
+ITEM_20150317_000007	长护腕 
+ITEM_20150317_000008	羽毛护腕 
+ITEM_20150317_000009	缨旒护腕 
 ITEM_20150317_000010	空_武器 
 ITEM_20150317_000011	粗糙的短剑 
 ITEM_20150317_000012	单手剑[斩击] 
@@ -1765,31 +1765,31 @@ ITEM_20150317_001764	Empty_Pants
 ITEM_20150317_001765	Empty_Gloves 
 ITEM_20150317_001766	Empty_Boots 
 ITEM_20150317_001767	Top 
-ITEM_20150317_001768	Stamina +5 Increase 药剂 
-ITEM_20150317_001769	Right-click to use. 
+ITEM_20150317_001768	体力 +5 Increase 药剂 
+ITEM_20150317_001769	右键点击使用. 
 ITEM_20150317_001770	Small HP 药剂 
-ITEM_20150317_001771	Restores 192 HP. {nl}Health is restored every 2 seconds for 15 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
+ITEM_20150317_001771	恢复 192 HP. {nl}HP每两秒回复一次,持续15秒. {nl}右键点击使用. 冷却 30 秒. 
 ITEM_20150317_001772	HP 药剂 
-ITEM_20150317_001773	Restores 320 HP. {nl}Health is restored every 2 seconds for 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150317_001774	Large HP 药剂 
-ITEM_20150317_001775	Restores 640 HP. {nl}Health is restored every 2 seconds for 15 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150317_001776	Small SP 药剂 
-ITEM_20150317_001777	Restores 144 SP. {nl}SP is restored every 2 seconds for 15 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150317_001778	Restores 240 SP. {nl}SP is restored every 2 seconds for 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
+ITEM_20150317_001773	恢复 320 HP. {nl}HP每两秒回复一次,持续15秒. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150317_001774	大 HP 药剂 
+ITEM_20150317_001775	恢复 640 HP. {nl}HP每两秒回复一次,持续15秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150317_001776	小 SP 药剂 
+ITEM_20150317_001777	恢复 144 SP. {nl}SP每两秒回复一次,持续15秒. {nl}右键点击使用. 冷却 30 秒. 
+ITEM_20150317_001778	恢复 240 SP. {nl}SP每两秒回复一次,持续15秒. {nl}右键点击使用. 冷却 45 秒. 
 ITEM_20150317_001779	Large SP 药剂 
-ITEM_20150317_001780	Restores 480 SP. {nl}SP is restored every 2 seconds for 15 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150317_001781	Stamina Pill 
-ITEM_20150317_001782	Restores 15 Stamina. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150317_001783	STA Pill (Medium) 
-ITEM_20150317_001784	Restores 30 Stamina. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150317_001785	STA Pill (Large) 
-ITEM_20150317_001786	Restores 40 Stamina. {nl}Right-click to use. Cooldown 60 seconds. 
+ITEM_20150317_001780	恢复 480 SP. {nl}SP每两秒回复一次,持续15秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150317_001781	体力 药丸 
+ITEM_20150317_001782	恢复 15 Stamina. {nl}右键点击使用. 冷却 30 秒. 
+ITEM_20150317_001783	STA 药丸 (Medium) 
+ITEM_20150317_001784	恢复 30 Stamina. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150317_001785	STA 药丸 (Large) 
+ITEM_20150317_001786	恢复 40 Stamina. {nl}右键点击使用. 冷却 60 秒. 
 ITEM_20150317_001787	Small Recovery 药剂 
-ITEM_20150317_001788	Restores 244 HP and SP. {nl}Health and SP are restored every 2 seconds for 15 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
+ITEM_20150317_001788	恢复 244 HP and SP. {nl}Health and SP are restored every 2 seconds for 15 seconds. {nl}右键点击使用. 冷却 30 秒. 
 ITEM_20150317_001789	Recovery 药剂 
-ITEM_20150317_001790	Restores 373 HP and SP. {nl}Health and SP are restored every 2 seconds for 15 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
+ITEM_20150317_001790	恢复 373 HP and SP. {nl}Health and SP are restored every 2 seconds for 15 seconds. {nl}右键点击使用. 冷却 30 秒. 
 ITEM_20150317_001791	Large Recovery 药剂 
-ITEM_20150317_001792	Restores 744 HP and SP. {nl}Health and SP are restored every 2 seconds for 15 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
+ITEM_20150317_001792	恢复 744 HP and SP. {nl}Health and SP are restored every 2 seconds for 15 seconds. {nl}右键点击使用. 冷却 30 秒. 
 ITEM_20150317_001793	STA + 5 Increase 药剂 
 ITEM_20150317_001794	Increases Stamina by 5 
 ITEM_20150317_001795	Red Kepa Piece 
@@ -1799,18 +1799,18 @@ ITEM_20150317_001798	HP Recovery 药剂 (Small)
 ITEM_20150317_001799	SP Recovery 药剂 (Small) 
 ITEM_20150317_001800	HP +5 Increase 药剂 
 ITEM_20150317_001801	HP +10 Increase 药剂 
-ITEM_20150317_001802	Movement Speed Increase 药剂 
-ITEM_20150317_001803	Increases movement speed by 5 for 180 seconds. Right-click to use. Cooldown 30 seconds. 
+ITEM_20150317_001802	移动速度提升 药剂 
+ITEM_20150317_001803	提升移动速度 5 for 180 seconds. 右键点击使用. 冷却 30 seconds. 
 ITEM_20150317_001804	Warp Scroll 
 ITEM_20150317_001805	Allows you to warp to any Goddess Statue. Your current location will be saved at the Goddess Statue. 
 ITEM_20150317_001806	Companion Food 
 ITEM_20150317_001807	Restores Velhider's Stamina by 30. 
 ITEM_20150317_001808	Varnalesa 
-ITEM_20150317_001809	Restores 32~35 SP. Right-click to use. 
+ITEM_20150317_001809	恢复 32~35 SP. 右键点击使用. 
 ITEM_20150317_001810	Valerijonas 
 ITEM_20150317_001811	A flower that can be used as a herb. 
 ITEM_20150317_001812	Ciobrelis 
-ITEM_20150317_001813	A purple colored flower that has regenerative effects when boiled. Restores 8 Stamina.  Right-click to use. 
+ITEM_20150317_001813	A purple colored flower that has regenerative effects when boiled. Restores 8 Stamina.  右键点击使用. 
 ITEM_20150317_001814	Uosis 
 ITEM_20150317_001815	A herb that grows in sunny fields. 
 ITEM_20150317_001816	Amalas 
@@ -1821,7 +1821,7 @@ ITEM_20150317_001820	Jonazole
 ITEM_20150317_001821	Mairunas 
 ITEM_20150317_001822	Ramunele 
 ITEM_20150317_001823	Raudonelis 
-ITEM_20150317_001824	Sweet-tasting herb. It is sometimes used for treatment of wounds. Restores HP. 
+ITEM_20150317_001824	Sweet-tasting herb. It is sometimes used for treatment of wounds. 恢复 HP. 
 ITEM_20150317_001825	Onion 
 ITEM_20150317_001826	Only those who have peeled its skin it knows how it feels. 
 ITEM_20150317_001827	Salavijas 
@@ -1832,7 +1832,7 @@ ITEM_20150317_001831	Sticky liquid with a sweet taste.
 ITEM_20150317_001832	Nukella 
 ITEM_20150317_001833	Acorn 
 ITEM_20150317_001834	Truffle 
-ITEM_20150317_001835	Restores 350~400 SP. A well-known delicacy among food connoisseurs. Right-click to use. 
+ITEM_20150317_001835	恢复 350~400 SP. A well-known delicacy among food connoisseurs. 右键点击使用. 
 ITEM_20150317_001836	Flower Bun 
 ITEM_20150317_001837	Pine Mushroom 
 ITEM_20150317_001838	Bezoar 
@@ -1850,7 +1850,7 @@ ITEM_20150317_001849	Wisdomberry
 ITEM_20150317_001850	Lemon 
 ITEM_20150317_001851	Aggro 药剂 
 ITEM_20150317_001852	Lv120 Klaipeda Parish's Request 
-ITEM_20150317_001853	A scroll that will open a mission portal. Right-click to use. 
+ITEM_20150317_001853	A scroll that will open a mission portal. 右键点击使用. 
 ITEM_20150317_001854	Crystal Mine Mission Warp Stone 
 ITEM_20150317_001855	Lv140 Keepers' Request 
 ITEM_20150317_001856	Lv160 Paladin Followers' Request 
@@ -1867,48 +1867,48 @@ ITEM_20150317_001866	A white powder that is consumed when priests cast a magic s
 ITEM_20150317_001867	Catacombs Mission Warp Stone 
 ITEM_20150317_001868	Garlic 
 ITEM_20150317_001869	Popolion Meat 
-ITEM_20150317_001870	Restores 40~50 HP. This meat is easily obtainable and can be eaten raw. Right-click to use. 
+ITEM_20150317_001870	恢复 40~50 HP. This meat is easily obtainable and can be eaten raw. 右键点击使用. 
 ITEM_20150317_001871	Klaipeda Warp Scroll 
-ITEM_20150317_001872	Teleports you to Klaipeda. Right-click to use. 
+ITEM_20150317_001872	Teleports you to Klaipeda. 右键点击使用. 
 ITEM_20150317_001873	Coins Box 
-ITEM_20150317_001874	Contains one Coins. Right-click to use. 
+ITEM_20150317_001874	Contains one Coins. 右键点击使用. 
 ITEM_20150317_001875	Cures [Poison] abnormal status. 
 ITEM_20150317_001876	Velhider's Food 
-ITEM_20150317_001877	Velhider's favorite food. Completely restores your companion's HP and restores their stamina by 30. 
+ITEM_20150317_001877	Velhider's favorite food. 完全恢复你伙伴的 HP 和 体力 30 点. 
 ITEM_20150317_001878	Hoglan's Food 
-ITEM_20150317_001879	Hoglan's favorite food. Completely restores your companion's HP and restores their stamina by 30. 
+ITEM_20150317_001879	Hoglan's favorite food. 完全恢复你伙伴的 HP 和 体力 30 点. 
 ITEM_20150317_001880	Arma's Food 
-ITEM_20150317_001881	Arma's favorite food. Completely restores your companion's HP and restores their stamina by 30. 
+ITEM_20150317_001881	Arma's favorite food. 完全恢复你伙伴的 HP 和 体力 30 点. 
 ITEM_20150317_001882	Basic Warp scroll 
 ITEM_20150317_001883	LV1 EXP Card  
-ITEM_20150317_001884	Adds 30 EXP. {nl}Chance of receiving 50% additional EXP. {nl}Right-click to use. 
+ITEM_20150317_001884	增加 30 EXP. {nl}概率获得50%额外的EXP. {nl}右键点击使用. 
 ITEM_20150317_001885	LV2 EXP Card  
-ITEM_20150317_001886	Adds 120 EXP. {nl}Chance of receiving 50% additional EXP. {nl}Right-click to use. 
+ITEM_20150317_001886	增加 120 EXP. {nl}概率获得50%额外的EXP. {nl}右键点击使用. 
 ITEM_20150317_001887	LV3 EXP Card  
-ITEM_20150317_001888	Adds 500 EXP. {nl}Chance of receiving 50% additional EXP. {nl}Right-click to use. 
+ITEM_20150317_001888	增加 500 EXP. {nl}概率获得50%额外的EXP. {nl}右键点击使用. 
 ITEM_20150317_001889	LV4 EXP Card  
-ITEM_20150317_001890	Adds 2000 EXP. {nl}Chance of receiving 50% additional EXP. {nl}Right-click to use. 
+ITEM_20150317_001890	增加 2000 EXP. {nl}概率获得50%额外的EXP. {nl}右键点击使用. 
 ITEM_20150317_001891	LV5 EXP Card  
-ITEM_20150317_001892	Adds 6000 EXP. {nl}Chance of receiving 50% additional EXP. {nl}Right-click to use. 
+ITEM_20150317_001892	增加 6000 EXP. {nl}概率获得50%额外的EXP. {nl}右键点击使用. 
 ITEM_20150317_001893	LV6 EXP Card  
-ITEM_20150317_001894	Adds 12000 EXP. {nl}Chance of receiving 50% additional EXP. {nl}Right-click to use. 
+ITEM_20150317_001894	增加 12000 EXP. {nl}概率获得50%额外的EXP. {nl}右键点击使用. 
 ITEM_20150317_001895	LV7 EXP Card  
-ITEM_20150317_001896	Adds 24000 EXP. {nl}Chance of receiving 50% additional EXP. {nl}Right-click to use. 
+ITEM_20150317_001896	增加 24000 EXP. {nl}概率获得50%额外的EXP. {nl}右键点击使用. 
 ITEM_20150317_001897	HP Increase 药剂 
-ITEM_20150317_001898	Permanently increases max HP by 30. Right-click to use. 
+ITEM_20150317_001898	Permanently increases max HP by 30. 右键点击使用. 
 ITEM_20150317_001899	SP Increase 药剂 
-ITEM_20150317_001900	Permanently increases max SP by 20. Right-click to use. 
+ITEM_20150317_001900	Permanently increases max SP by 20. 右键点击使用. 
 ITEM_20150317_001901	Stamina Increase 药剂 
-ITEM_20150317_001902	Permanently increases max Stamina by 5. Right-click to use. 
+ITEM_20150317_001902	Permanently increases max Stamina by 5. 右键点击使用. 
 ITEM_20150317_001903	Weight Increase 药剂 
-ITEM_20150317_001904	Permanently increases max Weight by 100. Right-click to use. 
+ITEM_20150317_001904	Permanently increases max Weight by 100. 右键点击使用. 
 ITEM_20150317_001905	Basic Small HP 药剂  
 ITEM_20150317_001906	Basic HP 药剂 Supply  
 ITEM_20150317_001907	Basic Large HP 药剂  
 ITEM_20150317_001908	Basic Small SP 药剂  
 ITEM_20150317_001909	Basic SP 药剂  
 ITEM_20150317_001910	Basic Large SP 药剂  
-ITEM_20150317_001911	Basic Stamina Pill 
+ITEM_20150317_001911	Basic Stamina 药丸 
 ITEM_20150317_001912	Basic STA 药剂 (Medium) 
 ITEM_20150317_001913	Basic STA 药剂 (Large) 
 ITEM_20150317_001914	Basic Small Recovery 药剂  
@@ -1920,38 +1920,38 @@ ITEM_20150317_001919	永久提升Strength 1点. 右键点击使用.
 ITEM_20150317_001920	DEX 提升药剂 
 ITEM_20150317_001921	永久提升Dexterity 1点. 右键点击使用. 
 ITEM_20150317_001922	HP 提升药剂 
-ITEM_20150317_001923	Permanently increases Health by 1. Right-click to use. 
+ITEM_20150317_001923	Permanently increases Health by 1. 右键点击使用. 
 ITEM_20150317_001924	INT 提升药剂 
-ITEM_20150317_001925	Permanently increases Intelligence by 1. Right-click to use. 
+ITEM_20150317_001925	Permanently increases Intelligence by 1. 右键点击使用. 
 ITEM_20150317_001926	SPR 提升药剂 
-ITEM_20150317_001927	Permanently increases Spirit by 1. Right-click to use. 
+ITEM_20150317_001927	Permanently increases Spirit by 1. 右键点击使用. 
 ITEM_20150317_001928	Ability 提升药剂 
-ITEM_20150317_001929	Gives 1 Ability Point. Right-click to use. 
-ITEM_20150317_001930	Permanently increases the max Weight by 50. Right-click to use. 
-ITEM_20150317_001931	Cooldown Time 药剂 (CBT Test Purposes) 
-ITEM_20150317_001932	Reduce the cooldown duration of all skills by 50% for 10 minutes. Right-click to use. Cooldown 10 minutes. 
+ITEM_20150317_001929	Gives 1 Ability Point. 右键点击使用. 
+ITEM_20150317_001930	Permanently increases the max Weight by 50. 右键点击使用. 
+ITEM_20150317_001931	冷却 Time 药剂 (CBT Test Purposes) 
+ITEM_20150317_001932	Reduce the 冷却 duration of all skills by 50% for 10 minutes. 右键点击使用. 冷却 10 minutes. 
 ITEM_20150317_001933	Ability Reset Scroll (CBT Test Purposes) 
 ITEM_20150317_001934	Reset the ability points of your character. (CBT Tester Only) 
 ITEM_20150317_001935	LV8 EXP Card  
-ITEM_20150317_001936	Adds 36000 EXP. Chance of receiving 50% additional EXP. Right-click to use. 
+ITEM_20150317_001936	增加 36000 EXP. 概率获得50%额外的EXP. 右键点击使用. 
 ITEM_20150317_001937	LV9 EXP Card  
-ITEM_20150317_001938	Adds 60000 EXP. Chance of receiving 50% additional EXP. Right-click to use. 
-ITEM_20150317_001939	Attack Booster +3 
-ITEM_20150317_001940	Adds +3 damage to a weapon. Can be added and used from the quickslot. 
-ITEM_20150317_001941	Attack Booster +5 
-ITEM_20150317_001942	Adds +5 damage to a weapon. Can be added and used from the quickslot. 
-ITEM_20150317_001943	Attack Booster +14 
-ITEM_20150317_001944	Adds +14 damage to a weapon. Can be added and used from the quickslot. 
+ITEM_20150317_001938	增加 60000 EXP. 概率获得50%额外的EXP. 右键点击使用. 
+ITEM_20150317_001939	攻击力提升 +3 
+ITEM_20150317_001940	提升 +3 damage to a weapon. Can be added and used from the quickslot. 
+ITEM_20150317_001941	攻击力提升 +5 
+ITEM_20150317_001942	提升 +5 damage to a weapon. Can be added and used from the quickslot. 
+ITEM_20150317_001943	攻击力提升 +14 
+ITEM_20150317_001944	提升 +14 damage to a weapon. Can be added and used from the quickslot. 
 ITEM_20150317_001945	Defense Booster +4 
 ITEM_20150317_001946	Reduces damage taken by 4. Can be added and used from the quickslot. 
 ITEM_20150317_001947	Defense Booster +8 
 ITEM_20150317_001948	Reduces damage taken by 8. Can be added and used from the quickslot. 
 ITEM_20150317_001949	Condensed HP 药剂 
 ITEM_20150317_001950	Condensed HP 药剂 
-ITEM_20150317_001951	Potent Stamina Pill 
-ITEM_20150317_001952	Cooldown Time 药剂 
+ITEM_20150317_001951	Potent Stamina 药丸 
+ITEM_20150317_001952	冷却 Time 药剂 
 ITEM_20150317_001953	Monster Specimen Set 
-ITEM_20150317_001954	An old relic found in a well. Right-click to use. 
+ITEM_20150317_001954	An old relic found in a well. 右键点击使用. 
 ITEM_20150317_001955	Ore Collection 
 ITEM_20150317_001956	A collection where you can register your items. You can register an item by right-clicking it. 
 ITEM_20150317_001957	Flower Collection 
@@ -1967,7 +1967,7 @@ ITEM_20150317_001966	Lv2 Card Collection
 ITEM_20150317_001967	Lv3 Card Collection 
 ITEM_20150317_001968	Lv4 Card Collection 
 ITEM_20150317_001969	Practice Anvil 
-ITEM_20150317_001970	You can improve the ability of an item by placing and hammering it on this anvil. {nl}Can be purchased from Tool Merchant.{nl}Right-click to use. 
+ITEM_20150317_001970	You can improve the ability of an item by placing and hammering it on this anvil. {nl}Can be purchased from Tool Merchant.{nl}右键点击使用. 
 ITEM_20150317_001971	Gaigalas Card 
 ITEM_20150317_001972	Card 
 ITEM_20150317_001973	A card containing the power of a strong monster. 
@@ -2702,7 +2702,7 @@ ITEM_20150317_002701	Obtained from Bearkaras at Underground Mausoleum 4th Distri
 ITEM_20150317_002702	Rexipher's Innocent Evil 
 ITEM_20150317_002703	Obtained from Rexipher at the Underground Mausoleum's 5th District. 
 ITEM_20150317_002704	Aging Relic 
-ITEM_20150317_002705	An old relic found in a well. Right-click to use. 
+ITEM_20150317_002705	An old relic found in a well. 右键点击使用. 
 ITEM_20150317_002706	Charcoal Stone 
 ITEM_20150317_002707	Ore 
 ITEM_20150317_002708	Unicorn Bone 
@@ -2724,7 +2724,7 @@ ITEM_20150317_002723	Bone Amulet
 ITEM_20150317_002724	Crave Amulet 
 ITEM_20150317_002725	Emoticon: Kepa (Joy) 
 ITEM_20150317_002726	Add this emoticon to the list. 
-ITEM_20150317_002727	You can add chat emoticons to quickslots. Right-click to use. 
+ITEM_20150317_002727	You can add chat emoticons to quickslots. 右键点击使用. 
 ITEM_20150317_002728	Emoticon: Kepa (Sadness) 
 ITEM_20150317_002729	Copper Ore 
 ITEM_20150317_002730	Iron Ore 
@@ -2804,9 +2804,9 @@ ITEM_20150317_002803	Contains instructions on how to craft an item. Access the R
 ITEM_20150317_002804	Skill Scroll 
 ITEM_20150317_002805	It teleports you to another Goddess Statue. Your current location will be saved. 
 ITEM_20150317_002806	Orb of Nostalgia 
-ITEM_20150317_002807	A jewel that instantly teleports you to a saved location. {nl}Cooldown: 15 minutes 
+ITEM_20150317_002807	A jewel that instantly teleports you to a saved location. {nl}冷却: 15 minutes 
 ITEM_20150317_002808	Klaipeda Warpstone 
-ITEM_20150317_002809	A stone that will transport you to Klaipeda. Right-click to use. Cooldown : 20 minutes 
+ITEM_20150317_002809	A stone that will transport you to Klaipeda. 右键点击使用. 冷却 : 20 minutes 
 ITEM_20150317_002810	Crystal Mine Unsealing Scroll 1 
 ITEM_20150317_002811	Quest Item 
 ITEM_20150317_002812	Crystal Mine Unsealing Scroll 2 
@@ -2865,10 +2865,10 @@ ITEM_20150317_002864	Pipoti's Memorial Stone
 ITEM_20150317_002865	A memorial for the people who died in this area is engraved here.  
 ITEM_20150317_002866	Cube of Searching 
 ITEM_20150317_002867	This device searches for evil spirits by absorbing energy from soldiers. 
-ITEM_20150317_002868	Old Pillar Sculpture 
-ITEM_20150317_002869	A small piece of rock that broke off from a stone pillar. Its purpose is not certain, but looks expensive. 
-ITEM_20150317_002870	Powder collected from a stone pillar's surface 
-ITEM_20150317_002871	Refined powder collected from a stone pillar's surface. Its use is unclear. 
+ITEM_20150317_002868	Old 药丸ar Sculpture 
+ITEM_20150317_002869	A small piece of rock that broke off from a stone 药丸ar. Its purpose is not certain, but looks expensive. 
+ITEM_20150317_002870	Powder collected from a stone 药丸ar's surface 
+ITEM_20150317_002871	Refined powder collected from a stone 药丸ar's surface. Its use is unclear. 
 ITEM_20150317_002872	Small Stone Piece 
 ITEM_20150317_002873	A small piece of a stone that was found in the monster's stomach. Seems to be part of a victim's relics. 
 ITEM_20150317_002874	Scroll of Spatial Distortion 
@@ -3013,7 +3013,7 @@ ITEM_20150317_003012	A special oil to burn the Owl statue which has unfortunatel
 ITEM_20150317_003013	Wheat Box 
 ITEM_20150317_003014	A wheat box containing a small number of grains. The box has been ripped apart. 
 ITEM_20150317_003015	Dumbleball Pouch 
-ITEM_20150317_003016	A pouch full of strange pills. These  fills Vubbes with courage but cause diarrhea in humans. 
+ITEM_20150317_003016	A pouch full of strange 药丸. These  fills Vubbes with courage but cause diarrhea in humans. 
 ITEM_20150317_003017	Star Tower Lens 
 ITEM_20150317_003018	A telescope lens used at the Star Tower. 
 ITEM_20150317_003019	Bat Poison Sample 
@@ -3188,7 +3188,7 @@ ITEM_20150317_003187	Woodfung Poison
 ITEM_20150317_003188	The highly toxic poison of a Woodfung. It releases this poison into the air when frightened. 
 ITEM_20150317_003189	Bucket 
 ITEM_20150317_003190	Valley Bomb (Disposable) 
-ITEM_20150317_003191	Increases Attack Speed and Combat Movement Speed. {nl} Also speeds up Cast Time and lowers Cooldowns {nl} {#ff0000} Caution: Taking this more than 3 times a day, may cause insomnia{nl}, headache, or indigestion symptoms. {/} 
+ITEM_20150317_003191	Increases Attack Speed and Combat Movement Speed. {nl} Also speeds up Cast Time and lowers 冷却s {nl} {#ff0000} Caution: Taking this more than 3 times a day, may cause insomnia{nl}, headache, or indigestion symptoms. {/} 
 ITEM_20150317_003192	Canyon Bomb 
 ITEM_20150317_003193	Monster Head 
 ITEM_20150317_003194	Monster Corpse 
@@ -3226,7 +3226,7 @@ ITEM_20150317_003225	Shining Tree Sap
 ITEM_20150317_003226	The first material Ahylas Jonas requested to undo the seal. 
 ITEM_20150317_003227	Collected Canyon Amalas 
 ITEM_20150317_003228	Unsealed Crystal Gem 
-ITEM_20150317_003229	Crystal Gem needed to release the seal in Broken Pillar Canyon 
+ITEM_20150317_003229	Crystal Gem needed to release the seal in Broken 药丸ar Canyon 
 ITEM_20150317_003230	Lost Research Materials 
 ITEM_20150317_003231	Research materials that the new researcher lost. Some of the papers were crumpled when they were stepped on. 
 ITEM_20150317_003232	A map that marked the location of the Great King's inheritance. 
@@ -4894,138 +4894,138 @@ ITEM_20150428_004893	Abomination Necklace
 ITEM_20150428_004894	Abomination Bracelet 
 ITEM_20150428_004895	Flower Branch 
 ITEM_20150428_004896	Soup Set 
-ITEM_20150428_004897	Increases movement speed by 2 for 180 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_004898	This fruit has a sweet and sour flavor. {nl}Restores HP every 2 seconds. 180 HP is restored over 15 seconds. {nl}Right-click to use. 
-ITEM_20150428_004899	Crystal obtained by processing the piece of crystal. {nl}It will protect you from the poisonous gas of 2 blocks. 
-ITEM_20150428_004900	Crystal obtained by processing the piece of crystal. {nl}Restores HP every 2 seconds. 440 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_004901	Crystal obtained by processing the piece of crystal. {nl}Restores SP every 2 seconds. 280 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_004902	Crystal obtained by processing the piece of crystal. {nl}Increases Movement Speed by 2 for 180 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_004903	Attack Booster + 10 
-ITEM_20150428_004904	Increases weapon damage by 10. {nl}Can be used immediately after you have registered in the slot. 
-ITEM_20150428_004905	Attack Booster + 15 
-ITEM_20150428_004906	Increases weapon damage by 15. {nl}Can be used immediately after you have registered in the slot. 
-ITEM_20150428_004907	Attack Booster + 20 
-ITEM_20150428_004908	Increases weapon damage by 20. {nl}Can be used immediately after you have registered in the slot. 
-ITEM_20150428_004909	Concentrated HP 药剂 LV1 
-ITEM_20150428_004910	Restores HP every 2 seconds. {nl}800 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004911	Concentrated SP 药剂 LV1 
-ITEM_20150428_004912	Restores SP every 2 seconds. {nl}640 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_004913	Concentrated Stamina Pills LV1 
-ITEM_20150428_004914	Restores 50 stamina. Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_004915	Concentrated Movement Speed Increase 药剂 LV1 
-ITEM_20150428_004916	Increases Movement Speed by 5 for 180 seconds. Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_004917	Concentrated HP 药剂 LV2 
-ITEM_20150428_004918	Restores HP every 2 seconds. {nl}800 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004919	Concentrated HP 药剂 LV3 
-ITEM_20150428_004920	Restores HP every 2 seconds. {nl}960 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004921	Concentrated HP 药剂 LV4 
-ITEM_20150428_004922	Restores HP every 2 seconds. {nl}1040 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004923	Concentrated HP 药剂 LV5 
-ITEM_20150428_004924	Restores HP every 2 seconds. {nl}1120 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004925	Concentrated HP 药剂 LV6 
-ITEM_20150428_004926	Restores HP every 2 seconds. {nl}1200 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004927	Concentrated HP 药剂 LV7 
-ITEM_20150428_004928	Restores HP every 2 seconds. {nl}1280 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004929	Concentrated HP 药剂 LV8 
-ITEM_20150428_004930	Restores HP every 2 seconds. {nl}1360 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004931	Concentrated HP 药剂 LV9 
-ITEM_20150428_004932	Restores HP every 2 seconds. {nl}1440 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004933	Concentrated HP 药剂 LV10 
-ITEM_20150428_004934	Restores HP every 2 seconds. {nl}1520 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004935	Concentrated HP 药剂 LV11 
-ITEM_20150428_004936	Restores HP every 2 seconds. {nl}1600 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004937	Concentrated HP 药剂 LV12 
-ITEM_20150428_004938	Restores HP every 2 seconds. {nl}1680 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004939	Concentrated HP 药剂 LV13 
-ITEM_20150428_004940	Restores HP every 2 seconds. {nl}1760 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004941	Concentrated HP 药剂 LV14 
-ITEM_20150428_004942	Restores HP every 2 seconds. {nl}1840 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004943	Concentrated HP 药剂 LV15 
-ITEM_20150428_004944	Restores HP every 2 seconds. {nl}900 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004945	Concentrated SP 药剂 LV2 
-ITEM_20150428_004946	Restores SP every 2 seconds. {nl}704 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004947	Concentrated SP 药剂 LV3 
-ITEM_20150428_004948	Restores SP every 2 seconds. {nl}768 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004949	Concentrated SP 药剂 LV4 
-ITEM_20150428_004950	Restores SP every 2 seconds. {nl}832 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004951	Concentrated SP 药剂 LV5 
-ITEM_20150428_004952	Restores SP every 2 seconds. {nl}896 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004953	Concentrated SP 药剂 LV6 
-ITEM_20150428_004954	Restores SP every 2 seconds. {nl}960 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004955	Concentrated SP 药剂 LV7 
-ITEM_20150428_004956	Restores SP every 2 seconds. {nl}1024 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004957	Concentrated SP 药剂 LV8 
-ITEM_20150428_004958	Restores SP every 2 seconds. {nl}1088 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004959	Concentrated SP 药剂 LV9 
-ITEM_20150428_004960	Restores SP every 2 seconds. {nl}1152 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004961	Concentrated SP 药剂 LV10 
-ITEM_20150428_004962	Restores SP every 2 seconds. {nl}1216 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004963	Concentrated SP 药剂 LV11 
-ITEM_20150428_004964	Restores SP every 2 seconds. {nl}1280 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004965	Concentrated SP 药剂 LV12 
-ITEM_20150428_004966	Restores SP every 2 seconds. {nl}1344 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004967	Concentrated SP 药剂 LV13 
-ITEM_20150428_004968	Restores SP every 2 seconds. {nl}1408 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004969	Concentrated SP 药剂 LV14 
-ITEM_20150428_004970	Restores SP every 2 seconds. {nl}1472 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004971	Concentrated SP 药剂 LV15 
-ITEM_20150428_004972	Restores SP every 2 seconds. {nl}1536 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004973	Concentrated Stamina Pills LV2 
-ITEM_20150428_004974	Restores 52 stamina. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_004975	Concentrated Stamina Pills LV3 
-ITEM_20150428_004976	Restores 54 stamina. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_004977	Concentrated Stamina Pills LV4 
-ITEM_20150428_004978	Restores 56 stamina. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_004979	Concentrated Stamina Pills LV5 
-ITEM_20150428_004980	Restores 58 stamina. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_004981	Concentrated Stamina Pills LV6 
-ITEM_20150428_004982	Restores 60 stamina. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_004983	Concentrated Stamina Pills LV7 
-ITEM_20150428_004984	Restores 62 stamina. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_004985	Concentrated Stamina Pills LV8 
-ITEM_20150428_004986	Restores 64 stamina. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_004987	Concentrated Stamina Pills LV9 
-ITEM_20150428_004988	Restores 66 stamina. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_004989	Concentrated Stamina Pills LV10 
-ITEM_20150428_004990	Restores 68 stamina. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_004991	Concentrated Stamina Pills LV11 
-ITEM_20150428_004992	Restores 70 stamina. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_004993	Concentrated Stamina Pills LV12 
-ITEM_20150428_004994	Restores 72 stamina. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_004995	Concentrated Stamina Pills LV13 
-ITEM_20150428_004996	Restores 74 stamina. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_004997	Concentrated Stamina Pills LV14 
-ITEM_20150428_004998	Restores 76 stamina. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_004999	Concentrated Stamina Pills LV15 
-ITEM_20150428_005000	Restores 78 stamina. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_005001	Concentrated Movement Speed Increase 药剂 LV2 
-ITEM_20150428_005002	Increases Movement Speed by 4 for 185 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_005003	Concentrated Movement Speed Increase 药剂 LV3 
-ITEM_20150428_005004	Increases Movement Speed by 4 for 190 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_005005	Concentrated Movement Speed Increase 药剂 LV4 
-ITEM_20150428_005006	Increases Movement Speed by 4 for 195 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_005007	Concentrated Movement Speed Increase 药剂 LV5 
-ITEM_20150428_005008	Increases Movement Speed by 4 for 200 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_005009	Concentrated Movement Speed Increase 药剂 LV6 
-ITEM_20150428_005010	Increases Movement Speed by 4 for 205 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_005011	Concentrated Movement Speed Increase 药剂 LV7 
-ITEM_20150428_005012	Increases Movement Speed by 4 for 210 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_005013	Concentrated Movement Speed Increase 药剂 LV8 
-ITEM_20150428_005014	Increases Movement Speed by 4 for 215 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_005015	Concentrated Movement Speed Increase 药剂 LV9 
-ITEM_20150428_005016	Increases Movement Speed by 4 for 220 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_005017	Concentrated Movement Speed Increase 药剂 LV10 
-ITEM_20150428_005018	Increases Movement Speed by 4 for 225 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_005019	Concentrated Movement Speed Increase 药剂 LV11 
-ITEM_20150428_005020	Increases Movement Speed by 4 for 230 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_005021	Concentrated Movement Speed Increase 药剂 LV12 
-ITEM_20150428_005022	Increases Movement Speed by 4 for 235 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_005023	Concentrated Movement Speed Increase 药剂 LV13 
-ITEM_20150428_005024	Increases Movement Speed by 4 for 240 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_005025	Concentrated Movement Speed Increase 药剂 LV14 
-ITEM_20150428_005026	Increases Movement Speed by 4 for 245 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_005027	Concentrated Movement Speed Increase 药剂 LV15 
-ITEM_20150428_005028	Increases Movement Speed by 4 for 250 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
+ITEM_20150428_004897	提升移动速度 2 for 180 seconds. {nl}右键点击使用. 冷却 30 seconds. 
+ITEM_20150428_004898	这种水果酸甜爽口. {nl}每 2 秒恢复一次 HP. 180 HP 在 15 秒内恢复. {nl}右键点击使用. 
+ITEM_20150428_004899	加工水晶碎片而来的水晶. {nl}It will protect you from the poisonous gas of 2 blocks. 
+ITEM_20150428_004900	加工水晶碎片而来的水晶. {nl}每 2 秒恢复一次 HP. 440 HP 在 15 秒内恢复. {nl}右键点击使用. 冷却 30 seconds. 
+ITEM_20150428_004901	加工水晶碎片而来的水晶. {nl}每 2 秒恢复 SP. 280 SP 在 15 秒内恢复. {nl}右键点击使用. 冷却 30 seconds. 
+ITEM_20150428_004902	加工水晶碎片而来的水晶. {nl}提升移动速度 2 for 180 seconds. {nl}右键点击使用. 冷却 30 seconds. 
+ITEM_20150428_004903	攻击力提升 + 10 
+ITEM_20150428_004904	武器伤害提高 10. {nl}插入孔中立刻生效. 
+ITEM_20150428_004905	攻击力提升 + 15 
+ITEM_20150428_004906	武器伤害提高 15. {nl}插入孔中立刻生效. 
+ITEM_20150428_004907	攻击力提升 + 20 
+ITEM_20150428_004908	武器伤害提高 20. {nl}插入孔中立刻生效. 
+ITEM_20150428_004909	浓缩的 HP 药剂 LV1 
+ITEM_20150428_004910	每 2 秒恢复一次 HP. {nl}800 HP 在 15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150428_004911	浓缩的 SP 药剂 LV1 
+ITEM_20150428_004912	每 2 秒恢复 SP. {nl}640 SP 在 15 秒内恢复. {nl}右键点击使用. 冷却 30 秒. 
+ITEM_20150428_004913	浓缩的 体力 药丸 LV1 
+ITEM_20150428_004914	恢复 50 stamina. 右键点击使用. 冷却 30 秒. 
+ITEM_20150428_004915	浓缩的 移动速度提升 药剂 LV1 
+ITEM_20150428_004916	提升移动速度 5 for 180 秒. 右键点击使用. 冷却 30 秒. 
+ITEM_20150428_004917	浓缩的 HP 药剂 LV2 
+ITEM_20150428_004918	每 2 秒恢复一次 HP. {nl}800 HP 在 15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150428_004919	浓缩的 HP 药剂 LV3 
+ITEM_20150428_004920	每 2 秒恢复一次 HP. {nl}960 HP 在 15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150428_004921	浓缩的 HP 药剂 LV4 
+ITEM_20150428_004922	每 2 秒恢复一次 HP. {nl}1040 HP 在 15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150428_004923	浓缩的 HP 药剂 LV5 
+ITEM_20150428_004924	每 2 秒恢复一次 HP. {nl}1120 HP 在 15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150428_004925	浓缩的 HP 药剂 LV6 
+ITEM_20150428_004926	每 2 秒恢复一次 HP. {nl}1200 HP 在 15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150428_004927	浓缩的 HP 药剂 LV7 
+ITEM_20150428_004928	每 2 秒恢复一次 HP. {nl}1280 HP 在 15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150428_004929	浓缩的 HP 药剂 LV8 
+ITEM_20150428_004930	每 2 秒恢复一次 HP. {nl}1360 HP 在 15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150428_004931	浓缩的 HP 药剂 LV9 
+ITEM_20150428_004932	每 2 秒恢复一次 HP. {nl}1440 HP 在 15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150428_004933	浓缩的 HP 药剂 LV10 
+ITEM_20150428_004934	每 2 秒恢复一次 HP. {nl}1520 HP 在 15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150428_004935	浓缩的 HP 药剂 LV11 
+ITEM_20150428_004936	每 2 秒恢复一次 HP. {nl}1600 HP 在 15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150428_004937	浓缩的 HP 药剂 LV12 
+ITEM_20150428_004938	每 2 秒恢复一次 HP. {nl}1680 HP 在 15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150428_004939	浓缩的 HP 药剂 LV13 
+ITEM_20150428_004940	每 2 秒恢复一次 HP. {nl}1760 HP 在 15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150428_004941	浓缩的 HP 药剂 LV14 
+ITEM_20150428_004942	每 2 秒恢复一次 HP. {nl}1840 HP 在 15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150428_004943	浓缩的 HP 药剂 LV15 
+ITEM_20150428_004944	每 2 秒恢复一次 HP. {nl}900 HP 在 15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150428_004945	浓缩的 SP 药剂 LV2 
+ITEM_20150428_004946	每 2 秒恢复 SP. {nl}704 SP 在 15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150428_004947	浓缩的 SP 药剂 LV3 
+ITEM_20150428_004948	每 2 秒恢复 SP. {nl}768 SP 在 15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150428_004949	浓缩的 SP 药剂 LV4 
+ITEM_20150428_004950	每 2 秒恢复 SP. {nl}832 SP 在 15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150428_004951	浓缩的 SP 药剂 LV5 
+ITEM_20150428_004952	每 2 秒恢复 SP. {nl}896 SP 在 15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150428_004953	浓缩的 SP 药剂 LV6 
+ITEM_20150428_004954	每 2 秒恢复 SP. {nl}960 SP 在 15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150428_004955	浓缩的 SP 药剂 LV7 
+ITEM_20150428_004956	每 2 秒恢复 SP. {nl}1024 SP 在 15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150428_004957	浓缩的 SP 药剂 LV8 
+ITEM_20150428_004958	每 2 秒恢复 SP. {nl}1088 SP 在 15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150428_004959	浓缩的 SP 药剂 LV9 
+ITEM_20150428_004960	每 2 秒恢复 SP. {nl}1152 SP 在 15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150428_004961	浓缩的 SP 药剂 LV10 
+ITEM_20150428_004962	每 2 秒恢复 SP. {nl}1216 SP 在 15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150428_004963	浓缩的 SP 药剂 LV11 
+ITEM_20150428_004964	每 2 秒恢复 SP. {nl}1280 SP 在 15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150428_004965	浓缩的 SP 药剂 LV12 
+ITEM_20150428_004966	每 2 秒恢复 SP. {nl}1344 SP 在 15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150428_004967	浓缩的 SP 药剂 LV13 
+ITEM_20150428_004968	每 2 秒恢复 SP. {nl}1408 SP 在 15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150428_004969	浓缩的 SP 药剂 LV14 
+ITEM_20150428_004970	每 2 秒恢复 SP. {nl}1472 SP 在 15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150428_004971	浓缩的 SP 药剂 LV15 
+ITEM_20150428_004972	每 2 秒恢复 SP. {nl}1536 SP 在 15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150428_004973	浓缩的 体力 药丸 LV2 
+ITEM_20150428_004974	恢复 52 体力. {nl}右键点击使用. 冷却 30 秒. 
+ITEM_20150428_004975	浓缩的 体力 药丸 LV3 
+ITEM_20150428_004976	恢复 54 体力. {nl}右键点击使用. 冷却 30 秒. 
+ITEM_20150428_004977	浓缩的 体力 药丸 LV4 
+ITEM_20150428_004978	恢复 56 体力. {nl}右键点击使用. 冷却 30 秒. 
+ITEM_20150428_004979	浓缩的 体力 药丸 LV5 
+ITEM_20150428_004980	恢复 58 体力. {nl}右键点击使用. 冷却 30 秒. 
+ITEM_20150428_004981	浓缩的 体力 药丸 LV6 
+ITEM_20150428_004982	恢复 60 体力. {nl}右键点击使用. 冷却 30 秒. 
+ITEM_20150428_004983	浓缩的 体力 药丸 LV7 
+ITEM_20150428_004984	恢复 62 体力. {nl}右键点击使用. 冷却 30 秒. 
+ITEM_20150428_004985	浓缩的 体力 药丸 LV8 
+ITEM_20150428_004986	恢复 64 体力. {nl}右键点击使用. 冷却 30 秒. 
+ITEM_20150428_004987	浓缩的 体力 药丸 LV9 
+ITEM_20150428_004988	恢复 66 体力. {nl}右键点击使用. 冷却 30 秒. 
+ITEM_20150428_004989	浓缩的 体力 药丸 LV10 
+ITEM_20150428_004990	恢复 68 体力. {nl}右键点击使用. 冷却 30 秒. 
+ITEM_20150428_004991	浓缩的 体力 药丸 LV11 
+ITEM_20150428_004992	恢复 70 体力. {nl}右键点击使用. 冷却 30 秒. 
+ITEM_20150428_004993	浓缩的 体力 药丸 LV12 
+ITEM_20150428_004994	恢复 72 体力. {nl}右键点击使用. 冷却 30 秒. 
+ITEM_20150428_004995	浓缩的 体力 药丸 LV13 
+ITEM_20150428_004996	恢复 74 体力. {nl}右键点击使用. 冷却 30 秒. 
+ITEM_20150428_004997	浓缩的 体力 药丸 LV14 
+ITEM_20150428_004998	恢复 76 体力. {nl}右键点击使用. 冷却 30 秒. 
+ITEM_20150428_004999	浓缩的 体力 药丸 LV15 
+ITEM_20150428_005000	恢复 78 体力. {nl}右键点击使用. 冷却 30 秒. 
+ITEM_20150428_005001	浓缩的 移动速度提升 药剂 LV2 
+ITEM_20150428_005002	提升移动速度 4 for 185 seconds. {nl}右键点击使用. 冷却 30 seconds. 
+ITEM_20150428_005003	浓缩的 移动速度提升 药剂 LV3 
+ITEM_20150428_005004	提升移动速度 4 for 190 seconds. {nl}右键点击使用. 冷却 30 seconds. 
+ITEM_20150428_005005	浓缩的 移动速度提升 药剂 LV4 
+ITEM_20150428_005006	提升移动速度 4 for 195 seconds. {nl}右键点击使用. 冷却 30 seconds. 
+ITEM_20150428_005007	浓缩的 移动速度提升 药剂 LV5 
+ITEM_20150428_005008	提升移动速度 4 for 200 seconds. {nl}右键点击使用. 冷却 30 seconds. 
+ITEM_20150428_005009	浓缩的 移动速度提升 药剂 LV6 
+ITEM_20150428_005010	提升移动速度 4 for 205 seconds. {nl}右键点击使用. 冷却 30 seconds. 
+ITEM_20150428_005011	浓缩的 移动速度提升 药剂 LV7 
+ITEM_20150428_005012	提升移动速度 4 for 210 seconds. {nl}右键点击使用. 冷却 30 seconds. 
+ITEM_20150428_005013	浓缩的 移动速度提升 药剂 LV8 
+ITEM_20150428_005014	提升移动速度 4 for 215 seconds. {nl}右键点击使用. 冷却 30 seconds. 
+ITEM_20150428_005015	浓缩的 移动速度提升 药剂 LV9 
+ITEM_20150428_005016	提升移动速度 4 for 220 seconds. {nl}右键点击使用. 冷却 30 seconds. 
+ITEM_20150428_005017	浓缩的 移动速度提升 药剂 LV10 
+ITEM_20150428_005018	提升移动速度 4 for 225 seconds. {nl}右键点击使用. 冷却 30 seconds. 
+ITEM_20150428_005019	浓缩的 移动速度提升 药剂 LV11 
+ITEM_20150428_005020	提升移动速度 4 for 230 seconds. {nl}右键点击使用. 冷却 30 seconds. 
+ITEM_20150428_005021	浓缩的 移动速度提升 药剂 LV12 
+ITEM_20150428_005022	提升移动速度 4 for 235 seconds. {nl}右键点击使用. 冷却 30 seconds. 
+ITEM_20150428_005023	浓缩的 移动速度提升 药剂 LV13 
+ITEM_20150428_005024	提升移动速度 4 for 240 seconds. {nl}右键点击使用. 冷却 30 seconds. 
+ITEM_20150428_005025	浓缩的 移动速度提升 药剂 LV14 
+ITEM_20150428_005026	提升移动速度 4 for 245 seconds. {nl}右键点击使用. 冷却 30 seconds. 
+ITEM_20150428_005027	浓缩的 移动速度提升 药剂 LV15 
+ITEM_20150428_005028	提升移动速度 4 for 250 seconds. {nl}右键点击使用. 冷却 30 seconds. 
 ITEM_20150428_005029	Master Genie Card 
 ITEM_20150428_005030	Merregina Card 
 ITEM_20150428_005031	Templeshooter Card 
@@ -5139,135 +5139,135 @@ ITEM_20150714_005138	냉기에는 익숙하지만 극한의 냉기를 다룰 경
 ITEM_20150714_005139	Enchanter Costume 
 ITEM_20150714_005140	Pickaxe Set 
 ITEM_20150714_005141	Card Set 
-ITEM_20150714_005142	Michalis Armband 
-ITEM_20150714_005143	Restores HP every 2 seconds. {nl}384 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150714_005144	Restores HP every 2 seconds. {nl}640 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150714_005145	Restores HP every 2 seconds. {nl}1280 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150714_005146	The fruit has a soft pulp. There are small hairs on the skin. 
-ITEM_20150714_005147	The fruit smells nasty. But it tastes like a piece of heaven. 
-ITEM_20150714_005148	Restores 80~100 HP. The meat is readily available and safe to eat raw. {nl}Right-click to use. 
-ITEM_20150714_005149	Add 166 EXP and 127 Class EXP. {nl}Chance of receiving additional EXP. {nl}Right-click to use. 
-ITEM_20150714_005150	Add 895 EXP and 689 Class EXP. {nl}Chance of receiving additional EXP. {nl}Right-click to use. 
-ITEM_20150714_005151	Add 2375 EXP and 1828 Class EXP. {nl}Chance of receiving additional EXP. {nl}Right-click to use. 
-ITEM_20150714_005152	Add 3155 EXP and 2429 Class EXP. {nl}Chance of receiving additional EXP. {nl}Right-click to use. 
-ITEM_20150714_005153	Add 7620 EXP and 5867 Class EXP. {nl}Chance of receiving additional EXP. {nl}Right-click to use. 
-ITEM_20150714_005154	Add 8190 EXP and 6306 Class EXP. {nl}Chance of receiving additional EXP. {nl}Right-click to use. 
-ITEM_20150714_005155	Add 20104 EXP and 15480 Class EXP. {nl}Chance of receiving additional EXP. {nl}Right-click to use. 
-ITEM_20150714_005156	Add 47383 EXP and 36484 Class EXP. {nl}Chance of receiving additional EXP. {nl}Right-click to use. 
-ITEM_20150714_005157	Add 79314 EXP and 61071 Class EXP. {nl}Chance of receiving additional EXP. {nl}Right-click to use. 
+ITEM_20150714_005142	Michalis 护腕 
+ITEM_20150714_005143	每 2 秒恢复一次 HP. {nl}384 HP 在 15 秒内恢复. {nl}右键点击使用. 冷却 30 秒. 
+ITEM_20150714_005144	每 2 秒恢复一次 HP. {nl}640 HP 在 15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150714_005145	每 2 秒恢复一次 HP. {nl}1280 HP 在 15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150714_005146	这种水果果肉松软. 果皮上有小绒毛. 
+ITEM_20150714_005147	这种水果闻起来很怪. 但吃起来超级棒. 
+ITEM_20150714_005148	恢复 80~100 HP. 果肉新鲜可以生吃. {nl}右键点击使用. 
+ITEM_20150714_005149	增加 166 EXP and 127 Class EXP. {nl}有几率获得额外的 EXP. {nl}右键点击使用. 
+ITEM_20150714_005150	增加 895 EXP and 689 Class EXP. {nl}有几率获得额外的 EXP. {nl}右键点击使用. 
+ITEM_20150714_005151	增加 2375 EXP and 1828 Class EXP. {nl}有几率获得额外的 EXP. {nl}右键点击使用. 
+ITEM_20150714_005152	增加 3155 EXP and 2429 Class EXP. {nl}有几率获得额外的 EXP. {nl}右键点击使用. 
+ITEM_20150714_005153	增加 7620 EXP and 5867 Class EXP. {nl}有几率获得额外的 EXP. {nl}右键点击使用. 
+ITEM_20150714_005154	增加 8190 EXP and 6306 Class EXP. {nl}有几率获得额外的 EXP. {nl}右键点击使用. 
+ITEM_20150714_005155	增加 20104 EXP and 15480 Class EXP. {nl}有几率获得额外的 EXP. {nl}右键点击使用. 
+ITEM_20150714_005156	增加 47383 EXP and 36484 Class EXP. {nl}有几率获得额外的 EXP. {nl}右键点击使用. 
+ITEM_20150714_005157	增加 79314 EXP and 61071 Class EXP. {nl}有几率获得额外的 EXP. {nl}右键点击使用. 
 ITEM_20150714_005158	LV10 EXP Card 
-ITEM_20150714_005159	Add 69778 EXP and 53729 Class EXP. {nl}Chance of receiving additional EXP. {nl}Right-click to use. 
+ITEM_20150714_005159	增加 69778 EXP and 53729 Class EXP. {nl}有几率获得额外的 EXP. {nl}右键点击使用. 
 ITEM_20150714_005160	LV11 EXP Card 
-ITEM_20150714_005161	Add 180341 EXP and 138862 Class EXP. {nl}Chance of receiving additional EXP. {nl}Right-click to use. 
+ITEM_20150714_005161	增加 180341 EXP and 138862 Class EXP. {nl}有几率获得额外的 EXP. {nl}右键点击使用. 
 ITEM_20150714_005162	LV12 EXP Card 
-ITEM_20150714_005163	Add 202718 EXP and 156092 Class EXP. {nl}Chance of receiving additional EXP. {nl}Right-click to use. 
+ITEM_20150714_005163	增加 202718 EXP and 156092 Class EXP. {nl}有几率获得额外的 EXP. {nl}右键点击使用. 
 ITEM_20150714_005164	LV13 EXP Card 
-ITEM_20150714_005165	Add 448276 EXP and 345172 Class EXP. {nl}Chance of receiving additional EXP. {nl}Right-click to use. 
-ITEM_20150714_005166	Repair 药剂 
-ITEM_20150714_005167	It helps to restore the equipment durability. Right-click to use. 
-ITEM_20150714_005168	Restores HP every 2 seconds. {nl}1920 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150714_005169	Restores HP every 2 seconds. {nl}2080 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150714_005170	Restores HP every 2 seconds. {nl}2240 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150714_005171	Restores HP every 2 seconds. {nl}2400 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150714_005172	Restores HP every 2 seconds. {nl}2560 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150714_005173	Restores HP every 2 seconds. {nl}2720 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150714_005174	Restores HP every 2 seconds. {nl}2880 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150714_005175	Restores HP every 2 seconds. {nl}3040 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150714_005176	Restores HP every 2 seconds. {nl}3200 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150714_005177	Restores HP every 2 seconds. {nl}3360 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150714_005178	Restores HP every 2 seconds. {nl}3520 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150714_005179	Restores HP every 2 seconds. {nl}3680 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150714_005180	Restores HP every 2 seconds. {nl}3840 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150714_005181	Block Increase 药剂 LV1 
-ITEM_20150714_005182	Increases Block by 50 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005183	Block Increase 药剂 LV2 
-ITEM_20150714_005184	Increases Block by 65 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005185	Block Increase 药剂 LV3 
-ITEM_20150714_005186	Increases Block by 80 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005187	Block Increase 药剂 LV4 
-ITEM_20150714_005188	Increases Block by 95 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005189	Block Increase 药剂 LV5 
-ITEM_20150714_005190	Increases Block by 110 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005191	Block Increase 药剂 LV6 
-ITEM_20150714_005192	Increases Block by 125 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005193	Block Increase 药剂 LV7 
-ITEM_20150714_005194	Increases Block by 140 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005195	Block Increase 药剂 LV8 
-ITEM_20150714_005196	Increases Block by 155 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005197	Block Increase 药剂 LV9 
-ITEM_20150714_005198	Increases Block by 170 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005199	Block Increase 药剂 LV10 
-ITEM_20150714_005200	Increases Block by 185 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005201	Block Increase 药剂 LV11 
-ITEM_20150714_005202	Increases Block by 200 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005203	Block Increase 药剂 LV12 
-ITEM_20150714_005204	Increases Block by 215 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005205	Block Increase 药剂 LV13 
-ITEM_20150714_005206	Increases Block by 230 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005207	Block Increase 药剂 LV14 
-ITEM_20150714_005208	Increases Block by 245 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005209	Block Increase 药剂 LV15 
-ITEM_20150714_005210	Increases Block by 260 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005211	Critical Damage Increase 药剂 LV1 
-ITEM_20150714_005212	Increases Critical Damage by 32 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005213	Critical Damage Increase 药剂 LV2 
-ITEM_20150714_005214	Increases Critical Damage by 44 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005215	Critical Damage Increase 药剂 LV3 
-ITEM_20150714_005216	Increases Critical Damage by 56 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005217	Critical Damage Increase 药剂 LV4 
-ITEM_20150714_005218	Increases Critical Damage by 68 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005219	Critical Damage Increase 药剂 LV5 
-ITEM_20150714_005220	Increases Critical Damage by 80 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005221	Critical Damage Increase 药剂 LV6 
-ITEM_20150714_005222	Increases Critical Damage by 92 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005223	Critical Damage Increase 药剂 LV7 
-ITEM_20150714_005224	Increases Critical Damage by 104 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005225	Critical Damage Increase 药剂 LV8 
-ITEM_20150714_005226	Increases Critical Damage by 116 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005227	Critical Damage Increase 药剂 LV9 
-ITEM_20150714_005228	Increases Critical Damage by 128 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005229	Critical Damage Increase 药剂 LV10 
-ITEM_20150714_005230	Increases Critical Damage by 140 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005231	Critical Damage Increase 药剂 LV11 
-ITEM_20150714_005232	Increases Critical Damage by 152 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds 
-ITEM_20150714_005233	Critical Damage Increase 药剂 LV12 
-ITEM_20150714_005234	Increases Critical Damage by 164 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005235	Critical Damage Increase 药剂 LV13 
-ITEM_20150714_005236	Increases Critical Damage by 176 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005237	Critical Damage Increase 药剂 LV14 
-ITEM_20150714_005238	Increases Critical Damage by 188 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005239	Critical Damage Increase 药剂 LV15 
-ITEM_20150714_005240	Increases Critical Damage by 200 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005241	Magic Boost Increase 药剂 LV1 
-ITEM_20150714_005242	Increases Magic Boost by 10 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005243	Magic Boost Increase 药剂 LV2 
-ITEM_20150714_005244	Increases Magic Boost by 14 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005245	Magic Boost Increase 药剂 LV3 
-ITEM_20150714_005246	Increases Magic Boost by 18 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005247	Magic Boost Increase 药剂 LV4 
-ITEM_20150714_005248	Increases Magic Boost by 22 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005249	Magic Boost Increase 药剂 LV5 
-ITEM_20150714_005250	Increases Magic Boost by 26 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005251	Magic Boost Increase 药剂 LV6 
-ITEM_20150714_005252	Increases Magic Boost by 30 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005253	Magic Boost Increase 药剂 LV7 
-ITEM_20150714_005254	Increases Magic Boost by 34 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005255	Magic Boost Increase 药剂 LV8 
-ITEM_20150714_005256	Increases Magic Boost by 38 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005257	Magic Boost Increase 药剂 LV9 
-ITEM_20150714_005258	Increases Magic Boost by 42 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005259	Magic Boost Increase 药剂 LV10 
-ITEM_20150714_005260	Increases Magic Boost by 46 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005261	Magic Boost Increase 药剂 LV11 
-ITEM_20150714_005262	Increases Magic Boost by 50 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005263	Magic Boost Increase 药剂 LV12 
-ITEM_20150714_005264	Increases Magic Boost by 54 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005265	Magic Boost Increase 药剂 LV13 
-ITEM_20150714_005266	Increases Magic Boost by 58 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005267	Magic Boost Increase 药剂 LV14 
-ITEM_20150714_005268	Increases Magic Boost by 62 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005269	Magic Boost Increase 药剂 LV15 
-ITEM_20150714_005270	Increases Magic Boost by 66 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
+ITEM_20150714_005165	增加 448276 EXP and 345172 Class EXP. {nl}有几率获得额外的 EXP. {nl}右键点击使用. 
+ITEM_20150714_005166	修理 药剂 
+ITEM_20150714_005167	修复装备的耐久度. 右键点击使用. 
+ITEM_20150714_005168	每 2 秒回复HP. {nl}1920 HP 在15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150714_005169	每 2 秒回复HP. {nl}2080 HP 在15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150714_005170	每 2 秒回复HP. {nl}2240 HP 在15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150714_005171	每 2 秒回复HP. {nl}2400 HP 在15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150714_005172	每 2 秒回复HP. {nl}2560 HP 在15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150714_005173	每 2 秒回复HP. {nl}2720 HP 在15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150714_005174	每 2 秒回复HP. {nl}2880 HP 在15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150714_005175	每 2 秒回复HP. {nl}3040 HP 在15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150714_005176	每 2 秒回复HP. {nl}3200 HP 在15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150714_005177	每 2 秒回复HP. {nl}3360 HP 在15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150714_005178	每 2 秒回复HP. {nl}3520 HP 在15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150714_005179	每 2 秒回复HP. {nl}3680 HP 在15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150714_005180	每 2 秒回复HP. {nl}3840 HP 在15 秒内恢复. {nl}右键点击使用. 冷却 45 秒. 
+ITEM_20150714_005181	格挡提升 药剂 LV1 
+ITEM_20150714_005182	提高格挡 50 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005183	格挡提升 药剂 LV2 
+ITEM_20150714_005184	提高格挡 65 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005185	格挡提升 药剂 LV3 
+ITEM_20150714_005186	提高格挡 80 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005187	格挡提升 药剂 LV4 
+ITEM_20150714_005188	提高格挡 95 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005189	格挡提升 药剂 LV5 
+ITEM_20150714_005190	提高格挡 110 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005191	格挡提升 药剂 LV6 
+ITEM_20150714_005192	提高格挡 125 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005193	格挡提升 药剂 LV7 
+ITEM_20150714_005194	提高格挡 140 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005195	格挡提升 药剂 LV8 
+ITEM_20150714_005196	提高格挡 155 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005197	格挡提升 药剂 LV9 
+ITEM_20150714_005198	提高格挡 170 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005199	格挡提升 药剂 LV10 
+ITEM_20150714_005200	提高格挡 185 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005201	格挡提升 药剂 LV11 
+ITEM_20150714_005202	提高格挡 200 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005203	格挡提升 药剂 LV12 
+ITEM_20150714_005204	提高格挡 215 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005205	格挡提升 药剂 LV13 
+ITEM_20150714_005206	提高格挡 230 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005207	格挡提升 药剂 LV14 
+ITEM_20150714_005208	提高格挡 245 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005209	格挡提升 药剂 LV15 
+ITEM_20150714_005210	提高格挡 260 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005211	暴击伤害提升 药剂 LV1 
+ITEM_20150714_005212	暴击伤害提高 32 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005213	暴击伤害提升 药剂 LV2 
+ITEM_20150714_005214	暴击伤害提高 44 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005215	暴击伤害提升 药剂 LV3 
+ITEM_20150714_005216	暴击伤害提高 56 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005217	暴击伤害提升 药剂 LV4 
+ITEM_20150714_005218	暴击伤害提高 68 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005219	暴击伤害提升 药剂 LV5 
+ITEM_20150714_005220	暴击伤害提高 80 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005221	暴击伤害提升 药剂 LV6 
+ITEM_20150714_005222	暴击伤害提高 92 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005223	暴击伤害提升 药剂 LV7 
+ITEM_20150714_005224	暴击伤害提高 104 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005225	暴击伤害提升 药剂 LV8 
+ITEM_20150714_005226	暴击伤害提高 116 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005227	暴击伤害提升 药剂 LV9 
+ITEM_20150714_005228	暴击伤害提高 128 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005229	暴击伤害提升 药剂 LV10 
+ITEM_20150714_005230	暴击伤害提高 140 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005231	暴击伤害提升 药剂 LV11 
+ITEM_20150714_005232	暴击伤害提高 152 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒 
+ITEM_20150714_005233	暴击伤害提升 药剂 LV12 
+ITEM_20150714_005234	暴击伤害提高 164 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005235	暴击伤害提升 药剂 LV13 
+ITEM_20150714_005236	暴击伤害提高 176 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005237	暴击伤害提升 药剂 LV14 
+ITEM_20150714_005238	暴击伤害提高 188 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005239	暴击伤害提升 药剂 LV15 
+ITEM_20150714_005240	暴击伤害提高 200 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005241	魔法增幅 药剂 LV1 
+ITEM_20150714_005242	提升魔法强度  10 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005243	魔法增幅 药剂 LV2 
+ITEM_20150714_005244	提升魔法强度  14 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005245	魔法增幅 药剂 LV3 
+ITEM_20150714_005246	提升魔法强度  18 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005247	魔法增幅 药剂 LV4 
+ITEM_20150714_005248	提升魔法强度  22 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005249	魔法增幅 药剂 LV5 
+ITEM_20150714_005250	提升魔法强度  26 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005251	魔法增幅 药剂 LV6 
+ITEM_20150714_005252	提升魔法强度  30 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005253	魔法增幅 药剂 LV7 
+ITEM_20150714_005254	提升魔法强度  34 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005255	魔法增幅 药剂 LV8 
+ITEM_20150714_005256	提升魔法强度  38 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005257	魔法增幅 药剂 LV9 
+ITEM_20150714_005258	提升魔法强度  42 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005259	魔法增幅 药剂 LV10 
+ITEM_20150714_005260	提升魔法强度  46 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005261	魔法增幅 药剂 LV11 
+ITEM_20150714_005262	提升魔法强度  50 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005263	魔法增幅 药剂 LV12 
+ITEM_20150714_005264	提升魔法强度  54 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005265	魔法增幅 药剂 LV13 
+ITEM_20150714_005266	提升魔法强度  58 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005267	魔法增幅 药剂 LV14 
+ITEM_20150714_005268	提升魔法强度  62 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
+ITEM_20150714_005269	魔法增幅 药剂 LV15 
+ITEM_20150714_005270	提升魔法强度  66 点持续 180 秒. {nl}右键点击使用. 冷却 60 秒. 
 ITEM_20150714_005271	Revelation: Opposing Piece Collection 
 ITEM_20150714_005272	계시록 : 이면편 콜렉션
 ITEM_20150714_005273	LV1 Gem Abrasive Agent 
@@ -5464,7 +5464,7 @@ ITEM_20150714_005463	Goddess Austeja's Writings
 ITEM_20150714_005464	A script needed for repairing the sealed tower in the Uskis Arable Land. 
 ITEM_20150714_005465	Bomb Weed 
 ITEM_20150714_005466	Explosive Shot Materials  
-ITEM_20150714_005467	A 药剂 that the Kingdom Military had. Used when making Explosive Shot. 
+ITEM_20150714_005467	A Potion that the Kingdom Military had. Used when making Explosive Shot. 
 ITEM_20150714_005468	Explosive Shot 
 ITEM_20150714_005469	A bomb that doesn't have much explosive power, but creates a huge noise when set off. 
 ITEM_20150714_005470	Dud Bomb 
