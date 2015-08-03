@@ -9,7 +9,7 @@ ITEM_20150317_000008	羽毛臂章
 ITEM_20150317_000009	缨旒臂章 
 ITEM_20150317_000010	空_武器 
 ITEM_20150317_000011	粗糙的短剑 
-ITEM_20150317_000012	单手剑[刀痕] 
+ITEM_20150317_000012	单手剑[斩击] 
 ITEM_20150317_000013	一种帝国士兵普遍携带和使用的武器. 
 ITEM_20150317_000014	短剑 
 ITEM_20150317_000015	这种制作出的武器比军用版更有改进空间. 
@@ -42,15 +42,15 @@ ITEM_20150317_000041	沉重的短刀
 ITEM_20150317_000042	剑 
 ITEM_20150317_000043	重剑 
 ITEM_20150317_000044	卡斯卡拉(Kaskara) 
-ITEM_20150317_000045	重五指剑 
-ITEM_20150317_000046	重马刀 
-ITEM_20150317_000047	重半月弯刀 
-ITEM_20150317_000048	邓克尔佩剑 
-ITEM_20150317_000049	邓克尔短刀 
-ITEM_20150317_000050	邓克尔弯刀 
-ITEM_20150317_000051	邓克尔卡斯卡拉(Kaskara) 
-ITEM_20150317_000052	邓克尔五指剑 
-ITEM_20150317_000053	邓克尔半月弯刀 
+ITEM_20150317_000045	重型五指剑 
+ITEM_20150317_000046	重型马刀 
+ITEM_20150317_000047	重型半月弯刀 
+ITEM_20150317_000048	笨重的佩剑 
+ITEM_20150317_000049	笨重的短刀 
+ITEM_20150317_000050	笨重的弯刀 
+ITEM_20150317_000051	笨重的卡斯卡拉(Kaskara) 
+ITEM_20150317_000052	笨重的五指剑 
+ITEM_20150317_000053	笨重的半月弯刀 
 ITEM_20150317_000054	小冢 
 ITEM_20150317_000055	No tooltip available. 
 ITEM_20150317_000056	阔刃弯刀 
@@ -88,7 +88,7 @@ ITEM_20150317_000087	罗马剑
 ITEM_20150317_000088	一个加长剑长度的改进型短剑. 
 ITEM_20150317_000089	Aras' Falchion 
 ITEM_20150317_000090	This weapon gives you the opportunity to experience the quality of the Falchion. 
-ITEM_20150317_000091	史密斯之剑(Smith) 
+ITEM_20150317_000091	铁匠之剑(Smith) 
 ITEM_20150317_000092	2%几率造成额外的600%伤害. 
 ITEM_20150317_000093	这把剑偶尔闪耀着创造者的工艺. 
 ITEM_20150317_000094	Klavis Sword 
@@ -104,312 +104,312 @@ ITEM_20150317_000103	三体剑(Trinity)
 ITEM_20150317_000104	如果你不满意你的剑，这把剑是一种选择。然后你必须忍受她昂贵的价格. 
 ITEM_20150317_000105	杜兰达尔(Durandal) 
 ITEM_20150317_000106	许多冒险者将这个名字刻在他们的爱剑上.这个名字是被女神选中的远古战士使用剑的名字. 
-ITEM_20150317_000107	Velniup 
-ITEM_20150317_000108	People will even go so far as to say that this weapon is overly cruel. 
-ITEM_20150317_000109	Fortis 
-ITEM_20150317_000110	While unpopular during the Great Plant Cataclysm, the resurgence of strongly armored monsters is proving its value. 
-ITEM_20150317_000111	Chapparition Cutter 
-ITEM_20150317_000112	According to a theory, this sword is also used in battles amongst the Demons. 
-ITEM_20150317_000113	Deathweaver Cutter 
-ITEM_20150317_000114	By wielding this blade, one becomes the deathbringer. 
-ITEM_20150317_000115	Chapparition Sword 
-ITEM_20150317_000116	This serves as indirect evidence for the disputes between Demons. 
-ITEM_20150317_000117	Bendras Sword 
-ITEM_20150317_000118	A sword carrying some of the might and blessings of the Goddess which have undone many evils in the past. 
-ITEM_20150317_000119	Illizia 
-ITEM_20150317_000120	This blade severely threatens both the life of the foe and the owner's finance. Of course, most swordsmen ignore the latter effect. 
-ITEM_20150317_000121	Scheduled for deletion 
-ITEM_20150317_000122	Two-Hand Sword [Slash] 
-ITEM_20150317_000123	Dunkel Bastard Sword 
-ITEM_20150317_000124	Some master craftsman and soldiers call this a 'mixed style two-hand sword.' They say this to justify themselves. 
-ITEM_20150317_000125	Flamberge 
-ITEM_20150317_000126	If you're an expert in two-hand weapons, the wave shaped edge can cause massive damage. 
-ITEM_20150317_000127	Nodachi 
-ITEM_20150317_000128	A Nodachi with a length 'just right' can amplify its slashing power and dominate the space between the wielder and their foe. 
-ITEM_20150317_000129	Claymore 
-ITEM_20150317_000130	All Claymores from the kingdom are made with an emphasis on weight and power. 
-ITEM_20150317_000131	Colossus 
-ITEM_20150317_000132	The particular fan shape of the blade offers potential to amplify its power and versatility to be adapted in many techniques. 
-ITEM_20150317_000133	Caliburn 
-ITEM_20150317_000134	Frequently carried by high ranking soldiers. 
-ITEM_20150317_000135	Quaddara 
-ITEM_20150317_000136	Contrary to its appearance, this sword is double-edged and often used by swordsmen pursuing practicality. 
-ITEM_20150317_000137	Light Claymore 
-ITEM_20150317_000138	The shape of the blade enables you to perform a downward attack. 
-ITEM_20150317_000139	Crude Colossus 
+ITEM_20150317_000107	维尔涅普(Velniup) 
+ITEM_20150317_000108	人们会说这种武器过于残忍. 
+ITEM_20150317_000109	福尔蒂斯(Fortis) 
+ITEM_20150317_000110	相对于巨型植物灾变时的低迷，复苏的强筋装甲怪物证明了这把刀的价值. 
+ITEM_20150317_000111	斩灵刀(Chapparition C) 
+ITEM_20150317_000112	根据原理,这把刀用来对恶魔的战斗. 
+ITEM_20150317_000113	死亡编织之刃 
+ITEM_20150317_000114	挥舞此剑，即为死神. 
+ITEM_20150317_000115	斩灵剑(Chapparition S) 
+ITEM_20150317_000116	这把剑印证了恶魔的内斗. 
+ITEM_20150317_000117	班德拉斯之剑(Bendras) 
+ITEM_20150317_000118	女神为铲除邪恶赐予这把剑一丝力量和祝福. 
+ITEM_20150317_000119	伊莉西娅(Illizia) 
+ITEM_20150317_000120	大多数剑客忽略了这把剑对生命和财产的严重威胁. 
+ITEM_20150317_000121	将删除 
+ITEM_20150317_000122	双手剑[斩击] 
+ITEM_20150317_000123	笨重的变种剑 
+ITEM_20150317_000124	部分大师工匠和剑客为证明自己称之为"混合式双手剑". 
+ITEM_20150317_000125	双手饰剑 
+ITEM_20150317_000126	在专家手里,波状剑刃会造成巨大杀伤. 
+ITEM_20150317_000127	野太刀 
+ITEM_20150317_000128	恰到好处的野太刀控制住了进攻距离并放大了斩击的威力. 
+ITEM_20150317_000129	双刃阔剑 
+ITEM_20150317_000130	帝国的阔剑强调力量和重量. 
+ITEM_20150317_000131	巨剑 
+ITEM_20150317_000132	特定的刀刃形状适应多种剑术而且砍杀威力巨大. 
+ITEM_20150317_000133	石中剑 
+ITEM_20150317_000134	通常由高阶战士携带. 
+ITEM_20150317_000135	夸达剌(Quaddara) 
+ITEM_20150317_000136	与她的外表相反,追求实用性的剑客经常使用这把双刃剑. 
+ITEM_20150317_000137	轻型重剑 
+ITEM_20150317_000138	剑型允许劈斩. 
+ITEM_20150317_000139	粗糙巨剑 
 ITEM_20150317_000140	Eillun 
-ITEM_20150317_000141	Initially even the Great Ruklyss carried this sword. 
-ITEM_20150317_000142	Practice Bastard Sword 
-ITEM_20150317_000143	Bastard Sword 
-ITEM_20150317_000144	Heavy Flamberge 
-ITEM_20150317_000145	Heavy Nodachi 
-ITEM_20150317_000146	Heavy Claymore 
-ITEM_20150317_000147	Dunkel Nodachi 
-ITEM_20150317_000148	Dunkel Quaddara 
-ITEM_20150317_000149	Dunkel Flamberge 
-ITEM_20150317_000150	Dunkel Claymore 
-ITEM_20150317_000151	Greatsword 
-ITEM_20150317_000152	Katzbalger 
-ITEM_20150317_000153	Dress Sword 
-ITEM_20150317_000154	Zweihander 
-ITEM_20150317_000155	Executioner's Sword 
-ITEM_20150317_000156	Lumai Two-Hand Sword 
-ITEM_20150317_000157	Overknife 
+ITEM_20150317_000141	伟大的Ruklyss最初就是用的这把剑. 
+ITEM_20150317_000142	实用变种剑 
+ITEM_20150317_000143	变种剑 
+ITEM_20150317_000144	重型双手饰剑 
+ITEM_20150317_000145	重型野太刀 
+ITEM_20150317_000146	重型双刃阔剑 
+ITEM_20150317_000147	笨重的野太刀 
+ITEM_20150317_000148	笨重的夸达剌(Quaddara) 
+ITEM_20150317_000149	笨重德尔双手饰剑 
+ITEM_20150317_000150	笨重的双手阔剑 
+ITEM_20150317_000151	大剑 
+ITEM_20150317_000152	德式斗剑 
+ITEM_20150317_000153	礼服剑 
+ITEM_20150317_000154	德式双手剑 
+ITEM_20150317_000155	斩首剑 
+ITEM_20150317_000156	鲁麦双手剑 
+ITEM_20150317_000157	刮刀 
 ITEM_20150317_000158	Potentia 
-ITEM_20150317_000159	A great alternative if you seek more from regular Flamberges. 
+ITEM_20150317_000159	吸取了双手饰剑的优势. 
 ITEM_20150317_000160	Temsus Flamberge 
 ITEM_20150317_000161	A sword with great capacity for improvement that compliments your innate power. Try its potential for yourself. 
-ITEM_20150317_000162	Didel Colossus 
-ITEM_20150317_000163	This sword is for those who seek more weight, more power, and more reach in their slashes. 
-ITEM_20150317_000164	Collecture 
-ITEM_20150317_000165	This widely used weapon was mostly sought after as a decoration or collectible item prior to the Great Plant Cataclysm. 
-ITEM_20150317_000166	Hogma Great Sword 
-ITEM_20150317_000167	How the Hogmas obtained or crafted this weapon is unimportant. We are more concerned with crafting and using it ourselves. 
-ITEM_20150317_000168	Cheminis Bastard Sword 
-ITEM_20150317_000169	In the wake of the Great Plant Cataclysm, the Winterspoon family disclosed the crafting recipe for this weapon to all alchemists. 
+ITEM_20150317_000162	迪德尔巨剑(Didel) 
+ITEM_20150317_000163	推荐给渴望更重,更有威力,更好砍杀的剑客. 
+ITEM_20150317_000164	藏品剑 
+ITEM_20150317_000165	巨型植物灾变后,这种之前广泛使用的剑被当做装饰品或收藏品. 
+ITEM_20150317_000166	Hogma大剑 
+ITEM_20150317_000167	人们对Hogmas如何获得这种剑不在意.更关心自己制造和使用它们. 
+ITEM_20150317_000168	查米尼斯变种剑 
+ITEM_20150317_000169	巨型植物灾变后,Winterspoon家族将图谱送给了炼金术师. 
 ITEM_20150317_000170	Primaluce 
-ITEM_20150317_000171	Swordsmen who seeks raw power in their weapon frequently chooses this sword as their first magic sword. 
+ITEM_20150317_000171	寻求原始力量的剑客经常剑这把剑作为第一魔法剑. 
 ITEM_20150317_000172	Kindzal 
-ITEM_20150317_000173	Those who likes to temper their weapons craft this sword for their own use. 
-ITEM_20150317_000174	Imperni Two-Hand Sword 
-ITEM_20150317_000175	If you got this sword through the black market, it is evidence that you have obtained a certain level of reliability. 
+ITEM_20150317_000173	人们喜欢锻造这把剑来提升自己的手艺. 
+ITEM_20150317_000174	帝国双手剑 
+ITEM_20150317_000175	用这把剑走黑市,那么你已经出道了. 
 ITEM_20150317_000176	Prieblanda 
 ITEM_20150317_000177	This sword shares the same inventor with the 'Primaluce' sword. 
-ITEM_20150317_000178	Lapis Katzbalger 
-ITEM_20150317_000179	The enhancement of Katzbalger has been developed less than 100 years ago. Thus the crafting recipe for this weapon is unrelated to Ruklyss. 
-ITEM_20150317_000180	Smith Two-Hand Sword 
-ITEM_20150317_000181	Since the Day of Divine Tree, fewer people have been concerned about the instability of magic weapons. 
-ITEM_20150317_000182	Klavis Two-Hand Sword 
-ITEM_20150317_000183	This sword can be a trustworthy extension of both your hands. 
+ITEM_20150317_000178	青德式斗剑 
+ITEM_20150317_000179	德式斗剑不足100年,所以这把武器玉Ruklyss无关. 
+ITEM_20150317_000180	铁匠双手剑 
+ITEM_20150317_000181	自圣树之日起，很少人质疑魔法武器的稳定性. 
+ITEM_20150317_000182	克拉维斯双手剑 
+ITEM_20150317_000183	指的一展身手的剑. 
 ITEM_20150317_000184	Thresh Two-Hand Sword 
 ITEM_20150317_000185	Sestas Two-Hand Sword 
-ITEM_20150317_000186	Drat Two-Hand Sword 
+ITEM_20150317_000186	诅咒双手剑 
 ITEM_20150317_000187	Aston Two-Hand Sword 
-ITEM_20150317_000188	Devi Two-Hand Sword 
-ITEM_20150317_000189	Prima Two-Hand Sword 
-ITEM_20150317_000190	Flamini 
-ITEM_20150317_000191	A good sword that has long been regarded as an essential item when facing Demons. 
-ITEM_20150317_000192	Wizard Slayer 
-ITEM_20150317_000193	Novice Wizards often pay no mind to this particular weapon. However, a seasoned one knows to steer away from its unseen power. 
-ITEM_20150317_000194	Two-Hand Sword [Strike] 
-ITEM_20150317_000195	Like a flying dagger thrown in the darkest hours of the night, Naktis deals an unforeseen blow to its target. 
+ITEM_20150317_000188	女神双手剑 
+ITEM_20150317_000189	初级双手剑 
+ITEM_20150317_000190	弗拉米尼 
+ITEM_20150317_000191	对战恶魔的一把好剑. 
+ITEM_20150317_000192	巫师杀手 
+ITEM_20150317_000193	初出茅庐的巫师不在意这个特殊武器,但经验丰富的人知道避开无法揣摩的力量. 
+ITEM_20150317_000194	双手剑[打击] 
+ITEM_20150317_000195	无法预见地打击目标,就如夜空中的一闪. 
 ITEM_20150317_000196	Luciduce 
 ITEM_20150317_000197	Although some people dismiss this weapon as a 'tree cutting axe', its actual users will tell you that the Great Plant Cataclysm would have resulted in far worse losses without it. 
-ITEM_20150317_000198	Hell and Heaven 
-ITEM_20150317_000199	There's a saying that claims 'offense is the best defense.' Prove it with this weapon. 
-ITEM_20150317_000200	Deathweaver Tooth 
-ITEM_20150317_000201	The Deathweaver's tooth is not actually used to craft this weapon. 
-ITEM_20150317_000202	Chapparition Two-Hand Sword 
-ITEM_20150317_000203	Sometimes immense power can be obtained from empty space, and sometimes, colossal mass can be shaped in a place with no weight. 
+ITEM_20150317_000198	地狱与天堂 
+ITEM_20150317_000199	这把武器印证了"进攻是最好的防御"这句话. 
+ITEM_20150317_000200	亡者之牙 
+ITEM_20150317_000201	锻造这把武器并不需要死者之牙. 
+ITEM_20150317_000202	斩灵双手剑 
+ITEM_20150317_000203	时而巨象,时而缥缈. 
 ITEM_20150317_000204	Nulis 
-ITEM_20150317_000205	Extremely efficient against legendary beings who do not exist in the normal realm of night and day. 
-ITEM_20150317_000206	Gravity 
-ITEM_20150317_000207	Gravity cannot be avoided, whomever or wherever you are. But if you adapt to it, no one can underestimate such power. 
-ITEM_20150317_000208	Crude Short Rod 
-ITEM_20150317_000209	Rod [Strike] 
-ITEM_20150317_000210	마법을 배우는 자는 어떻게든 얻게 되는 장비입니다. 
-ITEM_20150317_000211	Short Rod 
-ITEM_20150317_000212	When young Magicians graduate from Apprentice-hood, they are given this weapon. 
-ITEM_20150317_000213	Low Long Rod 
-ITEM_20150317_000214	The decorations found in mage's equipment are added for function, not only for appearance. 
-ITEM_20150317_000215	Low Cane Rover 
-ITEM_20150317_000216	When a rod is painstakingly carved by a famous wizard, it is bound to contain mystical power. 
-ITEM_20150317_000217	Cane 
-ITEM_20150317_000218	You can customize this rod further, provided that you can supply the materials. 
-ITEM_20150317_000219	Crook 
-ITEM_20150317_000220	Legends say that in the beginning, evil wizards first started using this weapon. 
-ITEM_20150317_000221	Pewter Rod 
-ITEM_20150317_000222	It was once a popular weapon among ambitious young wizards. 
-ITEM_20150317_000223	Owl Rod 
-ITEM_20150317_000224	The decoration is popular among experienced wizards. 
-ITEM_20150317_000225	Rune Rod 
-ITEM_20150317_000226	A Magical Rune is used to amplify the power of the rod. 
-ITEM_20150317_000227	Crystal Rod 
-ITEM_20150317_000228	A precise fitting of the jewel and the shaft is required to craft this rod. 
-ITEM_20150317_000229	Crude Pewter Rod 
-ITEM_20150317_000230	Crude Owl Rod 
-ITEM_20150317_000231	Soldier's Short Rod 
-ITEM_20150317_000232	This rod was given to magicians who joined the army. Though the procedure has been abolished since the Great Plant Cataclysm, an abundant stock still remains. 
-ITEM_20150317_000233	Chieftain's Long Rod 
-ITEM_20150317_000234	The shape of this rod was popular in the past. Although old-fashioned, the rod performs rather decently. 
-ITEM_20150317_000235	Crude Cane Rover 
-ITEM_20150317_000236	Battle Rod 
-ITEM_20150317_000237	Besides the assistance in casting magic, this rod was also designed for physical combat. 
-ITEM_20150317_000238	Heavy Short Rod 
-ITEM_20150317_000239	Long Rod 
-ITEM_20150317_000240	Heavy Long Rod 
-ITEM_20150317_000241	Cane Rover 
-ITEM_20150317_000242	Heavy Cane 
-ITEM_20150317_000243	Heavy Crook 
-ITEM_20150317_000244	Heavy Pewter Rod 
-ITEM_20150317_000245	Dunkel Crook 
-ITEM_20150317_000246	Dunkel Crystal Rod 
-ITEM_20150317_000247	Dunkel Long Rod 
-ITEM_20150317_000248	Dunkel Cane Rover 
-ITEM_20150317_000249	Dunkel Cane 
-ITEM_20150317_000250	Dunkel Pewter Rod 
-ITEM_20150317_000251	Serpentine Rod 
-ITEM_20150317_000252	Alter Rod 
-ITEM_20150317_000253	Nald Rod 
-ITEM_20150317_000254	Elder Rod 
-ITEM_20150317_000255	Meteor Rod 
-ITEM_20150317_000256	Ring Rod 
-ITEM_20150317_000257	Servant Rod 
-ITEM_20150317_000258	Panto Rod 
-ITEM_20150317_000259	Wizards have been discovering new facts from monsters emerging from the Great Plant Cataclysm and applying them to varying situations. 
-ITEM_20150317_000260	Ice Rod 
-ITEM_20150317_000261	Rumor says that every time the crafting recipe for this rod is sold, part of the price goes to the Cryomancer Master. 
-ITEM_20150317_000262	Fire Rod 
-ITEM_20150317_000263	Only the Pyromancer Master knows the method of infusing the power of Goddess Gabija into the rods that belong to this type. 
-ITEM_20150317_000264	Vasia Rod 
-ITEM_20150317_000265	Although priests frown upon the manipulation of spirits during its manufacturing, wizards do not pay attention to this objection. 
-ITEM_20150317_000266	Magic Rod 
-ITEM_20150317_000267	A simple rod for enhancing magic, easily craftable by beginner mages. 
+ITEM_20150317_000205	对抗夜间的怪异生物有奇效. 
+ITEM_20150317_000206	重力(Gravity) 
+ITEM_20150317_000207	重力不可避免,无论你是谁或你在哪.然而适应了他,你却无法感知到这种力量(这算金老爷子的感慨么!). 
+ITEM_20150317_000208	粗糙的短棒 
+ITEM_20150317_000209	魔棒 [打击] 
+ITEM_20150317_000210	给迟早要规划学习魔法的人. 
+ITEM_20150317_000211	短棒 
+ITEM_20150317_000212	当年轻的魔法学徒毕业时赠予的武器. 
+ITEM_20150317_000213	初级长棒 
+ITEM_20150317_000214	魔导师在武器上的装饰品不仅美观而且功能强大. 
+ITEM_20150317_000215	初级漫游手杖 
+ITEM_20150317_000216	由一名著名巫师精心雕刻的魔杖，它注定具有神秘的魔力. 
+ITEM_20150317_000217	手杖 
+ITEM_20150317_000218	只要你提供材料，你就能定制这把手杖. 
+ITEM_20150317_000219	克鲁克弯钩(Crook) 
+ITEM_20150317_000220	传说邪恶的巫师一开始就是使用的这种武器. 
+ITEM_20150317_000221	锡棒 
+ITEM_20150317_000222	它一度在雄心勃勃的年轻法师间深受喜爱. 
+ITEM_20150317_000223	枭棒 
+ITEM_20150317_000224	武器上的装饰品很受资深巫师的喜爱. 
+ITEM_20150317_000225	符文棒 
+ITEM_20150317_000226	一种神奇的服务器放大了武器的魔力. 
+ITEM_20150317_000227	水晶棒 
+ITEM_20150317_000228	珍贵的宝石和魔棒完美结合. 
+ITEM_20150317_000229	粗超的锡棒 
+ITEM_20150317_000230	粗糙的枭棒 
+ITEM_20150317_000231	军用短棒 
+ITEM_20150317_000232	这把魔棒石为军中法师们准备的.虽然在植物灾变重配方遗失,但是存货依然充足. 
+ITEM_20150317_000233	酋长的长棒 
+ITEM_20150317_000234	这把魔棒款式曾流行过.虽然是老旧的款式,但依旧优雅得体. 
+ITEM_20150317_000235	粗糙的漫游手杖 
+ITEM_20150317_000236	战斗魔杖 
+ITEM_20150317_000237	除了为施法打造,它也被设计了物理打击能力. 
+ITEM_20150317_000238	重型短棒 
+ITEM_20150317_000239	长棒 
+ITEM_20150317_000240	重型长棒 
+ITEM_20150317_000241	漫游手杖 
+ITEM_20150317_000242	重型手杖 
+ITEM_20150317_000243	重型克鲁克弯钩(CRook) 
+ITEM_20150317_000244	重型锡棒 
+ITEM_20150317_000245	笨重克鲁克弯钩(Crook) 
+ITEM_20150317_000246	笨重水晶棒 
+ITEM_20150317_000247	笨重的长棒 
+ITEM_20150317_000248	笨重的漫游手杖 
+ITEM_20150317_000249	笨重的手杖 
+ITEM_20150317_000250	笨重的锡棒 
+ITEM_20150317_000251	蛇纹魔棒 
+ITEM_20150317_000252	变种魔棒 
+ITEM_20150317_000253	娜德魔棒(Nald) 
+ITEM_20150317_000254	上古魔棒 
+ITEM_20150317_000255	流星蝴蝶棒(Meteor) 
+ITEM_20150317_000256	环形魔棒 
+ITEM_20150317_000257	侍者魔棒 
+ITEM_20150317_000258	哑剧魔棒 
+ITEM_20150317_000259	魔法师们已经意识到从植物灾变引发的魔物爆发得到的资料应用到不同情况下. 
+ITEM_20150317_000260	冰棒 
+ITEM_20150317_000261	谣言说每出售一张这把武器的图谱,Cryomancer大师就能得到分红. 
+ITEM_20150317_000262	火焰魔棒 
+ITEM_20150317_000263	只有Pyromancer大师知道女神Gabija将力量注入这把武器的方法. 
+ITEM_20150317_000264	瓦夏魔棒 
+ITEM_20150317_000265	尽管祭司们不满制造中需处理精神这种操作,但巫师们并不在意这种事情. 
+ITEM_20150317_000266	魔棒 
+ITEM_20150317_000267	入门法师们易操作的简单增魔武器. 
 ITEM_20150317_000268	Grinas Rod 
-ITEM_20150317_000269	The increase in Demons after the Great Plant Cataclysm increased the price of this already-expensive rod. 
+ITEM_20150317_000269	植物灾变后暴增的恶魔太高了这把武器本来不菲的价格. 
 ITEM_20150317_000270	Cheminis Rod 
-ITEM_20150317_000271	Despite the similarity in the name with another weapon, this weapon has no direct relation to the Winterspoon family. 
-ITEM_20150317_000272	Arch Rod 
-ITEM_20150317_000273	A weapon that fills the role of a stepping stone to advanced wizardry for aspiring wizards. Once the wizard achieves his objective with his increased intelligence, this weapon is replaced by another. 
-ITEM_20150317_000274	Imperni Rod 
-ITEM_20150317_000275	It is popular among wizards who likes to stand out. 
-ITEM_20150317_000276	Aras' Long Rod 
-ITEM_20150317_000277	It is often given as a small gift amongst wizards thanks to its affordable price. 
-ITEM_20150317_000278	Smith Rod 
-ITEM_20150317_000279	The unexpected features of this weapon are independent of whoever uses it. 
-ITEM_20150317_000280	Klavis Rod 
-ITEM_20150317_000281	You may be the first wizard in history to ever use this weapon. 
-ITEM_20150317_000282	Dio Rod 
-ITEM_20150317_000283	Thresh Rod 
-ITEM_20150317_000284	Sestas Rod 
-ITEM_20150317_000285	Drat Rod 
-ITEM_20150317_000286	Aston Rod 
-ITEM_20150317_000287	Devi Rod 
-ITEM_20150317_000288	Prima Rod 
-ITEM_20150317_000289	Temere 
-ITEM_20150317_000290	This rod's nickname is 'The Staff of Patience.' Legends say that Agailla Flurry, the greatest wizard in history, devised this rod in order to train her apprentices. 
-ITEM_20150317_000291	Ignition 
-ITEM_20150317_000292	Though the Pyromancer Master is researching a way to mitigate the unstable drawbacks of this staff, there has been no development so far. 
-ITEM_20150317_000293	Secretum 
-ITEM_20150317_000294	A weapon made for and only for wizards. Thus wizards usually ignore the flaws of this staff. 
-ITEM_20150317_000295	Deathweaver Rod 
-ITEM_20150317_000296	A rod containing the power of the Deathweaver. 
+ITEM_20150317_000271	尽管与另一把武器名字相近,但这把武器与Winterspoon家族没有直接关系. 
+ITEM_20150317_000272	拱形魔棒 
+ITEM_20150317_000273	它是法师领悟高阶魔法的过度武器. 
+ITEM_20150317_000274	帝国魔棒 
+ITEM_20150317_000275	爱出头的法师们很喜欢的一把武器. 
+ITEM_20150317_000276	阿拉斯长棒(Aras) 
+ITEM_20150317_000277	这把价格合理的武器通常作为赠送的谢礼. 
+ITEM_20150317_000278	铁匠魔棒 
+ITEM_20150317_000279	这把武器的特点就是无论谁用都难用. 
+ITEM_20150317_000280	可莱丝(Klavis) 
+ITEM_20150317_000281	你可能是历史上第一个使用这把武器的法师. 
+ITEM_20150317_000282	迪奥之棒 
+ITEM_20150317_000283	多重魔棒(Thresh) 
+ITEM_20150317_000284	塞斯塔斯魔棒(Sestas) 
+ITEM_20150317_000285	诅咒之棒 
+ITEM_20150317_000286	阿斯顿之棒 
+ITEM_20150317_000287	女神魔棒(Devi) 
+ITEM_20150317_000288	初级魔棒 
+ITEM_20150317_000289	恐惧(Temere) 
+ITEM_20150317_000290	传说这把绰号"学徒杀手"的武器是历史上最伟大巫师Agailla Flurry训练她的学徒们时使用的. 
+ITEM_20150317_000291	灼烧(Ignition) 
+ITEM_20150317_000292	尽管炎术士全力寻找克服它不稳定缺点的方法，但是目前并没有什么进展. 
+ITEM_20150317_000293	禁忌(Secretum) 
+ITEM_20150317_000294	巫师专属武器,但巫师们经常忽略了它的缺陷. 
+ITEM_20150317_000295	亡者之棒 
+ITEM_20150317_000296	具有死者之力的魔棒. 
 ITEM_20150317_000297	Chapparition Rod 
-ITEM_20150317_000298	Zaima 
-ITEM_20150317_000299	Rumors say that the high price of this rod's recipe is due to strong pressure from the Cryomancer Master. 
-ITEM_20150317_000300	Epos 
-ITEM_20150317_000301	A rod that has been crafted long time ago using the best available magic knowledge at the time of crafting. As a result, it is impossible to add to the rod, even with the current advancements in magic. 
-ITEM_20150317_000302	Twinkle Rod 
-ITEM_20150317_000303	You can always see a twinkling star. 
+ITEM_20150317_000298	灾麻(Zaima) 
+ITEM_20150317_000299	谣言说这把武器的高额价格是出于Cryomancer大师的压力. 
+ITEM_20150317_000300	史诗(Epos) 
+ITEM_20150317_000301	远古时使用顶尖魔法智慧锻造的魔杖.但现在即使最先进的魔法也无法重铸这把魔杖. 
+ITEM_20150317_000302	闪耀魔棒 
+ITEM_20150317_000303	你总能看到一颗闪烁的星星. 
 ITEM_20150317_000304	Empty_weapon_THBow 
-ITEM_20150317_000305	Crude Light Bow 
-ITEM_20150317_000306	Bow [Stab] 
-ITEM_20150317_000307	Easily craftable at home. 
-ITEM_20150317_000308	Light Bow 
-ITEM_20150317_000309	Widely crafted by people across the kingdom and its territories. 
-ITEM_20150317_000310	Low Short Bow 
-ITEM_20150317_000311	It's a bow for beginners, but some proficient archers still like to keep using it. 
-ITEM_20150317_000312	Crude Longbow 
-ITEM_20150317_000313	A small distance can sometimes be the deciding factor between life and death. This bow is a good choice if you want a longer reach. 
-ITEM_20150317_000314	Composite Bow 
-ITEM_20150317_000315	A bow with improved flexibility through the application of various ingredients. 
-ITEM_20150317_000316	Self Bow 
-ITEM_20150317_000317	It symbolizes the stalwart resolve of an unyielding archer. 
+ITEM_20150317_000305	粗糙的轻弓 
+ITEM_20150317_000306	弓 [穿刺] 
+ITEM_20150317_000307	在小作坊里简易制作的. 
+ITEM_20150317_000308	轻弓 
+ITEM_20150317_000309	帝国领土内广泛制作的弓. 
+ITEM_20150317_000310	初级短弓 
+ITEM_20150317_000311	专供初学者,但老道的弓手也喜欢继续带着它. 
+ITEM_20150317_000312	粗糙的长弓 
+ITEM_20150317_000313	距离决定生死.如果你想要更长的击杀这把弓是不错的选择. 
+ITEM_20150317_000314	复合弓 
+ITEM_20150317_000315	用各种原料改善后极具灵活性的弓. 
+ITEM_20150317_000316	随身弓 
+ITEM_20150317_000317	弓手坚定决心的象征. 
 ITEM_20150317_000318	Rokas Bow 
-ITEM_20150317_000319	It is presumably named after the place where its inventor came from. 
-ITEM_20150317_000320	Gorithos 
-ITEM_20150317_000321	A bow preferred by the Cavalry. 
+ITEM_20150317_000319	大概是其制造地命名的. 
+ITEM_20150317_000320	角弓(Gorithos) 
+ITEM_20150317_000321	弓骑兵的首选. 
 ITEM_20150317_000322	Gulyle 
-ITEM_20150317_000323	The first ever recorded case of applying magic in the bowcrafting process. Since then it has found its own market. 
-ITEM_20150317_000324	Karman 
-ITEM_20150317_000325	A bow modified for more power by archers confident in their arm strength. 
-ITEM_20150317_000326	Crude Rokas Bow 
-ITEM_20150317_000327	Crude Gorithos 
-ITEM_20150317_000328	Soldier's Light Bow 
-ITEM_20150317_000329	This bow has been crafted to meet the minimum requirements of the Army. 
-ITEM_20150317_000330	Mayor's Short Bow 
-ITEM_20150317_000331	It shows signs of the effort put into unstringing and restringing the bow every day. Despite its age, the bow is in good condition. 
-ITEM_20150317_000332	Crude Long Bow 
+ITEM_20150317_000323	第一把应用魔法的弓,自此之后这把武器有了一席之地. 
+ITEM_20150317_000324	卡尔曼弓(Karman) 
+ITEM_20150317_000325	在对手臂力量充满自信的弓手手里发挥了更大的威力. 
+ITEM_20150317_000326	粗糙的 Rokas Bow 
+ITEM_20150317_000327	粗糙的角弓(Gorithos) 
+ITEM_20150317_000328	军用轻弓 
+ITEM_20150317_000329	迎合军队最低要求的弓. 
+ITEM_20150317_000330	市长短弓 
+ITEM_20150317_000331	尽管这把武器年久,但能看出每日更换弓弦使它保养得很好. 
+ITEM_20150317_000332	粗糙的长弓 
 ITEM_20150317_000333	Gendawa 
-ITEM_20150317_000334	This bow is the best among those crafted without using magic in the process. 
-ITEM_20150317_000335	Heavy Light Bow 
-ITEM_20150317_000336	Short Bow 
-ITEM_20150317_000337	Heavy Short Bow 
-ITEM_20150317_000338	Long Bow 
-ITEM_20150317_000339	Heavy Composite Bow 
-ITEM_20150317_000340	Heavy Self Bow 
-ITEM_20150317_000341	Heavy Rokas Bow 
-ITEM_20150317_000342	Dunkel Self Bow 
-ITEM_20150317_000343	Dunkel Karman 
-ITEM_20150317_000344	Dunkel Short Bow 
-ITEM_20150317_000345	Dunkel Long Bow 
-ITEM_20150317_000346	Dunkel Composite Bow 
-ITEM_20150317_000347	Dunkel Rokas Bow 
-ITEM_20150317_000348	Recurve Bow 
+ITEM_20150317_000334	不使用魔法锻造出的最好弓. 
+ITEM_20150317_000335	重型轻弓 
+ITEM_20150317_000336	短弓 
+ITEM_20150317_000337	重型短弓 
+ITEM_20150317_000338	长弓 
+ITEM_20150317_000339	重型复合弓 
+ITEM_20150317_000340	重型随身弓 
+ITEM_20150317_000341	重型 Rokas Bow 
+ITEM_20150317_000342	笨重的随身弓 
+ITEM_20150317_000343	笨重的卡尔曼弓 
+ITEM_20150317_000344	笨重的短弓 
+ITEM_20150317_000345	笨重的长弓 
+ITEM_20150317_000346	笨重的复合弓 
+ITEM_20150317_000347	笨重的 Rokas Bow 
+ITEM_20150317_000348	曲弓
 ITEM_20150317_000349	Seige Bow 
-ITEM_20150317_000350	Sniper Bow 
-ITEM_20150317_000351	Skull Bow 
-ITEM_20150317_000352	Wooden Compound Bow 
-ITEM_20150317_000353	Tag Bow 
-ITEM_20150317_000354	Rogue Bow 
-ITEM_20150317_000355	Seeker 
-ITEM_20150317_000356	This bow, popular among hunters, became even more widespread after the Great Plant Cataclysm. 
-ITEM_20150317_000357	Iron Bow 
-ITEM_20150317_000358	This bow has great precision and can frequently cause unexpected damage to the foe. 
-ITEM_20150317_000359	Hawk Bow 
-ITEM_20150317_000360	A Self Bow made with random bones will sometimes not have synergy with gold. 
-ITEM_20150317_000361	Cheminis Bow 
-ITEM_20150317_000362	It was named for its effect of increasing the agility of the user. 
-ITEM_20150317_000363	Hunting Bow 
-ITEM_20150317_000364	The application of Alchemy in bowcrafting remained theoretical until circumstances made it a trend in recent production. 
-ITEM_20150317_000365	Maker Bow 
-ITEM_20150317_000366	In the past, only wealthy hunters bought this bow. With the dire events in recent history, however, anyone who can afford to is purchasing or crafting it. 
-ITEM_20150317_000367	Savage Bow 
-ITEM_20150317_000368	Due to increase in demand for high quality bows since the Great Plant Cataclysm, this bow is being crafted quite frequently. 
-ITEM_20150317_000369	Snake Bow 
-ITEM_20150317_000370	This bow is a good choice regardless of your muscle strength. This is because if you have strong arms, you can shoot with more power and if you don't, the bow compensates for it. 
-ITEM_20150317_000371	Imperni Bow 
-ITEM_20150317_000372	Like the name suggests, this bow strikes with poisonous attacks. 
+ITEM_20150317_000350	狙击手之弓 
+ITEM_20150317_000351	骨弓 
+ITEM_20150317_000352	木质复合弓 
+ITEM_20150317_000353	装饰弓(Tag) 
+ITEM_20150317_000354	欺诈之弓(Rogue) 
+ITEM_20150317_000355	探索者(Seeker) 
+ITEM_20150317_000356	自巨植灾变后这把在猎人间很流行. 
+ITEM_20150317_000357	铁弓 
+ITEM_20150317_000358	良好的精度经常能造成意想不到的伤害. 
+ITEM_20150317_000359	鹰弓(Hawk) 
+ITEM_20150317_000360	这把随身弓有事真对不起它的价格. 
+ITEM_20150317_000361	查米尼斯之弓(Cheminis) 
+ITEM_20150317_000362	由能增强使用者的敏捷性而来. 
+ITEM_20150317_000363	猎弓 
+ITEM_20150317_000364	这把大势弓之前是由炼金术师掌握的锻造技术打造的. 
+ITEM_20150317_000365	造物之弓(Maker) 
+ITEM_20150317_000366	过去只有富有的猎人才买得起的弓.然而近年来发生的灾变后,谁还能承担得起采购和锻造它. 
+ITEM_20150317_000367	蛮弓(Savage) 
+ITEM_20150317_000368	由于巨植灾变后对高质量弓需求的剧增,这把弓被频繁制作. 
+ITEM_20150317_000369	蛇弓(Snake) 
+ITEM_20150317_000370	这把弓无视你肌肉的力量.有力量它更有威力,没力量它补偿威力. 
+ITEM_20150317_000371	帝国之弓 
+ITEM_20150317_000372	弓如其名,它与毒攻相关. 
 ITEM_20150317_000373	Lethena Bow 
-ITEM_20150317_000374	You can feel the sensation of hunting a large monster with this bow thanks to its solid weight. 
-ITEM_20150317_000375	Strong Bow 
-ITEM_20150317_000376	Tricky to manufacture, but worth the trouble. 
-ITEM_20150317_000377	Aras' Short Bow 
-ITEM_20150317_000378	Usually purchased by first-timers with magic bows. 
-ITEM_20150317_000379	Pully Bow 
-ITEM_20150317_000380	Smith Bow 
-ITEM_20150317_000381	If there are no other bows you can purchase, buy this and hope for the best. 
-ITEM_20150317_000382	Klavis Bow 
-ITEM_20150317_000383	Apart from being a magic bow it is generally considered to be mediocre, but a user might make exceptional use of it. 
-ITEM_20150317_000384	Dio Bow 
+ITEM_20150317_000374	坚实的重量给与你狩猎大怪物的感官. 
+ITEM_20150317_000375	强攻 
+ITEM_20150317_000376	难制造,但值得. 
+ITEM_20150317_000377	阿拉斯短弓(Aras） 
+ITEM_20150317_000378	第一次购买魔法弓的首选. 
+ITEM_20150317_000379	滑弓(Pully) 
+ITEM_20150317_000380	铁匠之弓(Smith) 
+ITEM_20150317_000381	如果没有其他弓可以购买,可以先买着这把弓再观望. 
+ITEM_20150317_000382	克拉维斯之弓(Klavis) 
+ITEM_20150317_000383	除去常规魔法弓之用,会有意料之外的作用. 
+ITEM_20150317_000384	迪奥之弓(Dio) 
 ITEM_20150317_000385	Tresh Bow 
 ITEM_20150317_000386	Sestas Bow 
-ITEM_20150317_000387	Drat Bow 
-ITEM_20150317_000388	Aston Bow 
-ITEM_20150317_000389	Devi Bow 
-ITEM_20150317_000390	Prima Bow 
-ITEM_20150317_000391	Wildling Bane 
-ITEM_20150317_000392	Prior to the Great Plant Cataclysm, hunters rarely used this bow. It might sound strange, but the bow would cause excessive damage to the prey. 
-ITEM_20150317_000393	Equalizer 
-ITEM_20150317_000394	There are proud archers who don't want any variables affecting their archery skill outside of their own abilities. This bow is a perfect match for them. 
-ITEM_20150317_000395	Heart Seeker 
-ITEM_20150317_000396	For unknown reason the spell bound to this bow has become a curse to both the foe and the user. Regardless, the bow is still used by archers for its merits. 
-ITEM_20150317_000397	Viper 
-ITEM_20150317_000398	This poison-imbued bow is so toxic that it afflicts its user as well. 
-ITEM_20150317_000399	Deathweaver Bow 
-ITEM_20150317_000400	This bow will send your enemies to their deaths. 
+ITEM_20150317_000387	诅咒之弓 
+ITEM_20150317_000388	阿斯顿之弓(Aston) 
+ITEM_20150317_000389	女神之弓(Devi) 
+ITEM_20150317_000390	初级弓 
+ITEM_20150317_000391	野蛮屠戮(Wildling Bane) 
+ITEM_20150317_000392	猎人们在巨植灾变之前很少使用它. 感觉很奇怪,但这把弓会残害猎物. 
+ITEM_20150317_000393	平衡(Equalizer) 
+ITEM_20150317_000394	自豪的弓手不希望任何变量影响它们的力量,这把弓既是首选. 
+ITEM_20150317_000395	猎心(Heart Seeker) 
+ITEM_20150317_000396	这把弓会不明缘由地对目标和自身释放诅咒.然而弓手们还是因其有点而使用它. 
+ITEM_20150317_000397	蝰蛇(Viper) 
+ITEM_20150317_000398	这把弓太毒以至于会折磨它的使用者. 
+ITEM_20150317_000399	亡者之弓 
+ITEM_20150317_000400	带他们去见死神. 
 ITEM_20150317_000401	Chapparition Bow 
-ITEM_20150317_000402	The engravings say: 'Straighten your back and broaden your shoulders; pull the bowstring and push the bow as you shoot.' 
-ITEM_20150317_000403	Blood Gain 
-ITEM_20150317_000404	This bow was created by Lydia Schaffen. She frequently used this bow throughout her lifetime but intentionally did not give the crafting method to 'The Tower of the Stars' and 'Schaffenstar', two entities founded by Lydia herself. 
-ITEM_20150317_000405	Tempest Shooter 
-ITEM_20150317_000406	A new bow designed and developed through joint cooperation of master bowcrafters. It was conceived with the hope of overcoming the Great Plant Cataclysm. 
+ITEM_20150317_000402	如雕刻家所说: '站直挺胸;拉弓射箭.' 
+ITEM_20150317_000403	嗜血(Blood Gain) 
+ITEM_20150317_000404	这把弓由 Lydia Schaffen创造. 她一生经常使用此弓,但却没有把锻造方式告诉她自己创造的'The Tower of the Stars' 和 'Schaffenstar'造体. 
+ITEM_20150317_000405	暴风枪(Tempest Shooter) 
+ITEM_20150317_000406	联合了众多大师开发和锻造的一把新弓.它是客服巨植灾变的希望. 
 ITEM_20150317_000407	Empty_weapon_Bow 
-ITEM_20150317_000408	Low Light Crossbow 
-ITEM_20150317_000409	Crossbow [Stab] 
-ITEM_20150317_000410	Useful when having a free hand is more important than just having attack power. 
-ITEM_20150317_000411	Low Crossbow 
-ITEM_20150317_000412	Modern Crossbows use many different materials, mostly monster parts. 
+ITEM_20150317_000408	低端的轻十字弓 
+ITEM_20150317_000409	十字弓 [穿刺] 
+ITEM_20150317_000410	强力攻击时空出一只手更实用. 
+ITEM_20150317_000411	低端十字弓 
+ITEM_20150317_000412	现代弩使用了许多不同材料,主要是怪物哒. 
 ITEM_20150317_000413	Dokyu 
 ITEM_20150317_000414	A bow that allows swift and fluid reloading of its ammunition. 
 ITEM_20150317_000415	Quarrel Bow 
@@ -1718,11 +1718,11 @@ ITEM_20150317_001717	Provides resistance against the Confusion status.
 ITEM_20150317_001718	Bubble Stick 
 ITEM_20150317_001719	Bubble Staff 
 ITEM_20150317_001720	Secondary Dagger 
-ITEM_20150317_001721	HPSP Potion 
-ITEM_20150317_001722	SP Potion 
-ITEM_20150317_001723	Speed Potion 
-ITEM_20150317_001724	STA Potion 
-ITEM_20150317_001725	Aggro Potion 
+ITEM_20150317_001721	HPSP 药剂 
+ITEM_20150317_001722	SP 药剂 
+ITEM_20150317_001723	Speed 药剂 
+ITEM_20150317_001724	STA 药剂 
+ITEM_20150317_001725	Aggro 药剂 
 ITEM_20150317_001726	Money Bag 
 ITEM_20150317_001727	Medal 
 ITEM_20150317_001728	Four-leaf Clover 
@@ -1765,18 +1765,18 @@ ITEM_20150317_001764	Empty_Pants
 ITEM_20150317_001765	Empty_Gloves 
 ITEM_20150317_001766	Empty_Boots 
 ITEM_20150317_001767	Top 
-ITEM_20150317_001768	Stamina +5 Increase Potion 
+ITEM_20150317_001768	Stamina +5 Increase 药剂 
 ITEM_20150317_001769	Right-click to use. 
-ITEM_20150317_001770	Small HP Potion 
+ITEM_20150317_001770	Small HP 药剂 
 ITEM_20150317_001771	Restores 192 HP. {nl}Health is restored every 2 seconds for 15 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150317_001772	HP Potion 
+ITEM_20150317_001772	HP 药剂 
 ITEM_20150317_001773	Restores 320 HP. {nl}Health is restored every 2 seconds for 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150317_001774	Large HP Potion 
+ITEM_20150317_001774	Large HP 药剂 
 ITEM_20150317_001775	Restores 640 HP. {nl}Health is restored every 2 seconds for 15 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150317_001776	Small SP Potion 
+ITEM_20150317_001776	Small SP 药剂 
 ITEM_20150317_001777	Restores 144 SP. {nl}SP is restored every 2 seconds for 15 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
 ITEM_20150317_001778	Restores 240 SP. {nl}SP is restored every 2 seconds for 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150317_001779	Large SP Potion 
+ITEM_20150317_001779	Large SP 药剂 
 ITEM_20150317_001780	Restores 480 SP. {nl}SP is restored every 2 seconds for 15 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
 ITEM_20150317_001781	Stamina Pill 
 ITEM_20150317_001782	Restores 15 Stamina. {nl}Right-click to use. Cooldown 30 seconds. 
@@ -1784,22 +1784,22 @@ ITEM_20150317_001783	STA Pill (Medium)
 ITEM_20150317_001784	Restores 30 Stamina. {nl}Right-click to use. Cooldown 45 seconds. 
 ITEM_20150317_001785	STA Pill (Large) 
 ITEM_20150317_001786	Restores 40 Stamina. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150317_001787	Small Recovery Potion 
+ITEM_20150317_001787	Small Recovery 药剂 
 ITEM_20150317_001788	Restores 244 HP and SP. {nl}Health and SP are restored every 2 seconds for 15 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150317_001789	Recovery Potion 
+ITEM_20150317_001789	Recovery 药剂 
 ITEM_20150317_001790	Restores 373 HP and SP. {nl}Health and SP are restored every 2 seconds for 15 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150317_001791	Large Recovery Potion 
+ITEM_20150317_001791	Large Recovery 药剂 
 ITEM_20150317_001792	Restores 744 HP and SP. {nl}Health and SP are restored every 2 seconds for 15 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150317_001793	STA + 5 Increase Potion 
+ITEM_20150317_001793	STA + 5 Increase 药剂 
 ITEM_20150317_001794	Increases Stamina by 5 
 ITEM_20150317_001795	Red Kepa Piece 
 ITEM_20150317_001796	Inflicts periodic Poison Damage (LV1) to the monster when used. 
 ITEM_20150317_001797	Can be only used on Beast-type monsters. 
-ITEM_20150317_001798	HP Recovery Potion (Small) 
-ITEM_20150317_001799	SP Recovery Potion (Small) 
-ITEM_20150317_001800	HP +5 Increase Potion 
-ITEM_20150317_001801	HP +10 Increase Potion 
-ITEM_20150317_001802	Movement Speed Increase Potion 
+ITEM_20150317_001798	HP Recovery 药剂 (Small) 
+ITEM_20150317_001799	SP Recovery 药剂 (Small) 
+ITEM_20150317_001800	HP +5 Increase 药剂 
+ITEM_20150317_001801	HP +10 Increase 药剂 
+ITEM_20150317_001802	Movement Speed Increase 药剂 
 ITEM_20150317_001803	Increases movement speed by 5 for 180 seconds. Right-click to use. Cooldown 30 seconds. 
 ITEM_20150317_001804	Warp Scroll 
 ITEM_20150317_001805	Allows you to warp to any Goddess Statue. Your current location will be saved at the Goddess Statue. 
@@ -1848,7 +1848,7 @@ ITEM_20150317_001847	Durian
 ITEM_20150317_001848	Strawberry 
 ITEM_20150317_001849	Wisdomberry 
 ITEM_20150317_001850	Lemon 
-ITEM_20150317_001851	Aggro Potion 
+ITEM_20150317_001851	Aggro 药剂 
 ITEM_20150317_001852	Lv120 Klaipeda Parish's Request 
 ITEM_20150317_001853	A scroll that will open a mission portal. Right-click to use. 
 ITEM_20150317_001854	Crystal Mine Mission Warp Stone 
@@ -1894,41 +1894,41 @@ ITEM_20150317_001893	LV6 EXP Card
 ITEM_20150317_001894	Adds 12000 EXP. {nl}Chance of receiving 50% additional EXP. {nl}Right-click to use. 
 ITEM_20150317_001895	LV7 EXP Card  
 ITEM_20150317_001896	Adds 24000 EXP. {nl}Chance of receiving 50% additional EXP. {nl}Right-click to use. 
-ITEM_20150317_001897	HP Increase Potion 
+ITEM_20150317_001897	HP Increase 药剂 
 ITEM_20150317_001898	Permanently increases max HP by 30. Right-click to use. 
-ITEM_20150317_001899	SP Increase Potion 
+ITEM_20150317_001899	SP Increase 药剂 
 ITEM_20150317_001900	Permanently increases max SP by 20. Right-click to use. 
-ITEM_20150317_001901	Stamina Increase Potion 
+ITEM_20150317_001901	Stamina Increase 药剂 
 ITEM_20150317_001902	Permanently increases max Stamina by 5. Right-click to use. 
-ITEM_20150317_001903	Weight Increase Potion 
+ITEM_20150317_001903	Weight Increase 药剂 
 ITEM_20150317_001904	Permanently increases max Weight by 100. Right-click to use. 
-ITEM_20150317_001905	Basic Small HP Potion  
-ITEM_20150317_001906	Basic HP Potion Supply  
-ITEM_20150317_001907	Basic Large HP Potion  
-ITEM_20150317_001908	Basic Small SP Potion  
-ITEM_20150317_001909	Basic SP Potion  
-ITEM_20150317_001910	Basic Large SP Potion  
+ITEM_20150317_001905	Basic Small HP 药剂  
+ITEM_20150317_001906	Basic HP 药剂 Supply  
+ITEM_20150317_001907	Basic Large HP 药剂  
+ITEM_20150317_001908	Basic Small SP 药剂  
+ITEM_20150317_001909	Basic SP 药剂  
+ITEM_20150317_001910	Basic Large SP 药剂  
 ITEM_20150317_001911	Basic Stamina Pill 
-ITEM_20150317_001912	Basic STA Potion (Medium) 
-ITEM_20150317_001913	Basic STA Potion (Large) 
-ITEM_20150317_001914	Basic Small Recovery Potion  
-ITEM_20150317_001915	Basic Recovery Potion  
-ITEM_20150317_001916	Basic Large Recovery Potion  
-ITEM_20150317_001917	Basic Movement Increase Potion  
-ITEM_20150317_001918	STR Increase Potion 
-ITEM_20150317_001919	Permanently increases Strength by 1. Right-click to use. 
-ITEM_20150317_001920	DEX Increase Potion 
-ITEM_20150317_001921	Permanently increases Dexterity by 1. Right-click to use. 
-ITEM_20150317_001922	HP Increase Potion 
+ITEM_20150317_001912	Basic STA 药剂 (Medium) 
+ITEM_20150317_001913	Basic STA 药剂 (Large) 
+ITEM_20150317_001914	Basic Small Recovery 药剂  
+ITEM_20150317_001915	Basic Recovery 药剂  
+ITEM_20150317_001916	Basic Large Recovery 药剂  
+ITEM_20150317_001917	Basic Movement Increase 药剂  
+ITEM_20150317_001918	STR 提升药剂 
+ITEM_20150317_001919	永久提升Strength 1点. 右键点击使用. 
+ITEM_20150317_001920	DEX 提升药剂 
+ITEM_20150317_001921	永久提升Dexterity 1点. 右键点击使用. 
+ITEM_20150317_001922	HP 提升药剂 
 ITEM_20150317_001923	Permanently increases Health by 1. Right-click to use. 
-ITEM_20150317_001924	INT Increase Potion 
+ITEM_20150317_001924	INT 提升药剂 
 ITEM_20150317_001925	Permanently increases Intelligence by 1. Right-click to use. 
-ITEM_20150317_001926	SPR Increase Potion 
+ITEM_20150317_001926	SPR 提升药剂 
 ITEM_20150317_001927	Permanently increases Spirit by 1. Right-click to use. 
-ITEM_20150317_001928	Ability Increase Potion 
+ITEM_20150317_001928	Ability 提升药剂 
 ITEM_20150317_001929	Gives 1 Ability Point. Right-click to use. 
 ITEM_20150317_001930	Permanently increases the max Weight by 50. Right-click to use. 
-ITEM_20150317_001931	Cooldown Time Potion (CBT Test Purposes) 
+ITEM_20150317_001931	Cooldown Time 药剂 (CBT Test Purposes) 
 ITEM_20150317_001932	Reduce the cooldown duration of all skills by 50% for 10 minutes. Right-click to use. Cooldown 10 minutes. 
 ITEM_20150317_001933	Ability Reset Scroll (CBT Test Purposes) 
 ITEM_20150317_001934	Reset the ability points of your character. (CBT Tester Only) 
@@ -1946,10 +1946,10 @@ ITEM_20150317_001945	Defense Booster +4
 ITEM_20150317_001946	Reduces damage taken by 4. Can be added and used from the quickslot. 
 ITEM_20150317_001947	Defense Booster +8 
 ITEM_20150317_001948	Reduces damage taken by 8. Can be added and used from the quickslot. 
-ITEM_20150317_001949	Condensed HP Potion 
-ITEM_20150317_001950	Condensed HP Potion 
+ITEM_20150317_001949	Condensed HP 药剂 
+ITEM_20150317_001950	Condensed HP 药剂 
 ITEM_20150317_001951	Potent Stamina Pill 
-ITEM_20150317_001952	Cooldown Time Potion 
+ITEM_20150317_001952	Cooldown Time 药剂 
 ITEM_20150317_001953	Monster Specimen Set 
 ITEM_20150317_001954	An old relic found in a well. Right-click to use. 
 ITEM_20150317_001955	Ore Collection 
@@ -2885,8 +2885,8 @@ ITEM_20150317_002884	Ellum's Sticky Sap
 ITEM_20150317_002885	Quest item. 
 ITEM_20150317_002886	Matsum Flower 
 ITEM_20150317_002887	Material required for Psychokino Master's research. 
-ITEM_20150317_002888	Sticky Potion 
-ITEM_20150317_002889	A potion made by the Psychokino Master. Contains the stamen of Mersium. Looks a little dangerous. 
+ITEM_20150317_002888	Sticky 药剂 
+ITEM_20150317_002889	A 药剂 made by the Psychokino Master. Contains the stamen of Mersium. Looks a little dangerous. 
 ITEM_20150317_002890	Material requested by the Linker Master. He said he needed it for some sort of experiement. Wonder what it's for? 
 ITEM_20150317_002891	Beliggler's Claw 
 ITEM_20150317_002892	Sapper Master's Hidden Goods 
@@ -3114,8 +3114,8 @@ ITEM_20150317_003113	Plantain Grass
 ITEM_20150317_003114	The soft parts of Plantain Grass gathered up. It tastes bitter when chewed. 
 ITEM_20150317_003115	Tini Meat 
 ITEM_20150317_003116	Meat is definitely the right choice for growing one's strength. 
-ITEM_20150317_003117	Empty Potion Bottle 
-ITEM_20150317_003118	Empty potion bottle stolen by a Vubbe. It sparkles as if it has been vigorously cleaned. 
+ITEM_20150317_003117	Empty 药剂 Bottle 
+ITEM_20150317_003118	Empty 药剂 bottle stolen by a Vubbe. It sparkles as if it has been vigorously cleaned. 
 ITEM_20150317_003119	Beetle's Shell 
 ITEM_20150317_003120	Soul Reamins 
 ITEM_20150317_003121	Sacred Force Sculpture 
@@ -3345,7 +3345,7 @@ ITEM_20150317_003344	Divine Crystal
 ITEM_20150317_003345	Lowers the strength of monsters when used on them. 
 ITEM_20150317_003346	Broken Altar Piece 
 ITEM_20150317_003347	A piece broken off from the altar on the second floor of the Cathedral 
-ITEM_20150317_003348	Lesser Potion of Light 
+ITEM_20150317_003348	Lesser 药剂 of Light 
 ITEM_20150317_003349	When used, you become invisible to Demons for 10 seconds. The effect disappears if you attack or take damage. 
 ITEM_20150317_003350	Lesser Bead of the Divine Spirit 
 ITEM_20150317_003351	When used, a Divine Spirit appears and provokes nearby Demons. 
@@ -4785,12 +4785,12 @@ ITEM_20150414_004784	A monster sample requested by Researcher Gareth. Will this 
 ITEM_20150414_004785	A monster sample requested by the Pyromancer. It is still warm. 
 ITEM_20150414_004786	An antidote that can heal the poisoned miners. The Hunter Master knows the recipe. 
 ITEM_20150414_004787	Leather carved with an unknown symbol. It looks like a magic circle. 
-ITEM_20150414_004788	A potion obtained from the Hunter Master. It makes an antidote when mixed with a Rimedeed Leaf.  
+ITEM_20150414_004788	A 药剂 obtained from the Hunter Master. It makes an antidote when mixed with a Rimedeed Leaf.  
 ITEM_20150414_004789	Poison from an unidentified dagger. It seems to be related with the leather marked with a magic circle. 
 ITEM_20150414_004790	A device that controls the growth of monsters. It seems to also work on crops. 
 ITEM_20150414_004791	An antidote recipe written by the Hunter Master. Combine the detoxifying solvent with the Rimedeed Leaf. 
-ITEM_20150414_004792	Charlotte's Special Potion 
-ITEM_20150414_004793	A special potion that only Charlotte knows how to make. It causes plants to wither die.  
+ITEM_20150414_004792	Charlotte's Special 药剂 
+ITEM_20150414_004793	A special 药剂 that only Charlotte knows how to make. It causes plants to wither die.  
 ITEM_20150428_004794	Equipment that helps one in battle. 
 ITEM_20150428_004795	Yorgis Badelaire 
 ITEM_20150428_004796	Superior Dio Sword 
@@ -4906,69 +4906,69 @@ ITEM_20150428_004905	Attack Booster + 15
 ITEM_20150428_004906	Increases weapon damage by 15. {nl}Can be used immediately after you have registered in the slot. 
 ITEM_20150428_004907	Attack Booster + 20 
 ITEM_20150428_004908	Increases weapon damage by 20. {nl}Can be used immediately after you have registered in the slot. 
-ITEM_20150428_004909	Concentrated HP Potion LV1 
+ITEM_20150428_004909	Concentrated HP 药剂 LV1 
 ITEM_20150428_004910	Restores HP every 2 seconds. {nl}800 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004911	Concentrated SP Potion LV1 
+ITEM_20150428_004911	Concentrated SP 药剂 LV1 
 ITEM_20150428_004912	Restores SP every 2 seconds. {nl}640 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
 ITEM_20150428_004913	Concentrated Stamina Pills LV1 
 ITEM_20150428_004914	Restores 50 stamina. Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_004915	Concentrated Movement Speed Increase Potion LV1 
+ITEM_20150428_004915	Concentrated Movement Speed Increase 药剂 LV1 
 ITEM_20150428_004916	Increases Movement Speed by 5 for 180 seconds. Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_004917	Concentrated HP Potion LV2 
+ITEM_20150428_004917	Concentrated HP 药剂 LV2 
 ITEM_20150428_004918	Restores HP every 2 seconds. {nl}800 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004919	Concentrated HP Potion LV3 
+ITEM_20150428_004919	Concentrated HP 药剂 LV3 
 ITEM_20150428_004920	Restores HP every 2 seconds. {nl}960 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004921	Concentrated HP Potion LV4 
+ITEM_20150428_004921	Concentrated HP 药剂 LV4 
 ITEM_20150428_004922	Restores HP every 2 seconds. {nl}1040 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004923	Concentrated HP Potion LV5 
+ITEM_20150428_004923	Concentrated HP 药剂 LV5 
 ITEM_20150428_004924	Restores HP every 2 seconds. {nl}1120 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004925	Concentrated HP Potion LV6 
+ITEM_20150428_004925	Concentrated HP 药剂 LV6 
 ITEM_20150428_004926	Restores HP every 2 seconds. {nl}1200 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004927	Concentrated HP Potion LV7 
+ITEM_20150428_004927	Concentrated HP 药剂 LV7 
 ITEM_20150428_004928	Restores HP every 2 seconds. {nl}1280 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004929	Concentrated HP Potion LV8 
+ITEM_20150428_004929	Concentrated HP 药剂 LV8 
 ITEM_20150428_004930	Restores HP every 2 seconds. {nl}1360 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004931	Concentrated HP Potion LV9 
+ITEM_20150428_004931	Concentrated HP 药剂 LV9 
 ITEM_20150428_004932	Restores HP every 2 seconds. {nl}1440 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004933	Concentrated HP Potion LV10 
+ITEM_20150428_004933	Concentrated HP 药剂 LV10 
 ITEM_20150428_004934	Restores HP every 2 seconds. {nl}1520 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004935	Concentrated HP Potion LV11 
+ITEM_20150428_004935	Concentrated HP 药剂 LV11 
 ITEM_20150428_004936	Restores HP every 2 seconds. {nl}1600 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004937	Concentrated HP Potion LV12 
+ITEM_20150428_004937	Concentrated HP 药剂 LV12 
 ITEM_20150428_004938	Restores HP every 2 seconds. {nl}1680 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004939	Concentrated HP Potion LV13 
+ITEM_20150428_004939	Concentrated HP 药剂 LV13 
 ITEM_20150428_004940	Restores HP every 2 seconds. {nl}1760 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004941	Concentrated HP Potion LV14 
+ITEM_20150428_004941	Concentrated HP 药剂 LV14 
 ITEM_20150428_004942	Restores HP every 2 seconds. {nl}1840 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004943	Concentrated HP Potion LV15 
+ITEM_20150428_004943	Concentrated HP 药剂 LV15 
 ITEM_20150428_004944	Restores HP every 2 seconds. {nl}900 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004945	Concentrated SP Potion LV2 
+ITEM_20150428_004945	Concentrated SP 药剂 LV2 
 ITEM_20150428_004946	Restores SP every 2 seconds. {nl}704 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004947	Concentrated SP Potion LV3 
+ITEM_20150428_004947	Concentrated SP 药剂 LV3 
 ITEM_20150428_004948	Restores SP every 2 seconds. {nl}768 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004949	Concentrated SP Potion LV4 
+ITEM_20150428_004949	Concentrated SP 药剂 LV4 
 ITEM_20150428_004950	Restores SP every 2 seconds. {nl}832 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004951	Concentrated SP Potion LV5 
+ITEM_20150428_004951	Concentrated SP 药剂 LV5 
 ITEM_20150428_004952	Restores SP every 2 seconds. {nl}896 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004953	Concentrated SP Potion LV6 
+ITEM_20150428_004953	Concentrated SP 药剂 LV6 
 ITEM_20150428_004954	Restores SP every 2 seconds. {nl}960 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004955	Concentrated SP Potion LV7 
+ITEM_20150428_004955	Concentrated SP 药剂 LV7 
 ITEM_20150428_004956	Restores SP every 2 seconds. {nl}1024 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004957	Concentrated SP Potion LV8 
+ITEM_20150428_004957	Concentrated SP 药剂 LV8 
 ITEM_20150428_004958	Restores SP every 2 seconds. {nl}1088 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004959	Concentrated SP Potion LV9 
+ITEM_20150428_004959	Concentrated SP 药剂 LV9 
 ITEM_20150428_004960	Restores SP every 2 seconds. {nl}1152 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004961	Concentrated SP Potion LV10 
+ITEM_20150428_004961	Concentrated SP 药剂 LV10 
 ITEM_20150428_004962	Restores SP every 2 seconds. {nl}1216 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004963	Concentrated SP Potion LV11 
+ITEM_20150428_004963	Concentrated SP 药剂 LV11 
 ITEM_20150428_004964	Restores SP every 2 seconds. {nl}1280 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004965	Concentrated SP Potion LV12 
+ITEM_20150428_004965	Concentrated SP 药剂 LV12 
 ITEM_20150428_004966	Restores SP every 2 seconds. {nl}1344 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004967	Concentrated SP Potion LV13 
+ITEM_20150428_004967	Concentrated SP 药剂 LV13 
 ITEM_20150428_004968	Restores SP every 2 seconds. {nl}1408 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004969	Concentrated SP Potion LV14 
+ITEM_20150428_004969	Concentrated SP 药剂 LV14 
 ITEM_20150428_004970	Restores SP every 2 seconds. {nl}1472 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150428_004971	Concentrated SP Potion LV15 
+ITEM_20150428_004971	Concentrated SP 药剂 LV15 
 ITEM_20150428_004972	Restores SP every 2 seconds. {nl}1536 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
 ITEM_20150428_004973	Concentrated Stamina Pills LV2 
 ITEM_20150428_004974	Restores 52 stamina. {nl}Right-click to use. Cooldown 30 seconds. 
@@ -4998,33 +4998,33 @@ ITEM_20150428_004997	Concentrated Stamina Pills LV14
 ITEM_20150428_004998	Restores 76 stamina. {nl}Right-click to use. Cooldown 30 seconds. 
 ITEM_20150428_004999	Concentrated Stamina Pills LV15 
 ITEM_20150428_005000	Restores 78 stamina. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_005001	Concentrated Movement Speed Increase Potion LV2 
+ITEM_20150428_005001	Concentrated Movement Speed Increase 药剂 LV2 
 ITEM_20150428_005002	Increases Movement Speed by 4 for 185 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_005003	Concentrated Movement Speed Increase Potion LV3 
+ITEM_20150428_005003	Concentrated Movement Speed Increase 药剂 LV3 
 ITEM_20150428_005004	Increases Movement Speed by 4 for 190 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_005005	Concentrated Movement Speed Increase Potion LV4 
+ITEM_20150428_005005	Concentrated Movement Speed Increase 药剂 LV4 
 ITEM_20150428_005006	Increases Movement Speed by 4 for 195 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_005007	Concentrated Movement Speed Increase Potion LV5 
+ITEM_20150428_005007	Concentrated Movement Speed Increase 药剂 LV5 
 ITEM_20150428_005008	Increases Movement Speed by 4 for 200 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_005009	Concentrated Movement Speed Increase Potion LV6 
+ITEM_20150428_005009	Concentrated Movement Speed Increase 药剂 LV6 
 ITEM_20150428_005010	Increases Movement Speed by 4 for 205 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_005011	Concentrated Movement Speed Increase Potion LV7 
+ITEM_20150428_005011	Concentrated Movement Speed Increase 药剂 LV7 
 ITEM_20150428_005012	Increases Movement Speed by 4 for 210 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_005013	Concentrated Movement Speed Increase Potion LV8 
+ITEM_20150428_005013	Concentrated Movement Speed Increase 药剂 LV8 
 ITEM_20150428_005014	Increases Movement Speed by 4 for 215 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_005015	Concentrated Movement Speed Increase Potion LV9 
+ITEM_20150428_005015	Concentrated Movement Speed Increase 药剂 LV9 
 ITEM_20150428_005016	Increases Movement Speed by 4 for 220 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_005017	Concentrated Movement Speed Increase Potion LV10 
+ITEM_20150428_005017	Concentrated Movement Speed Increase 药剂 LV10 
 ITEM_20150428_005018	Increases Movement Speed by 4 for 225 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_005019	Concentrated Movement Speed Increase Potion LV11 
+ITEM_20150428_005019	Concentrated Movement Speed Increase 药剂 LV11 
 ITEM_20150428_005020	Increases Movement Speed by 4 for 230 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_005021	Concentrated Movement Speed Increase Potion LV12 
+ITEM_20150428_005021	Concentrated Movement Speed Increase 药剂 LV12 
 ITEM_20150428_005022	Increases Movement Speed by 4 for 235 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_005023	Concentrated Movement Speed Increase Potion LV13 
+ITEM_20150428_005023	Concentrated Movement Speed Increase 药剂 LV13 
 ITEM_20150428_005024	Increases Movement Speed by 4 for 240 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_005025	Concentrated Movement Speed Increase Potion LV14 
+ITEM_20150428_005025	Concentrated Movement Speed Increase 药剂 LV14 
 ITEM_20150428_005026	Increases Movement Speed by 4 for 245 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
-ITEM_20150428_005027	Concentrated Movement Speed Increase Potion LV15 
+ITEM_20150428_005027	Concentrated Movement Speed Increase 药剂 LV15 
 ITEM_20150428_005028	Increases Movement Speed by 4 for 250 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
 ITEM_20150428_005029	Master Genie Card 
 ITEM_20150428_005030	Merregina Card 
@@ -5163,7 +5163,7 @@ ITEM_20150714_005162	LV12 EXP Card
 ITEM_20150714_005163	Add 202718 EXP and 156092 Class EXP. {nl}Chance of receiving additional EXP. {nl}Right-click to use. 
 ITEM_20150714_005164	LV13 EXP Card 
 ITEM_20150714_005165	Add 448276 EXP and 345172 Class EXP. {nl}Chance of receiving additional EXP. {nl}Right-click to use. 
-ITEM_20150714_005166	Repair Potion 
+ITEM_20150714_005166	Repair 药剂 
 ITEM_20150714_005167	It helps to restore the equipment durability. Right-click to use. 
 ITEM_20150714_005168	Restores HP every 2 seconds. {nl}1920 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
 ITEM_20150714_005169	Restores HP every 2 seconds. {nl}2080 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
@@ -5178,95 +5178,95 @@ ITEM_20150714_005177	Restores HP every 2 seconds. {nl}3360 HP is restored over 1
 ITEM_20150714_005178	Restores HP every 2 seconds. {nl}3520 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
 ITEM_20150714_005179	Restores HP every 2 seconds. {nl}3680 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
 ITEM_20150714_005180	Restores HP every 2 seconds. {nl}3840 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
-ITEM_20150714_005181	Block Increase Potion LV1 
+ITEM_20150714_005181	Block Increase 药剂 LV1 
 ITEM_20150714_005182	Increases Block by 50 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005183	Block Increase Potion LV2 
+ITEM_20150714_005183	Block Increase 药剂 LV2 
 ITEM_20150714_005184	Increases Block by 65 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005185	Block Increase Potion LV3 
+ITEM_20150714_005185	Block Increase 药剂 LV3 
 ITEM_20150714_005186	Increases Block by 80 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005187	Block Increase Potion LV4 
+ITEM_20150714_005187	Block Increase 药剂 LV4 
 ITEM_20150714_005188	Increases Block by 95 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005189	Block Increase Potion LV5 
+ITEM_20150714_005189	Block Increase 药剂 LV5 
 ITEM_20150714_005190	Increases Block by 110 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005191	Block Increase Potion LV6 
+ITEM_20150714_005191	Block Increase 药剂 LV6 
 ITEM_20150714_005192	Increases Block by 125 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005193	Block Increase Potion LV7 
+ITEM_20150714_005193	Block Increase 药剂 LV7 
 ITEM_20150714_005194	Increases Block by 140 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005195	Block Increase Potion LV8 
+ITEM_20150714_005195	Block Increase 药剂 LV8 
 ITEM_20150714_005196	Increases Block by 155 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005197	Block Increase Potion LV9 
+ITEM_20150714_005197	Block Increase 药剂 LV9 
 ITEM_20150714_005198	Increases Block by 170 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005199	Block Increase Potion LV10 
+ITEM_20150714_005199	Block Increase 药剂 LV10 
 ITEM_20150714_005200	Increases Block by 185 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005201	Block Increase Potion LV11 
+ITEM_20150714_005201	Block Increase 药剂 LV11 
 ITEM_20150714_005202	Increases Block by 200 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005203	Block Increase Potion LV12 
+ITEM_20150714_005203	Block Increase 药剂 LV12 
 ITEM_20150714_005204	Increases Block by 215 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005205	Block Increase Potion LV13 
+ITEM_20150714_005205	Block Increase 药剂 LV13 
 ITEM_20150714_005206	Increases Block by 230 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005207	Block Increase Potion LV14 
+ITEM_20150714_005207	Block Increase 药剂 LV14 
 ITEM_20150714_005208	Increases Block by 245 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005209	Block Increase Potion LV15 
+ITEM_20150714_005209	Block Increase 药剂 LV15 
 ITEM_20150714_005210	Increases Block by 260 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005211	Critical Damage Increase Potion LV1 
+ITEM_20150714_005211	Critical Damage Increase 药剂 LV1 
 ITEM_20150714_005212	Increases Critical Damage by 32 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005213	Critical Damage Increase Potion LV2 
+ITEM_20150714_005213	Critical Damage Increase 药剂 LV2 
 ITEM_20150714_005214	Increases Critical Damage by 44 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005215	Critical Damage Increase Potion LV3 
+ITEM_20150714_005215	Critical Damage Increase 药剂 LV3 
 ITEM_20150714_005216	Increases Critical Damage by 56 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005217	Critical Damage Increase Potion LV4 
+ITEM_20150714_005217	Critical Damage Increase 药剂 LV4 
 ITEM_20150714_005218	Increases Critical Damage by 68 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005219	Critical Damage Increase Potion LV5 
+ITEM_20150714_005219	Critical Damage Increase 药剂 LV5 
 ITEM_20150714_005220	Increases Critical Damage by 80 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005221	Critical Damage Increase Potion LV6 
+ITEM_20150714_005221	Critical Damage Increase 药剂 LV6 
 ITEM_20150714_005222	Increases Critical Damage by 92 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005223	Critical Damage Increase Potion LV7 
+ITEM_20150714_005223	Critical Damage Increase 药剂 LV7 
 ITEM_20150714_005224	Increases Critical Damage by 104 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005225	Critical Damage Increase Potion LV8 
+ITEM_20150714_005225	Critical Damage Increase 药剂 LV8 
 ITEM_20150714_005226	Increases Critical Damage by 116 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005227	Critical Damage Increase Potion LV9 
+ITEM_20150714_005227	Critical Damage Increase 药剂 LV9 
 ITEM_20150714_005228	Increases Critical Damage by 128 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005229	Critical Damage Increase Potion LV10 
+ITEM_20150714_005229	Critical Damage Increase 药剂 LV10 
 ITEM_20150714_005230	Increases Critical Damage by 140 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005231	Critical Damage Increase Potion LV11 
+ITEM_20150714_005231	Critical Damage Increase 药剂 LV11 
 ITEM_20150714_005232	Increases Critical Damage by 152 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds 
-ITEM_20150714_005233	Critical Damage Increase Potion LV12 
+ITEM_20150714_005233	Critical Damage Increase 药剂 LV12 
 ITEM_20150714_005234	Increases Critical Damage by 164 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005235	Critical Damage Increase Potion LV13 
+ITEM_20150714_005235	Critical Damage Increase 药剂 LV13 
 ITEM_20150714_005236	Increases Critical Damage by 176 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005237	Critical Damage Increase Potion LV14 
+ITEM_20150714_005237	Critical Damage Increase 药剂 LV14 
 ITEM_20150714_005238	Increases Critical Damage by 188 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005239	Critical Damage Increase Potion LV15 
+ITEM_20150714_005239	Critical Damage Increase 药剂 LV15 
 ITEM_20150714_005240	Increases Critical Damage by 200 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005241	Magic Boost Increase Potion LV1 
+ITEM_20150714_005241	Magic Boost Increase 药剂 LV1 
 ITEM_20150714_005242	Increases Magic Boost by 10 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005243	Magic Boost Increase Potion LV2 
+ITEM_20150714_005243	Magic Boost Increase 药剂 LV2 
 ITEM_20150714_005244	Increases Magic Boost by 14 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005245	Magic Boost Increase Potion LV3 
+ITEM_20150714_005245	Magic Boost Increase 药剂 LV3 
 ITEM_20150714_005246	Increases Magic Boost by 18 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005247	Magic Boost Increase Potion LV4 
+ITEM_20150714_005247	Magic Boost Increase 药剂 LV4 
 ITEM_20150714_005248	Increases Magic Boost by 22 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005249	Magic Boost Increase Potion LV5 
+ITEM_20150714_005249	Magic Boost Increase 药剂 LV5 
 ITEM_20150714_005250	Increases Magic Boost by 26 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005251	Magic Boost Increase Potion LV6 
+ITEM_20150714_005251	Magic Boost Increase 药剂 LV6 
 ITEM_20150714_005252	Increases Magic Boost by 30 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005253	Magic Boost Increase Potion LV7 
+ITEM_20150714_005253	Magic Boost Increase 药剂 LV7 
 ITEM_20150714_005254	Increases Magic Boost by 34 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005255	Magic Boost Increase Potion LV8 
+ITEM_20150714_005255	Magic Boost Increase 药剂 LV8 
 ITEM_20150714_005256	Increases Magic Boost by 38 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005257	Magic Boost Increase Potion LV9 
+ITEM_20150714_005257	Magic Boost Increase 药剂 LV9 
 ITEM_20150714_005258	Increases Magic Boost by 42 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005259	Magic Boost Increase Potion LV10 
+ITEM_20150714_005259	Magic Boost Increase 药剂 LV10 
 ITEM_20150714_005260	Increases Magic Boost by 46 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005261	Magic Boost Increase Potion LV11 
+ITEM_20150714_005261	Magic Boost Increase 药剂 LV11 
 ITEM_20150714_005262	Increases Magic Boost by 50 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005263	Magic Boost Increase Potion LV12 
+ITEM_20150714_005263	Magic Boost Increase 药剂 LV12 
 ITEM_20150714_005264	Increases Magic Boost by 54 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005265	Magic Boost Increase Potion LV13 
+ITEM_20150714_005265	Magic Boost Increase 药剂 LV13 
 ITEM_20150714_005266	Increases Magic Boost by 58 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005267	Magic Boost Increase Potion LV14 
+ITEM_20150714_005267	Magic Boost Increase 药剂 LV14 
 ITEM_20150714_005268	Increases Magic Boost by 62 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
-ITEM_20150714_005269	Magic Boost Increase Potion LV15 
+ITEM_20150714_005269	Magic Boost Increase 药剂 LV15 
 ITEM_20150714_005270	Increases Magic Boost by 66 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds. 
 ITEM_20150714_005271	Revelation: Opposing Piece Collection 
 ITEM_20150714_005272	계시록 : 이면편 콜렉션
@@ -5464,7 +5464,7 @@ ITEM_20150714_005463	Goddess Austeja's Writings
 ITEM_20150714_005464	A script needed for repairing the sealed tower in the Uskis Arable Land. 
 ITEM_20150714_005465	Bomb Weed 
 ITEM_20150714_005466	Explosive Shot Materials  
-ITEM_20150714_005467	A potion that the Kingdom Military had. Used when making Explosive Shot. 
+ITEM_20150714_005467	A 药剂 that the Kingdom Military had. Used when making Explosive Shot. 
 ITEM_20150714_005468	Explosive Shot 
 ITEM_20150714_005469	A bomb that doesn't have much explosive power, but creates a huge noise when set off. 
 ITEM_20150714_005470	Dud Bomb 
@@ -5509,8 +5509,8 @@ ITEM_20150714_005508	Acylado Hydrophyte
 ITEM_20150714_005509	An aquatic plant that grows in watery environments. It can filter and purify water. 
 ITEM_20150714_005510	Monastery Crystal Ball   
 ITEM_20150714_005511	A crystal ball found in a wooden box at the monastery. Used to activate the device in the prayer hall. 
-ITEM_20150714_005512	Deodorizing Potion 
-ITEM_20150714_005513	A strong potion used for removing odors. It has an antiseptic scent to it. 
+ITEM_20150714_005512	Deodorizing 药剂 
+ITEM_20150714_005513	A strong 药剂 used for removing odors. It has an antiseptic scent to it. 
 ITEM_20150714_005514	Tilla Monastery Scriptures 
 ITEM_20150714_005515	Scriptures that were scattered by rampaging monsters. Bring them to Mohaim. 
 ITEM_20150717_005516	굳건한 날이 사용자에게 검의 길을 보여주는 듯합니다. 
