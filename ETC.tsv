@@ -356,7 +356,7 @@ ETC_20150317_000355	Monster 法师
 ETC_20150317_000356	Battery (temporary)
 ETC_20150317_000357	Block of Ice
 ETC_20150317_000358	Pillar of Ice
-ETC_20150317_000359	Bonfire
+ETC_20150317_000359	营火
 ETC_20150317_000360	Mine
 ETC_20150317_000361	Pavise
 ETC_20150317_000362	Subzero 盾牌
@@ -1731,7 +1731,7 @@ ETC_20150317_001730	合并物品..
 ETC_20150317_001731	获得物品
 ETC_20150317_001732	Drag and drop the card into the slot to equip it.
 ETC_20150317_001733	修理费用: {Price}{nl} 你确定要修理吗？
-ETC_20150317_001734	Undecided
+ETC_20150317_001734	未确定
 ETC_20150317_001735	道具没有足够的潜力值
 ETC_20150317_001736	道具没有足够的插槽
 ETC_20150317_001737	你没有足够的资金
@@ -1753,7 +1753,7 @@ ETC_20150317_001752	棍
 ETC_20150317_001753	上衣
 ETC_20150317_001754	帽子
 ETC_20150317_001755	双手矛
-ETC_20150317_001756	Place items in the window
+ETC_20150317_001756	把物品拖动到窗口中
 ETC_20150317_001757	宝石
 ETC_20150317_001758	插槽
 ETC_20150317_001759	{nl}{nl}Number of magic amulets that can be equipped: {Remain}
@@ -1857,7 +1857,7 @@ ETC_20150317_001856	Obtained Monsters
 ETC_20150317_001857	Buy from shop
 ETC_20150317_001858	Sell to shop
 ETC_20150317_001859	Cheat key
-ETC_20150317_001860	Trade
+ETC_20150317_001860	交易
 ETC_20150317_001861	Change 装备
 ETC_20150317_001862	制作
 ETC_20150317_001863	Pocket
@@ -1909,9 +1909,9 @@ ETC_20150317_001908	(攻击抵抗)
 ETC_20150317_001909	Requires a record in the Adventure Journal. 按 the A key to update whilst sitting.
 ETC_20150317_001910	You can now use the [{Auto_1}] title.
 ETC_20150317_001911	特质
-ETC_20150317_001912	{@st59} Click for more information {/}
+ETC_20150317_001912	{@st59} 点击查看更多信息 {/}
 ETC_20150317_001913	The next level requires the same class advancement.
-ETC_20150317_001914	Use Skill Points to increase skill level.
+ETC_20150317_001914	使用技能点提升技能等级
 ETC_20150317_001915	装备
 ETC_20150317_001916	不显示
 ETC_20150317_001917	显示
@@ -1940,7 +1940,7 @@ ETC_20150317_001939	Recession!
 ETC_20150317_001940	Withdraw!
 ETC_20150317_001941	{@st45w3}{s18}{Auto_1} Silver {/}
 ETC_20150317_001942	{Auto_1} level achievement when completed {@st42b}
-ETC_20150317_001943	{@st54}{b} Reward(s) {/}
+ETC_20150317_001943	{@st54}{b} 奖励 {/}
 ETC_20150317_001944	天
 ETC_20150317_001945	小时
 ETC_20150317_001946	分钟
@@ -1964,7 +1964,7 @@ ETC_20150317_001963	Socket Bonus
 ETC_20150317_001964	Please put the jewelry into the socket
 ETC_20150317_001965	There is no space
 ETC_20150317_001966	Do you want to decide?
-ETC_20150317_001967	Whisper
+ETC_20150317_001967	悄悄话
 ETC_20150317_001968	点击右键装备
 ETC_20150317_001969	点击右键出售
 ETC_20150317_001970	点击右键删除
@@ -1989,7 +1989,7 @@ ETC_20150317_001988	Category
 ETC_20150317_001989	被动
 ETC_20150317_001990	Enhance Skill
 ETC_20150317_001991	Available
-ETC_20150317_001992	All
+ETC_20150317_001992	全部
 ETC_20150317_001993	Points
 ETC_20150317_001994	You do not have enough slots.
 ETC_20150317_001995	任务列表
@@ -2026,7 +2026,7 @@ ETC_20150317_002025	I want to import the items
 ETC_20150317_002026	{Auto_1} Month {Auto_2} day
 ETC_20150317_002027	Failed to break record
 ETC_20150317_002028	Mercenary 弓箭手
-ETC_20150317_002029	{Auto_1} ea left
+ETC_20150317_002029	{Auto_1} 个 left
 ETC_20150317_002030	{Auto_1} has destroyed the enemy's towers. iCoins will be rewarded to the team.
 ETC_20150317_002031	{Auto_1} has destroyed allies's tower.
 ETC_20150317_002032	{Auto_1} appeared. Defeat it to receive rewards.
@@ -2045,7 +2045,7 @@ ETC_20150317_002044	Sub
 ETC_20150317_002045	Received reward(s)!
 ETC_20150317_002046	Gift given by {Giver} to {Target}
 ETC_20150317_002047	数量
-ETC_20150317_002048	Receive
+ETC_20150317_002048	接收
 ETC_20150317_002049	购买
 ETC_20150317_002050	查看市场
 ETC_20150317_002051	[不可用]
@@ -2440,9 +2440,9 @@ ETC_20150317_002439	Already waiting for the soul of the bishop Aurelius.
 ETC_20150317_002440	Checking
 ETC_20150317_002441	You've found the item underground
 ETC_20150317_002442	Did not find anything
-ETC_20150317_002443	Type
+ETC_20150317_002443	种类
 ETC_20150317_002444	Attribute
-ETC_20150317_002445	{Count} ea obtained
+ETC_20150317_002445	{Count} 个 obtained
 ETC_20150317_002446	Found the reference related with Naktis
 ETC_20150317_002447	Failed to find the reference related with Naktis
 ETC_20150317_002448	Obtained the herb!
@@ -2588,7 +2588,7 @@ ETC_20150317_002587	Adjust Rim Blow
 ETC_20150317_002588	Close Shot Penalty
 ETC_20150317_002589	Wood Engraving Attack
 ETC_20150317_002590	Leave Guild
-ETC_20150317_002591	Party Request
+ETC_20150317_002591	组队邀请
 ETC_20150317_002592	Failed to create a party
 ETC_20150317_002593	The name of the party already exists
 ETC_20150317_002594	Leave the party
@@ -2631,7 +2631,7 @@ ETC_20150317_002630	Open board and logout
 ETC_20150317_002631	iCoin cycle
 ETC_20150317_002632	You do not have any iCoin to give.
 ETC_20150317_002633	Enter the amount of iCoin you want to gift.
-ETC_20150317_002634	{Auto_2} ~ {Auto_1} ea
+ETC_20150317_002634	{Auto_2} ~ {Auto_1} 个
 ETC_20150317_002635	You received {Count} iCoin as a gift from {Giver}.
 ETC_20150317_002636	I gifted {Count} iCoin to {Receiver}.
 ETC_20150317_002637	{Giver} has not enough iCoin to gift.
@@ -2693,11 +2693,11 @@ ETC_20150317_002692	{PC} has won {ItemName} from the auction.
 ETC_20150317_002693	You cannot bid higher than the buyout price.
 ETC_20150317_002694	Would you like to buy?
 ETC_20150317_002695	Do you want to adopt this 宠物?
-ETC_20150317_002696	Seller
-ETC_20150317_002697	Sell Quantity
-ETC_20150317_002698	Unit Price
-ETC_20150317_002699	Total Price
-ETC_20150317_002700	Purchase Number
+ETC_20150317_002696	出售人
+ETC_20150317_002697	出售数量
+ETC_20150317_002698	单价
+ETC_20150317_002699	总价
+ETC_20150317_002700	购买号码
 ETC_20150317_002701	Your selling price must be at least 0 silver.
 ETC_20150317_002702	Your selling quantity must be at least 0.
 ETC_20150317_002703	Your item has been successfully registered on the Market.
@@ -2707,7 +2707,7 @@ ETC_20150317_002706	Are you sure you want to cancel the item registration?
 ETC_20150317_002707	Your item has been successfully canceled on the Market. Please check that you've received the item.
 ETC_20150317_002708	The equipped item cannot be registered.
 ETC_20150317_002709	Private
-ETC_20150317_002710	Confirm Purchase
+ETC_20150317_002710	确认购买
 ETC_20150317_002711	价格: 低到高
 ETC_20150317_002712	价格: 高到低
 ETC_20150317_002713	最新登记
@@ -2756,14 +2756,14 @@ ETC_20150317_002755	Repeated Hit
 ETC_20150317_002756	Rear Attack Range
 ETC_20150317_002757	Use specific skill
 ETC_20150317_002758	Possible
-ETC_20150317_002759	Not Available
+ETC_20150317_002759	不可用
 ETC_20150317_002760	会心攻击
 ETC_20150317_002761	会心防御
-ETC_20150317_002762	Tradeable
-ETC_20150317_002763	Untradeable
+ETC_20150317_002762	可交易
+ETC_20150317_002763	不可交易
 ETC_20150317_002764	Potion recovery amount
 ETC_20150317_002765	SP 回复
-ETC_20150317_002766	Cannot be sold
+ETC_20150317_002766	不能出售
 ETC_20150317_002767	火属性攻击
 ETC_20150317_002768	冰属性攻击
 ETC_20150317_002769	毒属性攻击
@@ -2818,7 +2818,7 @@ ETC_20150317_002817	困难
 ETC_20150317_002818	非常困难
 ETC_20150317_002819	{S22}{ol}Next quest level: {Auto_1}
 ETC_20150317_002820	地区 : 
-ETC_20150317_002821	{@st45w3}{s18}{Auto_1}{Auto_2} ea {/}
+ETC_20150317_002821	{@st45w3}{s18}{Auto_1}{Auto_2} 个 {/}
 ETC_20150317_002822	{@st41}Reward(s) received:
 ETC_20150317_002823	{@st64} Approach the NPC and use 
 ETC_20150317_002824	空格
@@ -2831,12 +2831,12 @@ ETC_20150317_002830	战士 Type
 ETC_20150317_002831	法师 Type
 ETC_20150317_002832	弓箭手 Type
 ETC_20150317_002833	牧师 Type
-ETC_20150317_002834	Sorcerer Type
-ETC_20150317_002835	Human Type
-ETC_20150317_002836	恶魔 Type
-ETC_20150317_002837	植物 Type
-ETC_20150317_002838	野兽 Type
-ETC_20150317_002839	变异 Type
+ETC_20150317_002834	Sorcerer 型
+ETC_20150317_002835	人型
+ETC_20150317_002836	恶魔型
+ETC_20150317_002837	植物型
+ETC_20150317_002838	野兽型
+ETC_20150317_002839	变异型
 ETC_20150317_002840	Object
 ETC_20150317_002841	Insect Type
 ETC_20150317_002842	布衣
@@ -2864,8 +2864,8 @@ ETC_20150317_002863	Only through the NPC can be registered.
 ETC_20150317_002864	Obtained {Auto_2} from {Auto_1}
 ETC_20150317_002865	#NAME?
 ETC_20150317_002866	Explored
-ETC_20150317_002867	{Auto_1} Quest(s) cleared
-ETC_20150317_002868	{Auto_1} NPC(s) met
+ETC_20150317_002867	{Auto_1} 任务完成
+ETC_20150317_002868	{Auto_1} NPC遇见
 ETC_20150317_002869	分数 {Category}
 ETC_20150317_002870	排行
 ETC_20150317_002871	Adventure
@@ -2880,16 +2880,16 @@ ETC_20150317_002879	Set items
 ETC_20150317_002880	Acquired
 ETC_20150317_002881	Score earned
 ETC_20150317_002882	Boss
-ETC_20150317_002883	Date
+ETC_20150317_002883	日期
 ETC_20150317_002884	Click to go to the item page.
 ETC_20150317_002885	Recent
 ETC_20150317_002886	Help
 ETC_20150317_002887	Your team name has been added as your Buddy.
 ETC_20150317_002888	Already in your Buddy List.
 ETC_20150317_002889	You have a new Buddy Request.
-ETC_20150317_002890	Request Received
-ETC_20150317_002891	Request Sent
-ETC_20150317_002892	Request Declined
+ETC_20150317_002890	收到的请求
+ETC_20150317_002891	发出的请求
+ETC_20150317_002892	拒绝的请求
 ETC_20150317_002893	Buddies who are registered to TOS
 ETC_20150317_002894	Buddies who do not play TOS
 ETC_20150317_002895	Someone you may know
@@ -2908,7 +2908,7 @@ ETC_20150317_002907	Memo Settings
 ETC_20150317_002908	Group Settings ▶
 ETC_20150317_002909	Enter Memo
 ETC_20150317_002910	Group Settings
-ETC_20150317_002911	Buddy Request
+ETC_20150317_002911	朋友邀请
 ETC_20150317_002912	The buddy request has been sent.
 ETC_20150317_002913	New Group
 ETC_20150317_002914	Block
@@ -2974,12 +2974,12 @@ ETC_20150317_002973	Fixation
 ETC_20150317_002974	Ground-based
 ETC_20150317_002975	Airborne Type
 ETC_20150317_002976	Elite
-ETC_20150317_002977	Logout: {Year} year(s) ago
-ETC_20150317_002978	Logout: {Month} month(s) ago
-ETC_20150317_002979	Logout: {Day} day(s) ago
-ETC_20150317_002980	Logout: {Hour} hour(s) ago
-ETC_20150317_002981	Logout: {Min} minute(s) ago
-ETC_20150317_002982	Logout: just now
+ETC_20150317_002977	登出: {Year} 年前
+ETC_20150317_002978	登出: {Month} 月前
+ETC_20150317_002979	登出: {Day} 天前
+ETC_20150317_002980	登出: {Hour} 小时前
+ETC_20150317_002981	登出: {Min} 分钟前
+ETC_20150317_002982	登出: 刚刚
 ETC_20150317_002983	Temporary space
 ETC_20150317_002984	{Auto_1} HP已经回复
 ETC_20150317_002985	{Auto_1} SP已经回复
@@ -3308,7 +3308,7 @@ ETC_20150317_003307	Putting up
 ETC_20150317_003308	You cannot pass because the monster is blocking the way. {nl}
 ETC_20150317_003309	Go back!
 ETC_20150317_003310	Piece of wood with diving power
-ETC_20150317_003311	ea obtained
+ETC_20150317_003311	个 obtained
 ETC_20150317_003312	Obtained the essence of soul
 ETC_20150317_003313	Are you telling me to die again?!
 ETC_20150317_003314	That's nonsense!
@@ -3576,10 +3576,10 @@ ETC_20150317_003575	Spray preservative
 ETC_20150317_003576	Hi there
 ETC_20150317_003577	You can give EXP only to low level players
 ETC_20150317_003578	Gave {Auto_2} EXP to {Auto_1}.
-ETC_20150317_003579	{S20}{ol}{#ff1100} Received {Auto_2} EXP from {Auto_1}.{/}{/}{/}
-ETC_20150317_003580	You do not have enough EXP
+ETC_20150317_003579	{S20}{ol}{#ff1100} 从 {Auto_1} 获取 {Auto_2} EXP .{/}{/}{/}
+ETC_20150317_003580	你没有足够的 EXP
 ETC_20150317_003581	Calling session not in SessionObject XML. Call value:
-ETC_20150317_003582	Faster Movement Speed
+ETC_20150317_003582	更快的移动速度
 ETC_20150317_003583	增加体质 +2
 ETC_20150317_003584	增加体质 +5
 ETC_20150317_003585	增加体质+10
@@ -3665,8 +3665,8 @@ ETC_20150317_003664	Quest complete! {nl} Jonas wakes up.
 ETC_20150317_003665	Activate when the device is sparkling{nl} to shorten the time.
 ETC_20150317_003666	Activate equipment! (Space bar)
 ETC_20150317_003667	Remove the forgery from the smoking cast!
-ETC_20150317_003668	Modify
-ETC_20150317_003669	Quest complete! {nl}
+ETC_20150317_003668	修改
+ETC_20150317_003669	任务完成! {nl}
 ETC_20150317_003670	Jewel with evil forces collected
 ETC_20150317_003671	Can be obtained
 ETC_20150317_003672	Five minutes later, Royal Rumble will {nl}
@@ -3680,7 +3680,7 @@ ETC_20150317_003679	Times hit
 ETC_20150317_003680	Mastered normal attack
 ETC_20150317_003681	按 and hold the key for continuous attack
 ETC_20150317_003682	Click the mouse for continuous attack
-ETC_20150317_003683	Return
+ETC_20150317_003683	返回
 ETC_20150317_003684	This can be used to return to the NPC quickly.
 ETC_20150317_003685	s HitMe
 ETC_20150317_003686	It tag ended! Achievements Points: {Auto_1}
@@ -3709,8 +3709,8 @@ ETC_20150317_003708	Modem Reflect
 ETC_20150317_003709	The attribute is not defined. Lua code modifications recommended
 ETC_20150317_003710	The attribute is not defined. Lua code modifications recommended
 ETC_20150317_003711	Congrats~ - I want to give you something but I'm to lazy
-ETC_20150317_003712	Level up successful
-ETC_20150317_003713	Level up failed
+ETC_20150317_003712	升级成功
+ETC_20150317_003713	升级失败
 ETC_20150317_003714	L 3 occur when COMMON_QUEST_HANDLER PC is nil
 ETC_20150317_003715	NPC is not registered in NPCSelectDialog xml
 ETC_20150317_003716	L 251 occurs when SCR_QUEST_POSSIBLE PC is nil
@@ -3740,11 +3740,11 @@ ETC_20150317_003739	There is no function
 ETC_20150317_003740	There is no custom metabolism script function.
 ETC_20150317_003741	There is no specified function.
 ETC_20150317_003742	COMMON_QUEST_HANDLER Dlg UI of the PC which can occur when a nil L 2309
-ETC_20150317_003743	Quest
+ETC_20150317_003743	任务
 ETC_20150317_003744	Column syntax error
 ETC_20150317_003745	The start of the track
 ETC_20150317_003746	{Auto_2} track of {Auto_1} quest does not exist
-ETC_20150317_003747	Character
+ETC_20150317_003747	角色
 ETC_20150317_003748	Quest finished directing 1111111, Layer object:
 ETC_20150317_003749	Quest finished directing 2222222, layer objects EventName:
 ETC_20150317_003750	Quest finished directing 333333, PC Current Layer:
@@ -3796,7 +3796,7 @@ ETC_20150317_003795	{/} Begin Quest
 ETC_20150317_003796	Quest In Progress NPC Talk
 ETC_20150317_003797	任务完成
 ETC_20150317_003798	Show quest info in C: \
-ETC_20150317_003799	Give up Quest
+ETC_20150317_003799	放弃任务
 ETC_20150317_003800	Go to Start NPC
 ETC_20150317_003801	Go to In Progress NPC
 ETC_20150317_003802	Go to Completed NPC
@@ -3807,7 +3807,7 @@ ETC_20150317_003806	If you need to restart quest standby complete, complete the 
 ETC_20150317_003807	Can only be used when the quest is still in progress
 ETC_20150317_003808	Transaction error
 ETC_20150317_003809	This can only be used when the quest is progress or in standby mode. Current state:
-ETC_20150317_003810	Quest Starting Map:
+ETC_20150317_003810	任务开始地图:
 ETC_20150317_003811	Start NPC:
 ETC_20150317_003812	Activate {nl}
 ETC_20150317_003813	Use this to warp anywhere!
@@ -3819,10 +3819,10 @@ ETC_20150317_003818	Basic Quest Information
 ETC_20150317_003819	Home
 ETC_20150317_003820	Sub
 ETC_20150317_003821	Repetitive
-ETC_20150317_003822	Endless loop
+ETC_20150317_003822	死循环
 ETC_20150317_003823	Talk to NPC
 ETC_20150317_003824	Item acquired
-ETC_20150317_003825	Use items
+ETC_20150317_003825	使用物品
 ETC_20150317_003826	of area
 ETC_20150317_003827	enter range
 ETC_20150317_003828	Automatically complete from quest session object when goal is achieved
@@ -3846,8 +3846,8 @@ ETC_20150317_003845	ClassID = of monster InvItem4
 ETC_20150317_003846	When quest starts (Start standby -> In Progress)
 ETC_20150317_003847	Change to the standby complete when talking to NPC
 ETC_20150317_003848	Quest complete at once (receive reward and complete quest)
-ETC_20150317_003849	ea
-ETC_20150317_003850	Quest In Progress
+ETC_20150317_003849	个
+ETC_20150317_003850	任务进行中
 ETC_20150317_003851	when quest (complete standby-> complete)
 ETC_20150317_003852	in QuestProgressCheck XML
 ETC_20150317_003853	ClassName is missing.
@@ -4110,15 +4110,15 @@ ETC_20150317_004109	{@st59} 点击预览
 ETC_20150317_004110	{@st41b} Using
 ETC_20150317_004111	Placement
 ETC_20150317_004112	Arrangement ({Auto_1})
-ETC_20150317_004113	{/}{nl}{s22} Do you want to delete this character?
-ETC_20150317_004114	{nl} {nl}{s22} Do you want to delete all your characters?
-ETC_20150317_004115	Enter your account ID
+ETC_20150317_004113	{/}{nl}{s22} 你确定要删除此角色?
+ETC_20150317_004114	{nl} {nl}{s22} 你确定删除所有角色?
+ETC_20150317_004115	输入你的账户ID
 ETC_20150317_004116	You cannot set the default value of the slide
 ETC_20150317_004117	The number value of the current table:
 ETC_20150317_004118	Output the control set
 ETC_20150317_004119	Turning the value to original due to an error
 ETC_20150317_004120	You cannot change the value
-ETC_20150317_004121	Delete
+ETC_20150317_004121	删除
 ETC_20150317_004122	Unlock the window
 ETC_20150317_004123	Creating a new window
 ETC_20150317_004124	Changing the Window Properties
@@ -4130,8 +4130,8 @@ ETC_20150317_004129	{@st42b}View Server Location{/}
 ETC_20150317_004130	{@st42b}View Node{/}
 ETC_20150317_004131	{@st42b}XAC Texture Path{/}
 ETC_20150317_004132	{@st42b}View Bounding Box{/}
-ETC_20150317_004133	Visit Barracks
-ETC_20150317_004134	View
+ETC_20150317_004133	参观房屋
+ETC_20150317_004134	查看
 ETC_20150317_004135	Inspection Component
 ETC_20150317_004136	Check default attributes
 ETC_20150317_004137	Check use skills
@@ -4171,7 +4171,7 @@ ETC_20150317_004170	The ClassName does already exist
 ETC_20150317_004171	{ol}{@st41b} Silver that will receive: {Auto_1} {img Zeny 20 20}
 ETC_20150317_004172	{Img {Auto_1} 20 20} {ol} {@st45w3} {s18} {Auto_2} Buff
 ETC_20150317_004173	Function is not nagging class:
-ETC_20150317_004174	Your inventory is full. {nl}
+ETC_20150317_004174	你的背包已满 {nl}
 ETC_20150317_004175	Enhancement{/}{/} or
 ETC_20150317_004176	Sell{/}{/}to {nl}key instant shops
 ETC_20150317_004177	A lot of enhancement materials. {nl}
@@ -4216,9 +4216,9 @@ ETC_20150317_004215	{@st44}Next Class Rank Information
 ETC_20150317_004216	Current Job Information
 ETC_20150317_004217	{@st43}Date :
 ETC_20150317_004218	{@st43}Playtime :
-ETC_20150317_004219	{@st41} Shortcut
-ETC_20150317_004220	{@st41} Gesture
-ETC_20150317_004221	{@st41} Chat
+ETC_20150317_004219	{@st41} 快捷键
+ETC_20150317_004220	{@st41} 动作
+ETC_20150317_004221	{@st41} 文字
 ETC_20150317_004222	{@st41} Combo configuration
 ETC_20150317_004223	{@st41} Battle Cry
 ETC_20150317_004224	{@st41b}Create{/}
@@ -4232,7 +4232,7 @@ ETC_20150317_004231	Enter name
 ETC_20150317_004232	Please select at least one
 ETC_20150317_004233	{@st41} Gesture List
 ETC_20150317_004234	 [Main] 
-ETC_20150317_004235	{@st55_b}{b} Reward(s) {/}
+ETC_20150317_004235	{@st55_b}{b} 奖励 {/}
 ETC_20150317_004236	{@st55_c} 经验:
 ETC_20150317_004237	Waiting for the player to accept.
 ETC_20150317_004238	You cannot trade already equipped items.
@@ -4294,10 +4294,10 @@ ETC_20150317_004293	Available{/}
 ETC_20150317_004294	In progress {/}
 ETC_20150317_004295	Get rewarded {/}
 ETC_20150317_004296	{@st43} Carry out the mission
-ETC_20150317_004297	{@st41} Reward(s)
-ETC_20150317_004298	{@st41b} Experience:
-ETC_20150317_004299	{@st41} Required item
-ETC_20150317_004300	{@st45tw} Forfeit
+ETC_20150317_004297	{@st41} 奖励
+ETC_20150317_004298	{@st41b} 经验：
+ETC_20150317_004299	{@st41} 所需物品
+ETC_20150317_004300	{@st45tw} 放弃
 ETC_20150317_004301	Do you want to move {nl} to this area?
 ETC_20150317_004302	{Auto_1} buff (completed)
 ETC_20150317_004303	{Auto_1} buff
@@ -4310,16 +4310,16 @@ ETC_20150317_004309	EXP:
 ETC_20150317_004310	Please select your reward.
 ETC_20150317_004311	{@st45w3}{s18}{Auto_1} 1 揶?
 ETC_20150317_004312	{@st41} repeat quests finalized {/}
-ETC_20150317_004313	{@st41} Select a reward
+ETC_20150317_004313	{@st41} 选择一个奖励
 ETC_20150317_004314	{@st41} Reward(s) {/}
-ETC_20150317_004315	{s16} {ol} {Auto_1} {Auto_2} ea
+ETC_20150317_004315	{s16} {ol} {Auto_1} {Auto_2} 个
 ETC_20150317_004316	{@st41b} Increase selected number
 ETC_20150317_004317	(iCoins {Auto_1} consumption)
 ETC_20150317_004318	总价: {Auto_1}
 ETC_20150317_004319	Learn
 ETC_20150317_004320	{@st42b} Buy Back
 ETC_20150317_004321	{@st42b} Permanent Removal
-ETC_20150317_004322	{@st42b} Cancel
+ETC_20150317_004322	{@st42b} 取消
 ETC_20150317_004323	Circle
 ETC_20150317_004324	Do you want to level up your class?
 ETC_20150317_004325	Do you want to learn a class?
@@ -4331,9 +4331,9 @@ ETC_20150317_004330	Item Trading
 ETC_20150317_004331	Mercenary Contract
 ETC_20150317_004332	Gesture
 ETC_20150317_004333	{s14}{b}{ds} Purchase Quantity
-ETC_20150317_004334	Total Price:
+ETC_20150317_004334	总价:
 ETC_20150317_004335	's Purchase Request
-ETC_20150317_004336	Total Price: {Auto_1}, Amount: {Auto_2} ea
+ETC_20150317_004336	总价: {Auto_1}, 数量: {Auto_2} 个
 ETC_20150317_004337	's Bulletin Board
 ETC_20150317_004338	Reset Ability Points
 ETC_20150317_004339	iCoins is required.{nl}Are you sure you want to reset?
@@ -4342,7 +4342,7 @@ ETC_20150317_004341	{@st59} 增加 HP, HP回复率, 会心抗性和最大物品�
 ETC_20150317_004342	{@st59} 增加魔法伤害和穿刺格挡{/}
 ETC_20150317_004343	{@st59} 增加命中率，闪避率和会心攻击 {/}
 ETC_20150317_004344	] 你想使用这张卡片吗？
-ETC_20150317_004345	Distance
+ETC_20150317_004345	距离
 ETC_20150317_004346	{s16}{ol} 防御 {/}{/}{/}{nl}{s18}{ol}
 ETC_20150317_004347	{s16}{ol} Race {/}{/}
 ETC_20150317_004348	{s16}{ol} 防御 {/}{/}{/}{s16}{ol}
@@ -4354,9 +4354,9 @@ ETC_20150317_004353	Please enter a log
 ETC_20150317_004354	Please enter a log
 ETC_20150317_004355	Author: {Auto_1}{nl} Date: Value of {Auto_2}{nl} [{Auto_3}{Auto_4}{/}] change to {nl} [{Auto_5}{Auto_6}{/}] -> [{Auto_7}{ Auto_8}{/}] {nl}{nl}{#ffFF00} log {/}{nl}{Auto_9}
 ETC_20150317_004356	The number value was saved.
-ETC_20150317_004357	Walking Speed
-ETC_20150317_004358	Run Speed
-ETC_20150317_004359	Fixed Speed
+ETC_20150317_004357	走路速度
+ETC_20150317_004358	跑步速度
+ETC_20150317_004359	修正速度
 ETC_20150317_004360	{@st42b}{#FFFF00} Left-click to change the angle {/}
 ETC_20150317_004361	{@st42} Move:(Control + Drag), Delete (Right-click){/}
 ETC_20150317_004362	{@st42b} Please enter a location name {/}
@@ -4364,7 +4364,7 @@ ETC_20150317_004363	{@st42b} This name is already taken{/}
 ETC_20150317_004364	{@st42b} Movement {/}
 ETC_20150317_004365	{@st42b} My character's movement {/}
 ETC_20150317_004366	{@st42b} NPC Placement {/}
-ETC_20150317_004367	{@st42b} Cancel {/}
+ETC_20150317_004367	{@st42b} 取消 {/}
 ETC_20150317_004368	{@st42b} Change the angle {/}
 ETC_20150317_004369	{@st42b} Delete Anchor {/}
 ETC_20150317_004370	{@st42b} Appoint Range{/}
@@ -4658,7 +4658,7 @@ ETC_20150317_004657	Objective 6 = "
 ETC_20150317_004658	Quest Progress = ScpArgMsg ("Auto_NPCwa_DaeHwa_Si_wanLyoDaeKi_SangTaeLo_ByeonKyeong")
 ETC_20150317_004659	Quest Progress = ScpArgMsg("Auto_KweSeuTeu_wanLyo_CheoLiKkaJi_Han_Beone_SiKim(KweSeuTeu_BoSangeul_BatKo_KweSeuTeu_wanLyo)")
 ETC_20150317_004660	All Possession "
-ETC_20150317_004661	ea "
+ETC_20150317_004661	个 "
 ETC_20150317_004662	EXP = "
 ETC_20150317_004663	N/A
 ETC_20150317_004664	He
@@ -4965,7 +4965,7 @@ ETC_20150317_004964	You found the first tombstone fragment!
 ETC_20150317_004965	Collecting fragments
 ETC_20150317_004966	You obtained dusty ruin fragments!
 ETC_20150317_004967	Igniting
-ETC_20150317_004968	 ea TreeAmbulo sap obtained!
+ETC_20150317_004968	 个 TreeAmbulo sap obtained!
 ETC_20150317_004969	Installed sap collector!
 ETC_20150317_004970	Read Rukly's memorial tombstone.
 ETC_20150317_004971	Consoling
@@ -8843,14 +8843,14 @@ ETC_20150317_008842	公开组队列表 小贴士
 ETC_20150317_008843	It shows the list of current parties in the game. Click on the list to join the party.
 ETC_20150317_008844	朋友 小贴士
 ETC_20150317_008845	按 F7 查看你的朋友列表
-ETC_20150317_008846	姿势 小贴士
-ETC_20150317_008847	按 F8 设置姿势的宏
+ETC_20150317_008846	动作 小贴士
+ETC_20150317_008847	按 F8 设置动作的宏
 ETC_20150317_008848	宠物信息 小贴士
 ETC_20150317_008849	按 F9 to view the current status of your 宠物.
-ETC_20150317_008850	Help 小贴士
-ETC_20150317_008851	按 F10 to view the help list.
+ETC_20150317_008850	帮助 小贴士
+ETC_20150317_008851	按 F10 打开帮助列表
 ETC_20150317_008852	宠物 小贴士
-ETC_20150317_008853	You can adopt or train 宠物s through the 宠物 Merchant NPC.
+ETC_20150317_008853	你可以通过宠物商人来领养或训练宠物
 ETC_20150317_008854	Player Trading 小贴士
 ETC_20150317_008855	Right-click on another player to make trade requests.
 ETC_20150317_008856	Area Map 小贴士
@@ -12665,8 +12665,8 @@ ETC_20150714_012664	Ice Property
 ETC_20150714_012665	Darkness Property
 ETC_20150714_012666	Gender Property
 ETC_20150714_012667	The theme of your barrack has been changed.
-ETC_20150714_012668	Like!
-ETC_20150714_012669	Cancel Like
+ETC_20150714_012668	点赞！
+ETC_20150714_012669	取消点赞
 ETC_20150714_012670	The other party rejected 
 ETC_20150714_012671	Not enough party memebers (%d/%d)
 ETC_20150714_012672	{Name} invited you to {PVPName}. Would you like to join? 
@@ -13495,7 +13495,7 @@ ETC_20150717_013494	Veteran
 ETC_20150717_013495	Expert
 ETC_20150717_013496	Challenger
 ETC_20150717_013497	冠军
-ETC_20150717_013498	FAQ : 强化{nl}1) 武器和盔甲可以用铁砧强化{nl}2) 你可以从镇上的工具商人买铁砧{nl}3) 每次你强化一个物品时，都需要银{nl}4)武器和装甲的强化有100%的成功率，分别为+5和+3。下一次强化后失败的机会会增加。{nl} 如果一个强化失败，你强化的水平将重置 物品的潜力潜力降低。
+ETC_20150717_013498	FAQ : 强化{nl}1) 武器和盔甲可以用铁砧强化{nl}2) 你可以从镇上的道具商人买铁砧{nl}3) 每次你强化一个物品时，都需要银{nl}4)武器和装甲的强化有100%的成功率，分别为+5和+3。下一次强化后失败的机会会增加。{nl} 如果一个强化失败，你强化的水平将重置 物品的潜力潜力降低。
 ETC_20150717_013499	卡牌对战提示
 ETC_20150717_013500	in chat menu
 ETC_20150717_013501	You can start Card Battle with the other player.
@@ -13599,8 +13599,8 @@ ETC_20150717_013598	You've sent an invitation message.
 ETC_20150717_013599	There is an instant shop registered {nl}Register instant shop through the Tools Merchant.
 ETC_20150717_013600	You have lit the bonefire!
 ETC_20150717_013601	It is already in fire!
-ETC_20150717_013602	[工具商人]{nl}     Anna
-ETC_20150717_013603	[工具商人]{nl}           Mirina
+ETC_20150717_013602	[道具商人]{nl}     Anna
+ETC_20150717_013603	[道具商人]{nl}           Mirina
 ETC_20150717_013604	Spell Control Magic Circle.
 ETC_20150717_013605	The guard that fell behind
 ETC_20150717_013606	The corpse of the Kingdom Military Guard
@@ -13624,3 +13624,4 @@ ETC_20150729_013623	测试8⊙
 ETC_20150729_013624	PVP信息⊙
 ETC_20150729_013968	增加最大SP和SP回复⊙
 ETC_20150729_014017	增加物理攻击和会心攻击⊙
+ETC_20150729_014018	20150804---15：45 更新
