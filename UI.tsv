@@ -238,7 +238,7 @@ UI_20150317_000237	{@st42}ID 검색{/}
 UI_20150317_000238	입력한 ID를 검색합니다
 UI_20150317_000239	명예의 전당을 닫습니다
 UI_20150317_000240	검색할 ID를 입력합니다
-UI_20150317_000241	{@st59}Stamina{/}
+UI_20150317_000241	{@st59}体力{/}
 UI_20150317_000242	{@st43}帮助列表{/}
 UI_20150317_000243	{@st59}关闭帮助列表{/}
 UI_20150317_000244	{@st59b}Help List{nl}{@st59s} - Selection of topics about game mechanics{nl} - Select the desired topic to view{/}
@@ -252,7 +252,7 @@ UI_20150317_000251	{@st41b}确认
 UI_20150317_000252	{@st59}Confirm entered information{/}
 UI_20150317_000253	{@st41b}关闭
 UI_20150317_000254	{@st59}Cancel Edit{/}
-UI_20150317_000255	{@st43}Warp{/}
+UI_20150317_000255	{@st43}跳跃{/}
 UI_20150317_000256	{@st59}Close Warp Window{/}
 UI_20150317_000257	{@st59b}Warp{nl}{@st59s} - systems that can warp their visit to the region{nl} - 워프가 2개이상일때 워프 기능 활성화{nl}{/}
 UI_20150317_000258	{@st41}Current location : %s{/}
@@ -310,9 +310,9 @@ UI_20150317_000309	职业
 UI_20150317_000310	队伍
 UI_20150317_000311	{@st59}关闭冒险日志{/}
 UI_20150317_000312	{@st43}冒险排行榜{/}
-UI_20150317_000313	{@st43}{s22}Ranking     
-UI_20150317_000314	{@st43}{s22}Name
-UI_20150317_000315	{@st43}{s22}Score
+UI_20150317_000313	{@st43}{s22}排名    
+UI_20150317_000314	{@st43}{s22}名字
+UI_20150317_000315	{@st43}{s22}积分
 UI_20150317_000316	{@st41}상세정보{/}
 UI_20150317_000317	{@st43}제작시작{/}
 UI_20150317_000318	{@st59}道具 제작을 시작합니다.{/}
@@ -428,12 +428,12 @@ UI_20150317_000427	{@st42b}캐릭터가 상하좌우 4방향으로  이동합니
 UI_20150317_000428	{@st42b}캐릭터가 기본 공격을 합니다{/}
 UI_20150317_000429	{@st42b}캐릭터가 제자리 또는 이동시 점프를 합니다{/}
 UI_20150317_000430	{@st42b}인접한 방향키 2개를 동시에 입력해 대각선으로 이동합니다{/}
-UI_20150317_000431	Fog Map Tools
-UI_20150317_000432	Killing monsters tools
-UI_20150317_000433	Minimap making tools
-UI_20150317_000434	Dialogue tools
-UI_20150317_000435	{@st43}Operator Settings{/}
-UI_20150317_000436	{@st59}Close Party Information{/}
+UI_20150317_000431	迷雾地图工具
+UI_20150317_000432	杀戮怪物工具
+UI_20150317_000433	小地图制作工具
+UI_20150317_000434	对话工具
+UI_20150317_000435	{@st43}操作设置{/}
+UI_20150317_000436	{@st59}关闭队伍信息{/}
 UI_20150317_000437	{@st59b}Party Information{nl}{@st59s} - Create a Party by tapping on the bottom button{nl} - Make a right click on a character to invite him into the party{nl} - Adjust various settings of the current party in real time on the Settings Tab{nl} - The item condition of a party will be reseted to each Acquisition{nl}    when a user joins the party{/}
 UI_20150317_000438	{@st43}队伍信息{/}
 UI_20150317_000439	{@st41b}Setup{/}
