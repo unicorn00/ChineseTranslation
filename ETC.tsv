@@ -1626,7 +1626,7 @@ ETC_20150317_001625	右手{Auto_1}, 左手 {Auto_2} 类型
 ETC_20150317_001626	Or
 ETC_20150317_001627	可组合的装备:
 ETC_20150317_001628	返回
-ETC_20150317_001629	{@st59} Lock slots{/}
+ETC_20150317_001629	{@st59} 锁定快捷栏{/}
 ETC_20150317_001630	{@st59} Open the slot {/}
 ETC_20150317_001631	{@st59} 返回 (后退键) {/}
 ETC_20150317_001632	你确定要删除吗？ {/}
@@ -1781,7 +1781,7 @@ ETC_20150317_001780	手套属性
 ETC_20150317_001781	最大攻击
 ETC_20150317_001782	最小攻击
 ETC_20150317_001783	防御率
-ETC_20150317_001784	回避率
+ETC_20150317_001784	闪避率
 ETC_20150317_001785	Fire Attack Rate
 ETC_20150317_001786	Skill Ability
 ETC_20150317_001787	重量: {All} / {Max}
@@ -1807,7 +1807,7 @@ ETC_20150317_001806	Please dismount the 宠物 to feed it.
 ETC_20150317_001807	物理攻击
 ETC_20150317_001808	物理防御
 ETC_20150317_001809	Increased defense when mounted
-ETC_20150317_001810	Increased evasion when mounted
+ETC_20150317_001810	Increased 闪避 when mounted
 ETC_20150317_001811	Receive bonus HP when mounted
 ETC_20150317_001812	力量
 ETC_20150317_001813	体质
@@ -1838,8 +1838,8 @@ ETC_20150317_001837	You can not ride a 宠物 during skill use.
 ETC_20150317_001838	Shall we light the bonfire?
 ETC_20150317_001839	There is no firewood.
 ETC_20150317_001840	OK
-ETC_20150317_001841	Yes
-ETC_20150317_001842	No
+ETC_20150317_001841	确认
+ETC_20150317_001842	取消
 ETC_20150317_001843	信息
 ETC_20150317_001844	[通知]
 ETC_20150317_001845	Full
@@ -1910,7 +1910,7 @@ ETC_20150317_001909	Requires a record in the Adventure Journal. 按 the A key to
 ETC_20150317_001910	You can now use the [{Auto_1}] title.
 ETC_20150317_001911	特质
 ETC_20150317_001912	{@st59} 点击查看更多信息 {/}
-ETC_20150317_001913	The next level requires the same class advancement.
+ETC_20150317_001913	下一个等级需要同职业进阶
 ETC_20150317_001914	使用技能点提升技能等级
 ETC_20150317_001915	装备
 ETC_20150317_001916	不显示
@@ -2265,7 +2265,7 @@ ETC_20150317_002264	Blessed from Sanctum, it is able to make a power attack duri
 ETC_20150317_002265	Blessed from Sanctum, you will be received the spirit of divine during 10 sec!
 ETC_20150317_002266	Worship the Goddess Statue
 ETC_20150317_002267	Use warp
-ETC_20150317_002268	Worshiping
+ETC_20150317_002268	祈祷中
 ETC_20150317_002269	Picking up flowers for offering
 ETC_20150317_002270	Found the flowers!
 ETC_20150317_002271	I lost in the fragrance of flowers.
@@ -2643,14 +2643,14 @@ ETC_20150317_002642	The party does not exist.
 ETC_20150317_002643	Expel
 ETC_20150317_002644	离开
 ETC_20150317_002645	队伍信息
-ETC_20150317_002646	Make Party Leader
-ETC_20150317_002647	has rejected the party request.
-ETC_20150317_002648	Do you want to join the party?
+ETC_20150317_002646	设置队长
+ETC_20150317_002647	拒绝了组队的邀请
+ETC_20150317_002648	你想要加入组队？
 ETC_20150317_002649	The mike cannot exceed {MaxLen} characters.
 ETC_20150317_002650	You already belong to a party
-ETC_20150317_002651	There is no party to join.
+ETC_20150317_002651	没有队伍可加入
 ETC_20150317_002652	全部
-ETC_20150317_002653	There are not enough party members.
+ETC_20150317_002653	没有足够的组队成员
 ETC_20150317_002654	Available time of next quest
 ETC_20150317_002655	Quest can be progressed.
 ETC_20150317_002656	Reconnection wait time
@@ -5854,7 +5854,7 @@ ETC_20150317_005853	Attack Increase Buff
 ETC_20150317_005854	Attack Increase Exponential Buff
 ETC_20150317_005855	Attack Decrease Debuff
 ETC_20150317_005856	Aggressor Buff
-ETC_20150317_005857	Decreased Evasion, Increased Accuracy
+ETC_20150317_005857	Decreased 闪避, Increased Accuracy
 ETC_20150317_005858	Transpose Buff
 ETC_20150317_005859	Convert monster's HP into attack
 ETC_20150317_005860	During throw
@@ -6015,7 +6015,7 @@ ETC_20150317_006014	{nl} {nl} Buy back items sold by mistake by right-clicking o
 ETC_20150317_006015	Status Points
 ETC_20150317_006016	Use your Status Points gained from leveling up to make your character become stronger.
 ETC_20150317_006017	You can check your character's Status in the Character Information window ({img F1 40 40}).
-ETC_20150317_006018	增加力量/体质/智力/精神/敏捷素质点可以让你的角色更强大 {nl} {nl} 力量：增加物理攻击和会心攻击 {nl} {nl} 体质: 增加最大HP, HP回复, 格挡, 会心抗性和最大负重{nl} {nl} 智力: 增加魔法攻击和穿刺格挡 {nl}{nl} 精神: 增加最大SP和SP回复 {nl} {nl} 敏捷: 增加命中率, 回避率和会心率 
+ETC_20150317_006018	增加力量/体质/智力/精神/敏捷素质点可以让你的角色更强大 {nl} {nl} 力量：增加物理攻击和会心攻击 {nl} {nl} 体质: 增加最大HP, HP回复, 格挡, 会心抗性和最大负重{nl} {nl} 智力: 增加魔法攻击和穿刺格挡 {nl}{nl} 精神: 增加最大SP和SP回复 {nl} {nl} 敏捷: 增加命中率, 闪避率和会心率 
 ETC_20150317_006019	无内容-TOS2CN
 ETC_20150317_006020	You can preview the effects of an ability when you click 
 ETC_20150317_006021	 in the information tab.
@@ -7361,7 +7361,7 @@ ETC_20150317_007360	命中率 +%d
 ETC_20150317_007361	防御 +%d
 ETC_20150317_007362	防御 +%d
 ETC_20150317_007363	Critical Damage Resistance +%d
-ETC_20150317_007364	Evasion +%d
+ETC_20150317_007364	闪避 +%d
 ETC_20150317_007365	恶魔-type +%d
 ETC_20150317_007366	恶魔-type Resistance +%d
 ETC_20150317_007367	植物-type +%d
@@ -8780,7 +8780,7 @@ ETC_20150317_008779	增加魔法攻击和穿刺格挡
 ETC_20150317_008780	精神点数 小贴士
 ETC_20150317_008781	增加最大SP和SP回复
 ETC_20150317_008782	敏捷点数 小贴士
-ETC_20150317_008783	增加命中率, 回避率和会心率
+ETC_20150317_008783	增加命中率, 闪避率和会心率
 ETC_20150317_008784	连续攻击 小贴士
 ETC_20150317_008785	按住Z连续攻击
 ETC_20150317_008786	耐力 小贴士
@@ -8846,16 +8846,16 @@ ETC_20150317_008845	按 F7 查看你的朋友列表
 ETC_20150317_008846	动作 小贴士
 ETC_20150317_008847	按 F8 设置动作的宏
 ETC_20150317_008848	宠物信息 小贴士
-ETC_20150317_008849	按 F9 to view the current status of your 宠物.
+ETC_20150317_008849	按 F9 查看你宠物的状态
 ETC_20150317_008850	帮助 小贴士
 ETC_20150317_008851	按 F10 打开帮助列表
 ETC_20150317_008852	宠物 小贴士
 ETC_20150317_008853	你可以通过宠物商人来领养或训练宠物
-ETC_20150317_008854	Player Trading 小贴士
-ETC_20150317_008855	Right-click on another player to make trade requests.
-ETC_20150317_008856	Area Map 小贴士
-ETC_20150317_008857	按 M to view the current area map.
-ETC_20150317_008858	World Map 小贴士
+ETC_20150317_008854	玩家交易小贴士
+ETC_20150317_008855	右键其他玩家可以发起交易
+ETC_20150317_008856	区域地图 小贴士
+ETC_20150317_008857	按 M 来查看区域地图
+ETC_20150317_008858	世界地图 小贴士
 ETC_20150317_008859	按N键查看世界地图
 ETC_20150317_008860	Resurrection 小贴士
 ETC_20150317_008861	The durability of equipped items decreases once the character becomes incapable of combat.
@@ -8872,7 +8872,7 @@ ETC_20150317_008871	Attacking with countering properties of each monster can cau
 ETC_20150317_008872	弓箭手 小贴士
 ETC_20150317_008873	按 and hold the attack button to continuously attack the enemy in target. You can also move while attacking using the arrow keys.
 ETC_20150317_008874	弓箭手's arrow attacks have maximum range. Higher damage is made when shot from a distance.
-ETC_20150317_008875	The accuracy and evasion increases when an 弓箭手 type class levels up.
+ETC_20150317_008875	The accuracy and 闪避 increases when an 弓箭手 type class levels up.
 ETC_20150317_008876	The basic range attack of Archers cause more damage to flying monsters.
 ETC_20150317_008877	法师 小贴士
 ETC_20150317_008878	When 法师 type classes are attacked during skill casting, the skill can be canceled.
@@ -12229,13 +12229,13 @@ ETC_20150714_012228	Manual-Roxona Plate Guntlet
 ETC_20150714_012229	Manual-Roxona Plate Boots
 ETC_20150714_012230	Manual-Roxona Plate Pants
 ETC_20150714_012231	Manual-Roxona Plate Armor
-ETC_20150714_012232	Team (2vs2)
-ETC_20150714_012233	Team (3vs3)
-ETC_20150714_012234	Team (4vs4)
-ETC_20150714_012235	Team (5vs5)
-ETC_20150714_012236	Party(2vs2)
-ETC_20150714_012237	Party(3vs3)
-ETC_20150714_012238	Party(5vs5)
+ETC_20150714_012232	团队 (2v2)
+ETC_20150714_012233	团队 (3v3)
+ETC_20150714_012234	团队 (4v4)
+ETC_20150714_012235	团队 (5v5)
+ETC_20150714_012236	组队 (2v2)
+ETC_20150714_012237	组队 (3v3)
+ETC_20150714_012238	组队 (5v5)
 ETC_20150714_012239	/Card Battle
 ETC_20150714_012240	Gem Roasting Shop
 ETC_20150714_012241	Incorrect combination.
@@ -12245,7 +12245,7 @@ ETC_20150714_012244	Your character's level is not high enough.
 ETC_20150714_012245	The connection with the server has been disconnected. Reconnecting...
 ETC_20150714_012246	The error from the server has occured so it restored automatically.
 ETC_20150714_012247	Attached Items
-ETC_20150714_012248	Do you want to give an item to {PC}?
+ETC_20150714_012248	你想要把这个物品给 {PC}吗?
 ETC_20150714_012249	You've received an item.
 ETC_20150714_012250	You are too close to the base camp.
 ETC_20150714_012251	You are far away from the distribution table.
@@ -12259,7 +12259,7 @@ ETC_20150714_012258	魔法增益
 ETC_20150714_012259	Min Magical Attack Rate
 ETC_20150714_012260	Max Magical Attack Rate
 ETC_20150714_012261	Add 宠物's Critical Rate {Value}
-ETC_20150714_012262	Add 宠物's Evasion {Value}
+ETC_20150714_012262	Add 宠物's 闪避 {Value}
 ETC_20150714_012263	You don't have the attribute to ride on this 宠物.
 ETC_20150714_012264	Return to Barrack
 ETC_20150714_012265	普通攻击
@@ -13624,4 +13624,4 @@ ETC_20150729_013623	测试8⊙
 ETC_20150729_013624	PVP信息⊙
 ETC_20150729_013968	增加最大SP和SP回复⊙
 ETC_20150729_014017	增加物理攻击和会心攻击⊙
-ETC_20150729_014018	20150804---15：45 更新
+ETC_20150805_014018	20150805---16：15 更新
