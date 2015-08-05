@@ -1,4 +1,6 @@
-##NOTICE (Updated 07-31-2015)
+##NOTICE (Updated 08-05-2015)
+
+更新的时候请在备注表明改了哪行到哪行
 
 We’d like to thank our Contributors in helping us shape the English version of Tree of Savior. 
 As a token of our appreciation, we will be securing Beta Keys for our Github Contributors in the upcoming Tree of Savior Beta Test.
