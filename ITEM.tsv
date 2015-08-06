@@ -80,8 +80,8 @@ ITEM_20150317_000079	奥斯塔斯之剑(Austas)
 ITEM_20150317_000080	这把剑价格不菲.然而，对于长久使用商家更期望你购买别的武器. 
 ITEM_20150317_000081	密斯卡斯佩剑(Miskas) 
 ITEM_20150317_000082	这把剑会让你的剑术更快. 
-ITEM_20150317_000083	Imperni Sword 
-ITEM_20150317_000084	It's not hard to find a seasoned veteran emotionally recounting the moment they first held this sword in their hands. 
+ITEM_20150317_000083	统御之剑(Imperni) 
+ITEM_20150317_000084	不难找到一位经验丰富的老兵讲述那段第一次举起此剑的激动心情. 
 ITEM_20150317_000085	Gritas 
 ITEM_20150317_000086	A sword used by valiant adventurers. Ironically, it is often found on strong monsters. A person who obtains this sword is unknowingly exacting revenge for its previous owner. 
 ITEM_20150317_000087	罗马剑 
@@ -829,48 +829,48 @@ ITEM_20150317_000828	极为锋利的单刃匕首，刀身呈s形，刀柄沉重�
 ITEM_20150317_000829	下级木制法杖 
 ITEM_20150317_000830	法杖 [Strike] 
 ITEM_20150317_000831	这法杖与其说是武器，不如说是旅行用品. 
-ITEM_20150317_000832	Low Oak 法杖 
-ITEM_20150317_000833	Alternative to the wooden 法杖 when a wizard is preparing to go on a journey. 
+ITEM_20150317_000832	低端的橡木法杖 
+ITEM_20150317_000833	当法师们准备去游历时用来替代木质法杖的. 
 ITEM_20150317_000834	法杖 
-ITEM_20150317_000835	Veteran wizards can fend off weak foes using this 法杖 without relying on magic. 
-ITEM_20150317_000836	Ju 法杖 
-ITEM_20150317_000837	A 法杖 liked by many wizards in the past for no particular reason. 
+ITEM_20150317_000835	经验丰富的法师可以不依赖魔法来抵挡孱弱的敌人. 
+ITEM_20150317_000836	六月法杖 
+ITEM_20150317_000837	过去在无聊的季节使用的法杖. 
 ITEM_20150317_000838	Ubuko 法杖 
-ITEM_20150317_000839	It shows the diversity of preferences amongst wizards. 
-ITEM_20150317_000840	Stag 法杖 
-ITEM_20150317_000841	The decorations are magically crafted. 
-ITEM_20150317_000842	Geometry 法杖 
-ITEM_20150317_000843	This 法杖 was made by translating magical concepts into mathematical ones. 
-ITEM_20150317_000844	Demon 法杖 
-ITEM_20150317_000845	A group of wizards believed they could bend the power of Demons to their will and found some success in their efforts. 
-ITEM_20150317_000846	Storm 法杖 
-ITEM_20150317_000847	Crafted based on a recipe handed down since ancient times. Some magicians still believe there are undiscovered hidden powers in this 法杖. 
-ITEM_20150317_000848	Wooden 法杖 
-ITEM_20150317_000849	Heavy Wooden 法杖 
-ITEM_20150317_000850	Oak 法杖 
-ITEM_20150317_000851	Heavy 法杖 
-ITEM_20150317_000852	Heavy Ju 法杖 
-ITEM_20150317_000853	Heavy Uboko 法杖 
-ITEM_20150317_000854	Dunkel Ju 法杖 
-ITEM_20150317_000855	Dunkel Demon 法杖 
-ITEM_20150317_000856	Dunkel Wooden 法杖 
-ITEM_20150317_000857	Dunkel Oak 法杖 
-ITEM_20150317_000858	Dunkel 法杖 
-ITEM_20150317_000859	Dunkel Uboko 法杖 
-ITEM_20150317_000860	Steel 法杖 
-ITEM_20150317_000861	Heavy Steel 法杖 
-ITEM_20150317_000862	Square 法杖 
-ITEM_20150317_000863	Heavy Square 法杖 
+ITEM_20150317_000839	不同的法师有各种多样的用法. 
+ITEM_20150317_000840	雄鹿 法杖 
+ITEM_20150317_000841	用魔法装饰点缀. 
+ITEM_20150317_000842	几何型 法杖 
+ITEM_20150317_000843	这种法杖是由魔法概念转化的数学理论打造的. 
+ITEM_20150317_000844	恶魔 法杖 
+ITEM_20150317_000845	一群巫师相信他们可以随他们的意愿弯曲恶魔的力量,并且他们取得了一些成功. 
+ITEM_20150317_000846	暴风 法杖 
+ITEM_20150317_000847	基于远古流传下来的配方制作的.一些法师仍然相信这把法杖还有未被发现的隐藏魔力. 
+ITEM_20150317_000848	木质 法杖 
+ITEM_20150317_000849	重型的木质法杖 
+ITEM_20150317_000850	橡木 法杖 
+ITEM_20150317_000851	重型 法杖 
+ITEM_20150317_000852	重型 六月法杖 
+ITEM_20150317_000853	重型 Uboko 法杖 
+ITEM_20150317_000854	笨重的 六月法杖 
+ITEM_20150317_000855	笨重的 恶魔法杖 
+ITEM_20150317_000856	笨重的 木质法杖 
+ITEM_20150317_000857	笨重的 橡木法杖 
+ITEM_20150317_000858	笨重的 法杖 
+ITEM_20150317_000859	笨重的 Uboko 法杖 
+ITEM_20150317_000860	钢质法杖 
+ITEM_20150317_000861	笨重的 钢质法杖 
+ITEM_20150317_000862	矩形 法杖 
+ITEM_20150317_000863	重型的 矩形法杖 
 ITEM_20150317_000864	Mage 法杖 
-ITEM_20150317_000865	Arch Mage 法杖 
-ITEM_20150317_000866	Arch Demon 法杖 
-ITEM_20150317_000867	Melinas 法杖 
-ITEM_20150317_000868	A rudimentary research result for an attempt to increase the quality of staffs by combining several items. 
-ITEM_20150317_000869	Magi 法杖 
-ITEM_20150317_000870	Magic language enshrouds this 法杖 with freezing cold aura. 
-ITEM_20150317_000871	Ludas 法杖 
-ITEM_20150317_000872	Made through a balanced crafting method so that it performs consistently with any kind of magic. 
-ITEM_20150317_000873	Saltas 法杖 
+ITEM_20150317_000865	拱形的 魔道法杖 
+ITEM_20150317_000866	拱形的 恶魔法杖 
+ITEM_20150317_000867	梅琳娜法杖(Melinas) 
+ITEM_20150317_000868	初步的研究结果显示,尝试结合多种材料能够提高武器的质量. 
+ITEM_20150317_000869	魔笛法杖(Magi) 
+ITEM_20150317_000870	魔语掩盖了这把法杖冰冷的气场. 
+ITEM_20150317_000871	鲁达斯法杖(Ludas) 
+ITEM_20150317_000872	通过适度的锻造,这把法杖能够与任何魔法契合. 
+ITEM_20150317_000873	萨尔塔斯法杖(Saltas) 
 ITEM_20150317_000874	The Pyromancer Master from a previous generation researched a way to enhance elemental traits of weapons through Alchemy. Whether his research helped in reducing the load on the Goddess Gabija as he initially wanted is unclear. 
 ITEM_20150317_000875	Cheminis 法杖 
 ITEM_20150317_000876	The Cryomancer Master said he created this recipe based on ancient wisdom he discovered at a secret location in the Plateau. 
