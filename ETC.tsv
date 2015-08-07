@@ -1584,7 +1584,7 @@ ETC_20150317_001583	You cannot equip secondary equipment when wearing a Two-Hand
 ETC_20150317_001584	You cannot use 'Return' during Rest Mode.
 ETC_20150317_001585	Another character has taken the request.
 ETC_20150317_001586	The previous game did not end.
-ETC_20150317_001587	{#ffFF00} Please click the target item {/}
+ETC_20150317_001587	{#ffFF00} 请点击目标道具 {/}
 ETC_20150317_001588	{Auto_3} - {Auto_4} Damage from {Auto_1} to {Auto_2}
 ETC_20150317_001589	{Auto_2} - {Auto_3} Damage {Auto_1}
 ETC_20150317_001590	Item needed for resurrection is not 可用.
@@ -1600,15 +1600,15 @@ ETC_20150317_001599	Please select a pen and draw a picture.
 ETC_20150317_001600	The remaining amount of spray is missing
 ETC_20150317_001601	已选定
 ETC_20150317_001602	Are you sure you want to delete your 宠物, {Name}?
-ETC_20150317_001603	Equipped {Auto_1} item has been destroyed
+ETC_20150317_001603	装备的 {Auto_1} 被破坏了
 ETC_20150317_001604	Equipped{Auto_1} item has been changed to {Auto_2}
-ETC_20150317_001605	You cannot use while jumping
+ETC_20150317_001605	在你跳跃的时候无法使用
 ETC_20150317_001606	You have insufficient funds.
 ETC_20150317_001607	You cannot install or summon in invalid coordin
 ETC_20150317_001608	Changed
 ETC_20150317_001609	It is too close to the existing Ice Barrier
-ETC_20150317_001610	You have already learned this attrib
-ETC_20150317_001611	{S18}{ol}{#ffffcc} Do you want to learn the attribute(s)?
+ETC_20150317_001610	你已经学过着个特质了
+ETC_20150317_001611	{S18}{ol}{#ffffcc} 你确认想要学着个特质？
 ETC_20150317_001612	Enter the number
 ETC_20150317_001613	This item cannot be traded
 ETC_20150317_001614	You cannot rest during combat
@@ -1617,7 +1617,7 @@ ETC_20150317_001616	The number of purchasable items is limited
 ETC_20150317_001617	24 hours has not yet passed since changing name
 ETC_20150317_001618	{Auto_1} can not be greater than the bytes
 ETC_20150317_001619	角色名
-ETC_20150317_001620	You do not have enough ingredients
+ETC_20150317_001620	你没有足够的素材
 ETC_20150317_001621	{S18}{ol}{#ffffcc}连接到服务器...
 ETC_20150317_001622	This item cannot be discarded.
 ETC_20150317_001623	{@st46} 恭喜，你的人物等级提升了
@@ -1642,9 +1642,9 @@ ETC_20150317_001641	[{The}] feature is enabled.
 ETC_20150317_001642	[{Ability}] triggered!
 ETC_20150317_001643	剩余时间: {Auto_1}
 ETC_20150317_001644	今日贴士 : 
-ETC_20150317_001645	You cannot equip this equipment in this slot.
+ETC_20150317_001645	你不能把这个道具装备到插槽中
 ETC_20150317_001646	你真的想退出吗?
-ETC_20150317_001647	{S20}{ol}{#ff1100} This attribute cannot be bought.
+ETC_20150317_001647	{S20}{ol}{#ff1100} 无法学习此特质
 ETC_20150317_001648	你不能装备 0 耐久度的装备
 ETC_20150317_001649	删除
 ETC_20150317_001650	服务器断开连接，请稍后再试
@@ -2441,8 +2441,8 @@ ETC_20150317_002440	Checking
 ETC_20150317_002441	You've found the item underground
 ETC_20150317_002442	Did not find anything
 ETC_20150317_002443	种类
-ETC_20150317_002444	Attribute
-ETC_20150317_002445	{Count} 个 obtained
+ETC_20150317_002444	特质
+ETC_20150317_002445	获得{Count} 个
 ETC_20150317_002446	Found the reference related with Naktis
 ETC_20150317_002447	Failed to find the reference related with Naktis
 ETC_20150317_002448	Obtained the herb!
@@ -2589,15 +2589,15 @@ ETC_20150317_002588	Close Shot Penalty
 ETC_20150317_002589	Wood Engraving Attack
 ETC_20150317_002590	Leave Guild
 ETC_20150317_002591	组队邀请
-ETC_20150317_002592	Failed to create a party
-ETC_20150317_002593	The name of the party already exists
-ETC_20150317_002594	Leave the party
+ETC_20150317_002592	创建组队失败
+ETC_20150317_002593	队伍名已存在
+ETC_20150317_002594	离开队伍
 ETC_20150317_002595	Questionnaire title is too long
 ETC_20150317_002596	问题
 ETC_20150317_002597	投票
 ETC_20150317_002598	Set of access rights
 ETC_20150317_002599	Cannot join anymore
-ETC_20150317_002600	The party has acquired {Auto_1} EXP
+ETC_20150317_002600	The party has acquiredThe party has acquired {Auto_1} EXP
 ETC_20150317_002601	Party level has increased to {Auto_1}
 ETC_20150317_002602	{Auto_1} Party Raid has started {nl} 按 the button to join
 ETC_20150317_002603	加入 {Auto_1} 的队伍
@@ -3206,7 +3206,7 @@ ETC_20150317_003205	You need to go to the Goddess quickly
 ETC_20150317_003206	Why are there so many monsters suddenly?
 ETC_20150317_003207	Help!
 ETC_20150317_003208	I can't get out!
-ETC_20150317_003209	Please destroy this!
+ETC_20150317_003209	请破坏它！
 ETC_20150317_003210	Collect flame vapor
 ETC_20150317_003211	Grita's Reflection
 ETC_20150317_003212	Be careful!
@@ -3308,7 +3308,7 @@ ETC_20150317_003307	Putting up
 ETC_20150317_003308	You cannot pass because the monster is blocking the way. {nl}
 ETC_20150317_003309	Go back!
 ETC_20150317_003310	Piece of wood with diving power
-ETC_20150317_003311	个 obtained
+ETC_20150317_003311	个 获得
 ETC_20150317_003312	Obtained the essence of soul
 ETC_20150317_003313	Are you telling me to die again?!
 ETC_20150317_003314	That's nonsense!
@@ -3561,8 +3561,8 @@ ETC_20150317_003560	Show directions to the West Forest Camp
 ETC_20150317_003561	Company Ullman 战士
 ETC_20150317_003562	Dionia
 ETC_20150317_003563	Thorn ball
-ETC_20150317_003564	在营地间移动 : 
-ETC_20150317_003565	Activated
+ETC_20150317_003564	营地间移动 : 
+ETC_20150317_003565	被激活
 ETC_20150317_003566	Index UI
 ETC_20150317_003567	Item maintenance
 ETC_20150317_003568	Start it tag
@@ -3617,7 +3617,7 @@ ETC_20150317_003616	NA
 ETC_20150317_003617	Hello? Buy some flowers
 ETC_20150317_003618	Come in
 ETC_20150317_003619	Cum
-ETC_20150317_003620	Destroy
+ETC_20150317_003620	破坏
 ETC_20150317_003621	HP ({Auto_1}/{Auto_2})
 ETC_20150317_003622	Failed to reach goal because the defense has failed
 ETC_20150317_003623	Seconds to return to previous field
@@ -5922,7 +5922,7 @@ ETC_20150317_005921	{nl} {nl}The middle row of your inventory displays items.{nl
 ETC_20150317_005922	{nl} {nl}The bottom row of your inventory displays the total weight of your items, obtained medals and current silver.{nl} {nl}
 ETC_20150317_005923	You can check the information on your quests through the quest window.
 ETC_20150317_005924	按 {img F5 40 40} 来查看任务进程 {nl} {nl}
-ETC_20150317_005925	{nl} {nl} Quest Status {nl} {img minimap_1_MAIN 24 24}: Main Quest 可用 {nl} {img minimap_2_MAIN 24 24}: Main Quest In Progress {nl} {img minimap_3_MAIN 24 24}: Main Quest Completed {nl} {img minimap_1_SUB 24 24}: Subquest 可用 {nl} {img minimap_2_SUB 24 24}: Subquest In Progress {nl} {img minimap_3_SUB 24 24}: Subquest Completed { nl} {nl}
+ETC_20150317_005925	{nl} {nl} 任务状态 {nl} {img minimap_1_MAIN 24 24}: 主线任务 可用 {nl} {img minimap_2_MAIN 24 24}: 主线任务进行中 {nl} {img minimap_3_MAIN 24 24}: 主线任务完成 {nl} {img minimap_1_SUB 24 24}: 支线任务 可用 {nl} {img minimap_2_SUB 24 24}: 支线任务进行中 {nl} {img minimap_3_SUB 24 24}: 支线任务完成 { nl} {nl}
 ETC_20150317_005926	Select the quest to view detailed quest information.
 ETC_20150317_005927	If the Forfeit button is prompted, you can
 ETC_20150317_005928	the quest. {nl} {nl}
@@ -11597,7 +11597,7 @@ ETC_20150511_011596	Activate the first sealed device
 ETC_20150511_011597	Activate the second sealed device
 ETC_20150511_011598	Activate the third sealed device
 ETC_20150511_011599	FAQ : Durability and Potential{nl}1) Durability : When playing, the Durability of equipped items will go down.{nl} If the Durability is reduced to a certain value, the item's icon will appear at right of the quick slot.{nl} If the durability is completely reduced, the item loses its effect.{nl}2) Potential: Potential goes down when an item is traded or enhanced. An item with zero potential can't be traded or enhanced further.
-ETC_20150511_011600	]{nl}Quest Completed!
+ETC_20150511_011600	]{nl}任务完成！
 ETC_20150511_011601	Why now..!
 ETC_20150511_011602	Did you defeat them all?
 ETC_20150511_011603	Uh..!
@@ -13610,7 +13610,7 @@ ETC_20150717_013609	Petrified Monster
 ETC_20150717_013610	Suspicious Crystal
 ETC_20150717_013611	Suspicious Sculpture
 ETC_20150717_013612	This game is rated ESRB Teen.
-ETC_20150717_013613	{How} 银s obtained.
+ETC_20150717_013613	{How} 银 获得
 ETC_20150717_013614	{@st59}增加SP最大量，增加SP恢复力，增加格挡穿透{/}
 ETC_20150717_013615	{@st59}增加魔法攻击力{/}
 ETC_20150729_013616	测试1⊙
@@ -13624,4 +13624,4 @@ ETC_20150729_013623	测试8⊙
 ETC_20150729_013624	PVP信息⊙
 ETC_20150729_013968	增加最大SP和SP回复⊙
 ETC_20150729_014017	增加物理攻击和会心攻击⊙
-ETC_20150805_014018	20150806---16：45 更新
+ETC_20150805_014018	20150807---17：35 更新
