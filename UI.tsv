@@ -1764,4 +1764,10 @@ UI_20150729_001763	加入团队战斗
 UI_20150730_001764	{@st56}我的排行
 UI_20150730_001765	{@st56}Kill Rank
 UI_20150730_001766	{@st56}Damage Rank
-UI_20150805_014018	20150809---19：00 更新
+UI_20150803_001767	General: /s chat{nl}Shout: /y chat {nl}Party: /p chat{nl} Whisper: /w TeamName Chat
+UI_20150803_001768	{@st66b}手柄震动{/}
+UI_20150803_001769	A match has been found. Please wait until you can join the game.
+UI_20150803_001770	{@st43}{s18}请选择一个角色来接收物品{/}
+UI_20150804_001771	最多插槽 %s 个
+
+UI_20150810-123456	11:00 By Mamoru
