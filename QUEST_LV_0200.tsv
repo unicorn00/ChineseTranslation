@@ -1563,7 +1563,7 @@ QUEST_LV_0200_20150317_001562	Half Honey Half Monster
 QUEST_LV_0200_20150317_001563	Comfort him
 QUEST_LV_0200_20150317_001564	Endazzled Revelators
 QUEST_LV_0200_20150317_001565	Ask how to regain the symbol
-QUEST_LV_0200_20150317_001566	Say it's not related to me
+QUEST_LV_0200_20150317_001566	It's not related to me
 QUEST_LV_0200_20150317_001567	About the Seal in Spring Light Wood
 QUEST_LV_0200_20150317_001568	Symbol of Goddess Austeja
 QUEST_LV_0200_20150317_001569	Restoring / PRAY / 3 / TRACK_BEFORE / None
@@ -1822,14 +1822,14 @@ QUEST_LV_0200_20150317_001821	Lighting fire/FIRE/2/TRACK_BEFORE/None
 QUEST_LV_0200_20150317_001822	Notice /! / Please defeat the suddenly appeared Honeypin!
 QUEST_LV_0200_20150317_001823	The plate for the spirit(1)
 QUEST_LV_0200_20150317_001824	Ask him how you can get some guides
-QUEST_LV_0200_20150317_001825	Tell him that you would search it alone
+QUEST_LV_0200_20150317_001825	I will search it alone
 QUEST_LV_0200_20150317_001826	The plate for the spirit(2)
-QUEST_LV_0200_20150317_001827	Tell him that you would find the Scripture
+QUEST_LV_0200_20150317_001827	I will find the Scripture
 QUEST_LV_0200_20150317_001828	Notice/Completed the Scripture to summon the spirit!
 QUEST_LV_0200_20150317_001829	The plate for the spirit(3)
 QUEST_LV_0200_20150317_001830	Ask him how to call it
 QUEST_LV_0200_20150317_001831	The mercy and the salvation(1)
-QUEST_LV_0200_20150317_001832	Tell him that you would retrieve the artifacts of the mercy
+QUEST_LV_0200_20150317_001832	I will retrieve the artifacts of the mercy
 QUEST_LV_0200_20150317_001833	Notice/The device is opened and the jewel in water drop shape appeared.#3
 QUEST_LV_0200_20150317_001834	The mercy and the salvation(2)
 QUEST_LV_0200_20150317_001835	Ask him what to do
@@ -1840,12 +1840,12 @@ QUEST_LV_0200_20150317_001839	I'll go to the Holy place
 QUEST_LV_0200_20150317_001840	Checking../#SITGROPESET2/2/TRACK_BEFORE/None
 QUEST_LV_0200_20150317_001841	Notice/Obtained the key of Maven!
 QUEST_LV_0200_20150317_001842	Endlessly blasphemous
-QUEST_LV_0200_20150317_001843	Tell him that you would retrieve the holy object
+QUEST_LV_0200_20150317_001843	I will retrieve the holy object
 QUEST_LV_0200_20150317_001844	Find the object of the great cathedral(2)
 QUEST_LV_0200_20150317_001845	Tell him not to worry and trust you
 QUEST_LV_0200_20150317_001846	It's dangerous. Better give up.
 QUEST_LV_0200_20150317_001847	The research report of the disciples
-QUEST_LV_0200_20150317_001848	Tell him that you would retrieve the research reports
+QUEST_LV_0200_20150317_001848	I will retrieve the research reports
 QUEST_LV_0200_20150317_001849	The suspicious devices of the great hall(1)
 QUEST_LV_0200_20150317_001850	Reject
 QUEST_LV_0200_20150317_001851	Checking../#SITGROPESET2/2/TRACK_BEFORE/None
@@ -1854,7 +1854,7 @@ QUEST_LV_0200_20150317_001853	Emergent situation
 QUEST_LV_0200_20150317_001854	The suspicious devices of the great hall(2)
 QUEST_LV_0200_20150317_001855	The scattered documents at the great hall
 QUEST_LV_0200_20150317_001856	Look for them together
-QUEST_LV_0200_20150317_001857	Tell him that you would help later.
+QUEST_LV_0200_20150317_001857	I will help later.
 QUEST_LV_0200_20150317_001858	Deprived study materials
 QUEST_LV_0200_20150317_001859	Study Output
 QUEST_LV_0200_20150317_001860	Medicine which Priest made
@@ -1889,10 +1889,10 @@ QUEST_LV_0200_20150317_001888	Adaptation to circumstances(2)
 QUEST_LV_0200_20150317_001889	Farewell, my friend(1)
 QUEST_LV_0200_20150317_001890	Collecting the corpses of the disciples/MAKING/3/TRACK_BEFORE/None
 QUEST_LV_0200_20150317_001891	Research(1)
-QUEST_LV_0200_20150317_001892	Tell him that you can get them
+QUEST_LV_0200_20150317_001892	I can get them
 QUEST_LV_0200_20150317_001893	Research(2)
-QUEST_LV_0200_20150317_001894	Tell him that you can get them for sure
-QUEST_LV_0200_20150317_001895	Tell him that you should go back
+QUEST_LV_0200_20150317_001894	I can get them for sure
+QUEST_LV_0200_20150317_001895	I should go back
 QUEST_LV_0200_20150317_001896	Talk with the soldier, Dominique
 QUEST_LV_0200_20150317_001897	I met with the soldier, Dominique who seems to be puzzled. Talk with Dominique.
 QUEST_LV_0200_20150317_001898	Reconnoiter Beltui Intersections
@@ -8873,4 +8873,5 @@ QUEST_LV_0200_20150717_008872
 QUEST_LV_0200_20150717_008873
 QUEST_LV_0200_20150717_008874
 QUEST_LV_0200_20150717_008875
-QUEST_LV_0200_20150717_008876 20150809---19：00 更新
+
+QUEST_LV_0200_20150810-123456	11:00 By Mamoru
