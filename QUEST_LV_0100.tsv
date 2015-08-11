@@ -57,8 +57,8 @@ QUEST_LV_0100_20150317_000056	Niels must have sent you.{nl}Well, if you are in a
 QUEST_LV_0100_20150317_000057	When you go straight on the right road and cross the bridge, you will see the artifacts of the great King Zachariel.{nl}Record them and take the recordings to Niels. He will understand.
 QUEST_LV_0100_20150317_000058	So this is Kepeck's record... Mercenary Mirta was looking for this.{nl}I am okay as long as I can confirm their safety. Thank you for your efforts.
 QUEST_LV_0100_20150317_000059	Ahylas Jonas
-QUEST_LV_0100_20150317_000060	
-QUEST_LV_0100_20150317_000061	
+QUEST_LV_0100_20150317_000060	이제 그 봉인 해제석을 가지고 부러진 기둥 협곡으로 가십시오.{nl}구스타스의 제자가 그 곳의 봉인을 푸는 방법을 차례대로 알려 줄 것입니다.
+QUEST_LV_0100_20150317_000061	아직 안내 받지 못하셨나요?{nl}부러진 기둥 협곡에 있는 구스타스의 제자 입니다.{nl}오직 선택받은 이를 들여보내기 위해 만든 것이니까요.
 QUEST_LV_0100_20150317_000062	Disciple of Gustas
 QUEST_LV_0100_20150317_000063	Have you unlocked the seal of Pagasa Cliff?{nl}It will start now.
 QUEST_LV_0100_20150317_000064	Words carved into a rock.
@@ -99,7 +99,7 @@ QUEST_LV_0100_20150317_000098	Why do you have that?{nl}Hand it to me and I will 
 QUEST_LV_0100_20150317_000099	With this Fragment of Memory I will revive the memories of our sleeping colleagues.
 QUEST_LV_0100_20150317_000100	It will be difficult to defeat it without the Fragment of Memory.{nl}Please bring the horn of Infroholder.
 QUEST_LV_0100_20150317_000101	How come you have all these ingredients?
-QUEST_LV_0100_20150317_000102	
+QUEST_LV_0100_20150317_000102	그들은 이미 이 세상에 없는 사람들이에요.{nl}가이갈라스에 대한 원한으로 그 때의 일을 계속 반복하고 있군요.{nl}
 QUEST_LV_0100_20150317_000103	We can calm them if we defeat Gaigalas.{nl}Please go see the Worrying Owl.
 QUEST_LV_0100_20150317_000104	The Statue of Worrying Owl
 QUEST_LV_0100_20150317_000105	Please wake the sleeping colleagues and help us complete the magic on this day.{nl}With the Fragment of Memory.
@@ -113,12 +113,12 @@ QUEST_LV_0100_20150317_000112	I am looking for my assistant named Irene.{nl}Can 
 QUEST_LV_0100_20150317_000113	I told her not to get excited even if she finds something.{nl}She did it again.
 QUEST_LV_0100_20150317_000114	Thanks.{nl}I will go look for Irene.
 QUEST_LV_0100_20150317_000115	Technician Heinen
-QUEST_LV_0100_20150317_000116	
-QUEST_LV_0100_20150317_000117	
-QUEST_LV_0100_20150317_000118	
+QUEST_LV_0100_20150317_000116	이 케이블카는 허가를 받아야 이용할 수 있어.{nl}미안하지만 비에니사 고원 쪽으로 돌아가게.{nl}
+QUEST_LV_0100_20150317_000117	하지만 주변의 성가신 몬스터를 없애 준다면 생각해 보지.
+QUEST_LV_0100_20150317_000118	위험한 몬스터들을 해치고 지나가느니 케이블카를 이용하는 게 더 나을거야.{nl}물론 케이블카를 탈 수 있을 때의 얘기지만.
 QUEST_LV_0100_20150317_000119	Much better than I expected.{nl}I want to propose a deal to you.
-QUEST_LV_0100_20150317_000120	
-QUEST_LV_0100_20150317_000121	
+QUEST_LV_0100_20150317_000120	누오토리 절벽의 이상한 결계를 부숴준다면 케이블카를 계속 이용하게 해 주지.{nl}그 결계때문에 몬스터가 자꾸 늘어나거든.
+QUEST_LV_0100_20150317_000121	결계가 부서졌으니 약속대로 케이블카는 마음껏 이용하게.{nl}내 옆의 윌리엄이나 반대편의 캔버그에게 내 이름을 대면 될 거야.
 QUEST_LV_0100_20150317_000122	That barrier... When was it made?{nl}It has been there for quite some time, but I can't remember exactly how long.{nl}
 QUEST_LV_0100_20150317_000123	I'm sure that barrier is responsible for the increasing number of monsters lately.{nl}
 QUEST_LV_0100_20150317_000124	We don't have many soldiers here.{nl}No one in their right mind would come here in this day and age.{nl}
@@ -223,16 +223,16 @@ QUEST_LV_0100_20150317_000222	These are the rations that we gathered from the ea
 QUEST_LV_0100_20150317_000223	Thanks to you, I found this much.{nl}I'm so happy.
 QUEST_LV_0100_20150317_000224	Knight Commander Uska
 QUEST_LV_0100_20150317_000225	Is this slate the evidence of salvation?{nl}It just looks like an old rock to me.
-QUEST_LV_0100_20150317_000226	
+QUEST_LV_0100_20150317_000226	너울 고원으로 가는 길은 광산 마을 촌장님께 여쭈어 보십시오.{nl}저는 팔라딘 마스터께 먼저 전갈을 보내 놓도록 하지요.{nl}여신의 가호가 함께하길.
 QUEST_LV_0100_20150317_000227	You better ask the Bokor Master about this slate.{nl}She lives at the end of 克拉佩达s Residential Area so go pay her a visit.
 QUEST_LV_0100_20150317_000228	Use your time wisely.{nl}No one can know everything about one's own future.
 QUEST_LV_0100_20150317_000229	So you finally came.{nl}What did the Bokor Master tell you?
 QUEST_LV_0100_20150317_000230	I'm also curious about the girl who cracked the seal.{nl}This is not a seal that can easily be broken.
 QUEST_LV_0100_20150317_000231	If the Bokor Master told you that I would know it..{nl}I can think of a place.{nl}
-QUEST_LV_0100_20150317_000232	
+QUEST_LV_0100_20150317_000232	여신께서 말씀하신 드높은 화원이란 분명 너울 고원 일대를 뜻하는 것일 겁니다.{nl}듣자 하니 오랜 맹약을 위해 팔라딘 마스터께서 그곳으로 오셨다고 하더군요.
 QUEST_LV_0100_20150317_000233	Miners' Village Mayor
 QUEST_LV_0100_20150317_000234	Welcome. Aren't you our town's savior?{nl}
-QUEST_LV_0100_20150317_000235	
+QUEST_LV_0100_20150317_000235	여신께서 말씀하신 드높은 화원이란 분명 너울 고원 일대를 뜻하는 것일 겁니다.{nl}듣자 하니 오랜 맹약을 위해 팔라딘 마스터께서 그곳으로 오셨다고 하더군요.
 QUEST_LV_0100_20150317_000236	So this revelation is Goddess Laima and we have to collect all these for the Goddess to regain her powers?{nl}That is amazing.
 QUEST_LV_0100_20150317_000237	Oh, please do not reveal the fact that the Revelator has been found unless absolutely necessary.{nl}It may only create confusion if the rumors spread.
 QUEST_LV_0100_20150317_000238	Ah, you mean the report.{nl}At first, those Siaulagos did something strange to the supplies, but they ran away after a while when Sparnas came.{nl}
@@ -290,7 +290,7 @@ QUEST_LV_0100_20150317_000289	This is a dangerous area. What are you doing here?
 QUEST_LV_0100_20150317_000290	Thank you for your help.{nl}The Large Kepa appearing here... I must report to Sir Titas about it.
 QUEST_LV_0100_20150317_000291	Weird... That is not a type of monster you'd face in a place like this.{nl}It must be hard to just walk around.
 QUEST_LV_0100_20150317_000292	Assemble already?{nl}That's tough. There's still a pile of missions.
-QUEST_LV_0100_20150317_000293	
+QUEST_LV_0100_20150317_000293	먼저 주변의 하나밍을 처치해 주십시오.{nl}겸사겸사 하나밍의 꽃잎도 모아 주시고요.
 QUEST_LV_0100_20150317_000294	Even if the Goddess arrived, I will not go until the mission is completed.
 QUEST_LV_0100_20150317_000295	Yes. This should be enough.{nl}This is a pill that will restore your stamina instantly. I have enough of it so I will give you this as a gift.{nl}
 QUEST_LV_0100_20150317_000296	Stamina is consumed when you move.{nl}You can recover stamina by destroying a Tree Root Crystal or by resting.{nl}But you don't have time for that when you are being chased by monsters.{nl}That's when this pill comes in handy.
@@ -314,7 +314,7 @@ QUEST_LV_0100_20150317_000313	And our troops are in no condition to guard you.{n
 QUEST_LV_0100_20150317_000314	If you can't get rid of the Pokubus, you'll have to give up going into the Miners' Village.
 QUEST_LV_0100_20150317_000315	Thank you.{nl}Do not worry, I'll keep my promise.
 QUEST_LV_0100_20150317_000316	Outpost Sentinel
-QUEST_LV_0100_20150317_000317	
+QUEST_LV_0100_20150317_000317	광산마을도 걱정이지만 계속되는 전투로 쉬질 못하고 있습니다.{nl}저 츄파카브라를 어느 정도 처치해 주신다면 저희도 한결 나아질텐데요.
 QUEST_LV_0100_20150317_000318	Other monsters also show up when there are Chupacabras.{nl}Miners' Village is a problem on its own but there are just too many things to pay attention to.
 QUEST_LV_0100_20150317_000319	Thank you.{nl}It really helps lift our spirits.
 QUEST_LV_0100_20150317_000320	With your abilities, I have one more favor to ask.{nl}Can you help us drive out the Chupacabras in the supply camp too?
@@ -341,7 +341,7 @@ QUEST_LV_0100_20150317_000340	First, talk to the search scout in the lower bridg
 QUEST_LV_0100_20150317_000341	So the Vubbe Fighter was the reason behind the increase of monsters.{nl}Please find out how many Vubbe Fighters there are.{nl}
 QUEST_LV_0100_20150317_000342	Under the circumstances, it makes sense that the monsters are controlled by Vubbe Fighters.{nl}But deep down, you just don't want to believe it.
 QUEST_LV_0100_20150317_000343	Following your report, there are no more Vubbe Fighters in these woods.{nl}
-QUEST_LV_0100_20150317_000344	
+QUEST_LV_0100_20150317_000344	부베 투사를 처치하도록 하지요.{nl}누데기 벌목지에 수색병을 대기시켜 놓았습니다.
 QUEST_LV_0100_20150317_000345	Supply Soldier
 QUEST_LV_0100_20150317_000346	We need Weaver Claws as a part of supplies to be sent to Miners' Village {nl}but we just don't have time to look for them.{nl}What do we do?
 QUEST_LV_0100_20150317_000347	Actually, it doesn't make sense for the supply soldier to get the supplies.{nl}It should have come from 克拉佩达.
@@ -392,7 +392,7 @@ QUEST_LV_0100_20150317_000391	First, take back the farm from the Pokubus.{nl}I b
 QUEST_LV_0100_20150317_000392	There seems to be a gap in the rock where you can insert something.
 QUEST_LV_0100_20150317_000393	Let's search the Bulvjes farm first.{nl}But don't chase them or something as it can be dangerous.
 QUEST_LV_0100_20150317_000394	It makes me wonder if you're an envoy of the Goddess.{nl}Anyway, the supply camp is located further below the farm.
-QUEST_LV_0100_20150317_000395	
+QUEST_LV_0100_20150317_000395	자네가 찾는 너울 고원은 은수 협곡에서 더 들어가야해.{nl}쌍둥이 다리의 중간에서 아래쪽으로 내려가면 은수 협곡이 나오지.
 QUEST_LV_0100_20150317_000396	Vubbes are emerging inside the Mine Gallery so be sure to stay together in groups of five.
 QUEST_LV_0100_20150317_000397	Equipment Merchant
 QUEST_LV_0100_20150317_000398	Even at times like this, I struggle to find the best items I can. You can't go easy in terms of dealing with your customers.
@@ -419,7 +419,7 @@ QUEST_LV_0100_20150317_000418	Everyone is talking about the war wherever you go.
 QUEST_LV_0100_20150317_000419	I heard they will send soldiers who aren't even trained into the nest of monsters.{nl}It might be better to gather the old people and make them soldiers.
 QUEST_LV_0100_20150317_000420	My life is just a repetition of worries and anger.{nl}The Goddess should return soon.
 QUEST_LV_0100_20150317_000421	There are suddenly many people who dreamed about the revelation.{nl}Could it be a sign that something is about to happen again?{nl}
-ix QUEST_LV_0100_20150317_000422	The Bishop of 克拉佩达 also dreamed about the Goddess.{nl}Could it be the same dream as with the Revelators?
+QUEST_LV_0100_20150317_000422	The Bishop of 克拉佩达 also dreamed about the Goddess.{nl}Could it be the same dream as with the Revelators?
 QUEST_LV_0100_20150317_000423	Mother of Soldier
 QUEST_LV_0100_20150317_000424	)} My son has enlisted in the Army.{nl}He said who would, if not him, at such difficult times like this.
 QUEST_LV_0100_20150317_000425	)} Monster are growing and the forest is too chaotic for people to live in.{nl}At least, 克拉佩达 is safe.
@@ -492,15 +492,15 @@ QUEST_LV_0100_20150317_000491	Fire is grace sent to us by the Goddess Gabija.{nl
 QUEST_LV_0100_20150317_000492	It is vain death that lies at the end for those who only seek dauntlessness.{nl}If you wish to achieve true justice, lift the shield of Peltasta.
 QUEST_LV_0100_20150317_000493	After the Goddesses disappeared, the capital was destroyed on the Day of Divine.{nl}I hope more people will become Paltastas to protect the world.
 QUEST_LV_0100_20150317_000494	Rodelero Master
-QUEST_LV_0100_20150317_000495	
+QUEST_LV_0100_20150317_000495	사람들은 여신의 은총으로 신성지구가 남아있다고 말하지만.{nl}사실 우리 로델레로의 공도 컸지.
 QUEST_LV_0100_20150317_000496	Master Squire
 QUEST_LV_0100_20150317_000497	We are in chaos nowadays, but we used to live in honorable times before.{nl}Well.. they are all in the past now.
 QUEST_LV_0100_20150317_000498	Master Wizard
 QUEST_LV_0100_20150317_000499	No matter how much magic talent you have, it is useless unless you train hard.
 QUEST_LV_0100_20150317_000500	You must be brave in order to protect the kingdom.{nl}But for that bravery to be different from recklessness, your skills should be good enough.
 QUEST_LV_0100_20150317_000501	The Goddesses may be all gone but my powers are still doing fine, right?{nl}I'm sure it must be proof that Goddess Gabija is at least safe somewhere.
-QUEST_LV_0100_20150317_000502	
-QUEST_LV_0100_20150317_000503	
+QUEST_LV_0100_20150317_000502	엘레멘탈리스트 마스터
+QUEST_LV_0100_20150317_000503	가장 단순한 것이 가장 강한 법입니다.{nl}모든 것의 근원을 탐구하고 싶다면 엘레멘탈리스트의 길을 걸으십시오.
 QUEST_LV_0100_20150317_000504	Master Quarrelshooter
 QUEST_LV_0100_20150317_000505	It's painful to see people come to 克拉佩达 seeking refuge from the monsters.{nl}If they were Quarrel Shooters they wouldn't have to.
 QUEST_LV_0100_20150317_000506	Ranger Master
@@ -553,7 +553,7 @@ QUEST_LV_0100_20150317_000552	According to the old records, the king erased the 
 QUEST_LV_0100_20150317_000553	Liaison Official Nian
 QUEST_LV_0100_20150317_000554	You saw it right? That's why I told you not to touch it.{nl}Because of this, we received an order to withdraw from this place.{nl}
 QUEST_LV_0100_20150317_000555	Well, if I am to be involved in this, can you at least do me a favor?{nl}Tell Adel at Researchers' Camp to watch out for these kind of stones.
-QUEST_LV_0100_20150317_000556	
+QUEST_LV_0100_20150317_000556	기묘한 음각이 새겨진 돌을 찾고 있습니다.{nl}이런 돌을 보시면 절대 만지지 마시고 저희에게 알려주십시오.
 QUEST_LV_0100_20150317_000557	Historian Adel
 QUEST_LV_0100_20150317_000558	Stone? I know of it.{nl}Do you want to to know what the stone is?
 QUEST_LV_0100_20150317_000559	Monsters suddenly became violent and started attacking us.{nl}This is not an ordinary thing.
@@ -582,7 +582,7 @@ QUEST_LV_0100_20150317_000581	Looking for some good equipment? {nl} I have prepa
 QUEST_LV_0100_20150317_000582	Oh, this anvil is my small gift to you for saving me. {nl} It's a useful item that can upgrade your equipment. {nl}
 QUEST_LV_0100_20150317_000583	Well then, see you in the mines.
 QUEST_LV_0100_20150317_000584	Miner's village Mayor
-QUEST_LV_0100_20150317_000585	
+QUEST_LV_0100_20150317_000585	너울 고원은 쌍둥이 다리의 중간에서 아래쪽으로 내려가면 은수 협곡이 나오지.{nl}은수 협곡에서 오른쪽으로 더 들어가면 너울 고원으로 갈 수 있을 걸세.
 QUEST_LV_0100_20150317_000586	Goddess Saule
 QUEST_LV_0100_20150317_000587	To retrieve the revelation, please go to Fallen Worry Forest.{nl}Now is the chance when the Demons' Lord, Bramble recovers his power.
 QUEST_LV_0100_20150317_000588	Royal Tomb Foundation Stone
@@ -618,7 +618,7 @@ QUEST_LV_0100_20150317_000617	Evil thing will never get the revelation of goddes
 QUEST_LV_0100_20150317_000618	To have guardians perform their mission, you need to correct the distorted control magic.
 QUEST_LV_0100_20150317_000619	If the origins of royal tomb's power be contaminated, guardians will lose their mission.{nl}You can purify the origins of royal tomb's power by lighting up the stone lanterns with burning stone inside of a guardian.
 QUEST_LV_0100_20150317_000620	Instruction of royal tomb's power suppressor
-QUEST_LV_0100_20150317_000621	
+QUEST_LV_0100_20150317_000621	활성석의 힘이 유지될 때 왕릉 마력 억제기를 파괴할 수 있다.{nl}활성석의 힘이 사라지거든 왕릉 마력 억제기 설명서를 통해 다시 얻을 수 있다.
 QUEST_LV_0100_20150317_000622	Due to devil's tric, magical stream has been lost.{nl}You need to gather and charge magical sources of guardians. 
 QUEST_LV_0100_20150317_000623	It is good enough.{nl}Now, charge for lack of magical power.
 QUEST_LV_0100_20150317_000624	I will open the way.{nl}Charge lack of magical power by reigniting the stone lantern of royal tomb.
@@ -665,7 +665,7 @@ QUEST_LV_0100_20150317_000664	Then what should we do.{nl}
 QUEST_LV_0100_20150317_000665	You should fight fire with fire.{nl}I will find the magician's weakness using magic and I will humiliate to her tower. Haha!
 QUEST_LV_0100_20150317_000666	Stonemason Canolyn
 QUEST_LV_0100_20150317_000667	Are you going to 佩帝米安 as well?{nl}We are stonemasons. We are called to rebuild 佩帝米安 so w should hurry..{nl}
-QUEST_LV_0100_20150317_000668	
+QUEST_LV_0100_20150317_000668	보다시피 페디미안까지 코 앞인데도 코카트리스 때문에 못 가고 있어.{nl}그 몬스터들을 처치해 줄 수 있을까?
 QUEST_LV_0100_20150317_000669	There is no reason for those monsters walking around. {nl}They are just there.
 QUEST_LV_0100_20150317_000670	Hey, Why are you so late?{nl}While you were gone, monsters stole everything from us!
 QUEST_LV_0100_20150317_000671	We can reimburse for the expenses for others, but what about the tool box? {nl}We lost Sprit of Stonemason to Moa.. 
@@ -691,14 +691,14 @@ QUEST_LV_0100_20150317_000690	It may be better for Gabiya to let her know that w
 QUEST_LV_0100_20150317_000691	Good. Since she knows that we came, she will recover her health.{nl}Let's go up to see Gabiya.{nl}{nl}
 QUEST_LV_0100_20150317_000692	The protector of the secret letters of the kingdom
 QUEST_LV_0100_20150317_000693	You are qualified to receive the secret letters.
-QUEST_LV_0100_20150317_000694	
+QUEST_LV_0100_20150317_000694	덴옵틱이 오염된 수호자들을 조종하려 하고 있다.{nl}수호자들이 더이상 놀아나지 않도록 처치하라.
 QUEST_LV_0100_20150317_000695	The magic suppressor of the tomb can be destroyed by the activating stone that is inside the protector.{nl}The suppressed magic of the tomb will unleash and suppress the vicious energy.
 QUEST_LV_0100_20150317_000696	The vicious being left demons' names to the protectors.{nl}The protectors will destroy the tomb without knowing that there is the revelator.{nl}
 QUEST_LV_0100_20150317_000697	Before the last protector, Bearkaras destroys the tomb, destroy him.
 QUEST_LV_0100_20150317_000698	Before the last protector, Bearkaras destroys the tomb, destroy him.{nl}
-QUEST_LV_0100_20150317_000699	
+QUEST_LV_0100_20150317_000699	여신의 이름으로 감사드려요!{nl}먼저 병을 옮기는 불결한 코카트리스 처치를 부탁드릴게요.
 QUEST_LV_0100_20150317_000700	It's called Moa. {nl}It ran away to the abondoned farm up there.{nl}
-QUEST_LV_0100_20150317_000701	
+QUEST_LV_0100_20150317_000701	활성석의 힘이 유지될 때 왕릉 마력 억제기를 파괴할 수 있다.{nl}활성석의 힘이 사라지거든 왕릉 억제기 설명서를 통해 다시 얻을 수 있다.
 QUEST_LV_0100_20150317_000702	Did Laima know that the world would turn out like this?{nl}She is the goddess of destiny and forecasts.
 QUEST_LV_0100_20150317_000703	It's not a strange, Even the world will over tomorrow.{nl}But I want to know. Why Goddess disappeared..
 QUEST_LV_0100_20150317_000704	Press the {Img F1 40 40} key to use your remaining status points on the ability you want to enhance. {nl}
@@ -716,7 +716,7 @@ QUEST_LV_0100_20150317_000715	The Pantos hid some parts in the grasslands of Mie
 QUEST_LV_0100_20150317_000716	The Pantos think the grassland hides everything. {nl} I used to find that cute about them.
 QUEST_LV_0100_20150317_000717	Guard Matthew
 QUEST_LV_0100_20150317_000718	I am looking for cable car parts but nothings seems to be in sight. {nl} Maybe the Zignuts of Nepavy sun swallowed it. {nl}
-QUEST_LV_0100_20150317_000719	
+QUEST_LV_0100_20150317_000719	팔라딘 마스터라면 너울 고원에 계시지.{nl}케이블카를 타면 갈 수 있어.{nl}
 QUEST_LV_0100_20150317_000720	I want to go destroy those demons, but..{nl}Cable car is not working well so I should go after fixing it.
 QUEST_LV_0100_20150317_000721	If it wasn't for me, uncle Gilbert would have been going around looking through this huge area. {nl} I'm truly worried.
 QUEST_LV_0100_20150317_000722	This is a sacred place we have enshrined for generations. {nl} We used to hold prayer and important meetings whenever there was a disaster {nl}
@@ -740,7 +740,7 @@ QUEST_LV_0100_20150317_000739	Guard Kenneth
 QUEST_LV_0100_20150317_000740	You can't let your guard down just because the Demon summoners are gone. {nl} We don't even know when this appeared in the first place. {nl}
 QUEST_LV_0100_20150317_000741	Anyway, please tell Sir Kayetonas in Flower Hill about this.
 QUEST_LV_0100_20150317_000742	It might be a bit extreme, but I'm thinking about getting rid of all the Demon souls.{nl}
-QUEST_LV_0100_20150317_000743	
+QUEST_LV_0100_20150317_000743	마족들을 적당히 손 봐준 다음에 결계의 힘을 이용해서 영혼을 뽑아내는 거지.{nl}그 다음에 영혼을 처치하는 거야. 해보겠어? 
 QUEST_LV_0100_20150317_000744	You'd better get rid of the extracted souls quickly. {nl} Wouldn't it be scary to see them come back to life?
 QUEST_LV_0100_20150317_000745	Actually, I had some doubts, but it seems to work? {nl} Please let Sir Kayetonas know about this. {nl} I think he will be pleased, he is in Flower Hill.
 QUEST_LV_0100_20150317_000746	Now, I think I can live. {nl} We have to keep and stop the Demons. {nl} Please tell Sir Kayetonas that protecting this place isn't easy.
@@ -751,7 +751,7 @@ QUEST_LV_0100_20150317_000750	I can see the monsters cleary from up here.{nl}He 
 QUEST_LV_0100_20150317_000751	The broken barrier pieces are scattered in the Mazas shelter. {nl} Collect it and give it to sir Kayetonas in flower hill. {nl}
 QUEST_LV_0100_20150317_000752	My poor father must be happy if he know I became a guard.{nl}But, I already made a mistake.
 QUEST_LV_0100_20150317_000753	We can say it's peaceful for now.{nl}For now.
-QUEST_LV_0100_20150317_000754	
+QUEST_LV_0100_20150317_000754	초대 팔라딘님께서 마족의 침공에 대비해 놓은 장치중의 하나래.{nl}옥빛서린 벼랑 전체를 감쌀 수 있게 여러 개가 배치되어 있지.{nl}
 QUEST_LV_0100_20150317_000755	That's why if there are guards struggling with the barrier, I want you to help.
 QUEST_LV_0100_20150317_000756	Heard the plan failed. {nl} I guess we have to do something before the Gesti recovers.
 QUEST_LV_0100_20150317_000757	Guard Ella
@@ -842,7 +842,7 @@ QUEST_LV_0100_20150317_000841	Any archers would want to have good arrowheads.{nl
 QUEST_LV_0100_20150317_000842	They are not quick enough so they won't be hard.{nl}For sure.
 QUEST_LV_0100_20150317_000843	Thanks. Very hot.{nl}Isn't it so nice?
 QUEST_LV_0100_20150317_000844	Wandering Spirit
-QUEST_LV_0100_20150317_000845	
+QUEST_LV_0100_20150317_000845	우리 분대는 유니콘을 처치하라는 명령을 받았어.{nl}자세한 건 작전 명령서에 있을 텐데..
 QUEST_LV_0100_20150317_000846	Operation File
 QUEST_LV_0100_20150317_000847	The steps for luring Unicorns.{nl}1. Collect Jolem Stones from Jolem{nl}2. Set the stones around Neshiriquos divine place ruins.
 QUEST_LV_0100_20150317_000848	Guard Leaper
@@ -878,7 +878,7 @@ QUEST_LV_0100_20150317_000877	Let's take care of the Unknocker first. {nl} I'll 
 QUEST_LV_0100_20150317_000878	I want to request to you to defeat Pawndel and Pawnd.{nl}They are demon sisters and they give us headaches.
 QUEST_LV_0100_20150317_000879	Be careful since I got almost attacked as well.{nl}They are really violent.
 QUEST_LV_0100_20150317_000880	Good job. {nl}The babbling laughter seems to have stopped.
-QUEST_LV_0100_20150317_000881	
+QUEST_LV_0100_20150317_000881	마족으로 변장해서 혼란을 일으키려고 합니다.{nl}먼저 폰델과 폰드를 처치하고 그들의 옷자락을 모아주실 수 있는지요.
 QUEST_LV_0100_20150317_000882	It's a bit blasphemous, but we don't have much choice.
 QUEST_LV_0100_20150317_000883	Well done. {nl} It will probably be difficult to trust each other from now on. {nl}
 QUEST_LV_0100_20150317_000884	I'm thinking of converting the Demons using the power of the altar. {nl} The converted Demons will absorb the divine power and slowly start to die. {nl}
@@ -910,7 +910,7 @@ QUEST_LV_0100_20150317_000909	I'll ring the bell and let you know when the Gesti
 QUEST_LV_0100_20150317_000910	So you found the seal of space. {nl}Use the seal on the pillar beside me to go to the sanctuary. {nl} It is prepared for the Revelator only.
 QUEST_LV_0100_20150317_000911	May the blessings of the Goddess be with you.
 QUEST_LV_0100_20150317_000912	So Gesti just ran away. {nl} Fine. Since you got the revelation, we've completed the mission. {nl}
-QUEST_LV_0100_20150317_000913	
+QUEST_LV_0100_20150317_000913	사울레 여신을 찾아야 한다라.. {nl}계시가 말하는 다채로운 계곡은 여기서 위쪽의 풀가람 터에서 시작할 게다.{nl}그럼 이만. 자네에게 여신의 가호가 깃들길 빌겠네.
 QUEST_LV_0100_20150317_000914	When you find the revelation, tell Mater Paladin of the story you've been through so far. {nl} May the blessings of the Goddess be with you.
 QUEST_LV_0100_20150317_000915	Seems like Gesti did not notice yet. {nl}Better prepare the divine crystal.
 QUEST_LV_0100_20150317_000916	All the preparations made. {nl} Barriers of the church will soon weaken the Gesti. {nl}
@@ -921,21 +921,21 @@ QUEST_LV_0100_20150317_000920	Even with so many Demons, you still managed to mak
 QUEST_LV_0100_20150317_000921	It's the revelation. {nl} Cherish it and do not show it to anyone else. {nl}
 QUEST_LV_0100_20150317_000922	Come on. Go to the Paladin Master. {nl} He will tell you the way you must go.
 QUEST_LV_0100_20150317_000923	I asked my precious friend Algis for Tenet Church. {nl} I won't lose to Gesti but it is important to have some back up plan just in case.
-QUEST_LV_0100_20150317_000924	
+QUEST_LV_0100_20150317_000924	옥빛서린 벼랑에서 제스티를 상대하던 무기가 이 성구란다.{nl}초대 팔라딘님 때부터 전해져 내려온 것이지.{nl}
 QUEST_LV_0100_20150317_000925	In the kingdom, there are several valuable weapons aside from this divine sphere. {nl} Those weapons saved many lives on the Divine Day four years ago.
 QUEST_LV_0100_20150317_000926	From now on, I will focus on the divine crystal. {nl} In the meanwhile, please use your skills so that I won't be disturbed.
 QUEST_LV_0100_20150317_000927	I'm sorry. It's all my fault. {nl}The Gesti found out the divine heal is not the revelation so it will head straight to the church. {nl}
 QUEST_LV_0100_20150317_000928	But his old body of mine does not follow my will anymore. {nl} Now I can only trust my old friend Algis and you. {nl}
-QUEST_LV_0100_20150317_000929	
+QUEST_LV_0100_20150317_000929	가게. 테넷 성당은 내린나무 화원에 있네.{nl}반드시 제스티의 손에 계시가 들어가는 것을 막아 주게.
 QUEST_LV_0100_20150317_000930	It is too much for me to handle alone without any help from other brothers. {nl} I'd better run the Malda Altar. {nl}
-QUEST_LV_0100_20150317_000931	
+QUEST_LV_0100_20150317_000931	말다 제단을 사용하면 주변의 마족들을 각인할 게다.{nl}그 마족을 처치하면 된단다.
 QUEST_LV_0100_20150317_000932	We still have a lot to do here.{nl}The goddess told us to never give up.
 QUEST_LV_0100_20150317_000933	The world still needs more experience. {nl} We probably wouldn't have made it this far without the help of the Goddess.
 QUEST_LV_0100_20150317_000934	The activation of tree guard post is taking longer than I thought. {nl} We have no time, let's use a Demon's soul instead.
 QUEST_LV_0100_20150317_000935	All souls are pure. {nl} So even if it's a Demon's soul, it can still provide some divine power.
 QUEST_LV_0100_20150317_000936	Oh the Tree guard post was filled with soul of the Demon. {nl} It still needs some final touches to complete but I'll take care of it. {nl}Great job.
 QUEST_LV_0100_20150317_000937	It's amazing you can use the barrier like that. {nl} Even the Paladins did not know about that. {nl}
-QUEST_LV_0100_20150317_000938	
+QUEST_LV_0100_20150317_000938	지친다. 좀 쉬고 싶은걸.{nl}조금 숨 돌릴 틈이면 되니까 주변의 마족을 처치해 주겠어?
 QUEST_LV_0100_20150317_000939	Standing against this much enemies itself is a great deal. {nl} It's all thanks to the Paladin Master.
 QUEST_LV_0100_20150317_000940	Even though he's still young, Kenneth is amazing. {nl}I think we can entrust him a little more.
 QUEST_LV_0100_20150317_000941	This is the message from the guards.{nl}A gigantic demon monster is coming this way.{nl}Follow me quickly.{nl}
@@ -949,13 +949,13 @@ QUEST_LV_0100_20150317_000948	This barrier is impossible to open from the inside
 QUEST_LV_0100_20150317_000949	However, it's too dangerous to in the basement with the divine sphere. {nl} I'll wait here so you go to the 1层 through the basement and open the barrier. {nl}
 QUEST_LV_0100_20150317_000950	You have done what other can't easily do.{nl}The goddess must be proud of you.
 QUEST_LV_0100_20150317_000951	My faith in religion is strong enough to destroy those demons, but the reality isn't that simple.{nl}I hope you help us a bit.
-QUEST_LV_0100_20150317_000952	
+QUEST_LV_0100_20150317_000952	보이는 족족 처치해야 합니다.{nl}그래야 우리 형제들이 안심하고 성당을 지켜 낼 수 있을 것 아닙니까?
 QUEST_LV_0100_20150317_000953	Get rid of the Demons around the tree guard barrier. {nl} The souls of the Demons will be able to fill the divine powers a little. Thanks!
 QUEST_LV_0100_20150317_000954	Very good. Those flowers on the ground will be enough.{nl}Don't you think so?
 QUEST_LV_0100_20150317_000955	We are the people following the Paladin Master.{nl}We will defeat the people who disobey the goddess.{nl}
 QUEST_LV_0100_20150317_000956	Everyone has their reasons for following him.{nl}Some of them received benefits from him and some of them were already Paladins like Algis.
 QUEST_LV_0100_20150317_000957	Maybe the goddess knew it would happen and that's why she waited for the savior.{nl}I feel like I put a big burden on your shoulders.{nl}
-QUEST_LV_0100_20150317_000958	
+QUEST_LV_0100_20150317_000958	어서 제스티를 쫓거라.{nl}테넷 성당은 내린나무 화원에 있단다.
 QUEST_LV_0100_20150317_000959	This is the plan that was carried on for hundreds of years since the first Paladin.{nl}We should never fail this plan.
 QUEST_LV_0100_20150317_000960	Please put the pieces to the Ruklys memorial in front of preparing me rubbings. {nl} because had been working with us and listening together, you'll be able to simplify. {nl}
 QUEST_LV_0100_20150317_000961	I will follow you soon. Just a moment.
@@ -989,7 +989,7 @@ QUEST_LV_0100_20150317_000988	Please set this stone and defeat the monsters arou
 QUEST_LV_0100_20150317_000989	A suitable end for a crazy magician.{nl}It could have been dangerous without defensive magics.{nl}We may have touched it without knowing the first valve was destroyed..{nl}
 QUEST_LV_0100_20150317_000990	Anyways, that's good.{nl}The tower is now safe, so let's go up.
 QUEST_LV_0100_20150317_000991	Ah, that's right. Let's also prepare defensive magics in case something happens.{nl}There was a magic written in Antare's materials that we can use when there are explosions.
-QUEST_LV_0100_20150317_000992	
+QUEST_LV_0100_20150317_000992	폴른렘의 핵이 있다면 어떻게든 해볼 수 있을 것 같아.{nl}마력을 쓰지 못할 뿐이지 지식까지 잊은 건 아니니까.
 QUEST_LV_0100_20150317_000993	Good. We can use it one more time.{nl}
 QUEST_LV_0100_20150317_000994	Let's go find the second valve on the central control room.{nl}If we can destroy it, we will be safe no matter what Antares does.
 QUEST_LV_0100_20150317_000995	The Jewel of Prominence is somewhat strange.{nl}Something must have gone wrong when Antares exploded a while ago.
@@ -1008,7 +1008,7 @@ QUEST_LV_0100_20150317_001007	I hope the device is okay..
 QUEST_LV_0100_20150317_001008	Good! We can activate the device now.
 QUEST_LV_0100_20150317_001009	You are the revelator who helped the Paladin Master right?{nl}My name is Grita. I came from the Magicians' Tower.
 QUEST_LV_0100_20150317_001010	Help me. Gabiya is in danger.{nl}We are gonna lose the tower to the demons if we don't receive any help.
-QUEST_LV_0100_20150317_001011	
+QUEST_LV_0100_20150317_001011	막을 방법은 있지만 네가 아니면 할 수 없어.{nl}부탁이야. 수정개울의 카르스타 전당 터로 와줘.
 QUEST_LV_0100_20150317_001012	This is the entrance to the tower.{nl}I became unconscious at the tower and lost all my power somehow.{nl}
 QUEST_LV_0100_20150317_001013	I will take care of you and take you to Gabiya.{nl}Are you ready?
 QUEST_LV_0100_20150317_001014	All other magicians either died or ran away.{nl}You are our last hope. Let's go in.
@@ -1039,7 +1039,7 @@ QUEST_LV_0100_20150317_001038	Get rid of the observers.{nl}There's the Eye of Su
 QUEST_LV_0100_20150317_001039	I will be released soon.
 QUEST_LV_0100_20150317_001040	I can't tell my name. {nl}Please get rid of the observers and unleash the seal on me.{nl}
 QUEST_LV_0100_20150317_001041	Amazing. You possess a great power.
-QUEST_LV_0100_20150317_001042	
+QUEST_LV_0100_20150317_001042	나의 영혼은 갈갈이 찢겨져 봉인석 안에 가두어져 있다.{nl}감시자인 슬라임을 처치하여 내가 풀려날 수 있도록 도와다오.
 QUEST_LV_0100_20150317_001043	Another me from somewhere else led you to this place. {nl}Now, I can be released.
 QUEST_LV_0100_20150317_001044	But, if I get released like this, I will be seperated into pieces.{nl}
 QUEST_LV_0100_20150317_001045	The Holy Arc that had me inside is broken and the observers obtained those pieces.{nl}Please defeat them and complete the Holy Arc.
@@ -1087,13 +1087,13 @@ QUEST_LV_0100_20150317_001086	I have no way to defeat Bearkaras myself..{nl}I am
 QUEST_LV_0100_20150317_001087	Bearkaras is still near here.{nl}You are our last hope. We are counting on you.
 QUEST_LV_0100_20150317_001088	It was a good decision to trust you.{nl}I am more motivated because of you.
 QUEST_LV_0100_20150317_001089	The contract needs to continues. Please release me.{nl}As those observers fall down, my spirit becomes free.
-QUEST_LV_0100_20150317_001090	
+QUEST_LV_0100_20150317_001090	그것은 아직 말할 수 없다.
 QUEST_LV_0100_20150317_001091	It wasn't a long time, but it was frightening for me.
 QUEST_LV_0100_20150317_001092	Now only the last piece is left.{nl}
 QUEST_LV_0100_20150317_001093	The last spirit is in the observer Stone Whale.{nl}My sprit will be free when he gets defeated.
 QUEST_LV_0100_20150317_001094	My body was ripped off, humiliated.. I can't forgive that..
 QUEST_LV_0100_20150317_001095	Quickly.. We should continue the contract.{nl}
-QUEST_LV_0100_20150317_001096	
+QUEST_LV_0100_20150317_001096	나는 마군주 하우벅.{nl}헬가 세르클에 의해 영혼이 갈가리 찢겨져 이 탑의 결계의 한 축이 되어 있었다.{nl}
 QUEST_LV_0100_20150317_001097	I will leave now to find my remaining pieces.{nl}We will meet someday in the future.
 QUEST_LV_0100_20150317_001098	It's so good to hear that you will participate.{nl}I want you to get back Flame charm which I set inside Black Drake.
 QUEST_LV_0100_20150317_001099	Don't ever think of blocking axe from in front.{nl}You will be crushed into powders.
@@ -1127,9 +1127,9 @@ QUEST_LV_0100_20150317_001126	I worked so hard to fix it but I'm worried for the
 QUEST_LV_0100_20150317_001127	Our guards love to fight {nl}Pantos were not this reckless before. {nl}I wonder if we should be like this when the Demons waiting to march in.
 QUEST_LV_0100_20150317_001128	The Poatas also destroyed the cable car in Nepavy. {nl}But it's not like we can guard it all the time. {nl}
 QUEST_LV_0100_20150317_001129	Even if we stay on guards, a fight with the Poatas? {nl} That's not easy.
-QUEST_LV_0100_20150317_001130	
-QUEST_LV_0100_20150317_001131	
-QUEST_LV_0100_20150317_001132	
+QUEST_LV_0100_20150317_001130	은수협곡에서 너울고원으로 건너가려면 반드시 케이블카가 필요해요.{nl}옛날 사람들은 밧줄에 바구니를 걸어서 그걸 타고 넘어갔었대요.{nl}전 솔직히 케이블카도 무섭던데.
+QUEST_LV_0100_20150317_001131	마족들에게서 신성한 땅을 지키러 나왔어요.{nl}너울 고원에 팔라딘 마스터께서도 오셨다니 진짜 큰일인가봐요.{nl}
+QUEST_LV_0100_20150317_001132	아무래도 옥빛서린 벼랑에 나가 있는 동생이 걱정되네요. {nl}아무 일 없었으면 좋으련만.{nl}
 QUEST_LV_0100_20150317_001133	This place has a very sacred meaning for us. {nl} And we have called ourselves the watchmen for protecting this place. {nl}
 QUEST_LV_0100_20150317_001134	It has been protected since the day the promised by the first Paladin. {nl} And now that the Demons have invaded, it is time to keep that promise.
 QUEST_LV_0100_20150317_001135	Pantos changed and became wild after the Divine Day four years ago. {nl} Before that, we didn't really mind each other and even joked around together. {nl}
@@ -1137,7 +1137,7 @@ QUEST_LV_0100_20150317_001136	I really wonder what has become of the sacred land
 QUEST_LV_0100_20150317_001137	The Caprias were the first to change after the incident four years ago. {nl} And then the Pantos.. now only the babies are left.
 QUEST_LV_0100_20150317_001138	Our family has been protecting this land for a long time.{nl}Please cooperate with us to keep the reverent atmosphere here.{nl}- Guard
 QUEST_LV_0100_20150317_001139	Thank you for helping out. {nl} My workload has reduced a lot.
-QUEST_LV_0100_20150317_001140	
+QUEST_LV_0100_20150317_001140	남은 인형들로 어떻게든 버텨야지.{nl}다들 옥빛서린 벼랑에서 목숨 걸고 있는데 불평할 순 없잖아?
 QUEST_LV_0100_20150317_001141	We used to be on good terms with the Pantos. {nl} These days, we're constantly at each other's throats.
 QUEST_LV_0100_20150317_001142	I came back because the elders told me to restore the dolls used for spells.{nl}The dolls for spells. Isn't it exciting?
 QUEST_LV_0100_20150317_001143	Thank you. {nl} We might be able to go get more when more young men come.
@@ -1157,7 +1157,7 @@ QUEST_LV_0100_20150317_001156	If possible, get rid of the Carnivore too. {nl} It
 QUEST_LV_0100_20150317_001157	Make a mess in the nest of Poatas in Margas Hill and it will appear. {nl}
 QUEST_LV_0100_20150317_001158	Liaison Official Colin
 QUEST_LV_0100_20150317_001159	Rexipher? {nl} Although it is the first time I've heard the name. {nl}
-QUEST_LV_0100_20150317_001160	
+QUEST_LV_0100_20150317_001160	게다가 무무고원이라면, 이미 연구할 가치가 없어 철수한 지 오래됬어요.
 QUEST_LV_0100_20150317_001161	The Desk of Royal Tomb
 QUEST_LV_0100_20150317_001162	You can't obtain the secret and precious wisdom of the royal tomb even if you wish.{nl}When the time comes and you are ready, you will be able to fetch it.{nl}
 QUEST_LV_0100_20150317_001163	Bring me the blood stone.{nl}It's not late yet. You can still make it in time.
@@ -1193,7 +1193,7 @@ QUEST_LV_0100_20150317_001192	Good work. {nl} You will be rewarded with proper c
 QUEST_LV_0100_20150317_001193	What do you think are the factors that affect outcomes?{nl}If you just focus on attacking, then you may receive more damages.
 QUEST_LV_0100_20150317_001194	If you ask me what is the strongest weapon, I will answer that is is faith.{nl}A colleague that you can truly rely on.
 QUEST_LV_0100_20150317_001195	Thaumaturge does not get stronger by learning.{nl}You should learn it yourself.
-QUEST_LV_0100_20150317_001196	
+QUEST_LV_0100_20150317_001196	엘레멘탈리스트는 만물의 근원에 대한 이해가 곧 힘이 됩니다.{nl}바람, 물, 불, 땅. 가장 단순한 형태에서 가장 강력한 힘을 이끌어내지요.
 QUEST_LV_0100_20150317_001197	Stealth, detection, trap installation. {nl} Scouts are masters of searching and monitoring.
 QUEST_LV_0100_20150317_001198	We Sadhu are always on an eternal journey. {nl}When our journeys in this world come to an end, we'll still continue in the afterlife.
 QUEST_LV_0100_20150317_001199	Nothing is unfair in real battles.{nl}You've gotta do anything to win. Don't you think so?
@@ -1266,7 +1266,7 @@ QUEST_LV_0100_20150317_001265	I lost the research materials again.{nl}How many t
 QUEST_LV_0100_20150317_001266	Stonemason Pipoti
 QUEST_LV_0100_20150317_001267	I shouldn't have done that.{nl}This is all because of me.
 QUEST_LV_0100_20150317_001268	I should have returned quietly after advising those historians.{nl}This is all my fault.
-QUEST_LV_0100_20150317_001269	
+QUEST_LV_0100_20150317_001269	결정석을 가지고 부러진 기둥 협곡의 구스타스의 제자들을 찾아주세요.{nl}봉인에 대해 가르쳐 드릴 겁니다.
 QUEST_LV_0100_20150317_001270	Kevin
 QUEST_LV_0100_20150317_001271	This is a strange place.{nl}Those scholors, and those mercenaries just can't leave this place.{nl}Of course, us too.
 QUEST_LV_0100_20150317_001272	Sculptor Hilda
@@ -1334,16 +1334,16 @@ QUEST_LV_0100_20150317_001333	This place is very dangerous.{nl}The scholar told 
 QUEST_LV_0100_20150317_001334	That's why.. I am out little far.
 QUEST_LV_0100_20150317_001335	This is amazing! As a scholar, I want to research more!{nl}But, I don't if it's okay to be out here.
 QUEST_LV_0100_20150317_001336	By refining substances, we aim to deliver our spirits to the higher place.{nl}That's Alchemists' untimate goal.
-QUEST_LV_0100_20150317_001337	
+QUEST_LV_0100_20150317_001337	네더보바인이 또 난동인가?{nl}어떤 몬스터든 우리 로델레로가 버티고 있는 한 페디미안으로 한 발자국도 들어올 수 없지.{nl}
 QUEST_LV_0100_20150317_001338	Are you going to defeat Netherbovines? {nl}Nice. I am counting on you.
 QUEST_LV_0100_20150317_001339	The magic to control time is the essence of all magics.{nl}Agailla Flurry told me.
-QUEST_LV_0100_20150317_001340	
+QUEST_LV_0100_20150317_001340	원래 난 숲에서 살았지만 뜻이 있어서 페디미안으로 왔어.{nl}페디미안의 반 이상이 날아갔는데 나라도 도움이 된다면 도와야지.
 QUEST_LV_0100_20150317_001341	I heard Nederbovines are going nuts outside 佩帝米安.{nl}As a person undergoing training, I am ashamed that I can't go out and fight.
 QUEST_LV_0100_20150317_001342	Don't say poison is unfair.{nl}You gotta do anything to survive. You can't live out this world when you just want to be fair.
 QUEST_LV_0100_20150317_001343	Are you going out to defeat Nederbovines outside 佩帝米安?{nl}If it weren't you, I would have fought.{nl}Good luck.
 QUEST_LV_0100_20150317_001344	Even after this beautiful city got destroyed, there are still many threats.{nl}I can go out and fight, but.. I won't.{nl}There are many people out there who will fight without any rewards.{nl}
 QUEST_LV_0100_20150317_001345	Nederbovines.. It is fortunate that we have some to fight against them.
-QUEST_LV_0100_20150317_001346	
+QUEST_LV_0100_20150317_001346	할 수만 있다면 예전으로 되돌아가고 싶어요.{nl}지금의 저라면, 제 마법으로 페디미안을 구하고도 남았을 거예요.
 QUEST_LV_0100_20150317_001347	I knew you are not ordinar.{nl}Thanks for your support.
 QUEST_LV_0100_20150317_001348	I want to take a look at it more closely, but there are too many interruptors.{nl}Can you protect me from those monsters for a while?
 QUEST_LV_0100_20150317_001349	I never knew that I would be able to see these beautiful patterns.{nl}When you go to Garden of Pillar, there may be more beautiful patterns. Follow me.
@@ -1377,12 +1377,12 @@ QUEST_LV_0100_20150317_001376	After unleashing the seal, listen to the next step
 QUEST_LV_0100_20150317_001377	You have the Essence Stone to unleash the seal.{nl}You are the person who Jonas sent right?{nl}
 QUEST_LV_0100_20150317_001378	From now on, we will unleash the very important seal.{nl}The first seal is at the Pasaga Cliff.
 QUEST_LV_0100_20150317_001379	I heard you successfully unleashed the seal at Pasaga Cliff.{nl}Listen to the next steps from the brother at Garder of Pillar.
-QUEST_LV_0100_20150317_001380	
+QUEST_LV_0100_20150317_001380	봉인을 푸셨으면 부러진 기둥 협곡의 다음 봉인으로 가셔야 할 겁니다.
 QUEST_LV_0100_20150317_001381	Go find Gustas Jonas after unleashing the seal.{nl}He will greet you happily.
 QUEST_LV_0100_20150317_001382	Are the monsters all taken care of?{nl}It is important from now on.
 QUEST_LV_0100_20150317_001383	I want you to bring those artifacts that I couldn't bring since it was too dangerous.{nl}Please take a look at the stone pole at Alkune Hill.
 QUEST_LV_0100_20150317_001384	Sometimes the devices may be activated, but no one knows what will happen.{nl}Please be careful.
-QUEST_LV_0100_20150317_001385	
+QUEST_LV_0100_20150317_001385	그래. 잘 해주었다.{nl}그럼 난 이만 가보도록 하지.
 QUEST_LV_0100_20150317_001386	Powerless Security Guard
 QUEST_LV_0100_20150317_001387	I was attacked by Hogmas at Traceless Ruins.{nl}Fortunately, I was able to survive, but I need to find that box.
 QUEST_LV_0100_20150317_001388	Thanks for caring.{nl}Be careful of those Hogmas.
@@ -1398,15 +1398,15 @@ QUEST_LV_0100_20150317_001397	I am still out of my energy. I was so surprised at
 QUEST_LV_0100_20150317_001398	What will Rexipher do?
 QUEST_LV_0100_20150317_001399	Chedeque's Altar was attacked too?{nl}We will still have a chance when we protect the other altars.
 QUEST_LV_0100_20150317_001400	Please go to Sviesa's Altar.{nl}I will follow you.
-QUEST_LV_0100_20150317_001401	
+QUEST_LV_0100_20150317_001401	뒤돌아 보지 말고 바로 달리세요!
 QUEST_LV_0100_20150317_001402	And if seen by looking at the stone will appear clear Denoptic.
 QUEST_LV_0100_20150317_001403	I will give you the scroll to open the seal.
-QUEST_LV_0100_20150317_001404	
-QUEST_LV_0100_20150317_001405	
-QUEST_LV_0100_20150317_001406	
-QUEST_LV_0100_20150317_001407	
+QUEST_LV_0100_20150317_001404	이렇게 가야 한다니..{nl}어머니, 효도도 못했는데..
+QUEST_LV_0100_20150317_001405	죄송합니다.. 죄송합니다..
+QUEST_LV_0100_20150317_001406	그건 무엇입니까?{nl}서큐버스의 눈..? 물리치신 것도 반갑지만 그걸 좀 줘 보세요!
+QUEST_LV_0100_20150317_001407	말씀 드렸었다시피.. 전 손재주가 좀 좋아서, 어릴 때 부터 관심이 많았어요.{nl}연금술, 마법, 약재.. 그 서큐버스의 눈을 좀 압니다!{nl}대성당의 축복을 간직한 예쁜 목걸이가 탐이 나서 서큐버스가 제 눈에 넣어버린 그 눈!{nl}제가 그걸로 다시 목걸이를 만들어 드릴게요!
 QUEST_LV_0100_20150317_001408	It won't take long. {nl} Excuse me.
-QUEST_LV_0100_20150317_001409	
+QUEST_LV_0100_20150317_001409	다 됐습니다!{nl}계시자님께 잘 어울리겠어요!
 QUEST_LV_0100_20150317_001410	Let's give up on this and move to the big transportation magic field instead.
 QUEST_LV_0100_20150317_001411	The Asmodian attacked the tower is not the first time, but did Mase long earthquake up here. Thanks to {nl}, and whether they are by but Gabija disappeared in the world?
 QUEST_LV_0100_20150317_001412	That was a trap.{nl}It seems that they read every movements of us.{nl}
@@ -1446,7 +1446,7 @@ QUEST_LV_0100_20150317_001445	Everyone is tired and the vicious atmosphere never
 QUEST_LV_0100_20150317_001446	Follower Zanetta
 QUEST_LV_0100_20150317_001447	I want to tell to the people out there that we are still here.{nl}But, the goddess is keep telling us that everything will be alright when the revelation comes.
 QUEST_LV_0100_20150317_001448	Follower Simas
-QUEST_LV_0100_20150317_001449	
+QUEST_LV_0100_20150317_001449	사실 전 여기보단 낙우림에 가고 싶습니다.{nl}제 눈으로 꼭 사악한 기운의 근원을 보고 싶거든요.
 QUEST_LV_0100_20150317_001450	There are rumors about Golems appearing so don't go far too deep. {nl} It will be safer to take the bigger roads where there are less monsters or just head straight to 克拉佩达.
 QUEST_LV_0100_20150317_001451	So, I guess there is actually someone good among those who say they've dreamed of the Goddess.
 QUEST_LV_0100_20150317_001452	I'm relieved that there are people who dreamed of the Goddess. {nl} But there seems to be too many of them.
@@ -1461,10 +1461,10 @@ QUEST_LV_0100_20150317_001460	I still have lots of things to do..
 QUEST_LV_0100_20150317_001461	The adventure can continue if I get my diary back.{nl}I am happy..
 QUEST_LV_0100_20150317_001462	Long time no see. {nl}I have a favor to ask you. Can you do me a favor?{nl}
 QUEST_LV_0100_20150317_001463	I want to put a monument for my dead colleague.{nl}But, I don't have any materials or tools.
-QUEST_LV_0100_20150317_001464	
+QUEST_LV_0100_20150317_001464	고마워. 도구는 클라페다의 대장장이가 팔 거야.{nl}그 전에 높이굽은 길에 있는 바위가 품질이 좋기로 유명하니 우선 부탁할게.
 QUEST_LV_0100_20150317_001465	Tools for stonemaisons? {nl}10,000 Sivers will do.{nl}{nl}
 QUEST_LV_0100_20150317_001466	I just finished thinking how I will make it.{nl}I will make it fast so please wait.
-QUEST_LV_0100_20150317_001467	
+QUEST_LV_0100_20150317_001467	완성했어. 굽어보는 교차로의 왕릉의 입구에 세워줘.{nl}이걸로 위로가 될까.
 QUEST_LV_0100_20150317_001468	I am keep thinking about my colleague.{nl}I would never see him right..
 QUEST_LV_0100_20150317_001469	Soul of Varkis
 QUEST_LV_0100_20150317_001470	I can't leave with all my things left here
@@ -1476,7 +1476,7 @@ QUEST_LV_0100_20150317_001475	Architect Laudi
 QUEST_LV_0100_20150317_001476	I received a request to rebuild this architecture, but after Divine Day, I am stuck in this place.{nl}I don't know if requestor is alive and the materials are lacking, but I will finish rebuilding this architecture no matter what happens.
 QUEST_LV_0100_20150317_001477	I will find the key to open the last seal.{nl}After opening a space with this scroll.
 QUEST_LV_0100_20150317_001478	The space may exist anywhere, but it may also not exist anywhere.
-QUEST_LV_0100_20150317_001479	
+QUEST_LV_0100_20150317_001479	음. 역시 듣던 대로 대단하군.{nl}석주대로 가면 롤란다스님께서 널 기다리고 있을 거야. 
 QUEST_LV_0100_20150317_001480	There's nothing better than a trap when you want to gather the enemies and strike them at once. {nl} Of course, it's also the best for running away.
 QUEST_LV_0100_20150317_001481	If you think companion is just a pet, that's a huge mistake. {nl} It's like an inseparable friend to the hunters.
 QUEST_LV_0100_20150317_001482	Our family has been waiting for you for a long time.{nl}With this igniter, please light the signal at the top.
@@ -1666,7 +1666,7 @@ QUEST_LV_0100_20150317_001665	I miss the old forest sometimes.{nl}I also miss wh
 QUEST_LV_0100_20150317_001666	Believer Birgis
 QUEST_LV_0100_20150317_001667	There's nothing that we can't do with our religious faith.{nl}If there is anything that we can't do, then that's because our religious faith is not big enough.
 QUEST_LV_0100_20150317_001668	Believer Noyus
-QUEST_LV_0100_20150317_001669	
+QUEST_LV_0100_20150317_001669	계시자님, 부디 조심하세요.{nl}아까의 불길한 목소리와 비슷한 기운이 가시숲 전체를 울리고 있는 것 같아요.{nl}특히 낙우림쪽에서요.. 전 이런 쪽으로 귀가 밝거든요..
 QUEST_LV_0100_20150317_001670	Supplies Officer
 QUEST_LV_0100_20150317_001671	I am the supplies officer here.{nl}I received the list of supplies that is needed, but look at the number of supplies here.{nl}I can't manage them myself.{nl}
 QUEST_LV_0100_20150317_001672	I will get scolded by Selina if I am late..{nl}Can you help me?{nl}I need the grass called Jilgyung.
@@ -1770,7 +1770,7 @@ QUEST_LV_0100_20150317_001769	Forecastor Owl
 QUEST_LV_0100_20150317_001770	Necroventer has obstructed the road to thorn forest. {nl} you must defeat the Necroventer to go to the forest of thorns.
 QUEST_LV_0100_20150317_001771	The Owl Sculpture with anger
 QUEST_LV_0100_20150317_001772	Die all those who are resistant to Necroventer.
-QUEST_LV_0100_20150317_001773	
+QUEST_LV_0100_20150317_001773	자루머리 고개를 점령했던 네크로벤터가 사라졌습니다.{nl}자루머리 고개는 다시 평화로워지겠죠.
 QUEST_LV_0100_20150317_001774	Revelator! I wanted to meet you for a long time.{nl}Pitt and I applied to the military because we wanted to listen to your heroic stories.{nl}But we are just standing guards..It's depressing.{nl}
 QUEST_LV_0100_20150317_001775	If you are okay, can you persuade our commander so we can go out to the battlefield?{nl}The commander may permit us to go if you ask him..{nl}And that will be a good experience for us.
 QUEST_LV_0100_20150317_001776	Wow, you are my role model. I respect you!
@@ -1829,16 +1829,16 @@ QUEST_LV_0100_20150317_001828	The rules of the royal tomb are in place.{nl}We ca
 QUEST_LV_0100_20150317_001829	My wound is so deep so please pass the object to me when you find it.{nl}Meet Kepect at Apvija Hills.
 QUEST_LV_0100_20150317_001830	I welcome you with our family's courtesy.{nl}To obtain the great king's spell, you need to be qualified and you should also possess courage and wisdom to unleash the seal.
 QUEST_LV_0100_20150317_001831	There's a white oak tree at Zeme Plateau.{nl}First extract some fluids from it.
-QUEST_LV_0100_20150317_001832	
+QUEST_LV_0100_20150317_001832	돌다리망터의 봉인을 풀 준비입니다.{nl}몇백 년 동안 아주 조금씩 모아 온 귀중한 수액이니 조심히 다뤄주세요.
 QUEST_LV_0100_20150317_001833	This will be enough.{nl}Let's move on to the next step.
 QUEST_LV_0100_20150317_001834	With these fluids, I will make the stone to unleash the seal.{nl}In the meantime, please save Amalas at Pamirsit plateau.
 QUEST_LV_0100_20150317_001835	You gotta get the one without poison.{nl}You may faint out for a while if you get addicted to it so be careful.
 QUEST_LV_0100_20150317_001836	Our family has been waiting for the chosen one for hundreds of years.{nl}It is an real honor for us to meet you in our generation.
-QUEST_LV_0100_20150317_001837	
+QUEST_LV_0100_20150317_001837	이걸로 완성입니다.{nl}봉인해제 결정석을 가지고 부러진 기둥 협곡으로 가세요.{nl}구스타스의 제자들이 아주 반갑게 맞아주실 겁니다.
 QUEST_LV_0100_20150317_001838	It is sealed with two seals so that only the chosen one could obtain it.{nl}The chosen one should possess courage and wisdom to unleash all the seals.{nl}
 QUEST_LV_0100_20150317_001839	Of course, our family men will guide you.{nl}We know that you are qualified.
 QUEST_LV_0100_20150317_001840	These are fluids that I collected for hundreds of years.{nl}Be careful since lots of monstes are after those fluids.
-QUEST_LV_0100_20150317_001841	
+QUEST_LV_0100_20150317_001841	대왕의 유산이 드디어 주인을 찾는 날이 오는군요.{nl}어서, 부러진 기둥 협곡의 구스타스의 제자들에게 가 보세요.
 QUEST_LV_0100_20150317_001842	It's very fortunate that Jonas gained his consciousness back.
 QUEST_LV_0100_20150317_001843	I was waiting for you.{nl}Do you have the key of the great king?{nl}
 QUEST_LV_0100_20150317_001844	Okay. Find the map which indicates the location of the seal.{nl}There are also false information on the map so you should check many places.
@@ -1847,7 +1847,7 @@ QUEST_LV_0100_20150317_001846	Nothing here.{nl}
 QUEST_LV_0100_20150317_001847	But, there are still places to check.{nl}I will mark them on the map so check all those places.
 QUEST_LV_0100_20150317_001848	You found.{nl}The inheritance of Zachariel, the great king, has been waiting for you.{nl}
 QUEST_LV_0100_20150317_001849	This map contains all the locations of the seal devices at Awaiting Stone Bridge.{nl}When you unleash the seals with the king's key, you will realize what to do next.
-QUEST_LV_0100_20150317_001850	
+QUEST_LV_0100_20150317_001850	선생님이 독 때문에 숨을 쉬지 않아요.{nl}어서, 석주대의 다른 분들께 해독제를 빌려 오세요.
 QUEST_LV_0100_20150317_001851	No antidotes yet?{nl}His pulse is fading.{nl}
 QUEST_LV_0100_20150317_001852	Thank you!{nl}Fortunately, he is breathing again.{nl}
 QUEST_LV_0100_20150317_001853	We will take little bit more rest and go back when he becomes okay.{nl}May the goddess bless you.
@@ -1860,12 +1860,12 @@ QUEST_LV_0100_20150317_001859	I wonder what they tried to protect by building th
 QUEST_LV_0100_20150317_001860	Are you okay?{nl}The next epitaph is at Dykyne intersections.
 QUEST_LV_0100_20150317_001861	The god is quiet. {nl}I think the tomb will be the same.
 QUEST_LV_0100_20150317_001862	It was dangerous.{nl}But, we can't stop.
-QUEST_LV_0100_20150317_001863	
+QUEST_LV_0100_20150317_001863	다음 비문은 디키네 갈림길의 왼쪽 길에 있습니다.{nl}네 번째 비문이던가요. 기대되는군요.
 QUEST_LV_0100_20150317_001864	What do I want to get from the royal tomb?{nl}That's a secret.
 QUEST_LV_0100_20150317_001865	Zachariel's journey is not easy.{nl}With the skill you have, he should have recognized you.
 QUEST_LV_0100_20150317_001866	The last epitaph is at Apati cliff.{nl}I hope Zachariel understands our truth.
 QUEST_LV_0100_20150317_001867	Soon we should have all clues.{nl}I am looking forward to it.
-QUEST_LV_0100_20150317_001868	
+QUEST_LV_0100_20150317_001868	드디어 다섯 개의 단서가 다 모였습니다.{nl}이제 이 단서에 대한 해석을 시작해야겠지요.
 QUEST_LV_0100_20150317_001869	Is that so..{nl}The clues are covered with something so I can barely see them.{nl}
 QUEST_LV_0100_20150317_001870	How about you bring us the teeth of Hogma?{nl}It's okay if it takes some time.
 QUEST_LV_0100_20150317_001871	I will wait here patiently.{nl}No need to hurry since we have the clues.
@@ -1883,13 +1883,13 @@ QUEST_LV_0100_20150317_001882	Using the name of a demon, that doen't look like a
 QUEST_LV_0100_20150317_001883	Rexipher?{nl}Doesn't she have silver hair with robe on her body?
 QUEST_LV_0100_20150317_001884	She is a crazy person controlling monsters.{nl}She made me like this and she also destroyed the altar which I used to research on.{nl}
 QUEST_LV_0100_20150317_001885	Go to Cheses altar first. {nl}They are also aiming for Gedula altar too. 
-QUEST_LV_0100_20150317_001886	
+QUEST_LV_0100_20150317_001886	그래. 그렇게 나와야지. {nl}우선 세시자 도열주랑의 왕릉 수호장치를 파괴해.
 QUEST_LV_0100_20150317_001887	I blocked your way.. I'm really sorry. {nl}
 QUEST_LV_0100_20150317_001888	We shouldn't be hanging around like this.{nl}We should go after Rexipher.
 QUEST_LV_0100_20150317_001889	The seals that haven't been detroyed yet at the king's plateau will block Rexipher.{nl}That means you would have enough time to chase after Rexipher.
 QUEST_LV_0100_20150317_001890	Please go to the royal tomb.{nl}We should find out what Rexipher has in her mind.
 QUEST_LV_0100_20150317_001891	I came here since Laulas' injury is severe.{nl}How did she unleash the seal?
-QUEST_LV_0100_20150317_001892	
+QUEST_LV_0100_20150317_001892	무무고원이라니. 생각도 못했어요.{nl}도대체 봉인을 풀어서 뭘 하겠다는 걸까요?{nl}
 QUEST_LV_0100_20150317_001893	Anways, Rexipher will go after the remaining altar.{nl}Go to the nearest Chedeque's altar. It is on the way to Keturka Entrance.
 QUEST_LV_0100_20150317_001894	Ruklys was a traitor so his monument also received ordeals.{nl}After it was broken into five pieces, they all dissappeared.{nl}
 QUEST_LV_0100_20150317_001895	I am trying to find one of them by using small trees at Balkonas wilderness.{nl}With a wooden piece from the monster, we will make an exploration stick to find it.
@@ -1900,7 +1900,7 @@ QUEST_LV_0100_20150317_001899	{nl}Ah, here it is. I found it.{nl}Now I can strin
 QUEST_LV_0100_20150317_001900	We are the believers of Saule Goddess.{nl}We are here to prevent Thorny Bushes from growing in this forest.{nl}
 QUEST_LV_0100_20150317_001901	If it weren't us, all of this forest will be covered with thorny bushes.
 QUEST_LV_0100_20150317_001902	Human controlling monsters.. That's the first time I saw such thing.{nl}And why did she break the altars..
-QUEST_LV_0100_20150317_001903	
+QUEST_LV_0100_20150317_001903	왕릉과 관련된 봉인이라는 것 밖에 밝혀진 게 없어요.{nl}렉시퍼는 그걸 망가뜨려서 어쩌려는 건지.
 QUEST_LV_0100_20150317_001904	Please take care of those Tamas. I am getting disturbed by them.{nl}When I gain my conciousness, those tamas are all around me and glancing at me.
 QUEST_LV_0100_20150317_001905	The artifacts that Raymond is looking for are not there.{nl}I think probably Tama has swallowed it.{nl}What do you think?
 QUEST_LV_0100_20150317_001906	I guarantee you that Tama swallowed it. Do you want to bet?
@@ -2011,7 +2011,7 @@ QUEST_LV_0100_20150317_002010	The dye is complete. {nl} Trace the pattern vaguel
 QUEST_LV_0100_20150317_002011	The Obelisk is in the Slepingas stream.
 QUEST_LV_0100_20150317_002012	I'm sure God will be satisfied with you.
 QUEST_LV_0100_20150317_002013	It's almost done. {nl} After completing the rituals to cleanse your body, you will be able to meet the Goddess soon. {nl}
-QUEST_LV_0100_20150317_002014	
+QUEST_LV_0100_20150317_002014	오른쪽으로 난 길을 따라 쪽빛나무 고원으로 가시지요.{nl}저희 마을 사제가 계시자님을 기다리고 있습니다.
 QUEST_LV_0100_20150317_002015	Use this tranquilizer on the black maize and extract its poison. {nl} The Maize should be weakened for the tranquilizer to work.
 QUEST_LV_0100_20150317_002016	Thank you so much! {nl}By the way, what was that vibration?
 QUEST_LV_0100_20150317_002017	The disciple of Andail Village
@@ -2028,7 +2028,7 @@ QUEST_LV_0100_20150317_002027	Explosives? Ahh. {nl} Go to the warehouse lot in t
 QUEST_LV_0100_20150317_002028	It's probably in the big container. {nl} It won't explode, so don't worry.
 QUEST_LV_0100_20150317_002029	Don't worry, it's safe. It will not explode.
 QUEST_LV_0100_20150317_002030	Was it a small container? {nl} I'm old and I guess I got confused. {nl} Normally, people would have burnt and disappeared without a trace but a Revelator surely is different.
-QUEST_LV_0100_20150317_002031	
+QUEST_LV_0100_20150317_002031	재료가 모두 모이면 가시나무 제단에서 합성하시면 됩니다.
 QUEST_LV_0100_20150317_002032	God or Goddess, what you call her doesn't matter. {nl} Aren't we all one eventually? {nl}
 QUEST_LV_0100_20150317_002033	Is it hard to understand? {nl} One day you will realize.
 QUEST_LV_0100_20150317_002034	Here, this is Languid flower bomb. {nl} Take it to the cliff of Melagingas.
@@ -2036,7 +2036,7 @@ QUEST_LV_0100_20150317_002035	Now, hurry. {nl} We can finally end it this time.
 QUEST_LV_0100_20150317_002036	This time, it can finally come to an end.
 QUEST_LV_0100_20150317_002037	Hmm. So. The procedure is. {nl} Wash your body in the water and pray, then.. {nl}
 QUEST_LV_0100_20150317_002038	It's too complicated so I'll explain it later.
-QUEST_LV_0100_20150317_002039	
+QUEST_LV_0100_20150317_002039	이번엔 라주마 굽잇길 근처에 있는 콜리플라워의 수액을 가져다 주세요.{nl}수액이 묻은 부분은 잘 타거든요.
 QUEST_LV_0100_20150317_002040	Can you step on the Statue of the Goddess? {nl} It doesn't matter. Why do you ask?
 QUEST_LV_0100_20150317_002041	It will be hard without Colli flowers' fluids because of rain.{nl}When would the rain stop.
 QUEST_LV_0100_20150317_002042	Well done.{nl}This will be enough.
@@ -2049,11 +2049,11 @@ QUEST_LV_0100_20150317_002048	You found the ring! {nl}Thanks. Thank you so much!
 QUEST_LV_0100_20150317_002049	The priests are having hard time due to thorny bushes.{nl}How about you help them?
 QUEST_LV_0100_20150317_002050	I will write down all the processes for you.{nl}How about you start by recharging mana of magic crystal?
 QUEST_LV_0100_20150317_002051	Okay, show me that you can stand against those thorny bushes with your religious faith.{nl}You can't say you are the follower when you are weak like now.
-QUEST_LV_0100_20150317_002052	
+QUEST_LV_0100_20150317_002052	그 사악한 기운이 맨 처음 느껴진 곳이 낙우림입니다.{nl}워낙 강한 기운이라 아마 브람블을 처치한다고 해도 한동안은 계속 이런 상태일 겁니다.
 QUEST_LV_0100_20150317_002053	I don't know if it's due to thorny bushes or vicious atmosphere, but.. {nl}This forest make people too depressed.
 QUEST_LV_0100_20150317_002054	I believe in myself that one day this forest will be okay again.
 QUEST_LV_0100_20150317_002055	Are you okay?{nl}I almost lost my conciousness due to that voice.{nl}Who is he anyways..
-QUEST_LV_0100_20150317_002056	
+QUEST_LV_0100_20150317_002056	낙우림의 사악한 기운은 점점 거세지는데, 우리 신도들은 점점 지쳐갑니다.{nl}계시자님께서 몸소 도와주셨으면 합니다만.{nl}
 QUEST_LV_0100_20150317_002057	The atmosphere is becoming stronger and the priests are getting tired. It's bad.
 QUEST_LV_0100_20150317_002058	Thanks.{nl}I wonder what would have happened without you.
 QUEST_LV_0100_20150317_002059	As Merogg sorcerers are undertaking their rituals, I will give it a try.{nl}Can you take care of those sorcerers?
@@ -2066,14 +2066,14 @@ QUEST_LV_0100_20150317_002065	They are waiting for Akon to be summoned.{nl}If yo
 QUEST_LV_0100_20150317_002066	Thanks.{nl}They would not be able to attack us easily now.{nl}
 QUEST_LV_0100_20150317_002067	Thanks.{nl}The believers are distributed to their areas so find them and help them.
 QUEST_LV_0100_20150317_002068	If you don't have any job to do here, then it will be better to leave this place asap.{nl}It's not good for a person who doesn't know how to purify stays here too long.
-QUEST_LV_0100_20150317_002069	
+QUEST_LV_0100_20150317_002069	낙우림의 사악한 근원이라는 게 이미 이 숲 전체가 되어버린 건 아닐까요?{nl}괜한 걱정이라면 좋겠습니다만.
 QUEST_LV_0100_20150317_002070	Saule goddess Quezon evil aura it is not willing to spread in the other forest. {nl} Therefore, thing we're here.
 QUEST_LV_0100_20150317_002071	I am so angry to see those filthy demons walking around.
 QUEST_LV_0100_20150317_002072	I gave up long time ago since I can't see an end to that vicious atmosphere.{nl}I just think of it as my destiny.
 QUEST_LV_0100_20150317_002073	Now we just need to find out the plan of those Meroggs.{nl}Until then, please face that magician.
 QUEST_LV_0100_20150317_002074	Saule goddess was so do not speak the absolute their presence. {nl} Ramyonsoyo that give me the world of confusion only without any reason.
 QUEST_LV_0100_20150317_002075	This is all my fault. I shouldn't have underestimated it.
-QUEST_LV_0100_20150317_002076	
+QUEST_LV_0100_20150317_002076	낙우림의 가장 깊은 곳에 있다는 사악한 기운을 제거해야 끝이 보일텐데요.{nl}다들 눈 앞에 있는 것만 쫓고 있는 것 같아 안타깝습니다.
 QUEST_LV_0100_20150317_002077	I am okay about the sample so just break it so that it won't activate.{nl}I am gonna take a look at it myself.
 QUEST_LV_0100_20150317_002078	I get angry everytime I enter that Thorny Foresst.{nl}How could these dirty things happen in this divine forest of the goddess?
 QUEST_LV_0100_20150317_002079	Help me. Meroggs are after me.{nl}When they are moving in a herd like that, I can't face them.
@@ -2097,7 +2097,7 @@ QUEST_LV_0100_20150317_002096	Bramble and revelation are in the depths of Giliai
 QUEST_LV_0100_20150317_002097	Do not forget to use stimulants every time you run out of breath. {nl} May the blessings of Goddess Saule be with you.
 QUEST_LV_0100_20150317_002098	Do not forget to use stimulants every time you run out of breath. {nl} May the blessings of Goddess Saule be with you.
 QUEST_LV_0100_20150317_002099	If you feel you are in danger, run away quickly.{nl}The ship is more dangerous due to the vicious atmosphere.
-QUEST_LV_0100_20150317_002100	
+QUEST_LV_0100_20150317_002100	여기 낙우림이 가장 지독한 곳입니다.{nl}사악한 기운의 농도는 물론이고 목숨도 장담할 수 없지요.
 QUEST_LV_0100_20150317_002101	I am not afraid of dying.{nl}The goddess, Saule will guide me well.
 QUEST_LV_0100_20150317_002102	Echart is the faithful protector of the royal tomb.{nl}But, once it gets ruined, it never comes back to it's previous status.
 QUEST_LV_0100_20150317_002103	The broken epitaph of the royal tomb
@@ -2138,9 +2138,9 @@ QUEST_LV_0100_20150317_002137	I am Saule, the Goddess of the sun. {nl} Everythin
 QUEST_LV_0100_20150317_002138	Thank you. But this is not the only barrier imprisoning me in here. {nl} We've got to find the inspetor, Clymen, hiding in between the gap of dimensions.
 QUEST_LV_0100_20150317_002139	Please bring me the sacrifice tools in the Grand Corridor. {nl} I will try to use the divine power that dwell in the tool.
 QUEST_LV_0100_20150317_002140	Thank you. {nl} This much divine power would be enough.
-QUEST_LV_0100_20150317_002141	
+QUEST_LV_0100_20150317_002141	이제부터 클라이멘을 찾도록 집중하겠습니다.{nl}주변의 마족을 처치하여 조금이라도 마기를 억눌러 주세요.
 QUEST_LV_0100_20150317_002142	Just a bit more. Please suppress the Magi.
-QUEST_LV_0100_20150317_002143	
+QUEST_LV_0100_20150317_002143	이쉬필키 진입로에서 클라이멘이 느껴집니다.{nl}어서 그를 처치해 주세요.{nl}
 QUEST_LV_0100_20150317_002144	It's his key. {nl} Please let me free.
 QUEST_LV_0100_20150317_002145	Thank you in the name of Saule, the Goddess of the sun. {nl}
 QUEST_LV_0100_20150317_002146	It's a shame but the revelation is in the hands of Bramble. {nl} The reason he imprisoned me instead of killing me is to use my divinity to interpret the revelation. {nl}
@@ -2148,9 +2148,9 @@ QUEST_LV_0100_20150317_002147	But the Bramble is also not in its normal conditio
 QUEST_LV_0100_20150317_002148	Show me the revelation. {nl} I'll show you its meaning.
 QUEST_LV_0100_20150317_002149	If it's the divine power dwelling on the sacrifice items, then we can surely use it to find Clymen. {nl}
 QUEST_LV_0100_20150317_002150	Lyliana
-QUEST_LV_0100_20150317_002151	
+QUEST_LV_0100_20150317_002151	쪽빛나무 고원에 사는 가족들이 보고 싶네요. {nl}그리고.. 오빠와 크게 다퉜던 일을 사과하고 싶어요.
 QUEST_LV_0100_20150317_002152	I really want to know how my family is doing but I'm too scared of the monsters to go back. {nl} I just ran out of the house and I regret it a lot.
-QUEST_LV_0100_20150317_002153	
+QUEST_LV_0100_20150317_002153	쪽빛나무 고원에서 오빠랑 개울 물에 발을 담그며 노래를 불렀던 생각이 나요
 QUEST_LV_0100_20150317_002154	I just feel sorry to my brother.
 QUEST_LV_0100_20150317_002155	Old man of Andail village
 QUEST_LV_0100_20150317_002156	God is looking after our village so our village has clear water and air. And there are no disasters here.
@@ -2189,13 +2189,13 @@ QUEST_LV_0100_20150317_002188	Thank you for saving me.
 QUEST_LV_0100_20150317_002189	So you're the Revelator the Mayor spoke about. {nl} I'm fine so please check the portal of the Sanctuary.
 QUEST_LV_0100_20150317_002190	The portal can be opened from the altar in Nugria Sanctuary
 QUEST_LV_0100_20150317_002191	It does not work. {nl} That's a big problem. {nl}
-QUEST_LV_0100_20150317_002192	
+QUEST_LV_0100_20150317_002192	저 대신 마름포석골에 계신 원로님께 알려주시겠어요?{nl}여기서 왼쪽으로 올라가시면 금방이에요.
 QUEST_LV_0100_20150317_002193	That portal is.. a fantasy... No. A portal going to Goddess Saule. {nl} Anyway, opening the portal is very important.
 QUEST_LV_0100_20150317_002194	Injuries are not that severe so don't worry. Please check the portal in the sanctuary first.
 QUEST_LV_0100_20150317_002195	I will move again if I take a little rest.{nl}First, the portal..
 QUEST_LV_0100_20150317_002196	Ah, so you are the revelator!{nl}It's a real honor for us.
 QUEST_LV_0100_20150317_002197	Monsters are trying to attack us, but we can't just quit the purification process.{nl}Saule has told us to do that.
-QUEST_LV_0100_20150317_002198	
+QUEST_LV_0100_20150317_002198	가장 중요한 뿌리가 낙우림 어딘가에 있을 텐데 너무 들쑤시고 다녔나봐요.{nl}그것만 잘라 버리면 이 숲의 기세도 줄어들텐데.
 QUEST_LV_0100_20150317_002199	We want to live quietly by serving Saule.
 QUEST_LV_0100_20150317_002200	The statue of the protector of the royal tomb
 QUEST_LV_0100_20150317_002201	The rules of the royal tomb are being ruined by the vicious being.
@@ -2222,9 +2222,9 @@ QUEST_LV_0100_20150317_002221	If I was a parent, I probably would have gone arou
 QUEST_LV_0100_20150317_002222	The girl did not speak at all. {nl} In addition to that, a young lady all grown up walking all the way to this remote village barefoot. Doesn't it seem strange?
 QUEST_LV_0100_20150317_002223	Can we go home..
 QUEST_LV_0100_20150317_002224	I want to go home soon..
-QUEST_LV_0100_20150317_002225	
+QUEST_LV_0100_20150317_002225	이 봉인을 풀었다는 소녀도 궁금하군요.{nl}절대로 쉽게 풀 수 있는 봉인이 아닙니다.{nl}{nl}
 QUEST_LV_0100_20150317_002226	Husband of refugee family
-QUEST_LV_0100_20150317_002227	
+QUEST_LV_0100_20150317_002227	몬스터를 피해 제 아내와 이곳으로 도망쳐 왔습니다.{nl}제미나 여신께서 지켜주고 계시지만 언제까지 버틸 수 있을지 모르겠네요.
 QUEST_LV_0100_20150317_002228	Oh, the Accessory Merchant said she has a gift for you. {nl} Would you mind visiting her?
 QUEST_LV_0100_20150317_002229	You can meet the Accessory Merchant if you go straight to the left from here.
 QUEST_LV_0100_20150317_002230	Accessory Merchant
@@ -2282,7 +2282,7 @@ QUEST_LV_0100_20150317_002281	Don't you ever think about going to the great cath
 QUEST_LV_0100_20150317_002282	Yes. The Pilgrim's Way that must be passed when you wanna go to the great cathedral.{nl}Ah well.. the spirits of 
 QUEST_LV_0100_20150317_002283	Seal of Vubbe Tribe, Horn of Pantos, Heart of Merlog, HTeeth of Hogma. {nl} That is a lot! {nl}
 QUEST_LV_0100_20150317_002284	The bootys that you've obtained are not to be boasted about.{nl}How about we bet?
-QUEST_LV_0100_20150317_002285	
+QUEST_LV_0100_20150317_002285	희미한 묘지의 몬스터라면 네겐 적당히 공정한 내기가 아닌가 싶은데.{nl}아닌가?
 QUEST_LV_0100_20150317_002286	Haha, I lost.{nl}You are great as I heard so. Here, it's your reward as promised/
 QUEST_LV_0100_20150317_002287	I have buried a revelator once in the past.{nl}I was too arrogant with the trust from the goddess.
 QUEST_LV_0100_20150317_002288	It's freightening to think that I turned out like this after all.{nl}I don't know whether I will bury one more revelator in the future.. You won't know either.
@@ -2290,7 +2290,7 @@ QUEST_LV_0100_20150317_002289	Are you proud of your skills to talk to me at this
 QUEST_LV_0100_20150317_002290	If a person becomes a handful of soils after his death, can you imagine how he will be treated.{nl}The soils that once conquered this world..
 QUEST_LV_0100_20150317_002291	Yes. You managed to avoid being like me. Yes..
 QUEST_LV_0100_20150317_002292	Without the blessing from the goddess, You must be near the goddess now.{nl}But lots of people can't do that anymore.{nl}
-QUEST_LV_0100_20150317_002293	
+QUEST_LV_0100_20150317_002293	머무르는 나뭇골의 채퍼리션은 많은 생명을 앗아갔네.{nl}그 몬스터를 여신의 이름으로 처치해 주게.
 QUEST_LV_0100_20150317_002294	We can't revive the people who died by Chapparitions.{nl}I feel sorry, but we can't just do nothing.
 QUEST_LV_0100_20150317_002295	Innocent Spirit
 QUEST_LV_0100_20150317_002296	Do not be surprised. {nl} There's something to give you before returning to the Goddess. {nl}
@@ -2313,14 +2313,14 @@ QUEST_LV_0100_20150317_002312	Hm, Okay. I have accessories that will fit on that
 QUEST_LV_0100_20150317_002313	Not yet?{nl}They will fit on you nicely.
 QUEST_LV_0100_20150317_002314	Yes. Well done.{nl}Here you go. It's a gift to you as promised.{nl}
 QUEST_LV_0100_20150317_002315	Don't underestimate it. It was a strong animal in the old stories.{nl}In some places, one becomes an enemy to all other people just by touching that animal.
-QUEST_LV_0100_20150317_002316	
+QUEST_LV_0100_20150317_002316	죄송하지만, 이 제문을 무무고원에 있는 비문 앞에서 태워 주실 수 있을까요?{nl}협곡지대를 샅샅이 탐험하신 계시자님이라면 그들의 넋을 달랠 자격이 충분한 것 같아서요.
 QUEST_LV_0100_20150317_002317	The canyon area is like a grave for many explorers and historians. {nl} And we study to find more factual history on top of their graves.
 QUEST_LV_0100_20150317_002318	Thank you. {nl} Our academia will not forget him too. 
 QUEST_LV_0100_20150317_002319	The revelator is lying here after he said such thing.{nl}If he survives after facing the nearby monsters for 2 minutes, 
 QUEST_LV_0100_20150317_002320	Next time, be careful when using public utilities. {nl} Well that's that and you have some great power. 
 QUEST_LV_0100_20150317_002321	Oh.. It's absurdity gets me at loss for words every time I look at it. {nl} Was is really this fragile..
 QUEST_LV_0100_20150317_002322	I don't feel good.{nl}We may have to evacuate from here.
-QUEST_LV_0100_20150317_002323	
+QUEST_LV_0100_20150317_002323	희미한 묘지의 위험한 몬스터들을 닥치는대로 해치우고 오는거야.{nl}한 40마리 정도? 네가 해내지 못한다에 걸지.
 QUEST_LV_0100_20150317_002324	I will pray for that monsterl.{nl}If there are spirits who would listen to my prayer..
 QUEST_LV_0100_20150317_002325	Unfortunately... I don't know where my brother is. {nl} He also probably won't know my whereabouts too.
 QUEST_LV_0100_20150317_002326	I can't leave here unless I complete the mission..
@@ -2478,7 +2478,7 @@ QUEST_LV_0100_20150317_002477	Rubber copying/SITREAD/3/TRACK_BEFORE/SSN_HATE_ARO
 QUEST_LV_0100_20150317_002478	Notice/It is written that the next document is hidden in the middle of the way to Snake's Neck Cliff#5
 QUEST_LV_0100_20150317_002479	Incinerate the diary of the adventurer(2)
 QUEST_LV_0100_20150317_002480	Looking for the document which Vakis hid../#SITGROPESET2/3/TRACK_BEFORE/SSN_HATE_AROUND
-QUEST_LV_0100_20150317_002481	
+QUEST_LV_0100_20150317_002481	Notice/언낙커 처치!#4
 QUEST_LV_0100_20150317_002482	Notice/It is written that the next document is hidden at Apati Cliff#5
 QUEST_LV_0100_20150317_002483	Incinerate the diary of the adventurer(3)
 QUEST_LV_0100_20150317_002484	Notice/Soothe Vakis by burning his document at his camp.#3
@@ -2567,7 +2567,7 @@ QUEST_LV_0100_20150317_002566	Call the mercenary
 QUEST_LV_0100_20150317_002567	Disappeared Researcher (3)
 QUEST_LV_0100_20150317_002568	Tell him to sustain until the barrier device is activated
 QUEST_LV_0100_20150317_002569	Tell him that Dezik will help
-QUEST_LV_0100_20150317_002570	
+QUEST_LV_0100_20150317_002570	아이리네를 풀어 주는 중/SITGROPE/2/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_002571	Bothering disappearance(1)
 QUEST_LV_0100_20150317_002572	Tell him you will gather some clues by defeating Sauga
 QUEST_LV_0100_20150317_002573	About the disappearance
@@ -2692,7 +2692,7 @@ QUEST_LV_0100_20150317_002691	Notice /!/Retrieved parts of the purifier! {nl}Fix
 QUEST_LV_0100_20150317_002692	Destroyer of the Main Purifier (3)
 QUEST_LV_0100_20150317_002693	Notice/Successfuly repaired the Main Purifier! {nl} Main Purifier is now working.
 QUEST_LV_0100_20150317_002694	The seal of the royal family(1)
-QUEST_LV_0100_20150317_002695	
+QUEST_LV_0100_20150317_002659	Notice/!/닫힌 밸브를 열었습니다.{nl}다시 순환 정화장치로 돌아가 보세요.#5
 QUEST_LV_0100_20150317_002696	The threat on the ground
 QUEST_LV_0100_20150317_002697	Touch it anyways
 QUEST_LV_0100_20150317_002698	The seal of the royal family(2)
@@ -2717,7 +2717,7 @@ QUEST_LV_0100_20150317_002716	Investigating the stone pole/LOOK/2/TRACK_BEFORE/S
 QUEST_LV_0100_20150317_002717	Notice/The new stone pole has appeared.{nl}Destroy the stone pole within the time frame and receive the artifacts.#7
 QUEST_LV_0100_20150317_002718	Tha stone pole above the Alkune Stairs
 QUEST_LV_0100_20150317_002719	Notice/monsters suddenly appeared! #7
-QUEST_LV_0100_20150317_002720	
+QUEST_LV_0100_20150317_002720	기둥에서 돌 채취 중/STANDSHAKE/2/TRACK_AFTER/None
 QUEST_LV_0100_20150317_002721	The Stone Pole at the Long Bridge Valley
 QUEST_LV_0100_20150317_002722	Notice/suddenly appeared to be a Sheena! #7
 QUEST_LV_0100_20150317_002723	Mercenary of the Merchant
@@ -2739,11 +2739,11 @@ QUEST_LV_0100_20150317_002738	Notice /!/Poison amplifies the need for wood bang 
 QUEST_LV_0100_20150317_002739	The information about Saugas(3)
 QUEST_LV_0100_20150317_002740	I will try
 QUEST_LV_0100_20150317_002741	Tell him to do it himself
-QUEST_LV_0100_20150317_002742	
+QUEST_LV_0100_20150317_002742	돌을 설치 하는 중/SITGROPE/2/TRACK_BEFORE/SSN_HATE_AROUND
 QUEST_LV_0100_20150317_002743	The information about Saugas(4)
 QUEST_LV_0100_20150317_002744	Tell him to install it again
 QUEST_LV_0100_20150317_002745	Tell him to do it himself
-QUEST_LV_0100_20150317_002746	
+QUEST_LV_0100_20150317_002746	유인 중/#SITGROPESET2/3/TRACK_BEFORE/SSN_HATE_AROUND
 QUEST_LV_0100_20150317_002747	Find the subordinate of the commander of supplies' force
 QUEST_LV_0100_20150317_002748	The seal of the royal family(4)
 QUEST_LV_0100_20150317_002749	Tell him that you will unleash the seal of the divine place
@@ -2901,7 +2901,7 @@ QUEST_LV_0100_20150317_002900	Notice/You restored the Ruklys memorial and obtain
 QUEST_LV_0100_20150317_002901	Curiosity killed the epigraphist
 QUEST_LV_0100_20150317_002902	I'll stay with you till the end
 QUEST_LV_0100_20150317_002903	The entrace of the cathedral(3)
-QUEST_LV_0100_20150317_002904	
+QUEST_LV_0100_20150317_002904	결계 해제 중/MAKING/2/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_002905	The trace of the star(6)
 QUEST_LV_0100_20150317_002906	Notice/You read Lydia Schaffen's tombstone and gained enlightenment.{nl}You earned 1 stat point
 QUEST_LV_0100_20150317_002907	Heated arrowhead
@@ -3014,7 +3014,7 @@ QUEST_LV_0100_20150317_003013	I'll gather the sample first.
 QUEST_LV_0100_20150317_003014	Preventive Measures (3)
 QUEST_LV_0100_20150317_003015	I'll get it. 
 QUEST_LV_0100_20150317_003016	Goddess Gabija (1)
-QUEST_LV_0100_20150317_003017	
+QUEST_LV_0100_20150317_003017	그리타를 도우러 수정개울로 가자
 QUEST_LV_0100_20150317_003018	Goddess Gabija (2)
 QUEST_LV_0100_20150317_003019	Follow Grita to the Mage Tower
 QUEST_LV_0100_20150317_003020	Reject
@@ -3046,7 +3046,7 @@ QUEST_LV_0100_20150317_003045	Mage Tower 2层 (4)
 QUEST_LV_0100_20150317_003046	I'll gather the Source of Fire.
 QUEST_LV_0100_20150317_003047	Mage Tower 2层 (5)
 QUEST_LV_0100_20150317_003048	Go complete the Gem of Prominence!
-QUEST_LV_0100_20150317_003049	
+QUEST_LV_0100_20150317_003049	홍염의 보석 융합 중/MAKING/2/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_003050	Notice /Gem of Prominence is complete! #5
 QUEST_LV_0100_20150317_003051	Lunatic Wizard (1)
 QUEST_LV_0100_20150317_003052	Say to go quickly
@@ -3173,7 +3173,7 @@ QUEST_LV_0100_20150317_003172	Checking/READ/2/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_003173	Destroyed Barrier
 QUEST_LV_0100_20150317_003174	I'll help if it's simple
 QUEST_LV_0100_20150317_003175	I'm busy on my way
-QUEST_LV_0100_20150317_003176	
+QUEST_LV_0100_20150317_003176	옥빛서린 벼랑의 결계에 대해
 QUEST_LV_0100_20150317_003177	I have no time...
 QUEST_LV_0100_20150317_003178	I'll help
 QUEST_LV_0100_20150317_003179	Demon Summoning
@@ -3224,7 +3224,7 @@ QUEST_LV_0100_20150317_003223	Research of Historian Rexipher (4)
 QUEST_LV_0100_20150317_003224	Move to where the next inscription is located
 QUEST_LV_0100_20150317_003225	Research of Historian Rexipher (5)
 QUEST_LV_0100_20150317_003226	Move to a where the last inscription is located
-QUEST_LV_0100_20150317_003227	
+QUEST_LV_0100_20150317_003227	살펴 보는 중/#SITGROPESET2/3/TRACK_BEFORE/SSN_HATE_AROUND
 QUEST_LV_0100_20150317_003228	Trick of the Demon (2)
 QUEST_LV_0100_20150317_003229	I follow the whereabouts of Rexipher
 QUEST_LV_0100_20150317_003230	Don't chase
@@ -3249,9 +3249,9 @@ QUEST_LV_0100_20150317_003248	I don't think so
 QUEST_LV_0100_20150317_003249	Notice /You must go to Gedulah altar before Rexipher! #7
 QUEST_LV_0100_20150317_003250	Rexipher's True Colors (2)
 QUEST_LV_0100_20150317_003251	Rexipher's True Colors (3)
-QUEST_LV_0100_20150317_003252	
+QUEST_LV_0100_20150317_003252	렉시퍼와 5개의 단서에 대해 설명해 준다
 QUEST_LV_0100_20150317_003253	Better keep quiet
-QUEST_LV_0100_20150317_003254	
+QUEST_LV_0100_20150317_003254	이 곳의 봉인에 대해
 QUEST_LV_0100_20150317_003255	Rexipher's True Colors (4)
 QUEST_LV_0100_20150317_003256	I will go
 QUEST_LV_0100_20150317_003257	Rexipher's True Colors (5)
@@ -3288,7 +3288,7 @@ QUEST_LV_0100_20150317_003287	Repair the Practice Wooden Seal (1)
 QUEST_LV_0100_20150317_003288	I will repair the practice wooden seal
 QUEST_LV_0100_20150317_003289	Proving skills
 QUEST_LV_0100_20150317_003290	I will accept that bet
-QUEST_LV_0100_20150317_003291	
+QUEST_LV_0100_20150317_003291	희미한 묘지 시험
 QUEST_LV_0100_20150317_003292	I'm not weak
 QUEST_LV_0100_20150317_003293	The one who experienced death
 QUEST_LV_0100_20150317_003294	I will find and get rid of Chapparition
@@ -3394,7 +3394,7 @@ QUEST_LV_0100_20150317_003393	About the Pantos
 QUEST_LV_0100_20150317_003394	Collect recycling materials
 QUEST_LV_0100_20150317_003395	That's too bad (leave)
 QUEST_LV_0100_20150317_003396	About the Holy Land
-QUEST_LV_0100_20150317_003397	
+QUEST_LV_0100_20150317_003397	은수협곡의 폭군
 QUEST_LV_0100_20150317_003398	I'll go and hunt the Poatas
 QUEST_LV_0100_20150317_003399	Don't worry. That will never happen
 QUEST_LV_0100_20150317_003400	About the cable car
@@ -3450,7 +3450,7 @@ QUEST_LV_0100_20150317_003449	Worry about the wound
 QUEST_LV_0100_20150317_003450	About the portal
 QUEST_LV_0100_20150317_003451	Checking/MAKING/3/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_003452	Notice/!/Portal is nor working.
-QUEST_LV_0100_20150317_003453	
+QUEST_LV_0100_20150317_003453	Notice/마름포석골의 마을 원로를 찾아가세요!#5
 QUEST_LV_0100_20150317_003454	Moyabruka of Nugria sanctuary
 QUEST_LV_0100_20150317_003455	Notice/Moyabraka appeared!
 QUEST_LV_0100_20150317_003456	Remove the pollutant in Veidma Uphill
@@ -3485,13 +3485,13 @@ QUEST_LV_0100_20150317_003484	I'll find the artifact
 QUEST_LV_0100_20150317_003485	I'll stop now. It's annoying.
 QUEST_LV_0100_20150317_003486	Epitaph of Shirnas Plateau
 QUEST_LV_0100_20150317_003487	Looking at the inscription/LOOK/2/TRACK_BEFORE/SSN_HATE_AROUND
-QUEST_LV_0100_20150317_003488	
+QUEST_LV_0100_20150317_003488	비문을 살펴 보는 중/LOOK/2/TRACK_AFTER/None
 QUEST_LV_0100_20150317_003489	Epitaph on the right fork for Dykyne
 QUEST_LV_0100_20150317_003490	Corpse of collapsed soldier
 QUEST_LV_0100_20150317_003491	Pryaing for the soul/WORSHIP/2/TRACK_BEFORE/SSN_HATE_AROUND
 QUEST_LV_0100_20150317_003492	Praying for the dead soul/WORSHIP/4/TRACK_AFTER/SSN_HATE_AROUND/F_pc_warp_circle/1/BOT
 QUEST_LV_0100_20150317_003493	Notice /You prayed for the soul of the dead soldier! #2
-QUEST_LV_0100_20150317_003494	
+QUEST_LV_0100_20150317_003494	체데크의 제단 봉인 해제
 QUEST_LV_0100_20150317_003495	Treasure Chest of Hogmas
 QUEST_LV_0100_20150317_003496	Sentinel's Favor (1)
 QUEST_LV_0100_20150317_003497	I'll find the box
@@ -3500,17 +3500,17 @@ QUEST_LV_0100_20150317_003499	Sentinnel's Favor (2)
 QUEST_LV_0100_20150317_003500	Do not worry I'll collect them
 QUEST_LV_0100_20150317_003501	Take care of such things by yourself
 QUEST_LV_0100_20150317_003502	Curse of Laziness - Sleep
-QUEST_LV_0100_20150317_003503	
+QUEST_LV_0100_20150317_003503	Notice/종이 쪽지 하나가 떨어 졌습니다!#3
 QUEST_LV_0100_20150317_003504	Get Out of Bewilderment (5)
-QUEST_LV_0100_20150317_003505	
-QUEST_LV_0100_20150317_003506	
+QUEST_LV_0100_20150317_003505	초상화와 손수건을 보여 준다
+QUEST_LV_0100_20150317_003506	미혹에서 벗어나(6)
 QUEST_LV_0100_20150317_003507	Listen quietly
 QUEST_LV_0100_20150317_003508	Making grave/SITGROPE/2/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_003509	Notice/Made a grave for Witas#3
 QUEST_LV_0100_20150317_003510	Sepcial necklace
-QUEST_LV_0100_20150317_003511	
-QUEST_LV_0100_20150317_003512	
-QUEST_LV_0100_20150317_003513	
+QUEST_LV_0100_20150317_003511	순순히 준다
+QUEST_LV_0100_20150317_003512	이 귀한걸 뺏길 수 없다
+QUEST_LV_0100_20150317_003513	관심을 가지는 이유
 QUEST_LV_0100_20150317_003514	Mysterious slate (1)
 QUEST_LV_0100_20150317_003515	Of looking at/READ/2/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_003516	Notice/Return to 克拉佩达 and talk to Knight Commander Uska
@@ -3710,7 +3710,7 @@ QUEST_LV_0100_20150317_003709	It will be fine
 QUEST_LV_0100_20150317_003710	Do not go any further
 QUEST_LV_0100_20150317_003711	Just a little help
 QUEST_LV_0100_20150317_003712	Willingly accept
-QUEST_LV_0100_20150317_003713	
+QUEST_LV_0100_20150317_003713	낙우림이 더 급하다고 한다
 QUEST_LV_0100_20150317_003714	Can't do anything
 QUEST_LV_0100_20150317_003715	I'll take care of it right away
 QUEST_LV_0100_20150317_003716	It will be safer to let the other believers know 
@@ -3729,7 +3729,7 @@ QUEST_LV_0100_20150317_003728	Leave vicinity
 QUEST_LV_0100_20150317_003729	Raid of Merog
 QUEST_LV_0100_20150317_003730	It will be okay if you hide 
 QUEST_LV_0100_20150317_003731	Notice/Defeat the Merof and Chaferer that followed Bronews!
-QUEST_LV_0100_20150317_003732	
+QUEST_LV_0100_20150317_003732	낙우림 정화(1)
 QUEST_LV_0100_20150317_003733	I will protect the altar from the monster
 QUEST_LV_0100_20150317_003734	I don't know
 QUEST_LV_0100_20150317_003735	Activate altar of purification/MAKING/3/TRACK_BEFORE/None
@@ -3739,7 +3739,7 @@ QUEST_LV_0100_20150317_003738	Bramble Strategy (1)
 QUEST_LV_0100_20150317_003739	I'm ready
 QUEST_LV_0100_20150317_003740	Root of Tinkanta Vacant Lot
 QUEST_LV_0100_20150317_003741	Notice/You touched the roots and Molech is blocking the way!#5
-QUEST_LV_0100_20150317_003742	
+QUEST_LV_0100_20150317_003742	낙우림 정화(2)
 QUEST_LV_0100_20150317_003743	I'll help the purifying job
 QUEST_LV_0100_20150317_003744	It's dangerous. Give up. 
 QUEST_LV_0100_20150317_003745	Notice/Succesfully activated the altar of purification!#3
@@ -3751,9 +3751,9 @@ QUEST_LV_0100_20150317_003750	I'll meet the priest
 QUEST_LV_0100_20150317_003751	Activate Obelisk (1)
 QUEST_LV_0100_20150317_003752	Ask how to restore it
 QUEST_LV_0100_20150317_003753	Just leave
-QUEST_LV_0100_20150317_003754	
+QUEST_LV_0100_20150317_003754	Notice/나무 진액을 모두 모았습니다.{nl}가시나무 제단으로 가서 재료를 합성하세요!#5
 QUEST_LV_0100_20150317_003755	Activate Obelisk (2)
-QUEST_LV_0100_20150317_003756	
+QUEST_LV_0100_20150317_003756	재료 합성 중/STANDSPINKLE/3/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_003757	Notice/Dye compelted!{nl}Obtain the dye from the altar.#5
 QUEST_LV_0100_20150317_003758	Notice/Go back to the priest of Andale #7
 QUEST_LV_0100_20150317_003759	Activate Obelisk (3)
@@ -3761,11 +3761,11 @@ QUEST_LV_0100_20150317_003760	Ask where the Obelisk is located
 QUEST_LV_0100_20150317_003761	Restore it yourself
 QUEST_LV_0100_20150317_003762	About the God
 QUEST_LV_0100_20150317_003763	Restoring Obelisk/READ/3/TRACK_BEFORE/None
-QUEST_LV_0100_20150317_003764	
+QUEST_LV_0100_20150317_003764	Notice/쪽빛나무 고원의 안데일 마을 사제를 찾아가세요!#5
 QUEST_LV_0100_20150317_003765	Moldyhorn of Nefrito Valley
 QUEST_LV_0100_20150317_003766	Looking around/SITGROPE/3/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_003767	Notice/Moldyhorn appeared!#3
-QUEST_LV_0100_20150317_003768	
+QUEST_LV_0100_20150317_003768	불길한 기운이 감도는 가시나무 제단
 QUEST_LV_0100_20150317_003769	Combining materials/SITGROPE/3/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_003770	Notice/Defeat the monsters that react to the omnious aura!#5
 QUEST_LV_0100_20150317_003771	Blue Woodspirit of Slepingas stream
@@ -3790,12 +3790,12 @@ QUEST_LV_0100_20150317_003789	I will prepare myself for a while
 QUEST_LV_0100_20150317_003790	Installing Languid bomb/MAKING/3/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_003791	Mysterious Well
 QUEST_LV_0100_20150317_003792	Notice/!/Find a tool to get things out of the well!#7
-QUEST_LV_0100_20150317_003793	
+QUEST_LV_0100_20150317_003793	물건 꺼내는 중/MAKING/3/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_003794	Notice/Found someone's relics from the well!
 QUEST_LV_0100_20150317_003795	Colimencia of Dvyni Swamp
 QUEST_LV_0100_20150317_003796	Notice/Colimencia appeared!#3
-QUEST_LV_0100_20150317_003797	
-QUEST_LV_0100_20150317_003798	
+QUEST_LV_0100_20150317_003797	사크넬레 절벽기슭의 일티스워트
+QUEST_LV_0100_20150317_003798	Notice/일티스워트가 깨어났습니다!#3
 QUEST_LV_0100_20150317_003799	Bramble Strategy (2)
 QUEST_LV_0100_20150317_003800	Go to destroy
 QUEST_LV_0100_20150317_003801	Give me some time
@@ -3803,16 +3803,16 @@ QUEST_LV_0100_20150317_003802	Notice/Move to Giliai Courtyard!#5
 iQUEST_LV_0100_20150317_003803	Bishop's Dream (2)
 QUEST_LV_0100_20150317_003804	Ok, I'll drop by
 QUEST_LV_0100_20150317_003805	To the 长桥溪谷
-QUEST_LV_0100_20150317_003806	
+QUEST_LV_0100_20150317_003806	낙우림으로
 QUEST_LV_0100_20150317_003807	Notice/Arrived at the Fallen Worry Forest where the Brambles are hiding.#3
 QUEST_LV_0100_20150317_003808	A Soldier's Favor
 QUEST_LV_0100_20150317_003809	I'll gather the keepsakes
 QUEST_LV_0100_20150317_003810	Stolen Food Supplies
 QUEST_LV_0100_20150317_003811	I'll get back the food supplies from the Vubbes
 QUEST_LV_0100_20150317_003812	Sorry, I'm busy
-QUEST_LV_0100_20150317_003813	
+QUEST_LV_0100_20150317_003813	너울 고원으로
 QUEST_LV_0100_20150317_003814	To Magicians' Tower
-QUEST_LV_0100_20150317_003815	
+QUEST_LV_0100_20150317_003815	석주대의 롤란다스 요나스
 QUEST_LV_0100_20150317_003816	Pharmacist's Favor (1)
 QUEST_LV_0100_20150317_003817	OK, I'll give you some
 QUEST_LV_0100_20150317_003818	Pharmacist's Favor (2)
@@ -4045,16 +4045,16 @@ QUEST_LV_0100_20150317_004044	Defeat Hogma
 QUEST_LV_0100_20150317_004045	Burn the journal in the bonfire
 QUEST_LV_0100_20150317_004046	Talk to Varkis' soul
 QUEST_LV_0100_20150317_004047	Stonemaker hasn't gone home yet. Talk to him.
-QUEST_LV_0100_20150317_004048	
-QUEST_LV_0100_20150317_004049	
+QUEST_LV_0100_20150317_004048	높이굽은 길에서 추모비 재료 중 바위 채취
+QUEST_LV_0100_20150317_004049	석공 피포티는 죽은 친구와 이곳에서 죽은 많은 탐험가들을 위해 추모비를 세우고 싶어 합니다. 먼저 높이굽은 길에 있는 바위를 가져다 주세요.
 QUEST_LV_0100_20150317_004050	Defeat Achat and obtain %s
 QUEST_LV_0100_20150317_004051	Buy stonemason tools from the blacksmith in 克拉佩达 
 QUEST_LV_0100_20150317_004052	You collected the materials and now you need the tools. Buy stonemason tools from the blacksmith in 克拉佩达.
 QUEST_LV_0100_20150317_004053	Give it to Stonemason Pipoti
 QUEST_LV_0100_20150317_004054	You got all the materials and tools needed. Return to Pipoti and give it to him.
 QUEST_LV_0100_20150317_004055	Pipoti was planning the details of the memorial stone. Talk to him and get the completed memorial stone.
-QUEST_LV_0100_20150317_004056	
-QUEST_LV_0100_20150317_004057	
+QUEST_LV_0100_20150317_004056	굽어보는 교차로의 왕릉 입구에 추모비 설치
+QUEST_LV_0100_20150317_004057	이곳에서 죽은 이들을 추모하기엔 왕릉 입구가 적격인 것 같습니다. 굽어보는 교차로에 있는 왕릉 입구에 추모비를 설치하세요.
 QUEST_LV_0100_20150317_004058	Talk to Morcus Jonas
 QUEST_LV_0100_20150317_004059	You have to continue the journey to find King Zachariel's legacy. Morcus is waiting for you in Overlong Valley.
 QUEST_LV_0100_20150317_004060	Use the scroll and summon the hidden key 
@@ -4357,7 +4357,7 @@ QUEST_LV_0100_20150317_004356	Main purifier is not working. Go and check on it.
 QUEST_LV_0100_20150317_004357	Use Mine Compass to locate the lost parts
 QUEST_LV_0100_20150317_004358	Use the Mine compass to find the parts of that were purifier destroyed and scattered.
 QUEST_LV_0100_20150317_004359	Retrieve the torn Purifier Pipes
-QUEST_LV_0100_20150317_004360	
+QUEST_LV_0100_20150317_004360	7구역으로 가는 길에 떨어져있는 정화관을 찾아 회수하세요.
 QUEST_LV_0100_20150317_004361	Retrieve %s
 QUEST_LV_0100_20150317_004362	Use the Mine compass to find the parts of that were purifier destroyed and scattered.
 QUEST_LV_0100_20150317_004363	Search Area 6 for parts
@@ -4470,11 +4470,11 @@ QUEST_LV_0100_20150317_004469	Finally, it seems that you can enter into the sanc
 QUEST_LV_0100_20150317_004470	Unleash the seal inside the sanctum
 QUEST_LV_0100_20150317_004471	The santum was the first seal to protect the inheritance of Zachariel. Go into the santum and unleash the seal.
 QUEST_LV_0100_20150317_004472	You finally unleased the first seal. Talk to Gustas Jonas.
-QUEST_LV_0100_20150317_004473	
-QUEST_LV_0100_20150317_004474	
-QUEST_LV_0100_20150317_004475	
+QUEST_LV_0100_20150317_004473	광산마을 탐문(1)
+QUEST_LV_0100_20150317_004474	광산마을 도착
+QUEST_LV_0100_20150317_004475	여신의 계시를 좇아 수정광산으로 들어가야 하는데, 수정광산이 있는 광산 마을이 부베에게 습격당한 모양입니다. 광산마을로 빨리 가 보세요!
 QUEST_LV_0100_20150317_004476	Go to the Miner's Village Mayor to find out the village's situation.
-QUEST_LV_0100_20150317_004477	
+QUEST_LV_0100_20150317_004477	광산마을 촌장과 대화
 QUEST_LV_0100_20150317_004478	Talk to the Hunter
 QUEST_LV_0100_20150317_004479	You need to go to the Cyrstal Mines as told by the Goddess in bishop's dream but you can't just leave the refugees. Help the angry hunter.
 QUEST_LV_0100_20150317_004480	The hunter says that monsters stole all the relief goods meant for the village residents. Try to pick up at least what's left on the road.
@@ -4692,7 +4692,7 @@ QUEST_LV_0100_20150317_004691	Use the condensed magic source to the protectors t
 QUEST_LV_0100_20150317_004692	Use the condensed magic before the protectors wake up and spread the pollution.
 QUEST_LV_0100_20150317_004693	You destroyed all the protectors that are in sleep. Go back to the stone statue of the protector.
 QUEST_LV_0100_20150317_004694	Talk to the treasure hunter, Ethan
-QUEST_LV_0100_20150317_004695	
+QUEST_LV_0100_20150317_004695	높이굽은 길의 보물사냥꾼 에당이 비석 조각을 배달해줄 사람을 찾고 있습니다.
 QUEST_LV_0100_20150317_004696	Talk to the epigraphist, Raymond
 QUEST_LV_0100_20150317_004697	You promised to Ethan that you will deliver the lump of epitaph fragments to Raymond. Deliver the lump to Raymond.
 QUEST_LV_0100_20150317_004698	Talk to the epigraphist, Smid at Irody Square
@@ -4872,9 +4872,9 @@ QUEST_LV_0100_20150317_004871	You obtained many tails of Big Cockatries. Go back
 QUEST_LV_0100_20150317_004872	Obtain the tail of Big Cockatries
 QUEST_LV_0100_20150317_004873	Someone is looking for you
 QUEST_LV_0100_20150317_004874	There is a person who is looking for you at 佩帝米安. Go to the gigantic statue of the goddess at 佩帝米安.
-QUEST_LV_0100_20150317_004875	
-QUEST_LV_0100_20150317_004876	
-QUEST_LV_0100_20150317_004877	
+QUEST_LV_0100_20150317_004875	수정개울에서 그리타와 대화
+QUEST_LV_0100_20150317_004876	수정개울의 카르스타 전당 터에 그리타가 기다리고 있었습니다. 그리타를 찾아 대화해 보세요.
+QUEST_LV_0100_20150317_004877	수정개울의 카르스타 전당 터에 가 보니 그리타가 기다리고 있었습니다. 그리타와 대화해 보세요.
 QUEST_LV_0100_20150317_004878	Go to the Magicians' Tower
 QUEST_LV_0100_20150317_004879	Gritta told you at the goddess of Gabiya is blocking the attacks of the demons at the Magicians' Tower. Go to the Magicians' Tower to help the goddess.
 QUEST_LV_0100_20150317_004880	Talk to Gritta
@@ -5048,7 +5048,7 @@ QUEST_LV_0100_20150317_005047	Open the entrance of the cathedral
 QUEST_LV_0100_20150317_005048	Baidutis told you to deactivate the barriers of demons using the Essence of Light. Powerful monsters hat are pulled to the power of the essence may attack so he told you to be careful.
 QUEST_LV_0100_20150317_005049	Defeat Mummyghast
 QUEST_LV_0100_20150317_005050	Move to the entrace of 卡丁森林
-QUEST_LV_0100_20150317_005051	
+QUEST_LV_0100_20150317_005051	가비야 여신은 카틴 숲 입구에서 조금 더 힘을 키워야 한다고 합니다. 내린나무 화원을 지나 카틴 숲 입구로 가세요.
 QUEST_LV_0100_20150317_005052	卡丁森林入口
 QUEST_LV_0100_20150317_005053	Baidutis is looking for help from somebody at the 1层 of Tenet Cathedral
 QUEST_LV_0100_20150317_005054	Defeat Pawndel and Pawndu
@@ -5067,8 +5067,8 @@ QUEST_LV_0100_20150317_005066	Donatas told you to gain confidence by defeating P
 QUEST_LV_0100_20150317_005067	You defeated Pawndels and Pawndus after luring them to the altar. Talk to Donatas.
 QUEST_LV_0100_20150317_005068	Gritta seems to remembered something. Talk to Gritta.
 QUEST_LV_0100_20150317_005069	Extract the core of the spelled doll
-QUEST_LV_0100_20150317_005070	
-QUEST_LV_0100_20150317_005071	
+QUEST_LV_0100_20150317_005070	그리타는 밸브를 파괴할 때 폭발에 휘말릴 것을 대비해 방어 마법을 준비해 가자고 합니다. 방어 마법의 재료인 플른렘의 핵을 모아다 주세요.
+QUEST_LV_0100_20150317_005071	플른렘의 핵을 모아다 주었습니다. 그리타와 다시 대화해 보세요.
 QUEST_LV_0100_20150317_005072	You are now ready to tranform those demons. Talk to Donatas about the plan for the transformation.
 QUEST_LV_0100_20150317_005073	Transform demons at the Altar of Clozevas
 QUEST_LV_0100_20150317_005074	Donatas told you that you are able to transform the demons using the power of the Altar of Clozevas. Activate the power and if you attack those demons at an area where the influence of the altar's power reaches, you can transform those demons.
@@ -5143,9 +5143,9 @@ QUEST_LV_0100_20150317_005142	Gesti ran away but there are still more things lef
 QUEST_LV_0100_20150317_005143	Find the revelation in hidden sanctuary
 QUEST_LV_0100_20150317_005144	use the seal of space on the pillar to enter the sanctuary and get the revelation.
 QUEST_LV_0100_20150317_005145	Tell the Paladin Master about the story so far
-QUEST_LV_0100_20150317_005146	
+QUEST_LV_0100_20150317_005146	제스티는 또 놓쳐 버렸지만 계시는 무사히 찾았습니다. 팔라딘 마스터가 있는 옥빛서린 벼랑으로 가세요.
 QUEST_LV_0100_20150317_005147	Talk to guard Allen
-QUEST_LV_0100_20150317_005148	
+QUEST_LV_0100_20150317_005148	옥빛서린 벼랑의 파수꾼 알렌이 누군가의 도움을 기다리고 있습니다
 QUEST_LV_0100_20150317_005149	Collected the pieces of destroyed barrier
 QUEST_LV_0100_20150317_005150	Allen asked you to collect the pieces of barrier the demons destroyed in Mazas Shelter and bring it to Kayetonas.
 QUEST_LV_0100_20150317_005151	Talk to Followe Kayetonas
@@ -5154,7 +5154,7 @@ QUEST_LV_0100_20150317_005153	Charge the barrier of wooden guard post
 QUEST_LV_0100_20150317_005154	Help Allen get rid of the demons around the Wooden Guard Post and charge its soul on the barrier. 
 QUEST_LV_0100_20150317_005155	Guard post has been charged enough. Tell Kayetanos about it. 
 QUEST_LV_0100_20150317_005156	Talk to guard Kenneth
-QUEST_LV_0100_20150317_005157	
+QUEST_LV_0100_20150317_005157	옥빛서린 벼랑의 파수꾼 케네스가 누군가의 도움을 기다리고 있습니다.
 QUEST_LV_0100_20150317_005158	Remove the demon summon circle
 QUEST_LV_0100_20150317_005159	Gaurd Kenneth is worried about the demons summoned in Mairunas hills. Get rid of the demons around Mairunas hills and remove the summon circle.
 QUEST_LV_0100_20150317_005160	Talk to Kayetonas
@@ -5165,10 +5165,10 @@ QUEST_LV_0100_20150317_005164	Got rid of enough separated souls in Pumpura hill.
 QUEST_LV_0100_20150317_005165	Defeat the demon monsters around Kenneth
 QUEST_LV_0100_20150317_005166	Kenneth asked you to kill the monsters nearby while he takes a rest.
 QUEST_LV_0100_20150317_005167	Killed the monsters while Kenneth took rest. Tell Kayetonas about it. 
-QUEST_LV_0100_20150317_005168	
+QUEST_LV_0100_20150317_005168	옥빛서린 벼랑의 추종자 카예토나스가 함께 싸워줄 사람을 찾고 있습니다.
 QUEST_LV_0100_20150317_005169	Minatours appeared from the sky like Kayetonas said. Defeat the Minotaurs so that it won't get to the Paladin Master. 
 QUEST_LV_0100_20150317_005170	Defeated Minotaurs with Kayetonas. Talk to Kayetonas.
-QUEST_LV_0100_20150317_005171	
+QUEST_LV_0100_20150317_005171	옥빛서린 벼랑의 팔라딘 마스터가 우즈바이가 고지대에서 당신을 기다리고 있습니다.
 QUEST_LV_0100_20150317_005172	Listen to Algis' explanations
 QUEST_LV_0100_20150317_005173	The Paladin Master told you to listen to Algis about Tenet church, first paladin, and the seal of space. Listen to Algis before he leaves. 
 QUEST_LV_0100_20150317_005174	Listened to Algis' explanations. Report to the Paladin Master and follow the next orders. 
@@ -5176,7 +5176,7 @@ QUEST_LV_0100_20150317_005175	The Paladin Master is looking for you
 QUEST_LV_0100_20150317_005176	Activate the barrier of Piliaroze Peak
 QUEST_LV_0100_20150317_005177	Gesti appeared. Help the Paladin Master!
 QUEST_LV_0100_20150317_005178	The scripture and was only able to inflict a wound that was hit in the demon. Please be talking again with the Paladin Master.
-QUEST_LV_0100_20150317_005179	
+QUEST_LV_0100_20150317_005179	옥빛서린 벼랑에서 팔라딘 마스터가 당신의 도움을 기다리고 있습니다.
 QUEST_LV_0100_20150317_005180	The Paladin Master asked you to clear the area while he focuses on the crystals. Kill the Throneweavers coming to attack you. 
 QUEST_LV_0100_20150317_005181	Defeat the Throne weavers
 QUEST_LV_0100_20150317_005182	Defeat the contaminated mausoleum guardians
@@ -5194,7 +5194,7 @@ QUEST_LV_0100_20150317_005193	Defeat Rusrat
 QUEST_LV_0100_20150317_005194	There is a guardian statue fuming strange forces. Read the statue.
 QUEST_LV_0100_20150317_005195	The contaminated guardians wish to be destroyed rather than staying contaminated. Defeat those guardians.
 QUEST_LV_0100_20150317_005196	Talk to Rolandas Jonas
-QUEST_LV_0100_20150317_005197	
+QUEST_LV_0100_20150317_005197	모르쿠스 요나스가 알려준 대로 석주대에 도착하니 롤란다스가 기다리고 있었습니다. 자카리엘 대왕의 유산을 찾기 위해 롤란다스와 대화해 봅시다.
 QUEST_LV_0100_20150317_005198	Find the map in Vienisa Plateau
 QUEST_LV_0100_20150317_005199	Rolandas says the map for King Zachariel's Legacy is hidden where nobody knows. You have to check around because you don't know where it is exactly. First, check the southern area of Vienisa Plateau.
 QUEST_LV_0100_20150317_005200	Talk to Rolandas
@@ -5212,12 +5212,12 @@ QUEST_LV_0100_20150317_005211	Find the map near the old cabin of grave manager.
 QUEST_LV_0100_20150317_005212	Look for the map around cabin of grave manager.
 QUEST_LV_0100_20150317_005213	Archaeologis Dezek is showing symptons of addiction to Scorpio's attacks. Talk to his assistant Irene.
 QUEST_LV_0100_20150317_005214	Find an antidote for the archaeologist
-QUEST_LV_0100_20150317_005215	
+QUEST_LV_0100_20150317_005215	고고학자 데지크의 상태가 점점 나빠지고 있습니다. 케이블 카의 관리인들이라면 해독제를 가지고 있을 지도 모릅니다. 석주대에 있는 다른 사람들에게 해독제가 있는지 물어 봅시다.
 QUEST_LV_0100_20150317_005216	Found the antidote. Give it to Irene quickly.
-QUEST_LV_0100_20150317_005217	
-QUEST_LV_0100_20150317_005218	
-QUEST_LV_0100_20150317_005219	
-QUEST_LV_0100_20150317_005220	
+QUEST_LV_0100_20150317_005217	돌다리망터의 모든 봉인 장치 해제
+QUEST_LV_0100_20150317_005218	긴다리 계곡에서 얻은 열쇠를 가지고 석주대에서 얻은 지도를 참고하여 돌다리 망터의 모든 봉인 장치를 해제하세요.
+QUEST_LV_0100_20150317_005219	굽어보는 교차로의 왕릉입구로 들어가기
+QUEST_LV_0100_20150317_005220	모든 봉인을 풀었습니다. 요나스의 일족들이 수 백년 동안 지켜 온 자카리엘 대왕의 유산을 찾기 위해 굽어보는 교차로에 있는 왕릉으로 들어갑시다.
 QUEST_LV_0100_20150317_005221	Go to Mausoleum secret area
 QUEST_LV_0100_20150317_005222	Go to the secret area of Mausoleum.
 QUEST_LV_0100_20150317_005223	Check the box
@@ -5227,21 +5227,21 @@ QUEST_LV_0100_20150317_005226	Monsters are coming to attack you when you got the
 QUEST_LV_0100_20150317_005227	The map is safe. Bring the map to Rolandas.
 QUEST_LV_0100_20150317_005228	Get rid of the attacking monsters
 QUEST_LV_0100_20150317_005229	Talk to Historian Rexipher
-QUEST_LV_0100_20150317_005230	
+QUEST_LV_0100_20150317_005230	왕릉으로 가는 길목에서 사학자 렉시퍼가 당신을 기다리고 있었습니다. 무무고원에서 사학자 렉시퍼와 대화해 보세요.
 QUEST_LV_0100_20150317_005231	Read the epitaph of Isvalyta Ruins
 QUEST_LV_0100_20150317_005232	Rexipher is asking for your cooperation for the common objective of getting to the Mausoleum. Follow Rexipher's guide and read the epitaph of Isvalyta Ruins.
 QUEST_LV_0100_20150317_005233	Got the clues to the King's dilemma. Talk to Rexipher. 
 QUEST_LV_0100_20150317_005234	The epitaph mentions about the dilemma on proving the revelator. Talk to Rexipher about the location of next epitaph. 
 QUEST_LV_0100_20150317_005235	Read the epitaph of Shirnas Plateau
 QUEST_LV_0100_20150317_005236	Rexipher says the next epitaph is in Shirnas Plateau. Go there and check the next epitaph. 
-QUEST_LV_0100_20150317_005237	
+QUEST_LV_0100_20150317_005237	비문을 지키던 수호자들을 간신히 해치우고 대왕의 두 번째 단서를 얻는 데에 성공했습니다. 어딘가에서 지켜 보고 있을 렉시퍼를 찾아 대화해 보세요.
 QUEST_LV_0100_20150317_005238	You must solve all the dilemmas of King Zachariel in order to approach the Mausoleum. Talk to rexipher for clues to the next dilemma. 
 QUEST_LV_0100_20150317_005239	Read the third epitaph along the way to Dykine Fork Road
 QUEST_LV_0100_20150317_005240	The next epitaph is in Dykine Fork Road. Find the epitaph near the road. 
 QUEST_LV_0100_20150317_005241	The power of guardian on the epitaph almost got Rexipher in trouble. Talk to him agian. 
-QUEST_LV_0100_20150317_005242	
+QUEST_LV_0100_20150317_005242	네 번째 비문의 위치에 대해 사학자 렉시퍼와 대화해 보세요.
 QUEST_LV_0100_20150317_005243	Read the epitaph on the left of Dykine Fork Road
-QUEST_LV_0100_20150317_005244	
+QUEST_LV_0100_20150317_005244	자카리엘 대왕이 준비한 네 번째 단서입니다. 디키네 갈림길의 왼쪽에 있는 비문을 읽어 네 번째 단서를 얻으세요.
 QUEST_LV_0100_20150317_005245	Got the fourth clue. Go back to Rexipher who showed up from somewhere and talk to him.
 QUEST_LV_0100_20150317_005246	There is only one epitaph left for the clue. Talk to Rexipher for the location of the epitaph. 
 QUEST_LV_0100_20150317_005247	Read the last epitaph in Apati Cliff
@@ -5279,26 +5279,26 @@ QUEST_LV_0100_20150317_005278	You were not able to find Rexipher's whereabouts, 
 QUEST_LV_0100_20150317_005279	Go to the Chesed Altar where Rexipher once rested
 QUEST_LV_0100_20150317_005280	A man looking like Rexipher is attacking historians at the Chesed and Gedula Altars to take control of the area. First, go the the Chesed Altar.
 QUEST_LV_0100_20150317_005281	Defeat the Hogmas
-QUEST_LV_0100_20150317_005282	
-QUEST_LV_0100_20150317_005283	
+QUEST_LV_0100_20150317_005282	렉시퍼보다 먼저 게둘라의 제단 봉인 해제
+QUEST_LV_0100_20150317_005283	헤세드의 봉인이 파괴되었습니다! 남은 제단들이 위험합니다. 렉시퍼보다 먼저 게둘라의 제단으로 가서 제단의 봉인을 해제하세요.
 QUEST_LV_0100_20150317_005284	Talk to Historian Cyrenia Odelle
 QUEST_LV_0100_20150317_005285	Cyrenia Odelle came to the altar. Talk to her.
 QUEST_LV_0100_20150317_005286	Talk to Historian Cyrenia Odelle
-QUEST_LV_0100_20150317_005287	
-QUEST_LV_0100_20150317_005288	
-QUEST_LV_0100_20150317_005289	
+QUEST_LV_0100_20150317_005287	렉시퍼보다 먼저 체데크의 제단 봉인 해제
+QUEST_LV_0100_20150317_005288	렉시퍼가 무슨 일을 저지르기 전에 먼저 선수를 치는 것이 좋겠습니다. 먼저 가까운 체데크의 제단으로 가서 제단의 봉인을 푸세요.
+QUEST_LV_0100_20150317_005289	체데크의 봉인이 파괴되었습니다! 이 사실을 시레니아 오델에게 알려 주세요!
 QUEST_LV_0100_20150317_005290	Talk to Cyrenia Odelle
-QUEST_LV_0100_20150317_005291	
-QUEST_LV_0100_20150317_005292	
-QUEST_LV_0100_20150317_005293	
-QUEST_LV_0100_20150317_005294	
-QUEST_LV_0100_20150317_005295	
-QUEST_LV_0100_20150317_005296	
+QUEST_LV_0100_20150317_005291	남은 봉인의 위치를 묻기 위해 시레니아 오델과 대화해 보세요.
+QUEST_LV_0100_20150317_005292	렉시퍼보다 먼저 스에비사의 봉인 해제
+QUEST_LV_0100_20150317_005293	렉시퍼보다 먼저 스에비사의 제단으로 가서 제단의 봉인을 해제하여 렉시퍼의 계획을 저지하세요.{nl}
+QUEST_LV_0100_20150317_005294	다행히 스비에사 제단의 봉인은 지킨 것 같습니다. 시레니아 오델에게 돌아가 보세요.
+QUEST_LV_0100_20150317_005295	스비에사 제단 봉인 해제
+QUEST_LV_0100_20150317_005296	체테크의 제단은 파괴되었지만 스에비사의 제단의 봉인을 푸는 데 성공했습니다. 시레니아 오델과 대화해 보세요.
 QUEST_LV_0100_20150317_005297	Go to Cyrenia Odelle
 QUEST_LV_0100_20150317_005298	The Cetek Altar was destroyed but you managed to release the seal of Sviesa Altar. Talk to Cyrenia Odelle.
 QUEST_LV_0100_20150317_005299	Defeat Rexipher's Subordinates
 QUEST_LV_0100_20150317_005300	Rexipher kidnapped Cyrenia Odelle! Better kill his subordinates and follow him.
-QUEST_LV_0100_20150317_005301	
+QUEST_LV_0100_20150317_005301	높이굽은 길의 금석학자 레이몬드가 누군가의 도움을 기다리고 있습니다.
 QUEST_LV_0100_20150317_005302	Create Crude Explorer Stick
 QUEST_LV_0100_20150317_005303	Epigraphis Raymond wants to use Small Tree Branches to make a Crude Explorer Stick, useful for finding the Gravestone Pieces. 
 QUEST_LV_0100_20150317_005304	Find the First Piece of Gravestone
@@ -5327,12 +5327,12 @@ QUEST_LV_0100_20150317_005326	Wake the sleeping Boowook
 QUEST_LV_0100_20150317_005327	Cornerstone says wake the sleeping guardians to and block the demons when they intrude. Wake the sleeping Boowook and block the demons. 
 QUEST_LV_0100_20150317_005328	Find another epitaph
 QUEST_LV_0100_20150317_005329	Talk to Guard Rikke
-QUEST_LV_0100_20150317_005330	
+QUEST_LV_0100_20150317_005330	내린나무 화원의 파수꾼 리케가 누군가의 도움을 기다리고 있습니다.
 QUEST_LV_0100_20150317_005331	Remove the beehive
 QUEST_LV_0100_20150317_005332	Rikke is worried about the Bitereginas from 卡丁森林. Remove the beehives for Rikke. 
 QUEST_LV_0100_20150317_005333	You barely defeated the angry Biteregina that appeared when you removed the beehive. Tell Rikke that there will no longer be threats to worry about.
 QUEST_LV_0100_20150317_005334	Talk to guard Era
-QUEST_LV_0100_20150317_005335	
+QUEST_LV_0100_20150317_005335	내린나무 화원의 파수꾼 에라가 누군가의 도움을 기다리고 있습니다.
 QUEST_LV_0100_20150317_005336	Get rid of Seedmia
 QUEST_LV_0100_20150317_005337	The Seedmias are causing trouble for Guard Era. Get rid of the Seedmias and go back to Era. 
 QUEST_LV_0100_20150317_005338	Got rid of seedmias as Era requested. Let Era know about it. 
@@ -7904,4 +7904,4 @@ QUEST_LV_0100_20150804_007903	Lexipher disappeared with the proofs of the obstac
 QUEST_LV_0100_20150804_007904	You must somehow find Lexipher since she has all the proofs of the obstacles. Ask him again.
 QUEST_LV_0100_20150804_007905	When you were about to unlease the seal of the cliffs, the monsters suddenly appeared. Defeat the monsters!
 
-QUEST_LV_0100_20150810-123456	11:00 By Mamoru
+QUEST_LV_0100_20150810-123456	23:20 By Mamoru
