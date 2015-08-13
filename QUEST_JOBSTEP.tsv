@@ -266,7 +266,7 @@ QUEST_JOBSTEP_20150317_000265	Cataphract is the one who stands in front and figh
 QUEST_JOBSTEP_20150317_000266	There are monsters that attack tourists in 破烂旗帜森林.{nl}You should eliminate such dangerous monsters as quickly as possible.{nl}If you could complete the task without any problem, I will acknowledge your skill.
 QUEST_JOBSTEP_20150317_000267	Congratulations for passing the test.
 QUEST_JOBSTEP_20150317_000268	It's putting all your focus on one point and skweing the enemy. {nl}Of course, you are not yet at that level so I'll approve if you just defeat it.
-QUEST_JOBSTEP_20150317_000269	Sorcerer Master
+QUEST_JOBSTEP_20150317_000269	方士 导师
 QUEST_JOBSTEP_20150317_000270	If you want to learn magic from me, you should show me how good you are. {nl}It's simple. Win a magic duel against me.
 QUEST_JOBSTEP_20150317_000271	Don't be scared. I'll take it down to your level. {nl}I'll meet you in the vacant area of the plaza.
 QUEST_JOBSTEP_20150317_000272	Alright. You seem good enough. {nl}You can come to me anytime you want to learn magic.
@@ -606,7 +606,7 @@ QUEST_JOBSTEP_20150317_000605	All the masters in 佩帝米安 are chasing after 
 QUEST_JOBSTEP_20150317_000606	The monster is called Nederbovine. {nl}According to a reliable source, I heard it appeared from Fault Line recently.
 QUEST_JOBSTEP_20150317_000607	I can still picture the faces of the other masters.{nl}Not only that, I am happy to get a good disciple.
 QUEST_JOBSTEP_20150317_000608	It doesn't make sense to stay in the safe place as a master when there are full of monsters.{nl}I thought that's not right so I ran from 佩帝米安.{nl}
-QUEST_JOBSTEP_20150317_000609	I heard that Necrobenter appeared again at the old garden of the goddess.{nl}If you dream to be a sorcerer, I hope you follow my request.
+QUEST_JOBSTEP_20150317_000609	I heard that Necrobenter appeared again at the old garden of the goddess.{nl}If you dream to be a 方士, I hope you follow my request.
 QUEST_JOBSTEP_20150317_000610	It is silly to stay in the safe place as a master.{nl}
 QUEST_JOBSTEP_20150317_000611	I understand your point.{nl}I will teach you magic as I promised to you.
 QUEST_JOBSTEP_20150317_000612	I can teach you my magic whenever you want.{nl}But, I am not sure if you could follow well.
@@ -952,7 +952,7 @@ QUEST_JOBSTEP_20150317_000951	I'll come back later
 QUEST_JOBSTEP_20150317_000952	Guardian of 佩帝米安 [Wizard](2)
 QUEST_JOBSTEP_20150317_000953	Vocation of Treatment [Cleric]
 QUEST_JOBSTEP_20150317_000954	I will treat the people
-QUEST_JOBSTEP_20150317_000955	Assignment of Magic [Sorcerer]
+QUEST_JOBSTEP_20150317_000955	Assignment of Magic [方士]
 QUEST_JOBSTEP_20150317_000956	Accept duel with Master
 QUEST_JOBSTEP_20150317_000957	Avoid the duel
 QUEST_JOBSTEP_20150317_000958	Prove Actual Fight [Necromancer]
@@ -1168,7 +1168,7 @@ QUEST_JOBSTEP_20150317_001167	Activities of Thaurmaturge [Thaumaturge]
 QUEST_JOBSTEP_20150317_001168	I will get rid of Salamander
 QUEST_JOBSTEP_20150317_001169	The test is important [Elementalist]
 QUEST_JOBSTEP_20150317_001170	I'll get rid of the Reaverpededs
-QUEST_JOBSTEP_20150317_001171	Collect Evil Spirits [Sorcerer]
+QUEST_JOBSTEP_20150317_001171	Collect Evil Spirits [方士]
 QUEST_JOBSTEP_20150317_001172	I'll go get rid of the Devilglove
 QUEST_JOBSTEP_20150317_001173	Summon Ritual [Necromancer]
 QUEST_JOBSTEP_20150317_001174	..Tell him you will go
@@ -1205,7 +1205,7 @@ QUEST_JOBSTEP_20150317_001204	Complete the Mission of Thaumaturge [Thaumaturge]
 QUEST_JOBSTEP_20150317_001205	I'll do it myself
 QUEST_JOBSTEP_20150317_001206	Complete the mission of Elementalist [Elementalist]
 QUEST_JOBSTEP_20150317_001207	Of course I'll do it
-QUEST_JOBSTEP_20150317_001208	Complete the Mission of Sorcerer [Sorcerer]
+QUEST_JOBSTEP_20150317_001208	Complete the Mission of 方士 [方士]
 QUEST_JOBSTEP_20150317_001209	I'll get rid of the Necromancer Venter
 QUEST_JOBSTEP_20150317_001210	Complete the Mission of Cronomancer [Cronomancer]
 QUEST_JOBSTEP_20150317_001211	I'll prove it through a test
@@ -1511,12 +1511,12 @@ QUEST_JOBSTEP_20150317_001510	Use Heal to treat people
 QUEST_JOBSTEP_20150317_001511	Cleric Master says you better serve others by healing them. Use your or your party member's Heal skills to help heal others.
 QUEST_JOBSTEP_20150317_001512	All area
 QUEST_JOBSTEP_20150317_001513	You healed many people. Go back and report to Cleric Master.
-QUEST_JOBSTEP_20150317_001514	Talk to Sorcerer Master
-QUEST_JOBSTEP_20150317_001515	Go to Sorcerer Master in 佩帝米安.
-QUEST_JOBSTEP_20150317_001516	Win the magic duel with Sorcerer Master
+QUEST_JOBSTEP_20150317_001514	Talk to 方士 Master
+QUEST_JOBSTEP_20150317_001515	Go to 方士 Master in 佩帝米安.
+QUEST_JOBSTEP_20150317_001516	Win the magic duel with 方士 Master
 QUEST_JOBSTEP_20150317_001517	Sorcere Master says he will teach you if you win the magic duel with him. Have a duel with him in 佩帝米安 vacant lot and win it.
-QUEST_JOBSTEP_20150317_001518	Won the duel with Sorcerer Master. Talk to him.
-QUEST_JOBSTEP_20150317_001519	Acknowledgement of the Sorcerer
+QUEST_JOBSTEP_20150317_001518	Won the duel with 方士 Master. Talk to him.
+QUEST_JOBSTEP_20150317_001519	Acknowledgement of the 方士
 QUEST_JOBSTEP_20150317_001520	Talk to Necromancer Master
 QUEST_JOBSTEP_20150317_001521	Talk to Necromancer master in 佩帝米安mian.
 QUEST_JOBSTEP_20150317_001522	Battle with Necromancer Master
@@ -2084,11 +2084,11 @@ QUEST_JOBSTEP_20150317_002083	Defeated Salamander. Report to Thaumaturge Master.
 QUEST_JOBSTEP_20150317_002084	Defeat Reaverpedes in Remaining Tree Dale for the test of Elementalist Master
 QUEST_JOBSTEP_20150317_002085	Report to Elementalist Master
 QUEST_JOBSTEP_20150317_002086	You've succeeded in defeating Reaverpedes. Report to Elementalist Master.
-QUEST_JOBSTEP_20150317_002087	Go meet Sorcerer Master in Crystal Brook
+QUEST_JOBSTEP_20150317_002087	Go meet 方士 Master in Crystal Brook
 QUEST_JOBSTEP_20150317_002088	Defeat Devilglobes in Crystal Brook
-QUEST_JOBSTEP_20150317_002089	Sorcerer Master wants to check your skills. Defeat Devilglobes in Crystal Brook to prove your skills.
-QUEST_JOBSTEP_20150317_002090	Report to Sorcerer Master
-QUEST_JOBSTEP_20150317_002091	Defeated Devilglove. Report to Sorcerer Master.
+QUEST_JOBSTEP_20150317_002089	方士 Master wants to check your skills. Defeat Devilglobes in Crystal Brook to prove your skills.
+QUEST_JOBSTEP_20150317_002090	Report to 方士 Master
+QUEST_JOBSTEP_20150317_002091	Defeated Devilglove. Report to 方士 Master.
 QUEST_JOBSTEP_20150317_002092	Talk with Necromancer Master in Starving Demon's Road
 QUEST_JOBSTEP_20150317_002093	Collect the corpses of monsters in Starving Demon's Road
 QUEST_JOBSTEP_20150317_002094	Necromancer told you to bring the corpses of the monsters. Bring Bones of Blue Fishermen, Internal Organs of Repusbunny, and Beaks of Harpias from Starving Demon's Road.
@@ -2174,10 +2174,10 @@ QUEST_JOBSTEP_20150317_002173	Meet Elementalist Master in 佩帝米安
 QUEST_JOBSTEP_20150317_002174	Defeat Nederbovines in Fault Line
 QUEST_JOBSTEP_20150317_002175	The Masters in 佩帝米安 are chasing after the monsters that are disappearing after making a mess. As an applicant of Elementalist, defeat Nederbovines that appeared in Fault Line.
 QUEST_JOBSTEP_20150317_002176	You've succeeded in defeating Reaverpedes. Report to Elementalist Master.
-QUEST_JOBSTEP_20150317_002177	Meet Sorcerer Master
-QUEST_JOBSTEP_20150317_002178	Go meet Sorcerer Master in Crystal Brook
-QUEST_JOBSTEP_20150317_002179	Sorcerer Master says you can't just stay in peace when the demons are roaming around. Go to the Ancient Gardens of the Goddess and defeat the Necroventer.
-QUEST_JOBSTEP_20150317_002180	Defeated Necroventer. Go back and report to Sorcerer Master.
+QUEST_JOBSTEP_20150317_002177	Meet 方士 Master
+QUEST_JOBSTEP_20150317_002178	Go meet 方士 Master in Crystal Brook
+QUEST_JOBSTEP_20150317_002179	方士 Master says you can't just stay in peace when the demons are roaming around. Go to the Ancient Gardens of the Goddess and defeat the Necroventer.
+QUEST_JOBSTEP_20150317_002180	Defeated Necroventer. Go back and report to 方士 Master.
 QUEST_JOBSTEP_20150317_002181	Meet Chronomancer Master
 QUEST_JOBSTEP_20150317_002182	Meet Chronomancer Master in High Crooked Road
 QUEST_JOBSTEP_20150317_002183	Chronomancer Master is suspicous of your abilities. Defeat the Necroventer in the Ancient Garden of the Goddess and prove yourself.
@@ -2531,11 +2531,11 @@ QUEST_JOBSTEP_20150323_002530	Meet Elementalist Master at 阿克梅斯山脊
 QUEST_JOBSTEP_20150323_002531	Defeat Nederbovine at 普斯林吉斯森林
 QUEST_JOBSTEP_20150323_002532	The Masters at 阿克梅斯山脊 are after the monsters that are running away. As an applicant to become an Elementalist, defeat Nederbovine which appeared at 普斯林吉斯森林.
 QUEST_JOBSTEP_20150323_002533	You have succeeded defeating Nederbovine. Report to Elementalist Master.
-QUEST_JOBSTEP_20150323_002534	Meet Sorcerer Master at the outer edge of 佩帝米安
+QUEST_JOBSTEP_20150323_002534	Meet 方士 Master at the outer edge of 佩帝米安
 QUEST_JOBSTEP_20150323_002535	Meet Chronomancer at the road of the gravestone
 QUEST_JOBSTEP_20150401_002536	For my future disciple, I have prepared a nice gift at Way of Big Starving Demon.{nl}I hope you like it.
-QUEST_JOBSTEP_20150401_002537	Go meet Sorcerer Master at the outer edge of 佩帝米安.
-QUEST_JOBSTEP_20150401_002538	Sorcerer Master wants to test your skills. Prove your skills by defeating Devilglove at the outer edge of 佩帝米安.
+QUEST_JOBSTEP_20150401_002537	Go meet 方士 Master at the outer edge of 佩帝米安.
+QUEST_JOBSTEP_20150401_002538	方士 Master wants to test your skills. Prove your skills by defeating Devilglove at the outer edge of 佩帝米安.
 QUEST_JOBSTEP_20150401_002539	Talk to Necromancer Master at Mulus.
 QUEST_JOBSTEP_20150401_002540	Go find the gift of Necromancer Master at Way of Big Starving Demon
 QUEST_JOBSTEP_20150401_002541	Bring Bone of Blue Pawndel, Inner Organ of Black Pawnd, and Beak of Harpia, which Necromancer Master has prepared at Way of Big Starving Demon.
@@ -2768,7 +2768,7 @@ QUEST_JOBSTEP_20150714_002767	There is no limit for Thaumaturges.{nl}But, if one
 QUEST_JOBSTEP_20150714_002768	Anyways, you've successfully completed the assignment.{nl}Shall we learn the next magic?
 QUEST_JOBSTEP_20150714_002769	The masters near here are chasing after the monsters that are making chaos.{nl}If you are the greatest Elementalist, you should first defeat those monsters faster than anyone else.
 QUEST_JOBSTEP_20150714_002770	I can picture the faces of the other masters.{nl}Not only that, I am so happy to hear that you are suitable to become the true Elementalist.
-QUEST_JOBSTEP_20150714_002771	I heard Necroventers appeared again from 女神的后院.{nl}If you want to learn high magics of Sorcerer, I think they would be adequate opponents. What do you think?
+QUEST_JOBSTEP_20150714_002771	I heard Necroventers appeared again from 女神的后院.{nl}If you want to learn high magics of 方士, I think they would be adequate opponents. What do you think?
 QUEST_JOBSTEP_20150714_002772	It is so silly.{nl}Do nothing in front of such a nice quarry.
 QUEST_JOBSTEP_20150714_002773	So you don't disappoint me at all.{nl}Now, you know what to do next right?
 QUEST_JOBSTEP_20150714_002774	I can always teach higher level magics. {nl}But, I am not sure if you could follow me.
@@ -2873,20 +2873,20 @@ QUEST_JOBSTEP_20150714_002872	Defeat Red Triambulos at 亚希梅斯岔路.
 QUEST_JOBSTEP_20150714_002873	Sadhu Master asked you to defeat the monsters that are threatening the villagers. Defeat Red Triambulos from 亚希梅斯岔路.
 QUEST_JOBSTEP_20150714_002874	Talk to the Monk Master in the 女神的后院.
 QUEST_JOBSTEP_20150714_002875	Tools Merchant wants hardened oil in exchange for information. Gather Hardened Oil from Puragis in Saknis Field and give it to Tools Merchant.
-QUEST_JOBSTEP_20150714_002876	go to Sorcerer Master in Forest of Prayers.
+QUEST_JOBSTEP_20150714_002876	go to 方士 Master in Forest of Prayers.
 QUEST_JOBSTEP_20150714_002877	Rodolero Master told you that you are now a true Rodelero, but also told you that you can still improve. Defeat Collimencia at the garden of Green Family and find out what's lacking in you.
 QUEST_JOBSTEP_20150714_002878	Go to Cataphract Master in 君王之门.
 QUEST_JOBSTEP_20150714_002879	Go to Thaumaturge Master in 君王之门.
 QUEST_JOBSTEP_20150714_002880	Thaumaturge Master wants to know whether you would be able to surpass the next level. Defeat Nederbovine that is making a mess in Poslinkins Forest.
 QUEST_JOBSTEP_20150714_002881	Masters in 阿克梅斯山脊 are chasing the monster causing mayhem and disappearing. Defeat NetherBovine that appeared in 普斯林吉斯森林.
-QUEST_JOBSTEP_20150714_002882	Meet the Sorcerer Master in Forst of Prayers.
-QUEST_JOBSTEP_20150714_002883	Sorcerer Master told you that you should not stay still since the monsters are going crazy these days. Go to Ancient Garden of Goddesses and defeat Necrobenter.
+QUEST_JOBSTEP_20150714_002882	Meet the 方士 Master in Forst of Prayers.
+QUEST_JOBSTEP_20150714_002883	方士 Master told you that you should not stay still since the monsters are going crazy these days. Go to Ancient Garden of Goddesses and defeat Necrobenter.
 QUEST_JOBSTEP_20150717_002884	I've done business for a long time with the Tools Merchant in 克拉佩达 so I may be able to help you.
 QUEST_JOBSTEP_20150717_002885	Legwyin Family Seal [Squire]
 QUEST_JOBSTEP_20150717_002886	Honor of the Old Sea [Corsair]
 QUEST_JOBSTEP_20150717_002887	Royal Army Corps Machine [Centurion]
 QUEST_JOBSTEP_20150717_002888	Missing Delegation's Whereabouts [Doppelsoeldner]
-QUEST_JOBSTEP_20150717_002889	Invincible Lady [Sorcerer]
+QUEST_JOBSTEP_20150717_002889	Invincible Lady [方士]
 QUEST_JOBSTEP_20150717_002890	Alchemist's Story [Chronomancer]
 QUEST_JOBSTEP_20150717_002891	Things Left Behind Death [Necromancer]
 QUEST_JOBSTEP_20150717_002892	Past of 水晶矿山s (1)[Alchemist]
@@ -2923,8 +2923,8 @@ QUEST_JOBSTEP_20150717_002922	Go to the Centurion Master in Forest of Prayers.
 QUEST_JOBSTEP_20150717_002923	Return to Centurion Master.
 QUEST_JOBSTEP_20150717_002924	Go to Doppelsoeldner Master in 佩帝米安.
 QUEST_JOBSTEP_20150717_002925	Return of Doppelsoeldner Master.
-QUEST_JOBSTEP_20150717_002926	Go to Sorcerer Master in Forest of Prayers.
-QUEST_JOBSTEP_20150717_002927	Return to Sorcerer Master.
+QUEST_JOBSTEP_20150717_002926	Go to 方士 Master in Forest of Prayers.
+QUEST_JOBSTEP_20150717_002927	Return to 方士 Master.
 QUEST_JOBSTEP_20150717_002928	Go to Chronomancer Master in 碑石路.
 QUEST_JOBSTEP_20150717_002929	Return to Chronomancer Master.
 QUEST_JOBSTEP_20150717_002930	Go to Necromancer Master in Mullus Passage.
@@ -2971,10 +2971,10 @@ QUEST_JOBSTEP_20150729_002970	The person I am trying to meet is the envoy of Ram
 QUEST_JOBSTEP_20150729_002971	Damn... I don't want to believe it, but accroding to what you just told me, it seems that he died due to the attacks from the monsters.{nl}I guess I should contact Ramin General with another method.{nl}Ah, and please keep this secret to other people.{nl}
 QUEST_JOBSTEP_20150729_002972	Of course, I didn't forget the promise to you.{nl}I will help you to grow up to be a better Doppelsoeldner.
 QUEST_JOBSTEP_20150729_002973	I am researching about the eternal life recently.{nl}I am investigating various documents, but it will be the best to listen from the one who is living an eternal life.{nl}I want to listen from a few of Amjinas that are still present in this world...{nl}
-QUEST_JOBSTEP_20150729_002974	It's not good for me to visit them as a master and we masters were seperated for a long time.{nl}This is also a part of the research as a Sorcerer so ask them how they live eternal lives.{nl}If you could do that for me, I will upgrade your abilities as a Sorcerer one level up.
+QUEST_JOBSTEP_20150729_002974	It's not good for me to visit them as a master and we masters were seperated for a long time.{nl}This is also a part of the research as a 方士 so ask them how they live eternal lives.{nl}If you could do that for me, I will upgrade your abilities as a 方士 one level up.
 QUEST_JOBSTEP_20150729_002975	Among the Amjinas, the whereabouts of Dievdirbys Master from the West forest of Siaulai, Necromancer Master at Mulus Corridor, and Chronomancer Master at Stele Road have been confirmed.{nl}Ask each of them how they live an eternal life.
 QUEST_JOBSTEP_20150729_002976	Amjinas are indeed different.{nl}I should think more widely and find them out.{nl}
-QUEST_JOBSTEP_20150729_002977	Good, I will lead you to a higher level Sorcerer.
+QUEST_JOBSTEP_20150729_002977	Good, I will lead you to a higher level 方士.
 QUEST_JOBSTEP_20150729_002978	You've come to enhance you abilities as a Chronomancer.{nl}But, right now I am helping the task which Alchemist Master from Winterspoon Family requested to me so I can't help you at the moment.{nl}
 QUEST_JOBSTEP_20150729_002979	{nl}If you are okay, could you help me with this task little more?{nl}If that's so, I will finish it quickly and help you.
 QUEST_JOBSTEP_20150729_002980	It seems that Alchemist Master is investigating about Crystal Mine. {nl}To do so, he asked me to lend him my orb to that reads the past of the person which the orb used to belong to.{nl}Explore all the regions of the 1st district and the 2nd district in Crystal Mine.{nl} 
@@ -3021,7 +3021,7 @@ QUEST_JOBSTEP_20150729_003020	I am not interested
 QUEST_JOBSTEP_20150729_003021	Ask him to trust you
 QUEST_JOBSTEP_20150729_003022	I don't want to get involved in a suspicious task
 QUEST_JOBSTEP_20150729_003023	Telling him the circumstances/TALK/3/TRACK_BEFORE/None
-QUEST_JOBSTEP_20150729_003024	Eternal Amjinas[Sorcerer Advancement]
+QUEST_JOBSTEP_20150729_003024	Eternal Amjinas[方士 Advancement]
 QUEST_JOBSTEP_20150729_003025	I will ask him
 QUEST_JOBSTEP_20150729_003026	Tell him to go there himself
 QUEST_JOBSTEP_20150729_003027	Passing what you heard/TALK/3/TRACK_BEFORE/None
@@ -3048,8 +3048,8 @@ QUEST_JOBSTEP_20150729_003047	Find the whereabout of the disappeared
 QUEST_JOBSTEP_20150729_003048	Doppelsoeldner Master told you that he lost the contact of envoy that is supposed to meet you at 36_2 of Pilgrim's way. Find the whereabout of the envoy to find out what happened.  
 QUEST_JOBSTEP_20150729_003049	Defeat %s that rushed in
 QUEST_JOBSTEP_20150729_003050	Collect the information regarding Amjinas
-QUEST_JOBSTEP_20150729_003051	Sorcerer Master told you that he is researching about the eternal life. Collect the information about Amjinases that are living the eternal life. You can hear more from Divdirbys Master at the West Forest of Siaulai, Necromancer Master at Mulus Corridor, and Chronomancer Master at Stele Road.
-QUEST_JOBSTEP_20150729_003052	You've heard something from Amjinas. Go back to Sorcerer Master.
+QUEST_JOBSTEP_20150729_003051	方士 Master told you that he is researching about the eternal life. Collect the information about Amjinases that are living the eternal life. You can hear more from Divdirbys Master at the West Forest of Siaulai, Necromancer Master at Mulus Corridor, and Chronomancer Master at Stele Road.
+QUEST_JOBSTEP_20150729_003052	You've heard something from Amjinas. Go back to 方士 Master.
 QUEST_JOBSTEP_20150729_003053	Explore Crystal Mine
 QUEST_JOBSTEP_20150729_003054	Chronomancer Master will investigate the incident that occured in Crystal Mine due to the request from Alchemist Master. With the glass orb that reflects the past, reach 100% of exploration rate in both the 1st and 2nd districts in Crystal Mine.
 QUEST_JOBSTEP_20150729_003055	The memories of Crystal Mine are recorded enough in the orb. Go back to Chronomancer Master.
@@ -3090,7 +3090,7 @@ QUEST_JOBSTEP_20150803_003089	I am researching about the eternal life recently.{
 QUEST_JOBSTEP_20150803_003090	Amjinases, they are called like that. I want you to ask them how they live eternal lives.{nl}It's not good for me to visit them as a master since we masters are living in different places.
 QUEST_JOBSTEP_20150803_003091	Among the Amjinas, the whereabouts of the Sculptor Tesla at the West Forest of Siaulai...{nl}Necromancer Master at Mulus Corriodor and Chronomancer Master at Stele Road. I am counting on you.
 QUEST_JOBSTEP_20150803_003092	Amjinases are indeed different each other.{nl}I should think more widely and find them out.{nl}
-QUEST_JOBSTEP_20150803_003093	Anyways, thank for helping my research.{nl}As a return, I will teach you the last level of Sorcerer.
+QUEST_JOBSTEP_20150803_003093	Anyways, thank for helping my research.{nl}As a return, I will teach you the last level of 方士.
 QUEST_JOBSTEP_20150803_003094	You've come to learn high level magics of Chronomancer.{nl}But, right now I am helping Bidotas from Winterspoon Family so I can't help you at the moment.{nl}
 QUEST_JOBSTEP_20150803_003095	{nl}If you are okay, could you help me investigating Crystal Mine?{nl}If that's so, I will finish it quickly and help you.
 QUEST_JOBSTEP_20150803_003096	With this orb, explore all regions in 1st and 2nd districts of Crystal Mine.{nl}If you had explored them completely in the past, then you just need to record it in the orb.
@@ -3106,12 +3106,12 @@ QUEST_JOBSTEP_20150803_003105	Lucid... Actually have you met Chronomancer Master
 QUEST_JOBSTEP_20150803_003106	The orb reads the memories of the possessor and records them.{nl}Explore all areas in 1st and 2nd districts in Crystal Mine with this.{nl}
 QUEST_JOBSTEP_20150803_003107	When you use this orb after exploring all regions, it will read the memories of the possessor and record the past.{nl}If you had explored the regions in the past, then record it into the orb right away.{nl}
 QUEST_JOBSTEP_20150803_003108	Well done. {nl}It will take some time to check this so in the meantime, I will teach you new alchemy.
-QUEST_JOBSTEP_20150803_003109	Eternal Amjinas[Sorcerer Advancement]
+QUEST_JOBSTEP_20150803_003109	Eternal Amjinas[方士 Advancement]
 QUEST_JOBSTEP_20150803_003110	Tell him that it will be better to listen directly
 QUEST_JOBSTEP_20150803_003111	I don't have guts for it
 QUEST_JOBSTEP_20150803_003112	Received enough balm. Restore the Vakarine Statue in Fedimian and Ausrine Statue in Klaipeda.
-QUEST_JOBSTEP_20150803_003113	Sorcerer Master wants to hear more from Amjinases. You can meet Dievdirbys Master in the west forest of Siaulai, Necromancer Master in Mulus Corridor, and Chronomancer Master in Stele Road.
-QUEST_JOBSTEP_20150803_003114	You've heard about eternal lives from Amjinases. Go back to Sorcerer Master.
+QUEST_JOBSTEP_20150803_003113	方士 Master wants to hear more from Amjinases. You can meet Dievdirbys Master in the west forest of Siaulai, Necromancer Master in Mulus Corridor, and Chronomancer Master in Stele Road.
+QUEST_JOBSTEP_20150803_003114	You've heard about eternal lives from Amjinases. Go back to 方士 Master.
 QUEST_JOBSTEP_20150803_003115	Obtain the keepstakes which you could feel strong regrets
 QUEST_JOBSTEP_20150803_003116	Necromancer Master wants to have the keepstake with stronger grudge. Obtain the keepstakes that you can feel strong regrets from Bidentis Shrine.
 QUEST_JOBSTEP_20150803_003117	You've collected the keepstakes with strong regrets. Go back to Necromancer Master.
@@ -3129,4 +3129,4 @@ QUEST_JOBSTEP_20150803_003128	Fletcher Master wants to look for the bow which th
 QUEST_JOBSTEP_20150803_003129	Hand it over to Fletcher Master
 QUEST_JOBSTEP_20150803_003130	You've found the bow of the first Fletcher master. Go back to Fletcher Master.
 
-QUEST_JOBSTEP__20150810-123456	23:20 By Mamoru
+QUEST_JOBSTEP__20150813-123456	23:30 By Mamoru
