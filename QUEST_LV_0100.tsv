@@ -2056,7 +2056,7 @@ QUEST_LV_0100_20150317_002055	Are you okay?{nl}I almost lost my conciousness due
 QUEST_LV_0100_20150317_002056	낙우림의 사악한 기운은 점점 거세지는데, 우리 신도들은 점점 지쳐갑니다.{nl}계시자님께서 몸소 도와주셨으면 합니다만.{nl}
 QUEST_LV_0100_20150317_002057	The atmosphere is becoming stronger and the priests are getting tired. It's bad.
 QUEST_LV_0100_20150317_002058	Thanks.{nl}I wonder what would have happened without you.
-QUEST_LV_0100_20150317_002059	As Merogg sorcerers are undertaking their rituals, I will give it a try.{nl}Can you take care of those sorcerers?
+QUEST_LV_0100_20150317_002059	As Merogg 方士s are undertaking their rituals, I will give it a try.{nl}Can you take care of those 方士s?
 QUEST_LV_0100_20150317_002060	Thanks for your help.{nl}Now the demons won't be able to act freely.
 QUEST_LV_0100_20150317_002061	I didn't know those demons would use Summon crystal.{nl}They may surround us.
 QUEST_LV_0100_20150317_002062	I want to receive all the information about that magic field.{nl}Please be careful not to break the precious sample.
@@ -7599,10 +7599,10 @@ QUEST_LV_0100_20150714_007598	Zubeck's Orb is being charged. Koben should be spo
 QUEST_LV_0100_20150714_007599	Zubeck's Orb has been charged. Koben should be spoken to.
 QUEST_LV_0100_20150714_007600	Look for the things that Zubeck hid.
 QUEST_LV_0100_20150714_007601	Use Zubeck's Orb and search for his secret stash.
-QUEST_LV_0100_20150714_007602	It seems that something desperate occured to Sorcerer Master. Talk with Sorcerer Master.
+QUEST_LV_0100_20150714_007602	It seems that something desperate occured to 方士 Master. Talk with 方士 Master.
 QUEST_LV_0100_20150714_007603	Destroy the demon summon field
-QUEST_LV_0100_20150714_007604	Sorcerer Master told you that he was going to summon the demons, but he connected them to the other world. Destroy the demon summon field at Aqueduct.
-QUEST_LV_0100_20150714_007605	You've destroyed the demon summon field. Report it to Sorcerer Master.
+QUEST_LV_0100_20150714_007604	方士 Master told you that he was going to summon the demons, but he connected them to the other world. Destroy the demon summon field at Aqueduct.
+QUEST_LV_0100_20150714_007605	You've destroyed the demon summon field. Report it to 方士 Master.
 QUEST_LV_0100_20150714_007606	The sealed tower of the goddess
 QUEST_LV_0100_20150714_007607	Talk with the disciple, Ramelia
 QUEST_LV_0100_20150714_007608	Rameia is looking for you desperately. Talk with Ramelia what happened.
@@ -7904,4 +7904,4 @@ QUEST_LV_0100_20150804_007903	Lexipher disappeared with the proofs of the obstac
 QUEST_LV_0100_20150804_007904	You must somehow find Lexipher since she has all the proofs of the obstacles. Ask him again.
 QUEST_LV_0100_20150804_007905	When you were about to unlease the seal of the cliffs, the monsters suddenly appeared. Defeat the monsters!
 
-QUEST_LV_0100_20150810-123456	23:20 By Mamoru
+QUEST_LV_0100_20150813-123456	23:30 By Mamoru
