@@ -33,8 +33,8 @@ QUEST_20150317_000032	Hey, wait a minute. {nl}You know you need more than that�
 QUEST_20150317_000033	That's no good! {nl}I can't work for nothing, even for a Revelator.
 QUEST_20150317_000034	Wandering Merchant
 QUEST_20150317_000035	Like a dandelion's seeds, I am merely one who follows the wind. {nl}Since we've met in such a curious way, perhaps you'll spare a moment to view my curiosities?
-QUEST_20150317_000036	Kristina
-QUEST_20150317_000037	Welcome! {nl}You're looking for a travel companion, right? {nl}You won't find a better place for partners than here!
+QUEST_20150317_000036	克里斯蒂娜
+QUEST_20150317_000037	欢迎! {nl}你正在寻找一个旅行伴侣，对吧? {nl}你找不到比这里更好的地方了
 QUEST_20150317_000038	You can make your companions watch you or train special attributes. {nl}Earn enough affection, and you can even buy some cool equipment!
 QUEST_20150317_000039	Raising your companion's affection will increase riding stamina and evasion! {nl}So, what do you think? Is that enough to make you consider one?
 QUEST_20150317_000040	The box requires a matching key.
@@ -78,7 +78,7 @@ QUEST_20150317_000077	Hello! {nl}This is the 克拉佩达 branch of the Mage Soc
 QUEST_20150317_000078	There's nothing to see but steam and Vubbes. {nl}Wait, what's that big faced thing that's approaching?!
 QUEST_20150317_000079	We must focus on the land, too. {nl}The world still isn't ruined… right?
 QUEST_20150317_000080	If we stayed respectful, then we'd still have that favor and knowledge. {nl}We should all think about whether we created this trouble ourselves, when we relied on the Goddess for everything.
-QUEST_20150317_000081	Bulletin Board
+QUEST_20150317_000081	公告板
 QUEST_20150317_000082	Welcome to the mining town of 克拉佩达!
 QUEST_20150317_000083	Indifferent Widow
 QUEST_20150317_000084	I'm not sure I understand it all, but basically, the goddesses didn't disappear all at once.
@@ -543,8 +543,8 @@ QUEST_20150317_000542	The Hogmas are breaking in through the entrance they found
 QUEST_20150317_000543	But after being attacked, I don't have any bombs anymore.
 QUEST_20150317_000544	There are bombs good for one-time-use in the box. {nl}Use it to destroy the barricade they made.
 QUEST_20150317_000545	And get something from them that can used as explosives.
-QUEST_20150317_000546	Market Manager
-QUEST_20150317_000547	Welcome! {Nl} You can buy great items for a cheap price if you browse carefully. {Nl} Of course, it is also possible to spend a great sum on something cheap…
+QUEST_20150317_000546	市场管理员
+QUEST_20150317_000547	欢迎! {Nl}如果你仔细浏览，你可以买又便宜又好的道具。{Nl} 当然，也有可能花了一大笔钱买到了便宜的东西…
 QUEST_20150317_000548	Proposal Card
 QUEST_20150317_000549	Roses that still have fragrance. {nl}They seem to have gone stale in time.
 QUEST_20150317_000550	Benevolent Old Man
@@ -815,9 +815,9 @@ QUEST_20150317_000814	Danger! You are responsible for what happens!{nl}Golems ar
 QUEST_20150317_000815	P.S. It is better to runaway than to pray to the Goddess in case you encounter Golems.
 QUEST_20150317_000816	The Goddesses have disappeared. {Nl} But if we fight bravely against the devils, Goddesses will return someday. {Nl} {nl} - Laimonas
 QUEST_20150317_000817	Attention to those who come to 克拉佩达 after having a dream about the revelation. {Nl} Knight Uska is waiting for you in the Central Plaza.
-QUEST_20150317_000818	Welcome to 克拉佩达 Shopping Center. {Nl} You can shop for a variety of accessories, tools, equipment, and other items.
-QUEST_20150317_000819	Use the stairs on the right to go to the 克拉佩达 Central Plaza.
-QUEST_20150317_000820	克拉佩达 Central Plaza
+QUEST_20150317_000818	欢迎来到 克拉佩达 购物中心. {Nl} 你可以在商店里购买到各种配件，工具，装备和其他道具
+QUEST_20150317_000819	右边的楼梯通往 克拉佩达 中心广场
+QUEST_20150317_000820	克拉佩达 中心广场
 QUEST_20150317_000821	Signboard
 QUEST_20150317_000822	夏沃雷伊东侧森林
 QUEST_20150317_000823	It is unknown who the statue honors or how old it is. {Nl} But it certainly has mysterious powers that move selected people to other areas.
@@ -1039,7 +1039,7 @@ QUEST_20150317_001038	This is my friend, Donatas. {nl}I will go up first to figu
 QUEST_20150317_001039	Hey you shouldn't come here!
 QUEST_20150317_001040	So the Peltasta Master sent it.. ah, so this is what the coward miners were talking about.
 QUEST_20150317_001041	No worries at all, I am not scared. They are all fake rumors.{nl}It's not a surprise that the mine is shaking.
-QUEST_20150317_001042	Request Bulletin Board
+QUEST_20150317_001042	Request 公告板
 QUEST_20150317_001043	Here are all gathered requests.{nl}Caution: We are not responsible for rewards for these requests.
 QUEST_20150317_001044	Employee Brendon
 QUEST_20150317_001045	I will show you the registered requests so far.{nl}You know that a day has to pass in order to receive a request again, even if you give up on it, right?
@@ -1076,7 +1076,7 @@ QUEST_20150317_001075	217 [Catacomb38_2, 04, 38_1, 02]
 QUEST_20150317_001076	226 [Area of Ruins37_1, 2, 3]
 QUEST_20150317_001077	Monsters are advancing toward the cursed limestone city. {nl}The dispatched troops are doing whatever they can to resist but the curse is making the situation dire. 
 QUEST_20150317_001078	245 [Fort of Land]
-QUEST_20150317_001079	Revelation of Mage Tower
+QUEST_20150317_001079	魔法师塔 启示录
 QUEST_20150317_001080	It is an old story of 佩帝米安 before the Goddess Statue. 
 QUEST_20150317_001081	A long time ago, the people of 佩帝米安 were ordinary - not much different from the ordinary people of the rest of the world. However, the people of 佩帝米安 did differ from their worldly peers in one aspect.
 QUEST_20150317_001082	The people of 佩帝米安 were a very cautious people. In the sense that they take the word "cautious" much more seriously. These people are as cautious around fire as they are without.
@@ -1879,8 +1879,8 @@ QUEST_20150414_001878	Cured Farmer
 QUEST_20150414_001879	You saved my life. I still feel sick.. but thank you very much!
 QUEST_20150414_001880	If the grapes keep turnning out this way, I'm going to leave Sharon Farm. {nl}I don't want this kind of pain anymore.
 QUEST_20150414_001881	I thought the poison would burn my body. {nl}Thank you very much for saving me. 
-QUEST_20150414_001882	Warehouse Keeper Rita
-QUEST_20150414_001883	Welcome! {nl}How can I help you? 
+QUEST_20150414_001882	仓库保管员 丽塔
+QUEST_20150414_001883	欢迎! {nl}有什么可以帮忙的吗？
 QUEST_20150414_001884	Do not trust anyone here. Not the Goddess, not even yourself. 
 QUEST_20150414_001885	Demon Monarch Houberg. The Goddess does not wish to fight against you. {nl}Stop your hostile action towards the Goddess. 
 QUEST_20150414_001886	You guys prepare to make the Evening Star Key. {nl}Hurry, there is not enough time. I will send the Revelator soon. 
@@ -2035,7 +2035,7 @@ QUEST_20150714_002034	Well there's a new face. Did Julian send you?
 QUEST_20150714_002035	Yeah. There's something weird about Goddess Laima. {nl}No one seems to know when she disappeared.  And to be honest nobody seems to really know whether or not she actually is a goddess. {nl}
 QUEST_20150714_002036	Since she's never appeared before.  {nl}Although I did read somewhere that she does appear every now and again...{nl}
 QUEST_20150714_002037	Even though it may be bad for my business, I wish I could live in peace rather than always be afraid of monster attacks.
-QUEST_20150714_002038	Welcome.{nl}Although I can do basic repairs I just don't have the materials to create anything.{nl}Look around from what we have.
+QUEST_20150714_002038	欢迎.{nl}我只做基本的维修，没有材料打造其他道具。让我们看看现在都有些什么{nl}1.购买图纸{nl}2.修理道具{nl}3.插槽管理
 QUEST_20150714_002039	With everything said, I don't lie about my prices. Everything I sell is priced honestly and accordingly.
 QUEST_20150714_002040	Fire is grace sent to us by the Goddess Gabija. {nl} You cannot become a great Pyromancer if you overlook that.
 QUEST_20150714_002041	The Goddesses may be all gone but my powers are still doing fine, right? {nl} I'm sure it must be proof that Goddess Gabija is at least safe somewhere.
@@ -2248,9 +2248,9 @@ QUEST_20150714_002247	Saltistter? What are you talking about?{nl}You are saying 
 QUEST_20150714_002248	Modestas accepted his defeat and promised his pay back later. When Modestas was about to leave with his horse and wagon, the old Alchemist with a grin took Modesta's attention and made him look at him. {nl}
 QUEST_20150715_002249	Modestas accepted his defeat and promised his pay back later. When Modestas was about to leave with his horse and wagon, the old Alchemist with a grin took Modesta's attention and made him look at him. {nl}
 QUEST_20150717_002250	Please insert the name of your companion.
-QUEST_20150717_002251	Companions can help you in combat. {nl}You can make your companions watch you or teach them special attributes. 
-QUEST_20150717_002252	What do you think? They make a pretty good friend, right? {nl}But do take note that only certain classes can ride Companions. {nl}
-iQUEST_20150717_002253	Item Merchant 
+QUEST_20150717_002251	宠物可以帮助你在战斗中. {nl}你可以让你的同伴看你或教他们特殊的特质。
+QUEST_20150717_002252	你觉得怎么样？他们是一个很好的朋友，对吧！ {nl}但要注意的是，只有某些职业可以骑乘宠物。 {nl}
+QUEST_20150717_002253	道具商人
 QUEST_20150717_002254	QUEST_LV_0200_20150428_006911
 QUEST_20150717_002255	QUEST_20150428_001896
 QUEST_20150717_002256	I hope Gabiya is safe... Let's move fast.
@@ -2296,8 +2296,8 @@ QUEST_20150729_002298	클라페다의 중앙 광장에 있는 아우슈리네 �
 QUEST_20150729_002299	여신상이 조각되었을 당시에는 그 여신상이 누구를 기리는지 아무도 알 수 없었습니다.{nl}오직 여신상을 조각한 딥디르비와 모데스타스씨만이 알고 있었지요.{nl}
 QUEST_20150729_002300	많은 이들이 여신상이 누구인지 알기 위해 모데스타스에게 내기를 걸었지만 모데스타스가 죽을 때 까지 지는 일은 결코 없었었습니다.
 QUEST_20150729_002301	모든 인연의 이름으로 다시 한 번 감사드립니다.{nl}저는 이제부터 벌들을 따라 아우슈리네님을 찾으려고 합니다.{nl}
-QUEST_20150729_002302	여신상 안내
-QUEST_20150729_002303	주신 아우슈리네님의 권능으로 원하는 지역으로 이동할 수 있습니다.
+QUEST_20150729_002302	女神像介绍
+QUEST_20150729_002303	向女神祈祷可传送至指定区域
 QUEST_20150729_002304	교단의 성물
 QUEST_20150729_002305	인간들의 욕심과 오만에 그 끝에 달할 때, 지하에서 성스러운 나무가 자라나 오만한 자들을 벌하고 그 모든 것을 앗아가리라.
 QUEST_20150729_002306 Coffin destroyed

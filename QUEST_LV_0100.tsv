@@ -394,7 +394,7 @@ QUEST_LV_0100_20150317_000393	Let's search the Bulvjes farm first.{nl}But don't 
 QUEST_LV_0100_20150317_000394	It makes me wonder if you're an envoy of the Goddess.{nl}Anyway, the supply camp is located further below the farm.
 QUEST_LV_0100_20150317_000395	자네가 찾는 너울 고원은 은수 협곡에서 더 들어가야해.{nl}쌍둥이 다리의 중간에서 아래쪽으로 내려가면 은수 협곡이 나오지.
 QUEST_LV_0100_20150317_000396	Vubbes are emerging inside the Mine Gallery so be sure to stay together in groups of five.
-QUEST_LV_0100_20150317_000397	Equipment Merchant
+QUEST_LV_0100_20150317_000397	装备商人
 QUEST_LV_0100_20150317_000398	Even at times like this, I struggle to find the best items I can. You can't go easy in terms of dealing with your customers.
 QUEST_LV_0100_20150317_000399	Monsters attack and steal from people who buy items from me. I think they know I can tell which items are good.{nl}I feel sorry for those who were attacked but it also proves that the items are worth it.
 QUEST_LV_0100_20150317_000400	The monsters never raided into 克拉佩达 but with Sir Uska gone, it's hard to be at ease.{nl}You have you watch out for yourself at times like this.
@@ -408,7 +408,7 @@ QUEST_LV_0100_20150317_000407	I'd rather stay safe and at peace with lower sales
 QUEST_LV_0100_20150317_000408	I sell things that people need, but I sometimes think it would've been better if I was a healer,{nl}because that way I could be closer to the explorers to help them.
 QUEST_LV_0100_20150317_000409	I hear strange howling from the distance. Could it be the sound of the monsters?
 QUEST_LV_0100_20150317_000410	People say I'm weird and I talk too much but I don't mind. Even if I'm really weird like they say, that doesn't mean the items I sell are weird.
-QUEST_LV_0100_20150317_000411	Blacksmith
+QUEST_LV_0100_20150317_000411	铁匠
 QUEST_LV_0100_20150317_000412	Hello.{nl}I can help you repair items but I can't craft new ones because I don't have the materials.{nl}Go on and choose from whatever is available.
 QUEST_LV_0100_20150317_000413	克拉佩达 resident
 QUEST_LV_0100_20150317_000414	It's true these are tough times but everyone is looking out for the soldiers.
@@ -577,8 +577,8 @@ QUEST_LV_0100_20150317_000576	Belief in yourself. Endless confidence. {nl} These
 QUEST_LV_0100_20150317_000577	A Linker is someone who connects people with ropes of Mana.{nl}How strong the connection is depends on the quality of Mana.
 QUEST_LV_0100_20150317_000578	Cataphract Master
 QUEST_LV_0100_20150317_000579	Cataphracts have the power to go though the enemies that block their way{nl}They are brave warriors who fight on the front lines.
-QUEST_LV_0100_20150317_000580	May I help you? {nl}Fortunately, we have some potions left in stock.
-QUEST_LV_0100_20150317_000581	Looking for some good equipment? {nl} I have prepared the best ones available. {nl} Look around, the prices aren't bad either.
+QUEST_LV_0100_20150317_000580	有什么需要帮忙的吗? {nl}很幸运, 我们库存里还有一些药水{nl}1.道具购买{nl}2.NXP道具购买
+QUEST_LV_0100_20150317_000581	寻找一些好的装备? {nl} 我已经准备好了最好的. {nl} 看看周围，这里价格也不错{nl} 1.购买武器{nl} 2.购买装备
 QUEST_LV_0100_20150317_000582	Oh, this anvil is my small gift to you for saving me. {nl} It's a useful item that can upgrade your equipment. {nl}
 QUEST_LV_0100_20150317_000583	Well then, see you in the mines.
 QUEST_LV_0100_20150317_000584	Miner's village Mayor
@@ -2225,12 +2225,12 @@ QUEST_LV_0100_20150317_002224	I want to go home soon..
 QUEST_LV_0100_20150317_002225	이 봉인을 풀었다는 소녀도 궁금하군요.{nl}절대로 쉽게 풀 수 있는 봉인이 아닙니다.{nl}{nl}
 QUEST_LV_0100_20150317_002226	Husband of refugee family
 QUEST_LV_0100_20150317_002227	몬스터를 피해 제 아내와 이곳으로 도망쳐 왔습니다.{nl}제미나 여신께서 지켜주고 계시지만 언제까지 버틸 수 있을지 모르겠네요.
-QUEST_LV_0100_20150317_002228	Oh, the Accessory Merchant said she has a gift for you. {nl} Would you mind visiting her?
-QUEST_LV_0100_20150317_002229	You can meet the Accessory Merchant if you go straight to the left from here.
-QUEST_LV_0100_20150317_002230	Accessory Merchant
+QUEST_LV_0100_20150317_002228	Oh, the 配件商人 said she has a gift for you. {nl} Would you mind visiting her?
+QUEST_LV_0100_20150317_002229	You can meet the 配件商人 if you go straight to the left from here.
+QUEST_LV_0100_20150317_002230	配件商人
 QUEST_LV_0100_20150317_002231	Nice to meet you! Are you the Revelator chasing the dream of the Goddess? {nl} I'm going to give you this accessory as a present. {nl}
 QUEST_LV_0100_20150317_002232	If the armors protect you from physical attacks, accessories protect you from magic attacks. {nl} I hope it would be useful for you.
-QUEST_LV_0100_20150317_002233	You can meet the Accessory Merchant if you go straight to the left from here. {nl}
+QUEST_LV_0100_20150317_002233	You can meet the 配件商人 if you go straight to the left from here. {nl}
 QUEST_LV_0100_20150317_002234	Ah, I was waiting for you.{nl}You are the person chosen by the eyes of Zachariel right?
 QUEST_LV_0100_20150317_002235	Welcome.
 QUEST_LV_0100_20150317_002236	Oh, seems like you have Yukopus leaves and Kepa stems. {nl} I need a lot of those. Can you share some with me?
@@ -2356,12 +2356,12 @@ QUEST_LV_0100_20150317_002355	I am a very fatal existence for them as I can see 
 QUEST_LV_0100_20150317_002356	Also, they will extend their evil powers to the Goddesses who go against their will. {nl}
 QUEST_LV_0100_20150317_002357	But disasters are happening just as I saw them to be. {nl}And it means that the hope, which I saw further away, will also definitely come. {nl}
 QUEST_LV_0100_20150317_002358	Dear Savior, our sister Saule is losing her light. {nl} Find her back the light from the colorful valley and you will be guided to the next revelation.
-QUEST_LV_0100_20150317_002359	The revelation of 水晶矿山
+QUEST_LV_0100_20150317_002359	水晶矿山 启示录
 QUEST_LV_0100_20150317_002360	Dear Savior, {nl} in order for me to regain my whole appearance and stop the demons, {nl} you must find all the revelations hidden in the axis of all times. {nl}
 QUEST_LV_0100_20150317_002361	But only you and I can save the world. {nl} I will wait for you in the highest gardens
-QUEST_LV_0100_20150317_002362	The revelation of Tenet Cathedral
-QUEST_LV_0100_20150317_002363	The revelation of Thorny Forest
-QUEST_LV_0100_20150317_002364	The revelation of Zachariel Royal Tomb
+QUEST_LV_0100_20150317_002362	泰耐特圣堂 启示录
+QUEST_LV_0100_20150317_002363	Thorny Forest
+QUEST_LV_0100_20150317_002364	皇家陵墓 启示录
 QUEST_LV_0100_20150317_002365	[Tutorial] Talk to Knight Titas (1)
 QUEST_LV_0100_20150317_002366	Return to Knight Titas
 QUEST_LV_0100_20150317_002367	[Tutorial] Talk to Knight Titas (2)
@@ -2376,7 +2376,7 @@ QUEST_LV_0100_20150317_002375	I'll wait until you find it
 QUEST_LV_0100_20150317_002376	key to check the map #7
 QUEST_LV_0100_20150317_002377	To Knight Titas (3)
 QUEST_LV_0100_20150317_002378	Alright
-QUEST_LV_0100_20150317_002379	Cancel
+QUEST_LV_0100_20150317_002379	取消
 QUEST_LV_0100_20150317_002380	To the search scout
 QUEST_LV_0100_20150317_002381	There is an order to assemble
 QUEST_LV_0100_20150317_002382	Nothing, nevermind
@@ -3103,7 +3103,7 @@ QUEST_LV_0100_20150317_003102	I will go meet Laimondas
 QUEST_LV_0100_20150317_003103	Church Gate (1)
 QUEST_LV_0100_20150317_003104	Church Gate (2)
 QUEST_LV_0100_20150317_003105	I'll open the front door
-QUEST_LV_0100_20150317_003106	To entrance of 卡丁森林
+QUEST_LV_0100_20150317_003106	前往 卡丁森林入口
 QUEST_LV_0100_20150317_003107	Notice/Arrived at 卡丁森林入口 Goddess Gabija talked about.#3
 QUEST_LV_0100_20150317_003108	Demon sisters
 QUEST_LV_0100_20150317_003109	I don't have time
@@ -4048,8 +4048,8 @@ QUEST_LV_0100_20150317_004047	Stonemaker hasn't gone home yet. Talk to him.
 QUEST_LV_0100_20150317_004048	높이굽은 길에서 추모비 재료 중 바위 채취
 QUEST_LV_0100_20150317_004049	석공 피포티는 죽은 친구와 이곳에서 죽은 많은 탐험가들을 위해 추모비를 세우고 싶어 합니다. 먼저 높이굽은 길에 있는 바위를 가져다 주세요.
 QUEST_LV_0100_20150317_004050	Defeat Achat and obtain %s
-QUEST_LV_0100_20150317_004051	Buy stonemason tools from the blacksmith in 克拉佩达 
-QUEST_LV_0100_20150317_004052	You collected the materials and now you need the tools. Buy stonemason tools from the blacksmith in 克拉佩达.
+QUEST_LV_0100_20150317_004051	Buy stonemason tools from the 铁匠 in 克拉佩达 
+QUEST_LV_0100_20150317_004052	You collected the materials and now you need the tools. Buy stonemason tools from the 铁匠 in 克拉佩达.
 QUEST_LV_0100_20150317_004053	Give it to Stonemason Pipoti
 QUEST_LV_0100_20150317_004054	You got all the materials and tools needed. Return to Pipoti and give it to him.
 QUEST_LV_0100_20150317_004055	Pipoti was planning the details of the memorial stone. Talk to him and get the completed memorial stone.
@@ -6337,8 +6337,8 @@ QUEST_LV_0100_20150317_006336	Destroy Bramble's roots
 QUEST_LV_0100_20150317_006337	Jurga says we must destroy the roots placed to heal Bramble's wound. The roots are in Sviesa Hills and Tankinta Vancant Lot. 
 QUEST_LV_0100_20150317_006338	Removed all of Bramble's roots. Talk to Jurga.
 QUEST_LV_0100_20150317_006339	Seems like the Item Merchant has something left to say. Talk to the Item Merchant.
-QUEST_LV_0100_20150317_006340	Talk to the Accessory Merchant
-QUEST_LV_0100_20150317_006341	The Accessory Merchant has given the Relevator an accessory gift. Please accept it graciously.
+QUEST_LV_0100_20150317_006340	Talk to the 配件商人
+QUEST_LV_0100_20150317_006341	The 配件商人 has given the Relevator an accessory gift. Please accept it graciously.
 QUEST_LV_0100_20150317_006342	Listen to Gustas Jonas for the next step.
 QUEST_LV_0100_20150317_006343	Meet Morcus Jonas in Long Bridge Valley.
 QUEST_LV_0100_20150317_006344	You'll know what to do next when you meet Morcus Jonas in Long Bridge Valley.
@@ -6439,7 +6439,7 @@ QUEST_LV_0100_20150323_006438	Done. {nl}Do you know about the five necklaces of 
 QUEST_LV_0100_20150323_006439	It was created to remind people of the 5 sins. {nl}Though Naktis made it look like a curse on the Pilgrim's Way.{nl}
 QUEST_LV_0100_20150323_006440	Looks like the necklace belongs to you. {nl}If it wasn't for you, teachings of Mayvern would have been left as a curse.
 QUEST_LV_0100_20150323_006441	Actually, I want to go to 科巴依拉斯森林. {nl}I want to see the source of evel with my two eyes. 
-QUEST_LV_0100_20150323_006442	Thank you. The blacksmith in 克拉佩达 sells the tools. {nl}But before that, stones in 碑石路 are known for their fine quality so I ask of your favor. 
+QUEST_LV_0100_20150323_006442	Thank you. The 铁匠 in 克拉佩达 sells the tools. {nl}But before that, stones in 碑石路 are known for their fine quality so I ask of your favor. 
 QUEST_LV_0100_20150323_006443	Done. Please place this in the entrance of Underground Mausoleum in 泽凯瑞尔岔路. {nl}Will this be enough commfort.
 QUEST_LV_0100_20150323_006444	Hmm. You're really good as they say. {nl}Rolandas is waiting for you in 阿克梅斯山脊.
 QUEST_LV_0100_20150323_006445	Please be careful. {nl}A dark aura similar to the voice a while ago is covering the Thron Forest. {nl}Especially the Kavilas Forest.. I have sharp ears for things like this..
@@ -6786,7 +6786,7 @@ QUEST_LV_0100_20150428_006785	To find the Jewel of Prominence, just use this det
 QUEST_LV_0100_20150428_006786	The portal that you tried to open is the gate of lies.{nl}The villagers hear are the tricks of Demons' lord, Bramble.
 QUEST_LV_0100_20150428_006787	I am Saule, the Goddess of the sun.{nl}Everything is just like how Lamia has forseen.
 QUEST_LV_0100_20150428_006788	It's true that I am looking for the revelator, but I need someone skillful.{nl}I am sorry, but you don't look like the revelator I am looking for.
-QUEST_LV_0100_20150428_006789	Welcome. {nl} These items were hard to get.
+QUEST_LV_0100_20150428_006789	欢迎. {nl} 这些东西难才搞到呢.
 QUEST_LV_0100_20150428_006790	I'm sorry but can you burn this oration in front of the epitaph in Rukas Plateau? {nl}You have explored different areas of the valley. {nl}I think you are more than qualified to comfort their souls. 
 QUEST_LV_0100_20150428_006791	This place is like a grave for many explorers and historians. {nl} And we study to find more factual history on top of their graves.
 QUEST_LV_0100_20150428_006792	Good job.{nl}I will take the Jewel of Prominence.
@@ -6808,8 +6808,8 @@ QUEST_LV_0100_20150428_006807	Talk to Knight Titas again
 QUEST_LV_0100_20150428_006808	You dreamed about the goddess telling you to go to 克拉佩达, but the knight Titas is asking you whether you could tell the order of gathering to them. Talk to Titas again.
 QUEST_LV_0100_20150428_006809	Extinguished the research diary on the fire place
 QUEST_LV_0100_20150428_006810	You burned all diaries to calm his soul. Talk to the spirit of the adventurer, Vakis.
-QUEST_LV_0100_20150428_006811	Meet Blacksmith of 克拉佩达
-QUEST_LV_0100_20150428_006812	Go meet the Blacksmith of 克拉佩达 as Pipoti has told you.
+QUEST_LV_0100_20150428_006811	Meet 铁匠 of 克拉佩达
+QUEST_LV_0100_20150428_006812	Go meet the 铁匠 of 克拉佩达 as Pipoti has told you.
 QUEST_LV_0100_20150428_006813	Before you release the important seal at Ramstis Valley, you should first talk to the disciple of Gustas.
 QUEST_LV_0100_20150428_006814	As the goddess told you in the dream of the bishop, you should first go to 水晶矿山, but you can't just see and ignore the villagers who are evacuating. Let's help the angry hunter.
 QUEST_LV_0100_20150428_006815	Talk to Bidotas at the 1层 of 水晶矿山

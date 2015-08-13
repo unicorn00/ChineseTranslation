@@ -546,7 +546,7 @@ QUEST_JOBSTEP_20150317_000545	Please return to Pardoner Master.{nl}He was lookin
 QUEST_JOBSTEP_20150317_000546	Fire Pot? Of course I know it.{nl}But you know I am a merchant. If you could get me the hardened oil from the monsters at Way of Big Starving Demon..
 QUEST_JOBSTEP_20150317_000547	If you don't need it, then I am also good with it.{nl}Since I am busy, I will just do my work.
 QUEST_JOBSTEP_20150317_000548	Oh, Thank you.{nl}A monster called Mostem keeps his hands on the fire pot all the time.{nl}
-QUEST_JOBSTEP_20150317_000549	Ask the equipment merchant over there since he said he saw it recently.
+QUEST_JOBSTEP_20150317_000549	Ask the 装备商人 over there since he said he saw it recently.
 QUEST_JOBSTEP_20150317_000550	Wizard is the magician who focus on the basics of all magics.{nl}If you seek a stronger magic, you should go back to the basics.{nl}
 QUEST_JOBSTEP_20150317_000551	Please defeat the violent golem at the west forest of Siaulai.{nl}I will decide whether I will continue to teach you based on the result of it.
 QUEST_JOBSTEP_20150317_000552	Huhu.{nl}I remember when you were a probationary wizard.
@@ -724,7 +724,7 @@ QUEST_JOBSTEP_20150317_000723	Even if someone may be the greatest Archer, the pr
 QUEST_JOBSTEP_20150317_000724	영구적으로 회수하여 사용할 수 있는 화살을 만들기란 불가능한 일이었고, 리디아 샤펜이 본인의 화살을 직접 제조하는 일은 너무 많은 시간을 들이는 작업이었다. {nl}그리고 여기에는 재료의 조달이라는 또 다른 문제도 있었다. {nl}
 QUEST_JOBSTEP_20150317_000725	리디아 샤펜이 이런 문제에 직면한 것은 그녀가 아직 자신의 문호를 크게 열기 전이었기에 그녀의 곤란은 자못 심각했다. {nl} 따라서 우연이든 여신의 섭리든 그녀가 마스터 플레쳐를 만나지 못했다면, 이후 별의 탑의 건설과 그에 따른 문호의 창건도 없었다는 것이 여러 사학자들의 정설이다. {nl}
 QUEST_JOBSTEP_20150317_000726	세상의 수많은 화살제조자 가운데 가장 유명해지고 이후 마스터 플레쳐라면, 바로 이 사람을 가리키는 대명사가 된 인물이지만, 리디아 샤펜과 달리 마스터 플레쳐의 본명은 확실치 않다. {nl}
-QUEST_JOBSTEP_20150317_000727	그의 시대부터 그는 마스터 플레쳐란 이름으로 자주 불렸고, 당대의 사람들은 혹시 보편적으로 알고 있었을 본명은 의외로 세월의 흐름에 묻혔다. {nl} 몇몇 전승에 의하면 그의 본명은 존 블랙스미스(John Blacksmith)라고 하지만, 이 이름 자체가 고유명사가 아니라 보통명사일 가능성을 비롯하여 신뢰할 수 없는 이유가 많아 학자들의 지지를 얻지 못하고 있다. {nl}
+QUEST_JOBSTEP_20150317_000727	그의 시대부터 그는 마스터 플레쳐란 이름으로 자주 불렸고, 당대의 사람들은 혹시 보편적으로 알고 있었을 본명은 의외로 세월의 흐름에 묻혔다. {nl} 몇몇 전승에 의하면 그의 본명은 존 블랙스미스(John 铁匠)라고 하지만, 이 이름 자체가 고유명사가 아니라 보통명사일 가능성을 비롯하여 신뢰할 수 없는 이유가 많아 학자들의 지지를 얻지 못하고 있다. {nl}
 QUEST_JOBSTEP_20150317_000728	아무튼, 리디아 샤펜은 마스터 플레쳐란 화살 명인을 얻으며, 이후 본격적인 세력을 모을 수 있었고, 별의 탑의 완공 같은 대역사도 시작할 기반을 얻게 되었다고 볼 수 있다. {nl}불행히도 마스터 플레쳐의 화살제조 비법은 그 당시에도 비밀이었고, 지금은 세월에 묻혀 더욱 알기 어렵다. {nl}
 QUEST_JOBSTEP_20150317_000729	다만 후대의 궁수들에게 실낱 같은 희망이라면, 마스터 플레쳐의 화살제조는 여신의 축복에 기인한 바가 크다는 점이다. {nl}따라서 누구든 여신의 축복을 얻은 사람은 마스터 플레쳐가 만들고, 리디아 샤펜이 사용한 화살과 동일한 화살을 만들 수 있다는 점이다. {nl}
 QUEST_JOBSTEP_20150317_000730	또 하나 희망을 추가한다면, 마스터 플레쳐는 그의 비법이 실전되지 않도록 제조비법서를 어딘가에 확실히 비장해두었다는 점이다. 
@@ -1259,8 +1259,8 @@ QUEST_JOBSTEP_20150317_001258	Sapper Master wants to donate and return the stole
 QUEST_JOBSTEP_20150317_001259	Find the Stolen Goods
 QUEST_JOBSTEP_20150317_001260	Give the stolen goods to 克拉佩达 Item Merchant
 QUEST_JOBSTEP_20150317_001261	Sapper Master want to return the stolen goods to its owners and repent for the past times. Give the stolen good taht you found to the Item Merchant in 克拉佩达.
-QUEST_JOBSTEP_20150317_001262	Give the stolen goods to 克拉佩达 Equipment Merchant
-QUEST_JOBSTEP_20150317_001263	Sapper Master want to return the stolen goods to its owners and repent for the past times. Give the stolen good taht you found to the Equipment Merchant in 克拉佩达.
+QUEST_JOBSTEP_20150317_001262	Give the stolen goods to 克拉佩达 装备商人
+QUEST_JOBSTEP_20150317_001263	Sapper Master want to return the stolen goods to its owners and repent for the past times. Give the stolen good taht you found to the 装备商人 in 克拉佩达.
 QUEST_JOBSTEP_20150317_001264	Completed all of Sapper Master's favors. Talk to him again.
 QUEST_JOBSTEP_20150317_001265	Gather donations to give to Cleric Master
 QUEST_JOBSTEP_20150317_001266	You need to gather more donations to give to Cleric Master. Prepare 5000 silvers to donate to Cleric Master.
@@ -1482,8 +1482,8 @@ QUEST_JOBSTEP_20150317_001481	Got the boss monster card. Give it to Bokor Master
 QUEST_JOBSTEP_20150317_001482	Go meet Sculptor Tesla at Rhombuspaving Dale.
 QUEST_JOBSTEP_20150317_001483	Talk to Item Merchant in 克拉佩达
 QUEST_JOBSTEP_20150317_001484	Sculptor Tesla is looking for a cat to use as model. Ask the Item Merchant in 克拉佩达 if there is a cat suitable to use as model.
-QUEST_JOBSTEP_20150317_001485	Look for the father of Equipment Merchant from 3层 in Magicians' Tower
-QUEST_JOBSTEP_20150317_001486	The Equipment Merchant asked you to find the traces of his father in return for giving you the unique cat food to lure the cat. Look for the father of the equipment merchant from the 3层 in Magicians' Tower.
+QUEST_JOBSTEP_20150317_001485	Look for the father of 装备商人 from 3层 in Magicians' Tower
+QUEST_JOBSTEP_20150317_001486	The 装备商人 asked you to find the traces of his father in return for giving you the unique cat food to lure the cat. Look for the father of the 装备商人 from the 3层 in Magicians' Tower.
 QUEST_JOBSTEP_20150317_001487	Give the piece of father's clothing to Item Merchant
 QUEST_JOBSTEP_20150317_001488	Unfortunately, you did not find Item Merchant's father but you found a piece of clothing that may belong to him. Give it to Item Merchant.
 QUEST_JOBSTEP_20150317_001489	Defeat Minotaurs
@@ -2034,21 +2034,21 @@ QUEST_JOBSTEP_20150317_002033	Monk Master says strong faith resides in strong bo
 QUEST_JOBSTEP_20150317_002034	Won the duel with Monk Master. Talk to him again.
 QUEST_JOBSTEP_20150317_002035	Pass the Monk Master's test
 QUEST_JOBSTEP_20150317_002036	Meet Pardoner Master
-QUEST_JOBSTEP_20150317_002037	Go meet the Equipment Merchant in 佩帝米安
-QUEST_JOBSTEP_20150317_002038	Pardoner Master asked you to get the Fire Pot as your acceptance test. Go to Equipment Merchant in 佩帝米安 to get information about the fire pot.
+QUEST_JOBSTEP_20150317_002037	Go meet the 装备商人 in 佩帝米安
+QUEST_JOBSTEP_20150317_002038	Pardoner Master asked you to get the Fire Pot as your acceptance test. Go to 装备商人 in 佩帝米安 to get information about the fire pot.
 QUEST_JOBSTEP_20150317_002039	Meet Item Merchant in 佩帝米安
-QUEST_JOBSTEP_20150317_002040	Equipment Merchant says the Mothstem took the Fire Pot as a price for the hardened oil. Talk to Item Merchant and ask where you can meet Mothstem.
+QUEST_JOBSTEP_20150317_002040	装备商人 says the Mothstem took the Fire Pot as a price for the hardened oil. Talk to Item Merchant and ask where you can meet Mothstem.
 QUEST_JOBSTEP_20150317_002041	Acquired Fire Pot
 QUEST_JOBSTEP_20150317_002042	Tools Merchant in 佩帝米安 has seen a Mothstem in Crystal Brook. Defeat the Mothstem in Brystal Brook and get the Fire Pot.
 QUEST_JOBSTEP_20150317_002043	Got the Fire Pot Pardoner Master wanted. Give it to Pardoner Master.
 QUEST_JOBSTEP_20150317_002044	Defeat Mothstem and get %s
 QUEST_JOBSTEP_20150317_002045	Defeat Mothstem
-QUEST_JOBSTEP_20150317_002046	Talk to Equipment Merchant in 佩帝米安
-QUEST_JOBSTEP_20150317_002047	The merchants in 佩帝米安 knows about the Fire Pot. Talk to the Equipment Merchant first.
+QUEST_JOBSTEP_20150317_002046	Talk to 装备商人 in 佩帝米安
+QUEST_JOBSTEP_20150317_002047	The merchants in 佩帝米安 knows about the Fire Pot. Talk to the 装备商人 first.
 QUEST_JOBSTEP_20150317_002048	Collect the condensed oil from Starving Demon's Road
-QUEST_JOBSTEP_20150317_002049	As a return for his information, the Equipment Merchant wants the condensed oil. Obtain the condensed oil from the monsters in Starving Demon's Road and take it to the Equipment Merchant.
-QUEST_JOBSTEP_20150317_002050	Give it to Equipment Merchant in 佩帝米安
-QUEST_JOBSTEP_20150317_002051	Gathered enough hardened oil. Give it to Equipment Merchant in 佩帝米安.
+QUEST_JOBSTEP_20150317_002049	As a return for his information, the 装备商人 wants the condensed oil. Obtain the condensed oil from the monsters in Starving Demon's Road and take it to the 装备商人.
+QUEST_JOBSTEP_20150317_002050	Give it to 装备商人 in 佩帝米安
+QUEST_JOBSTEP_20150317_002051	Gathered enough hardened oil. Give it to 装备商人 in 佩帝米安.
 QUEST_JOBSTEP_20150317_002052	Obtain %s by defeating the monsters that are rushing in
 QUEST_JOBSTEP_20150317_002053	Obtain the items after defeating the monsters.
 QUEST_JOBSTEP_20150317_002054	Talk to Wizard Master in 克拉佩达.
@@ -2380,8 +2380,8 @@ QUEST_JOBSTEP_20150323_002379	Sapper Master told you that he will help you becom
 QUEST_JOBSTEP_20150323_002380	Hand them over to Sapper Master
 QUEST_JOBSTEP_20150323_002381	You have collected all burnable juice of Tonturia. Hand them over to Sapper Master.
 QUEST_JOBSTEP_20150323_002382	Go meet the Sculptor Tesla at the west forest of Siaulai
-QUEST_JOBSTEP_20150323_002383	Look for the father of Equipment Merchant at Sirudgellar Forest
-QUEST_JOBSTEP_20150323_002384	The Equipment Merchant requested you to look for the traces of his father as a compensation for the cat food that will lure cats. Look for the father of the Equipment Merchant at Sirudgellar Forest.
+QUEST_JOBSTEP_20150323_002383	Look for the father of 装备商人 at Sirudgellar Forest
+QUEST_JOBSTEP_20150323_002384	The 装备商人 requested you to look for the traces of his father as a compensation for the cat food that will lure cats. Look for the father of the 装备商人 at Sirudgellar Forest.
 QUEST_JOBSTEP_20150323_002385	Look for Pyromancer Master at 克拉佩达.
 QUEST_JOBSTEP_20150323_002386	Put the pots of the sun at Ramstis Canyon.
 QUEST_JOBSTEP_20150323_002387	Pyromancer Master requested you something in return for teaching his magics. Put the pot of the sun at Ramstis Valley.
@@ -2489,9 +2489,9 @@ QUEST_JOBSTEP_20150323_002488	Sadhu Master told you to defeat the monsters that 
 QUEST_JOBSTEP_20150323_002489	You've defeated all Blue Puragis that threaten villagers. Go back to Sadhu Master and report.
 QUEST_JOBSTEP_20150323_002490	Defeat Blue Puragis
 QUEST_JOBSTEP_20150323_002491	Talk to Monk Master at Esanchiu Village
-QUEST_JOBSTEP_20150323_002492	The Equipment Merchant of 佩帝米安 once saw a Mostem at the outer edge of 佩帝米安. Go to the outer edge of 佩帝米安 and obtain the pots in flames by defeating Mostems.
+QUEST_JOBSTEP_20150323_002492	The 装备商人 of 佩帝米安 once saw a Mostem at the outer edge of 佩帝米安. Go to the outer edge of 佩帝米安 and obtain the pots in flames by defeating Mostems.
 QUEST_JOBSTEP_20150323_002493	Obtain the hardened oil at Saknis Fields
-QUEST_JOBSTEP_20150323_002494	The Equipment Merchant wants the hardened oil as a reward for the information. Obtain the hardened oil from Puragis at Saknis Fields and take them to the Equipment Merchant.
+QUEST_JOBSTEP_20150323_002494	The 装备商人 wants the hardened oil as a reward for the information. Obtain the hardened oil from Puragis at Saknis Fields and take them to the 装备商人.
 QUEST_JOBSTEP_20150323_002495	Get rid of the danger at the Owls' Cemetry
 QUEST_JOBSTEP_20150323_002496	You need to show your skills to Cataphract Master. Defeat Biteregina at the Owls' cemetry that threatens people.
 QUEST_JOBSTEP_20150323_002497	Defeat Reaverpede at Esanchiu Village for the test of Elementalist Master.

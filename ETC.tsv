@@ -1143,8 +1143,8 @@ ETC_20150317_001142	City
 ETC_20150317_001143	克拉佩达 地区
 ETC_20150317_001144	克拉佩达
 ETC_20150317_001145	挑战者 导师's Training Hall
-ETC_20150317_001146	妖术师 导师's House
-ETC_20150317_001147	火卜术士 导师's Lab
+ETC_20150317_001146	妖术师 导师的房间
+ETC_20150317_001147	火卜术士 导师的实验室
 ETC_20150317_001148	Mercenary Request Office
 ETC_20150317_001149	Royal Territory
 ETC_20150317_001150	Orsha
@@ -1814,7 +1814,7 @@ ETC_20150317_001813	体质
 ETC_20150317_001814	Bite
 ETC_20150317_001815	The Raleigh
 ETC_20150317_001816	Fouling
-ETC_20150317_001817	Would you give {银币} to increase {Stat}?
+ETC_20150317_001817	你确认花费 {Silver} 来增加 {Stat}?
 ETC_20150317_001818	命中率
 ETC_20150317_001819	暴击
 ETC_20150317_001820	敏捷
@@ -2399,7 +2399,7 @@ ETC_20150317_002398	仅限于女性角色
 ETC_20150317_002399	道具
 ETC_20150317_002400	必备道具
 ETC_20150317_002401	需要
-ETC_20150317_002402	子任务条件{nl}
+ETC_20150317_002402	副任务条件{nl}
 ETC_20150317_002403	You have not completed the pre-requisite of this quest. You cannot proceed with the party.
 ETC_20150317_002404	Murky energy is flowing out. Run away.
 ETC_20150317_002405	Successfully destroyed the 恶魔 Summoner
@@ -2485,7 +2485,7 @@ ETC_20150317_002484	Whereabouts of last key
 ETC_20150317_002485	Whereabouts of Naktis
 ETC_20150317_002486	Beads and a key
 ETC_20150317_002487	Absorbed the weak petrified frost.
-ETC_20150317_002488	Collecting
+ETC_20150317_002488	收集中
 ETC_20150317_002489	Collected petrified flower!
 ETC_20150317_002490	Covering
 ETC_20150317_002491	Covered with fragrant stone powder!
@@ -2510,7 +2510,7 @@ ETC_20150317_002509	Retrieved the records.
 ETC_20150317_002510	Warp
 ETC_20150317_002511	Floor.. everyone must die!
 ETC_20150317_002512	It won't be like your idea!
-ETC_20150317_002513	View collection
+ETC_20150317_002513	查看收藏品
 ETC_20150317_002514	See Adventure Journal
 ETC_20150317_002515	I'll make a donation
 ETC_20150317_002516	I see the request
@@ -2577,8 +2577,8 @@ ETC_20150317_002576	会心!
 ETC_20150317_002577	Immunity!
 ETC_20150317_002578	Provoke!
 ETC_20150317_002579	Reflection Damage!
-ETC_20150317_002580	Additional Auto_1} %% damage!
-ETC_20150317_002581	Reduce {Auto_1} %% damage!
+ETC_20150317_002580	追加 {Auto_1} %% 伤害!
+ETC_20150317_002581	减少 {Auto_1} %% 伤害!
 ETC_20150317_002582	Remove 盾牌!
 ETC_20150317_002583	Counter!!
 ETC_20150317_002584	Attribute 武器 Attack + {Auto_1}%
@@ -2622,7 +2622,7 @@ ETC_20150317_002621	{@st41b} 仅战士 {/}
 ETC_20150317_002622	{@st41b} 仅法师 {/}
 ETC_20150317_002623	{@st41b} 仅弓箭手 {/}
 ETC_20150317_002624	{@st41b} 仅牧师 {/}
-ETC_20150317_002625	{@st41b} Sorcerer only {/}
+ETC_20150317_002625	{@st41b} 仅方士 {/}
 ETC_20150317_002626	{@st41b} 公共 {/}
 ETC_20150317_002627	{@st41b} 私人 {/}
 ETC_20150317_002628	My Page
@@ -2697,7 +2697,7 @@ ETC_20150317_002696	出售人
 ETC_20150317_002697	出售数量
 ETC_20150317_002698	单价
 ETC_20150317_002699	总价
-ETC_20150317_002700	购买号码
+ETC_20150317_002700	购买数量
 ETC_20150317_002701	Your selling price must be at least 0 silver.
 ETC_20150317_002702	Your selling quantity must be at least 0.
 ETC_20150317_002703	Your item has been successfully registered on the Market.
@@ -2706,7 +2706,7 @@ ETC_20150317_002705	There are too many search results. Please use more detailed 
 ETC_20150317_002706	Are you sure you want to cancel the item registration?
 ETC_20150317_002707	Your item has been successfully canceled on the Market. Please check that you've received the item.
 ETC_20150317_002708	The equipped item cannot be registered.
-ETC_20150317_002709	Private
+ETC_20150317_002709	匿名
 ETC_20150317_002710	确认购买
 ETC_20150317_002711	价格: 低到高
 ETC_20150317_002712	价格: 高到低
@@ -2825,7 +2825,7 @@ ETC_20150317_002824	空格
 ETC_20150317_002825	 to start conversation
 ETC_20150317_002826	放弃任务
 ETC_20150317_002827	放弃
-ETC_20150317_002828	Warp to completion area
+ETC_20150317_002828	传送到完成区域
 ETC_20150317_002829	 目标 : 
 ETC_20150317_002830	战士 Type
 ETC_20150317_002831	法师 Type
@@ -2854,7 +2854,7 @@ ETC_20150317_002853	You have successfully changed your team name.
 ETC_20150317_002854	You have failed to change your team name.
 ETC_20150317_002855	Enter your team name. Your team name will be the name seen by other players.
 ETC_20150317_002856	This team name already exists.
-ETC_20150317_002857	Collection Effects
+ETC_20150317_002857	收藏品效果
 ETC_20150317_002858	List of acquired
 ETC_20150317_002859	Full list
 ETC_20150317_002860	You already have this collection
@@ -2869,7 +2869,7 @@ ETC_20150317_002868	{Auto_1} NPC遇见
 ETC_20150317_002869	分数 {Category}
 ETC_20150317_002870	排行
 ETC_20150317_002871	Adventure
-ETC_20150317_002872	Explore Area
+ETC_20150317_002872	探索区域
 ETC_20150317_002873	采集 {Auto_1}
 ETC_20150317_002874	取得成就 {Auto_1}
 ETC_20150317_002875	完成任务 {Auto_1}
@@ -3949,7 +3949,7 @@ ETC_20150317_003948	3. Put the desired message into the chat window
 ETC_20150317_003949	In Operation, Write scribble information
 ETC_20150317_003950	Blank
 ETC_20150317_003951	Message:
-ETC_20150317_003952	Nothing around the bulletin board
+ETC_20150317_003952	Nothing around the 公告板
 ETC_20150317_003953	In Dedication of urns
 ETC_20150317_003954	You can open the box when you have killed all the monsters.
 ETC_20150317_003955	You have to kill all the monsters!
@@ -4334,7 +4334,7 @@ ETC_20150317_004333	{s14}{b}{ds} Purchase Quantity
 ETC_20150317_004334	总价:
 ETC_20150317_004335	's Purchase Request
 ETC_20150317_004336	总价: {Auto_1}, 数量: {Auto_2} 个
-ETC_20150317_004337	's Bulletin Board
+ETC_20150317_004337	's 公告板
 ETC_20150317_004338	Reset Ability Points
 ETC_20150317_004339	iCoins is required.{nl}Are you sure you want to reset?
 ETC_20150317_004340	{@st59} 增加物理攻击和会心攻击{/}
@@ -4829,7 +4829,7 @@ ETC_20150317_004828	领养宠物
 ETC_20150317_004829	训练宠物
 ETC_20150317_004830	Not 可用 in 克拉佩达.
 ETC_20150317_004831	Tool Shop
-ETC_20150317_004832	Benefits of having a 宠物
+ETC_20150317_004832	宠物的好处
 ETC_20150317_004833	Defeeat the monsters guarding the 恶魔 魔法阵.
 ETC_20150317_004834	Barrier of Pompra Hill activated!{nl}
 ETC_20150317_004835	Collecting Freshwater
@@ -5222,10 +5222,10 @@ ETC_20150317_005221	Throneweaver has appeared!
 ETC_20150317_005222	Bait in place
 ETC_20150317_005223	Help me!
 ETC_20150317_005224	Skilled Mechanic
-ETC_20150317_005225	Where did the Goddess go..
-ETC_20150317_005226	Give us peace and salvation..
-ETC_20150317_005227	Please listen to our prayers..
-ETC_20150317_005228	For peace and happiness..
+ETC_20150317_005225	女神去哪了..
+ETC_20150317_005226	给我们和平与救赎..
+ETC_20150317_005227	请听我们的祷告..
+ETC_20150317_005228	为了和平与幸福..
 ETC_20150317_005229	There! The spider is coming!
 ETC_20150317_005230	Lylia suddenly turned into a carnivore!
 ETC_20150317_005231	Carnivore Lylia
@@ -5908,7 +5908,7 @@ ETC_20150317_005907	{nl} {nl} 按 {img Alt 40 40} 使角色立即停止移动
 ETC_20150317_005908	按 {img SPACE_BIG 60 40} 面对当前的目标
 ETC_20150317_005909	You can check your current location and important areas using the map.
 ETC_20150317_005910	你可以按 {img M 40 40}来确认当前位置{nl} {nl}
-ETC_20150317_005911	{nl} {nl}The minimap icon displays the information of your current location in the area {nl} Show NPC {nl}{img minimap_leader 25 25}: This icon displays your current location. {nl}{img minimap_1_MAIN 25 25}: It displays the target area of a quest in progress. {nl}{img minimap_0 25 25}: It displays the location of important NPCs in the current area. {nl}{img minimap_goddess 25 25}: It displays the warp device in the current area. {nl}{img minimap_board 25 25}: This bulletin board displays the important information in the current area. {nl}{img minimap_portal 25 25}: It displays the path to move to the other area.{nl} {nl}
+ETC_20150317_005911	{nl} {nl}The minimap icon displays the information of your current location in the area {nl} Show NPC {nl}{img minimap_leader 25 25}: This icon displays your current location. {nl}{img minimap_1_MAIN 25 25}: It displays the target area of a quest in progress. {nl}{img minimap_0 25 25}: It displays the location of important NPCs in the current area. {nl}{img minimap_goddess 25 25}: It displays the warp device in the current area. {nl}{img minimap_board 25 25}: This 公告板 displays the important information in the current area. {nl}{img minimap_portal 25 25}: It displays the path to move to the other area.{nl} {nl}
 ETC_20150317_005912	Undiscovered areas are not displayed on the map.
 ETC_20150317_005913	Only discovered areas are displayed on the map.
 ETC_20150317_005914	You can check the World Map by 按ing {img N 40 40}.{nl} Only discovered areas are displayed on the map.
@@ -5994,7 +5994,7 @@ ETC_20150317_005993	To prevent skills from overheating, you can alternate betwee
 ETC_20150317_005994	Overheat can be suppressed to use many skills.
 ETC_20150317_005995	Once overheated, you won't be able to use the affected skill for a while.
 ETC_20150317_005996	The used number of relevant skill will be initialize after a while.
-ETC_20150317_005997	Item Crafting
+ETC_20150317_005997	制作道具
 ETC_20150317_005998	You can craft useful items if you have the required recipes.
 ETC_20150317_005999	Using a recipe will automatically add it to the list of craftable items.
 ETC_20150317_006000	You can acquire recipes by killing monsters, trading with merchants, or completing quests.
@@ -6099,7 +6099,7 @@ ETC_20150317_006098	type of skills are more effective to attack monsters wearing
 ETC_20150317_006099	Cloth Armor
 ETC_20150317_006100	It is effective if you attack monster of type
 ETC_20150317_006101	装备 Repair
-ETC_20150317_006102	You can ask the blacksmith to repair items with decreased durability.
+ETC_20150317_006102	You can ask the 铁匠 to repair items with decreased durability.
 ETC_20150317_006103	You can't use an item with 0 durability.
 ETC_20150317_006104	You can repair an item with decreased durability through the repair menu.{nl}Select the item you want to repair
 ETC_20150317_006105	Click to fully restore the durability of selected items.
@@ -6117,7 +6117,7 @@ ETC_20150317_006116	Socket Management
 ETC_20150317_006117	Gem Extraction
 ETC_20150317_006118	 .
 ETC_20150317_006119	Caution: Potential is consumed when you remove Gems.
-ETC_20150317_006120	Resurrection
+ETC_20150317_006120	复活
 ETC_20150317_006121	    This spell allows you to revive a dead character. 
 ETC_20150317_006122	When you have 0 HP, your character dies and becomes  
 ETC_20150317_006123	.
@@ -6132,7 +6132,7 @@ ETC_20150317_006131	A magic amulet cannot be enhanced.
 ETC_20150317_006132	Magic amulets can be obtained from monsters.
 ETC_20150317_006133	The bonfire can be used to quickly recover HP, craft items, combine gems and other various activities. 
 ETC_20150317_006134	During Rest Mode, select
-ETC_20150317_006135	Build Bonfire
+ETC_20150317_006135	建立篝火
 ETC_20150317_006136	to install the bonfire.
 ETC_20150317_006137	You need items to start the bonfire.{nl} You can choose where to build the fire by using numeric keys {img key1 40 40} ~ {img key9 40 40}. {nl} Items for bonfire can be bought from
 ETC_20150317_006138	NPCs in town.
@@ -6191,7 +6191,7 @@ ETC_20150317_006190	黄宝石
 ETC_20150317_006191	Test Gem
 ETC_20150317_006192	Claw
 ETC_20150317_006193	宠物 武器s
-ETC_20150317_006194	Creating 武器s in this field require one to have both the skills of blacksmith and farrier. Creating even a simple claw is difficult because of this.
+ETC_20150317_006194	Creating 武器s in this field require one to have both the skills of 铁匠 and farrier. Creating even a simple claw is difficult because of this.
 ETC_20150317_006195	Iron Claw
 ETC_20150317_006196	Some devilish beasts are sensitive to iron, and the secrets to manufacturing it are within this recipe.
 ETC_20150317_006197	Steel Claw
@@ -7021,7 +7021,7 @@ ETC_20150317_007020	Item Combiner
 ETC_20150317_007021	Grill
 ETC_20150317_007022	Guard Fence
 ETC_20150317_007023	Carriage
-ETC_20150317_007024	Bulletin Board
+ETC_20150317_007024	公告板
 ETC_20150317_007025	Lever 1
 ETC_20150317_007026	Lever 2
 ETC_20150317_007027	Gabiya's Torch
@@ -7826,7 +7826,7 @@ ETC_20150317_007825	Plaza Check
 ETC_20150317_007826	Check B area
 ETC_20150317_007827	Check C area
 ETC_20150317_007828	Check collapsed plaza walls
-ETC_20150317_007829	Check blacksmith distance
+ETC_20150317_007829	Check 铁匠 distance
 ETC_20150317_007830	Remove the weakened petrifaction frost
 ETC_20150317_007831	Petrification Frost Forecast (3)
 ETC_20150317_007832	Defeat the Dico Tomb robber
@@ -9212,7 +9212,7 @@ ETC_20150317_009211	[市场管理员]{nl} Rosie
 ETC_20150317_009212	[宠物 商人]{nl}            Christina
 ETC_20150317_009213	[Officer]{nl} Dortina
 ETC_20150317_009214	[Wing of Vibora]{nl}            Rena
-ETC_20150317_009215	[Magical Association 克拉佩达 Branch]{nl}                              Henrikka
+ETC_20150317_009215	[魔法协会 克拉佩达 分部]{nl} Henrikka
 ETC_20150317_009216	[妖术师 导师] {nl} Mama Marie Lavoie
 ETC_20150317_009217	Scripture of Prediction
 ETC_20150317_009218	Scripture of Earth
@@ -9544,7 +9544,7 @@ ETC_20150323_009543	Mass AI
 ETC_20150323_009544	Armaos 
 ETC_20150323_009545	Glutton
 ETC_20150323_009546	Succubus
-ETC_20150323_009547	Tent
+ETC_20150323_009547	帐篷
 ETC_20150323_009548	Levi
 ETC_20150323_009549	Eldigo
 ETC_20150323_009550	Sorcket
@@ -9554,7 +9554,7 @@ ETC_20150323_009553	Casket
 ETC_20150323_009554	Green Eldigo
 ETC_20150323_009555	Gremrin
 ETC_20150323_009556	Vasilisk
-ETC_20150323_009557	Food distribution table
+ETC_20150323_009557	食品配送桌
 ETC_20150323_009558	Pink Root Mole
 ETC_20150323_009559	斯拉乌塔斯峡谷
 ETC_20150323_009560	内普里斯塔斯绝壁
@@ -9629,8 +9629,8 @@ ETC_20150323_009628	恶魔监狱
 ETC_20150323_009629	Limestone Cave
 ETC_20150323_009630	恶魔监狱 1区
 ETC_20150323_009631	恶魔监狱 2区
-ETC_20150323_009632	恶魔监狱 3区
-ETC_20150323_009633	恶魔监狱 4区
+ETC_20150323_009632	恶魔监狱 4区
+ETC_20150323_009633	恶魔监狱 3区
 ETC_20150323_009634	恶魔监狱 5区
 ETC_20150323_009635	Bracken Forest
 ETC_20150323_009636	忒诺兹农村
@@ -9906,7 +9906,7 @@ ETC_20150323_009905	According to rumors around 佩帝米安, when the pilgrims p
 ETC_20150323_009906	Survivors of the Fallen City lost their belongings or their lives in the Altar Way while going to 佩帝米安. According to the survivors
 ETC_20150323_009907	Revelators are exploring the different fallen parts of the world to find assignments of the Goddess. What seems to be a sanctuary was found in the Altar Way. If you can find something restore and use it again, you will be a hero to those who travel this area. 
 ETC_20150323_009908	According to the scout's reports, there were spell devices found in 祈祷之林. They tried to activate it but there were too many monsters around so they had to run for their lives. Someone has to activate the spell device and check what powers it has.
-ETC_20150323_009909	Pass 泰耐特花园 and move to 卡丁森林 Entrance
+ETC_20150323_009909	通过 泰耐特花园 移动到 卡丁森林入口
 ETC_20150323_009910	Place the Pot of Sun in 兰斯缇斯峡谷
 ETC_20150323_009911	Find reference related to Naktis
 ETC_20150323_009912	Get baby leaf of Asellu
@@ -10013,8 +10013,8 @@ ETC_20150323_010012	Storage use fee
 ETC_20150323_010013	Not linked node's height position control value when ride on the 宠物 
 ETC_20150323_010014	图纸 - Antidote
 ETC_20150323_010015	元素师 Advancement
-ETC_20150323_010016	Card Synthesis
-ETC_20150323_010017	Enter your Greetings
+ETC_20150323_010016	卡片合成
+ETC_20150323_010017	输入你的致辞
 ETC_20150323_010018	Visit Barrack
 ETC_20150323_010019	开始游戏
 ETC_20150323_010020	User Buy-in Shop
@@ -10038,7 +10038,7 @@ ETC_20150323_010037	The distribution table can only be used near the base.
 ETC_20150323_010038	It can be constucted only on one base.
 ETC_20150323_010039	武器 repair effect
 ETC_20150323_010040	Armor repair effect
-ETC_20150323_010041	Anvil Enhancement
+ETC_20150323_010041	铁砧增强
 ETC_20150323_010042	Add physical attack of 宠物 by {Value}
 ETC_20150323_010043	%d 玩家
 ETC_20150323_010044	received your buff.
@@ -10796,7 +10796,7 @@ ETC_20150406_010795	The fragment of Nuailes seal is originally mine. I will coop
 ETC_20150406_010796	He betrayed? That's absurd.
 ETC_20150406_010797	I can feel the calling..
 ETC_20150406_010798	I can feel a familiar energy..
-ETC_20150406_010799	Talk to the 妖术师 导师!
+ETC_20150406_010799	与 妖术师 导师 对话!
 ETC_20150406_010800	成功收集到了grape roots
 ETC_20150406_010801	Poison is flowing from the touched grapes.
 ETC_20150406_010802	Tama hiding near the roots appeared
@@ -11196,7 +11196,7 @@ ETC_20150414_011195	About Mobilizing Power
 ETC_20150414_011196	About the Baron
 ETC_20150414_011197	不能在这个地区设置基地
 ETC_20150414_011198	[神谕 导师]{nl}Apolonjia Barbora
-ETC_20150414_011199	[仓库保管员]{nl} Rita
+ETC_20150414_011199	[仓库保管员]{nl} 丽塔
 ETC_20150414_011200	Mysterious Box of Legwyn Family
 ETC_20150414_011201	Chapel Altar
 ETC_20150414_011202	TypeB_Controller
@@ -11883,8 +11883,8 @@ ETC_20150714_011882	Changing to Kubas Formation
 ETC_20150714_011883	Increase the probability of Block
 ETC_20150714_011884	Item Jackpot Effect
 ETC_20150714_011885	Immobile
-ETC_20150714_011886	Revelations : Conflict
-ETC_20150714_011887	Revelations : The hidden side
+ETC_20150714_011886	启示录 : 冲突
+ETC_20150714_011887	启示录 : 被隐藏的一面
 ETC_20150714_011888	Outer Wall Entrance
 ETC_20150714_011889	Old Market
 ETC_20150714_011890	Workshop Ruins
@@ -12544,7 +12544,7 @@ ETC_20150714_012543	You didn't find anything
 ETC_20150714_012544	This doesn't seem to be the pocket of the medicine
 ETC_20150714_012545	Antidote Completed!{nl}Hand it over to Gitise
 ETC_20150714_012546	The materials have been all collected{nl}Put the ingredients to the medicine that Hunter 导师 gave to you to make the antidote
-ETC_20150714_012547	Not feeling well!
+ETC_20150714_012547	感觉不太好!
 ETC_20150714_012548	You can't attack due to magical protective shell
 ETC_20150714_012549	Magical summon crystals are giving the monsters greater power
 ETC_20150714_012550	You can't use it now
@@ -13613,100 +13613,100 @@ ETC_20150717_013612	This game is rated ESRB Teen.
 ETC_20150717_013613	{How} 银币 获得
 ETC_20150717_013614	{@st59}增加SP最大量，增加SP恢复力，增加格挡穿透{/}
 ETC_20150717_013615	{@st59}增加魔法攻击力{/}
-ETC_20150729_013616	Colimen
-ETC_20150729_013617	Mine Trap
-ETC_20150729_013618	Basic Trap
-ETC_20150729_013619	Wendigo Archer
-ETC_20150729_013620	Earth Colimen
-ETC_20150729_013621	Giant Bat
-ETC_20150729_013622	Blue Gravegolem
-ETC_20150729_013623	Team Battle League Tournament
-ETC_20150729_013624	团队战
-ETC_20150729_013625	This way!
-ETC_20150729_013626	Let's go!!
-ETC_20150729_013627	Something is wrong with the holy relics!
-ETC_20150729_013628	Defeat Abomination!
-ETC_20150729_013629	Goddess Zemyna, the Goddess of Earth..
-ETC_20150729_013630	The delegates were sieged by the Werewolf{nl}Defeat the Werewolf!
-ETC_20150729_013631	Special Scent
-ETC_20150729_013632	The jewel of prominence is going crazy.
-ETC_20150729_013633	Barrier Effect : STR
-ETC_20150729_013634	Receive STR increase effect from activated barrier.
-ETC_20150729_013635	Barrier Effect : CON
-ETC_20150729_013636	Receive CON increase effect from activated barrier.
-ETC_20150729_013637	Barrier Effect : INT
-ETC_20150729_013638	Receive INT increase effect from activated barrier.
-ETC_20150729_013639	Barrier Effect : DEX
-ETC_20150729_013640	Receive DEX increase effect from activated barrier.
-ETC_20150729_013641	Using Spirits
-ETC_20150729_013642	You feel exhausted and keep losing Stamina.
-ETC_20150729_013643	Sanctum Blessing - ATK increase
-ETC_20150729_013644	Received Sanctum blessings and ATK increases.
-ETC_20150729_013645	A strong protective shield is blocking all attacks.
-ETC_20150729_013646	Divine power bestowed on unknown ruins.
-ETC_20150729_013647	Impose divine punishment on all divine things around the ruins.
-ETC_20150729_013648	Divine power bestowed on unknown pillars.
-ETC_20150729_013649	Received divine blessings. ATK and DEF increased.
-ETC_20150729_013650	Divine power bestowed on unknown crystal.
-ETC_20150729_013651	Impose divine punishment on all divine things around.
-ETC_20150729_013652	Divine power bestowed on unknown stone pillar.
-ETC_20150729_013653	Received divine blessings. ATK and DEF increased.
-ETC_20150729_013654	Divine power bestowed on unknown tombstone
-ETC_20150729_013655	All injuries are healing through force of purification.
-ETC_20150729_013656	Received divine blessings. Your morale and bravery is boosting.
-ETC_20150729_013657	Received divine blessings. You are feeling sturdy.
-ETC_20150729_013658	Corpse
-ETC_20150729_013659	Corpse fell.
-ETC_20150729_013660	Hanging on companion
-ETC_20150729_013661	EXP jackpot
-ETC_20150729_013662	Evasion increases
-ETC_20150729_013663	Explosion
-ETC_20150729_013664	Explose when dying.
-ETC_20150729_013665	Resistance
-ETC_20150729_013666	Damage Weapon
-ETC_20150729_013667	Potential decrease when using physical attack
-ETC_20150729_013668	Arrow Resistance
-ETC_20150729_013669	Increase resistance against arrow attacks.
-ETC_20150729_013670	Property Resistance
-ETC_20150729_013671	Magic resistance increase based on property
-ETC_20150729_013672	Level up
-ETC_20150729_013673	Mutant type monsters level up instead of sleeping when casted with sleep type debuff.
-ETC_20150729_013674	Quick Recovery
-ETC_20150729_013675	Increase recovery
-ETC_20150729_013676	 are used to move your character around.
-ETC_20150729_013677	 are used for character movement. {nl} {img arrowkey_up 40 40} {img arrowkey_down 40 40} {img arrowkey_left 40 40} {img arrowkey_right 40 40}
-ETC_20150729_013678	Joypad : Press {img move_all 40 40} or {img stic_L 40 40} to move.
-ETC_20150729_013679	Mouse : {img mouseclick_left 40 40} on the area where you want to move the character.
-ETC_20150729_013680	When using the mouse, you can also move using the {img W 40 40}, {img A 40 40}, {img S 40 40}, {img D 40 40} keys
-ETC_20150729_013681	For Swordsman types, double tap a directional key to 'Dash'.
-ETC_20150729_013682	To view this help list again, press {img F10 40 40}
-ETC_20150729_013683	Use Jump to cross over obstacles or up higher places.
-ETC_20150729_013684	Press {img X 40 40} to jump.
-ETC_20150729_013685	Joypad : Press {img a_on_button 40 40} to jump.
-ETC_20150729_013686	Mouse : Press {img space 40 40} to jump.
-ETC_20150729_013687	Press {img Z 40 40} for a basic attack.
-ETC_20150729_013688	Mouse : Press {img Z 40 40} or {img mouseclick_left 40 40} on an enemy to attack.{nl}{nl}Joypad : Press {img x_on_button 40 40} to attack.
-ETC_20150729_013689	Press {img ctrl 40 40} to lock a target.
-ETC_20150729_013690	Press {img Alt 40 40} to immediately stop movement of your character.
-ETC_20150729_013691	Press {img space 40 40} to face your target.
-ETC_20150729_013692	Use the map to check your current location and other important areas.
-ETC_20150729_013693	Press {img M 40 40} to view the map of your current area.
-ETC_20150729_013694	{nl} {nl}The minimap icon displays information and NPC locations of the current map you are in.{nl} {nl}{img minimap_leader 25 25} indicates your current location. {nl}{img minimap_1_MAIN 25 25} indicates a targeted quest in progress. {nl}{img minimap_0 25 25} indicates the location of important NPCs. {nl}{img minimap_goddess 25 25} indicates the Goddess Statue for Warping. {nl}{img minimap_board 25 25} indicates the Bulletin Board containing various information. {nl}{img minimap_portal 25 25} indicates the path to move to other areas.{nl} {nl}
-ETC_20150729_013695	Press {img N 40 40} to open the World Map.
-ETC_20150729_013696	Only the areas you have already discovered will be activated. Undiscovered areas are not shown on the World Map.
-ETC_20150729_013697	Hover your mouse over the discovered {nl} area to see the map in detail.
-ETC_20150729_013698	Use Status Points obtained through leveling up to upgrade your character's abilities.
-ETC_20150729_013699	Press {img F1 40 40} to open the Character Information window to view info about your character.
-ETC_20150729_013700	Use STR/CON/INT/SPR/DEX to make your character stronger. {nl} {nl} STR : Increase in Physical Attack and Critical Attack {nl} {nl} CON : Increase in max HP, HP Recovery, Block, Critical Resistance and Max Inventory Weight {nl} {nl} INT : Increase in Magic Attack{nl}{nl} SPR : Increase in Max SP and SP Recovery, Magic Defense and Block Penetration {nl} {nl} DEX : Increase in Accuracy, Evasion and Critical Chance {nl}
-ETC_20150729_013701	You can preview the effects on the screen below.
-ETC_20150729_013702	You can manage the skills of your character through the Skill window.
-ETC_20150729_013703	Press {img F3 40 40} to open the Skill window.
-ETC_20150729_013704	Click the {img skillup 40 40} button to increase a skill level.
-ETC_20150729_013705	Make your character even stronger by learning Attributes from the Master NPCs of each class.
-ETC_20150729_013706	You can learn Attributes from a Master NPC.
-ETC_20150729_013707	Silver is required to learn Attributes. {nl}Also, some Attributes require time to learn.
-ETC_20150729_013708	You can use an Attribute after you've learned it, {nl}and you cannot learn another Attribute while you are studying one.
-ETC_20150729_013709	Some Attributes can be disabled if needed.
+ETC_20150729_013616	弹幕攻击
+ETC_20150729_013617	地雷陷阱
+ETC_20150729_013618	捕兽夹
+ETC_20150729_013619	温迪戈搜查者
+ETC_20150729_013620	大地之弹幕
+ETC_20150729_013621	巨型蝙蝠
+ETC_20150729_013622	蓝色墓地魔像
+ETC_20150729_013623	组队战斗淘汰赛
+ETC_20150729_013624	组队战斗联赛
+ETC_20150729_013625	沿着这条路！
+ETC_20150729_013626	出发吧！！
+ETC_20150729_013627	圣物的状态出现异常！
+ETC_20150729_013628	杀死愤兽！
+ETC_20150729_013629	大地之女神盖亚啊..
+ETC_20150729_013630	使者像是被狼人袭击了的模样{nl}杀死狼人!
+ETC_20150729_013631	特制香炉
+ETC_20150729_013632	红焰宝石正在暴走状态.
+ETC_20150729_013633	结界效果：力量
+ETC_20150729_013634	从活性结界中获得力量增加的效果.
+ETC_20150729_013635	结界效果：体力
+ETC_20150729_013636	从活性结界中获得体力增加的效果.
+ETC_20150729_013637	结界效果：智力
+ETC_20150729_013638	从活性结界中获得智力增加的效果.
+ETC_20150729_013639	结界效果：敏捷
+ETC_20150729_013640	从活性结界中获得敏捷增加的效果.
+ETC_20150729_013641	灵魂消耗殆尽中
+ETC_20150729_013642	四肢乏力的感觉，耐力正在流失.
+ETC_20150729_013643	圣所之祝福 - 攻击力增加
+ETC_20150729_013644	受到圣所的祝福，攻击力增加.
+ETC_20150729_013645	因受到强力的魔法保护膜，所有攻击无效.
+ETC_20150729_013646	来历不明的遗址的神圣的力量
+ETC_20150729_013647	遗址周围所有邪恶之物，都将受到神圣的惩罚.
+ETC_20150729_013648	来历不明的水晶柱上的祝福
+ETC_20150729_013649	受到神圣之祝福，攻击力和防御力得到短暂增加.
+ETC_20150729_013650	来历不明的水晶中的力量
+ETC_20150729_013651	周围所有邪恶之物，都将受到神圣的惩罚.
+ETC_20150729_013652	来历不明的石柱上的祝福
+ETC_20150729_013653	受到神圣之祝福，防御力和恢复力得到短暂增加.
+ETC_20150729_013654	来历不明的石碑上的净化之气息
+ETC_20150729_013655	受到净化之气息，所有伤口开始愈合.
+ETC_20150729_013656	受到神圣之祝福，萌生了勇气.
+ETC_20150729_013657	受到神圣之祝福，浮现出坚固的灵气.
+ETC_20150729_013658	尸体
+ETC_20150729_013659	尸体倒下了.
+ETC_20150729_013660	宠物挂着
+ETC_20150729_013661	经验值大幅度提升
+ETC_20150729_013662	回避率增加. 
+ETC_20150729_013663	爆炸
+ETC_20150729_013664	死亡时爆炸. 
+ETC_20150729_013665	抗性
+ETC_20150729_013666	武器损伤
+ETC_20150729_013667	物理攻击时耐久度下降
+ETC_20150729_013668	箭抗性
+ETC_20150729_013669	对箭的攻击抗性上升.
+ETC_20150729_013670	属性抗性
+ETC_20150729_013671	随着属性不同，魔法抗性上升.
+ETC_20150729_013672	升级
+ETC_20150729_013673	变异型怪物受到debuff不会睡着，等级提升
+ETC_20150729_013674	快速恢复能力
+ETC_20150729_013675	恢复能力上升.
+ETC_20150729_013676	可自由移动.
+ETC_20150729_013677	可以移动角色.{nl}{img arrowkey_up 40 40}{img arrowkey_down 40 40}{img arrowkey_left 40 40}{img arrowkey_right 40 40}
+ETC_20150729_013678	手柄操作时，按{img move_all 40 40}键 {img stic_L 40 40}可移动.
+ETC_20150729_013679	鼠标操作时，点击 {img mouseclick_left 40 40}角色可移动至目标地点.
+ETC_20150729_013680	鼠标操作时，{img W 40 40}, {img A 40 40}, {img S 40 40}, {img D 40 40}可使用这些键位.
+ETC_20150729_013681	战士系在连续快速按两次方向键位时，可使用前冲动作.
+ETC_20150729_013682	再次点击 {img F10 40 40}键时，可再次查阅帮助功能.
+ETC_20150729_013683	弹跳时可以跃过低矮障碍物，跳往高处.
+ETC_20150729_013684	按{img X 40 40}键可以跳跃.
+ETC_20150729_013685	手柄操作时，按{img a_on_button 40 40}键可以跳跃.
+ETC_20150729_013686	鼠标操作时，按{img space 40 40}键可以使用.
+ETC_20150729_013687	{img Z 40 40}键是角色基本攻击按键.
+ETC_20150729_013688	鼠标操作时，按{img Z 40 40}键，对怪物 {img mouseclick_left 40 40}{nl}可基本攻击.{nl} {nl}手柄操作时， {img x_on_button 40 40}使用此键位.
+ETC_20150729_013689	按{img ctrl 40 40}键可以固定目标.
+ETC_20150729_013690	按{img Alt 40 40}键可使移动中的角色立即停止动作.
+ETC_20150729_013691	按{img space 40 40}键可即时查看对应目标.
+ETC_20150729_013692	地图上可查看确认现在自身位置和重要的区域.
+ETC_20150729_013693	按{img M 40 40}键可确认当前地图中自身所在的位置.
+ETC_20150729_013694	{nl} {nl}小地图上的图标标示出自身位置信息以及 {nl}其他NPC信息.{nl}{img minimap_leader 25 25} : 出现玩家的位置图标.{nl}{img minimap_1_MAIN 25 25} : 现在进行中的任务出现指定目标.{nl}{img minimap_0 25 25} : 现在地区的重要NPC位置.{nl}{img minimap_goddess 25 25} : 可移动至远方的女神像位置.{nl}{img minimap_board 25 25} : 出现各种信息情报的告示板.{nl}{img minimap_portal 25 25} : 可通往其他地区的通路.{nl} {nl}
+ETC_20150729_013695	按{img N 40 40}键可查看世界地图.
+ETC_20150729_013696	未去过的地区不会在世界地图上标识出,{nl}即使只到达过一次新地区，也会在世界地图上标识出.
+ETC_20150729_013697	标识的地区用鼠标可查看当前地区中{nl}角色的完整地图.
+ETC_20150729_013698	通过升级时获得的属性点可以使角色的能力值提升.
+ETC_20150729_013699	{img F1 40 40}按此键可打开角色属性窗口，确认角色的能力值信息.
+ETC_20150729_013700	属性点分为力量/体力/智力/精神/敏捷可给角色能力提供成长.{nl} {nl} -力量   :物理攻击力,暴击攻击力,负重增加{nl} {nl}-体力 : 最大HP,HP恢复力,格挡,暴击抗性,负重增加{nl} {nl}-智力 : 魔法攻击力增加{nl} {nl}-精神 : 最大SP,SP恢复力,魔法防御力,格挡贯穿增加{nl} {nl}-敏捷 : 命中,回避,暴击率增加{nl}
+ETC_20150729_013701	选取后的属性效果可在下端的详细属性中查阅.
+ETC_20150729_013702	职业等级成长时获得的技能点可提升角色的技能等级.
+ETC_20150729_013703	按{img F3 40 40}键可打开技能窗口.
+ETC_20150729_013704	{img skillup 40 40}点击此键可提升技能等级.
+ETC_20150729_013705	导师NPC处可学习特性技能，提升角色的能力.
+ETC_20150729_013706	各职业导师NPC处可学习特性技能.
+ETC_20150729_013707	学习部分职业特性技能需要消耗银币.{nl}此外，学习部分职业特性技能时需要消耗一些时间.
+ETC_20150729_013708	特性技能在学习之后可以使用，在特性技能学习的时间过程中无法学习其他特性技能.
+ETC_20150729_013709	部分特性技能会有开关的功能.
 ETC_20150729_013710	You can advance your class when you reach Class Lv 15.
 ETC_20150729_013711	After selecting a class to advance to, you will receive an advancement quest from the Class Master.
 ETC_20150729_013712	Once you begin the advancement quest, you cannot change your class until the next advancement.
@@ -13774,18 +13774,18 @@ ETC_20150729_013773	can be purchased from the Tools Merchant or obtained from mo
 ETC_20150729_013774	{nl}{nl}{img mouseclick_right 40 40} on the anvil, then select an item to open Enhancement window.
 ETC_20150729_013775	{nl}{nl}When your equipment is enhanced, its power increases. 
 ETC_20150729_013776	{nl}{nl}When enhancing a weapon beyond +5, Potential will be consumed on failure and the effects will be reset. The item will be destroyed when Potential drops to 0.
-ETC_20150729_013777	Repair items with low durability through the Blacksmith NPC.
+ETC_20150729_013777	Repair items with low durability through the 铁匠 NPC.
 ETC_20150729_013778	Repair items with low durability in the Item Repair window.
 ETC_20150729_013779	{nl}{nl}Select an item, then click Repair to restore its durability to 100%.
 ETC_20150729_013780	The effects differ based on the type of Gem and Equipment.
 ETC_20150729_013781	{nl}{nl}You can increase the Gem level through Gem Enhancement in Rest Mode.
 ETC_20150729_013782	Gem Enhancement requires other Gems or Gem Abrasives.
 ETC_20150729_013783	{nl}{nl}You can insert Gems in the item sockets to add additional effects.
-ETC_20150729_013784	Some items may not have sockets. For such items, you can add sockets through the Blacksmith NPC. {nl}{nl}Adding a socket will require a fee and reduce the item's Potential by 1.
+ETC_20150729_013784	Some items may not have sockets. For such items, you can add sockets through the 铁匠 NPC. {nl}{nl}Adding a socket will require a fee and reduce the item's Potential by 1.
 ETC_20150729_013785	{nl}{nl} {img mouseclick_right 40 40} on the Gem to see which items are compatible.
 ETC_20150729_013786	Click on the item to insert the Gem.{nl}Hover the cursor over an item to view its Gems.
 ETC_20150729_013787	{nl}{nl}You can remove inserted Gems by 
-ETC_20150729_013788	 through the Blacksmith NPC.
+ETC_20150729_013788	 through the 铁匠 NPC.
 ETC_20150729_013789	The level of the Gem can possibly decrease by 1 when removed.
 ETC_20150729_013790	Sub-Weapons refer to all right-hand weapons except Shields.
 ETC_20150729_013791	Your character will attack with the Sub-Weapon.
@@ -14015,7 +14015,7 @@ ETC_20150729_014014	Found the key of the great king!
 ETC_20150729_014015	{s16}{ol}{#ffcc33}[{Auto_1}] Explore Rate {nl}{Auto_2}/{Auto_3}
 ETC_20150729_014016	{cl}{s16}{ol}{#ffcc33}{Auto_1} Complete Explore Rate
 ETC_20150729_014017	{@st59} 增加物理攻击和会心攻击和最大负重{/}
-ETC_20150729_014018	Scoll use area
+ETC_20150729_014018	卷轴使用区域
 ETC_20150729_014019	Exceeded the number of Mission Instance. Try again later
 ETC_20150729_014020	[Doppelsoeldner Master]{nl} Guera
 ETC_20150729_014021	Field GenX
@@ -14099,90 +14099,90 @@ ETC_20150803_014098	You can take a screenshot using PrintScreen key.
 ETC_20150803_014099	Screenshots taken will be stored in the screenshot folder located in the release folder within your Tree of Savior directory.
 ETC_20150803_014100	{nl} {nl}With {img F12 40 40}, you can use the Video Capture function.
 ETC_20150803_014101	When you press {img F12 40 40} again, the captured video will be stored.{nl}The captured video will be stored in the avicapture folder located in the release of your Tree of Savior directory.
-ETC_20150803_014102	DoTimeAction:Collectign:2:SITGROPE:None
-ETC_20150803_014103	Property:1/PropertyAdd:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/Notice:NOTICE_Dm_GetItem:Collected the copses and saved the keepstakes!:5/NPCDead/GiveItem:FLASH_29_1_SQ_040_ITEM_2:1
-ETC_20150803_014104	Notice:NOTICE_Dm_GetItem:You've collected the corpses!:5/NPCDead
-ETC_20150803_014105	EffectNPC:Local:F_burstup019_smoke:1:BOT/NPCDead/Notice:NOTICE_Dm_!:You haven't collected anything!:5
-ETC_20150803_014106	EffectNPC:Local:F_burstup019_smoke:1:BOT/NPCDead/Notice:NOTICE_Dm_!:You've failed to collect the petrification powder!:5
-ETC_20150803_014107	DoTimeAction:Collecting:1:WEEDING:None
+ETC_20150803_014102	DoTimeAction:收集中:2:SITGROPE:None
+ETC_20150803_014103	Property:1/PropertyAdd:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/Notice:NOTICE_Dm_GetItem:收集尸体，得到遗物！:5/NPCDead/GiveItem:FLASH_29_1_SQ_040_ITEM_2:1
+ETC_20150803_014104	Notice:NOTICE_Dm_GetItem:收尸尸体。:5/NPCDead
+ETC_20150803_014105	EffectNPC:Local:F_burstup019_smoke:1:BOT/NPCDead/Notice:NOTICE_Dm_!:什么也没采集到。:5
+ETC_20150803_014106	EffectNPC:Local:F_burstup019_smoke:1:BOT/NPCDead/Notice:NOTICE_Dm_!:采集植物失败。:5
+ETC_20150803_014107	DoTimeAction:收集中:1:WEEDING:None
 ETC_20150803_014108	Property:1/PropertyAdd:1/GiveItem:UNDER67_MQ4_ITEM01:1/NPCKill/Notice:NOTICE_Dm_GetItem:Obtained bushes:3/EffectNPC:Local:F_pc_making_finish_white:1:TOP
-ETC_20150803_014109	Give a present to Scout Master secretly without being caught
-ETC_20150803_014110	Give the demons the slip by using temporary flare
-ETC_20150803_014111	Collect Red Leaves
-ETC_20150803_014112	Lure the demons by setting leaf bombs
-ETC_20150803_014113	Hand over the keepstakes of Grizina
-ETC_20150803_014114	Help Alina
-ETC_20150803_014115	Hunt for green Cockats with Zareth
-ETC_20150803_014116	Collect the bushes that are needed to make verification tickets
-ETC_20150803_014117	Tell Amanda about the circumstances
-ETC_20150803_014118	Dig through the grass bushes to find somthing to eat
-ETC_20150803_014119	Throw the core to the terminal
-ETC_20150803_014120	The channel is full
-ETC_20150803_014121	Swordsman Type Class
-ETC_20150803_014122	Archer Type Class
-ETC_20150803_014123	Cleric Type Class
-ETC_20150803_014124	Wizard Type Class
-ETC_20150803_014125	The core of the crystal reacted irregularly and Romor appeared!
-ETC_20150803_014126	You've obtained the keepstakes from the monsters!
-ETC_20150803_014127	Defend against the curse of the terminal!
-ETC_20150803_014128	Putting it secretly into the pocket
-ETC_20150803_014129	You've put it secretly into the pocket of Scout Master
-ETC_20150803_014130	Since Scout Master suspects you,{nl}try again little later!
-ETC_20150803_014131	Try from the back of Scout Master!
-ETC_20150803_014132	What are you doing?
-ETC_20150803_014133	What the hell now?
-ETC_20150803_014134	You've told Amanda about the circumstances
-ETC_20150803_014135	Now back at home
-ETC_20150803_014136	Thank you
-ETC_20150803_014137	Nothing appeared
-ETC_20150803_014138	Tell Amanda that you couldn't find anything
-ETC_20150803_014139	The item is already sold
-ETC_20150803_014140	Team Battle League has started. Participate using the left icon at the minimap.
-ETC_20150803_014141	You can't participate the game since you've rejected the game a lot recently.
-ETC_20150803_014142	Not enough fragments!
-ETC_20150803_014143	Magic Device
-ETC_20150803_014144	Verification Ticket Craft Device
-ETC_20150803_014145	The memo you left to Amanda
-ETC_20150803_014146	The spirit of Karail
-ETC_20150803_014147	The spirit of the believer
-ETC_20150803_014148	The light effect of the chapel
-ETC_20150803_014149	SP Recovery Rate increases due to the light effect of the chapel.
-ETC_20150803_014150	Loading Place light effect
-ETC_20150803_014151	SP Recovery Rate increases due to the light effect of Loading Place
-ETC_20150803_014152	Pre Dungeon Defence
-ETC_20150803_014153	Until prayer hall light effect gets activated
-ETC_20150803_014154	The light device of the prayer hall at Patama Oratorium has been activated!
-ETC_20150803_014155	The light device of the prayer hall has been activated!{nl}The light comes into the prayer hall of the Mausoleum constructor
-ETC_20150803_014156	Activating the light
-ETC_20150803_014157	The light has been already activated
-ETC_20150803_014158	Loading Place Light Device
-ETC_20150803_014159	Until the Light Device at the Loading Place gets activated
-ETC_20150803_014160	Among the remains of the collapse, the light device of the loading place has been discovered.{nl}The light device is being activated!
-ETC_20150803_014161	The light device at the loading place of the manufacturig factory has been activated!{nl}The light comes into the Mausoleum loading place
-ETC_20150803_014162	Due to unstable structure at the loading place in Mausoleum{nl}the collapse occured at the manufacturing factory..
-ETC_20150803_014163	Prayer Hall Light Device
-ETC_20150803_014164	TypeFManager
-ETC_20150804_014165	SP Recovery Rate will increase due to the light effect of the loading place.
-ETC_20150804_014166	Pre Dungeon Defence
-ETC_20150804_014167	Accomplished 4 level of Shield type Equipment Enhancement
-ETC_20150804_014168	Check the epitaph of Zachariel, the great king
-ETC_20150804_014169	Until the light device at the Prayer Hall gets activated
-ETC_20150804_014170	The light device at the Prayer Hall at Patama Oratorium has been activated!
-ETC_20150804_014171	The light device at the Prayer Hall has been activated!{nl}The light comes into the Prayer Hall of the constructor of the Mausoleum
-ETC_20150804_014172	Activating the light device
-ETC_20150804_014173	The light device is already activated
-ETC_20150804_014174	Loading Place light device
-ETC_20150804_014175	Until the light device at Loading Place gets activated
-ETC_20150804_014176	Among the remains of the collapse, the light device of the loading place has been discovered.{nl}The light device is being activated!
-ETC_20150804_014177	The light device at loading place of manufacturing factory has been activated!{nl}The light comes into the loading place of the Mausoleum
-ETC_20150804_014178	Because of the unstable structure of the loading place at Mausoleum{nl}the collapse occured at the manufacturing company
-ETC_20150804_014179	Wendigo appeared from the space!
-ETC_20150804_014180	You've obtained HP Potion(Big)!
-ETC_20150804_014181	You either don't have a socket or using all of them
-ETC_20150804_014182	{#050505}{s18}{b}When equipped into a socket
-ETC_20150804_014183	The light device at Prayer Hall
-ETC_20150804_014184	TypeFManager
-ETC_20150804_014185	The place to put the stone
-ETC_20150804_014186	The epitaph of Zachariel
+ETC_20150803_014109	不让侦察兵导师发觉，悄悄把礼物转达
+ETC_20150803_014110	使用简易的信号弹，甩开魔族
+ETC_20150803_014111	收集红色的叶子
+ETC_20150803_014112	设置叶子炸弹，引诱魔族
+ETC_20150803_014113	克里吉娜的物品转达
+ETC_20150803_014114	帮助阿尔丽娜
+ETC_20150803_014115	和加雷斯一起狩猎草绿可卡特。
+ETC_20150803_014116	收集制作认证表需要的草堆。
+ETC_20150803_014117	给阿满达传达情况。
+ETC_20150803_014118	搜索草堆，找找能吃的东西
+ETC_20150803_014119	把核心向终端投掷。
+ETC_20150803_014120	选择的频道已满。
+ETC_20150803_014121	战士系职业
+ETC_20150803_014122	弓手系职业
+ETC_20150803_014123	圣职者系职业
+ETC_20150803_014124	魔法师系职业
+ETC_20150803_014125	在水晶的核心中出现了异常反应，路魔尔出现了！
+ETC_20150803_014126	从怪物处救出兵士们的遗物！
+ETC_20150803_014127	终端经常防御！
+ETC_20150803_014128	悄悄的放入袋子中。
+ETC_20150803_014129	悄悄的放入斯卡乌特大师的袋子中去。
+ETC_20150803_014130	斯卡乌特大师心存芥蒂。{nl}稍后再次进行吧！
+ETC_20150803_014131	试图从斯卡乌特大师的后面进行！
+ETC_20150803_014132	为什么这样。
+ETC_20150803_014133	你说啥，现在？
+ETC_20150803_014134	给阿满达传达情况。
+ETC_20150803_014135	现在回家
+ETC_20150803_014136	谢谢。
+ETC_20150803_014137	什么也没有出来。
+ETC_20150803_014138	告诉阿满达，什么都找不到。
+ETC_20150803_014139	已经贩卖了的物品。
+ETC_20150803_014140	团队战斗开始。可以通过小地图左侧图标参加！
+ETC_20150803_014141	最近经常拒绝游戏，因此无法参加游戏。
+ETC_20150803_014142	缺少碎片！
+ETC_20150803_014143	魔法装置
+ETC_20150803_014144	认证表制作装置
+ETC_20150803_014145	给阿满达留下纸条
+ETC_20150803_014146	卡莱尔的灵魂
+ETC_20150803_014147	信徒的灵魂
+ETC_20150804_014148	吉努卡斯
+ETC_20150804_014149	贝卡拉努斯
+ETC_20150804_014150	克路玛度格斯
+ETC_20150804_014151	迷你贝尼奥
+ETC_20150804_014152	突然异变烂泥
+ETC_20150804_014153     梅萨帕斯拉
+ETC_20150804_014154	斯图卡斯高原
+ETC_20150804_014155	解除封印，怪物们的视线都集中过来了。
+ETC_20150804_014156	触碰石柱，周边的怪物都过来了！
+ETC_20150804_014157	对地图虎视眈眈的怪物们攻击过来了！
+ETC_20150804_014158	奥修莉内火神
+ETC_20150804_014159	CBT3 最初RANK6达成！
+ETC_20150804_014160	奥修莉内的英雄
+ETC_20150804_014161	CBT3 2~10位RANK6达成者！
+ETC_20150804_014162	预备堂照明效果
+ETC_20150804_014163	预备堂的照明装置的效果可以增加SP的回复量。
+ETC_20150804_014164	记载所照明效果
+ETC_20150804_014165	记载所的照明装置的效果可以增加SP的回复量。
+ETC_20150804_014166	普利副本 迪本斯
+ETC_20150804_014167	盾牌系列装备强化4等级达成
+ETC_20150804_014168	扎卡莉爱尔大王的秘门确认
+ETC_20150804_014169	预备堂照明装置转动为止
+ETC_20150804_014170	帕提玛经堂的预备堂照明装置转动了！ 
+ETC_20150804_014171	预备堂照明装置的转动万料。{nl}王陵建筑者预备堂中沁入了光芒。
+ETC_20150804_014172	照明装置转动中
+ETC_20150804_014173	照明装置已经在转动中。
+ETC_20150804_014174	记载所照明装置
+ETC_20150804_014175	记载所照明装置转动为止
+ETC_20150804_014176	在崩坏残骸中发现记载所照明状态了。{nl}研磨加工厂的记载所照明装置被转动了。
+ETC_20150804_014177	研磨加工厂的记载所照明装置的转动完成了。{nl}王陵记载所中沁入了光芒。
+ETC_20150804_014178	因为王陵记载所的不安定的构造{nl}在研磨加工厂中出现了崩坏的事情。
+ETC_20150804_014179	在缝隙中出现了食人怪！
+ETC_20150804_014180	获得HP 药水(大)！
+ETC_20150804_014181	没有插孔了，或者是全部在使用。
+ETC_20150804_014182	{#050505}{s18}{b}插孔 装置时
+ETC_20150804_014183	预备堂 照明装置
+ETC_20150804_014184	TypeF管理者
+ETC_20150804_014185	放置石头的两个地方
+ETC_20150804_014186	扎卡莉爱尔的秘门	QUEST_20150317_000341
 
 ETC_20150810-123456	23:20 By Mamoru

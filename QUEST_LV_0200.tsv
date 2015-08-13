@@ -547,7 +547,7 @@ QUEST_LV_0200_20150317_000546	{nl}I hope my prayers help the souls to find peace
 QUEST_LV_0200_20150317_000547	It might be helpful to you. {nl}Of course, this is just my speculation.
 QUEST_LV_0200_20150317_000548	You're back. What a relief. And thank you. {nl}
 QUEST_LV_0200_20150317_000549	No wonder.. You deserve this recipe. {nl}
-QUEST_LV_0200_20150317_000550	I will give you this. {nl}It was a gift from my grandfather who was a blacksmith when I said I will become a cleric. {nl}Although my colleagues found peace, I plan to stay offering ceremonies for them so I don't need it.
+QUEST_LV_0200_20150317_000550	I will give you this. {nl}It was a gift from my grandfather who was a 铁匠 when I said I will become a cleric. {nl}Although my colleagues found peace, I plan to stay offering ceremonies for them so I don't need it.
 QUEST_LV_0200_20150317_000551	Purple Tree Fault Forest Notice
 QUEST_LV_0200_20150317_000552	There are blessed altars around the Purple Tree Fault Forest. {nl}Pilgrims who pass by can offer worship to all altars and be blessed. {nl}
 QUEST_LV_0200_20150317_000553  Each altar is under the care of Cleric Masters. {nl}Go to the Masters in charge in case there are problems with the altar. {nl}The altars are located in..
@@ -616,7 +616,7 @@ QUEST_LV_0200_20150317_000615	Yes, that's the one. {nl}Give it to me!
 QUEST_LV_0200_20150317_000616	{nl}Looks everything is still left in the bag since it's not food! {nl}What a relief.
 QUEST_LV_0200_20150317_000617	I will make you the medicine as promised. {nl}As long as you get me the ingredients..
 QUEST_LV_0200_20150317_000618	The Pretense Intersection is no longer a silent road of the pilgrims because of some wild monsters. {nl}All my colleagues who came for pilgrimage with me were attacked. {nl}I started my pilgrimage to decide on my job and mission. {nl}I had craftmanship since I was young and I was interested in medicinal herbs but you can't live doing everything you like. {nl}
-QUEST_LV_0200_20150317_000619	I wanted to decide if I want to become a pharmacist, or blacksmith or tanner. {nl}I didn't know I would meet them just before reaching the Cathedral.. {nl}I was not enticed by them because I took my secret medicine. {nl}Drawing out the greed in people and turning people into their servants.. You need to take the medicine so that you won't suffer from one of their servants.
+QUEST_LV_0200_20150317_000619	I wanted to decide if I want to become a pharmacist, or 铁匠 or tanner. {nl}I didn't know I would meet them just before reaching the Cathedral.. {nl}I was not enticed by them because I took my secret medicine. {nl}Drawing out the greed in people and turning people into their servants.. You need to take the medicine so that you won't suffer from one of their servants.
 QUEST_LV_0200_20150317_000620	The monsters pesting on the roots of wide leafed reeds in Sestine Wilderness have the ingredient to the medicine.
 QUEST_LV_0200_20150317_000621	They are grumpy so be careful.
 QUEST_LV_0200_20150317_000622	Sorry that I can't go with you as my body did not fully recover.
@@ -919,7 +919,7 @@ QUEST_LV_0200_20150317_000918	Even with the escort troops protecting us, I almos
 QUEST_LV_0200_20150317_000919	The supply troops are safer compared to other troops. {nl}But they do a lot more manual labor so people do avoid it.
 QUEST_LV_0200_20150317_000920	The longer the battle goes on, the more soldiers are running away. {nl}It's really frustrating.
 QUEST_LV_0200_20150317_000921	I understand that leaving the supplies and running away means not accomplishing the mission. {nl}But you need to be alive to deliver the supplies, don't you?
-QUEST_LV_0200_20150317_000922	Revelation of the Cathedral
+QUEST_LV_0200_20150317_000922	Cathedral 启示录
 QUEST_LV_0200_20150317_000923	If this revelation reaches, then it would mean that Mayvern did a good job to accomplish his mission. {nl}I would like to tell about the the principle of another world.
 QUEST_LV_0200_20150317_000924	There is another world beyond the world that you live in. {nl}You cannot cross both worlds unless you have supreme powers. {nl}At least, that was before the Divine Tree emerged. {nl}
 QUEST_LV_0200_20150317_000925	The disaster damaged and opened a gap on the barrier that divided the two worlds. {nl}And the demons freely crossed worlds through the gap. {nl}
@@ -2372,7 +2372,7 @@ QUEST_LV_0200_20150317_002371	The kingdom soldier Rofdel asked you to destroy th
 QUEST_LV_0200_20150317_002372	As the kingdom soldier Rofdel requested to you, you destroyed the petrified monster. Let's go back to Rofdel.
 QUEST_LV_0200_20150317_002373	Destroy the petrified monster
 QUEST_LV_0200_20150317_002374	Put flyers
-QUEST_LV_0200_20150317_002375	The soldier Rofdel asked you to put the flyer on the bulletin board to conciliate the thieves.
+QUEST_LV_0200_20150317_002375	The soldier Rofdel asked you to put the flyer on the 公告板 to conciliate the thieves.
 QUEST_LV_0200_20150317_002376	You've put the flyers in the various places in the main district, as the soldier Rofdel asked you to. Let's go back to Rofdel.
 QUEST_LV_0200_20150317_002377	Talk to Bilhelmina Carriot
 QUEST_LV_0200_20150317_002378	Bilhemina Carriot is seeking for someone's help at the inner district of the petrified city.
@@ -2617,12 +2617,12 @@ QUEST_LV_0200_20150317_002616	Get Spring Light Grass
 QUEST_LV_0200_20150317_002617	Tiana says she needs more Spring Light Grass to make the medicine. Use honey jelly to find and collect Spring Light Grass that are hiding.
 QUEST_LV_0200_20150317_002618	Give Spring Light Grass to Tiana
 QUEST_LV_0200_20150317_002619	Gathered enough Spring Light Grass. Give it to Tiana.
-QUEST_LV_0200_20150317_002620	Talk to Equipment Merchant in 佩帝米安
-QUEST_LV_0200_20150317_002621	The Equipment Merchant seems to pity you for your failed upgrade. Talk to him.
+QUEST_LV_0200_20150317_002620	Talk to 装备商人 in 佩帝米安
+QUEST_LV_0200_20150317_002621	The 装备商人 seems to pity you for your failed upgrade. Talk to him.
 QUEST_LV_0200_20150317_002622	Collect the Mark of Pilgrim
-QUEST_LV_0200_20150317_002623	Equipment Merchant offered pretty good rewards in exchange for your help. Go to the Starving Demon's Road and get the Mark of Pilgrim.
-QUEST_LV_0200_20150317_002624	Give it to 佩帝米安 Equipment Merchant
-QUEST_LV_0200_20150317_002625	Obtained all the Marks. Give it to the Equipment Merchant.
+QUEST_LV_0200_20150317_002623	装备商人 offered pretty good rewards in exchange for your help. Go to the Starving Demon's Road and get the Mark of Pilgrim.
+QUEST_LV_0200_20150317_002624	Give it to 佩帝米安 装备商人
+QUEST_LV_0200_20150317_002625	Obtained all the Marks. Give it to the 装备商人.
 QUEST_LV_0200_20150317_002626	Obtained %s from the monster in Way of the Big Starving Demon
 QUEST_LV_0200_20150317_002627	Meet Commander Uska
 QUEST_LV_0200_20150317_002628	Commander Uska seems to be have some troubles. Talk to him.
