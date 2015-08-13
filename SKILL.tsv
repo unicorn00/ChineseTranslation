@@ -1133,7 +1133,7 @@ SKILL_20150317_001132	Target #{CaptionRatio}#{nl}范围 limit 20 {nl}
 SKILL_20150317_001133	传送
 SKILL_20150317_001134	传送到随机的位置.
 SKILL_20150317_001135	Max. 传送 distance #{CaptionRatio}#
-SKILL_20150317_001136	Magnetic Force
+SKILL_20150317_001136	磁力
 SKILL_20150317_001137	{#993399}{ol}[魔法]{/}{/}{nl}将敌人吸附在特定区域.
 SKILL_20150317_001138	Raise
 SKILL_20150317_001139	使目标升到空中.
@@ -2153,8 +2153,8 @@ SKILL_20150317_002152	Cyclone: Arrow flick
 SKILL_20150317_002153	Basic arrow 攻击 of 敌人 bounces by chance of 10% 每特性等级 when using [Cyclone].
 SKILL_20150317_002154	催眠:maintain debuff
 SKILL_20150317_002155	敌人 under [催眠] will not wake up even if 攻击ed by 1% chance per attribute elvel but dauration will 减少by 0.5 秒 每特性等级.
-SKILL_20150317_002156	反射盾: Reflect 伤害
-SKILL_20150317_002157	Reflection 伤害 of [反射盾] is added 每特性等级, 以及 hit 伤害 is reduced.
+SKILL_20150317_002156	反射盾: 反射伤害
+SKILL_20150317_002157	[反射盾]反射伤害每级增加，以及减少打击伤害
 SKILL_20150317_002158	反射盾: 防御
 SKILL_20150317_002159	防御 增加 by 5% per level while the skill [反射盾] is enabled
 SKILL_20150317_002160	能量矢: 附加催眠 伤害
@@ -2513,11 +2513,11 @@ SKILL_20150317_002512	伤害 of [能量矢] 增加 每特性等级
 SKILL_20150317_002513	魔法飞弹: 强化
 SKILL_20150317_002514	伤害 of [魔法飞弹] 增加 每特性等级
 SKILL_20150317_002515	地quake: 强化
-SKILL_20150317_002516	伤害 of [地quake] 增加 每特性等级
+SKILL_20150317_002516	伤害 of [地震] 增加 每特性等级
 SKILL_20150317_002517	火ball: 强化
-SKILL_20150317_002518	伤害 of [火ball] 增加 每特性等级
+SKILL_20150317_002518	伤害 of [火球] 增加 每特性等级
 SKILL_20150317_002519	火墙: 强化
-SKILL_20150317_002520	伤害 of [火wall] 增加 每特性等级
+SKILL_20150317_002520	伤害 of [火墙] 增加 每特性等级
 SKILL_20150317_002521	燃烧: 强化
 SKILL_20150317_002522	伤害 of [燃烧] 增加 每特性等级
 SKILL_20150317_002523	Heruburesu: 强化
@@ -2618,8 +2618,8 @@ SKILL_20150317_002617	倦怠: 强化 2
 SKILL_20150317_002618	攻击 weakening effect of [倦怠] is 强化d to the Wizard Circle 2.
 SKILL_20150317_002619	倦怠: 强化 3
 SKILL_20150317_002620	攻击 weakening effect of [倦怠] is 强化d to the Wizard Circle 3.
-SKILL_20150317_002621	地quake: 强化 2
-SKILL_20150317_002622	伤害 of [地quake] is 强化d to the wizard Circle 3.
+SKILL_20150317_002621	地震: 强化 2
+SKILL_20150317_002622	伤害 of [地震] is 强化d to the wizard Circle 3.
 SKILL_20150317_002623	多重射击: 强化 2
 SKILL_20150317_002624	伤害 of [多重射击] 伤害 is 强化d to Archer Circle 2.
 SKILL_20150317_002625	多重射击: 强化 3
@@ -2651,9 +2651,9 @@ SKILL_20150317_002650	防御 decerase effect of [Deprotected Zone] is 强化d to
 SKILL_20150317_002651	Deprotected Zone : 强化 3
 SKILL_20150317_002652	防御 decerase effect of [Deprotected Zone] is 强化d to Cleric Circle 3.
 SKILL_20150317_002653	火球 : 强化 2
-SKILL_20150317_002654	伤害 of [火ball] is 强化d to Pyromancer Circle 2.
+SKILL_20150317_002654	伤害 of [火球] is 强化d to Pyromancer Circle 2.
 SKILL_20150317_002655	火球 : 强化 3
-SKILL_20150317_002656	伤害 of [火ball] is 强化d to Pyromancer Circle 3.
+SKILL_20150317_002656	伤害 of [火球] is 强化d to Pyromancer Circle 3.
 SKILL_20150317_002657	火墙 : 强化 2
 SKILL_20150317_002658	伤害 of [火墙] is 强化d to Pyromancer Circle 2.
 SKILL_20150317_002659	火墙 : 强化 3
@@ -3983,7 +3983,7 @@ SKILL_20150414_003982	Summon Familar Spirit: 强化
 SKILL_20150414_003983	伤害 of Spirit summoned by [Summon Familiar Spirit] 增加 每特性等级.
 SKILL_20150414_003984	Summon Familar Spirit: 溅射
 SKILL_20150414_003985	When summoned familiar spirit explodes itself, there 1% chance 每特性等级 for it to 伤害 nearby 敌人.
-SKILL_20150414_003986	Sorcerer: SP 恢复
+SKILL_20150414_003986	方士: SP 恢复
 SKILL_20150414_003987	Character's SP 恢复 增加 by 1 每特性等级.
 SKILL_20150414_003988	Flesh Canon: Decompose
 SKILL_20150414_003989	There is a chance of 敌人 falling under decompose status for 30 秒 when 攻击ed with [Flesh Canon]. Chance 增加 by 5% 每特性等级.
@@ -4154,7 +4154,7 @@ SKILL_20150714_004153	攻击 - #{CaptionRatio}#% {nl}防御 + #{CaptionRatio}#%{
 SKILL_20150714_004154	攻击 #{SkillAtkAdd}#{nl}属性攻击 #{CaptionRatio}#%{nl}Casting Time 1 秒{nl}距离范围 #{SkillSR}#
 SKILL_20150714_004155	攻击 #{SkillAtkAdd}#{nl}属性攻击 #{CaptionRatio}#%
 SKILL_20150714_004156	攻击 #{SkillAtkAdd}#{nl}属性攻击 #{CaptionRatio}#%{nl}攻击 Count #{SkillSR}# times{nl}持续时间 #{CaptionTime}#秒
-SKILL_20150714_004157	属性攻击 #{CaptionTime}#%{nl}火wall #{CaptionRatio}#ea{nl}攻击 Cotun #{CaptionRatio2}#times{nl}持续时间 15 秒
+SKILL_20150714_004157	属性攻击 #{CaptionTime}#%{nl}火墙 #{CaptionRatio}#ea{nl}攻击 Cotun #{CaptionRatio2}#times{nl}持续时间 15 秒
 SKILL_20150714_004158	攻击 #{SkillAtkAdd}#{nl}属性攻击 #{CaptionRatio2}#%{nl}0.5초 당 SP #{CaptionRatio}#%소비
 SKILL_20150714_004159	攻击 #{SkillAtkAdd}#{nl}属性攻击 #{CaptionRatio}#%{nl}{#339999}{ol}[Freeze]{/}{/} 持续时间 3 秒
 SKILL_20150714_004160	攻击 #{SkillAtkAdd}#{nl}属性攻击 #{CaptionRatio}#%{nl}{#339999}{ol}[Freeze]{/}{/} 持续时间 4 秒
@@ -4398,7 +4398,7 @@ SKILL_20150714_004397	When you are 攻击ing an 敌人 with [Mordschlag] that is
 SKILL_20150714_004398	While using [苦痛屏障], 移动速度 will 增加 by 5% 每特性等级, but 闪避 will 减少 by 10% 每特性等级.
 SKILL_20150714_004399	[能量矢] 每特性等级增加 1%伤害.
 SKILL_20150714_004400	The reflective 伤害 of [反射盾] will 增加 每特性等级 以及 as a result, the amount of shooting 伤害 will 减少.
-SKILL_20150714_004401	[地quake] 每特性等级增加 1%伤害.
+SKILL_20150714_004401	[地震] 每特性等级增加 1%伤害.
 SKILL_20150714_004402	[魔法飞弹] 每特性等级增加 1%伤害.
 SKILL_20150714_004403	While [快速咏唱] is being activated, the next 魔法al 伤害 will 增加 by 10%.
 SKILL_20150714_004404	催眠: 持续时间
@@ -4887,7 +4887,7 @@ SKILL_20150724_004886	Circle 3 Psychokino is required
 SKILL_20150724_004887	Circle 3 Tear Gas is required
 SKILL_20150724_004888	Lv3 Bashita Shidi is required
 SKILL_20150724_004889	Lv3 召唤 Spiritual Demon is required
-SKILL_20150724_004890	Circle 2 Sorcerer is required
+SKILL_20150724_004890	Circle 2 方士 is required
 SKILL_20150724_004891	Lv3 Weapon Touchup is required
 SKILL_20150724_004892	Lv3 Armor Touchup is required
 SKILL_20150724_004893	Circle 2 Squire is required
@@ -4993,4 +4993,4 @@ SKILL_20150730_004992	Summon the devil of card inserted in Grimore. Character's 
 SKILL_20150730_004993	Make Shogos molded based on the card inserted in Necronomicon. Character's INT, SPR affects the 物理攻击 以及 物理防御 of summoned devil. Ability 增加 by 10% per card star. Necronomicon can equip only Animal, Plant, 以及 Mutant type cards.
 SKILL_20150730_004994	Companion bites 以及 holds on to target. Target's 物理防御 减少 以及 bonus chance of critical is applied.
 SKILL_20150730_004995	物理防御 -#{CaptionRatio}# {nl}Addt'l chance of critical 30%{nl}持续时间 #{CaptionTime}#sec
-SKILL_20150805_014018	20150805---16：15 更新
+SKILL_20150805_014018	20150813---23：30 更新
