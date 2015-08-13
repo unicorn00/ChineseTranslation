@@ -159,7 +159,7 @@ QUEST_20150317_000158	Not everything can be done with hiding and sneaking. {nl}A
 QUEST_20150317_000159	You'll need a lot of little things while you're travelling. {nl}You should buy up your provisions in advance.
 QUEST_20150317_000160	If the control magic is dispelled, the divine messages won't be protected.
 QUEST_20150317_000161	Forgotten Thief's Cenotaph
-QUEST_20150317_000162	I, Zubeck, leave this inscription. {nl}For the pride of being the greatest thief in history, I challenged a powerful sorcerer.
+QUEST_20150317_000162	I, Zubeck, leave this inscription. {nl}For the pride of being the greatest thief in history, I challenged a powerful 方士.
 QUEST_20150317_000163	But could I, a mere thief, claim victory? {nl}Naturally, I would know by cleaning up an opponent like a great wizard.
 QUEST_20150317_000164	Yet, I couldn't. {nl}I wanted to be the number one thief of all history, and not just of today. 
 QUEST_20150317_000165	I have at last discovered a way to enter the Mage Tower. {nl}The power must be gathered into a special location - it's only a matter of time.
@@ -2035,7 +2035,7 @@ QUEST_20150714_002034	Well there's a new face. Did Julian send you?
 QUEST_20150714_002035	Yeah. There's something weird about Goddess Laima. {nl}No one seems to know when she disappeared.  And to be honest nobody seems to really know whether or not she actually is a goddess. {nl}
 QUEST_20150714_002036	Since she's never appeared before.  {nl}Although I did read somewhere that she does appear every now and again...{nl}
 QUEST_20150714_002037	Even though it may be bad for my business, I wish I could live in peace rather than always be afraid of monster attacks.
-QUEST_20150714_002038	欢迎.{nl}我只做基本的维修，没有材料打造其他道具。让我们看看现在都有些什么{nl}1.购买图纸{nl}2.修理道具{nl}3.插槽管理
+QUEST_20150714_002038	欢迎.{nl}我只做基本的维修，没有材料打造其他道具。让我们看看现在都有些什么{nl}1.修理道具{nl}2.购买图纸{nl}3.插槽管理
 QUEST_20150714_002039	With everything said, I don't lie about my prices. Everything I sell is priced honestly and accordingly.
 QUEST_20150714_002040	Fire is grace sent to us by the Goddess Gabija. {nl} You cannot become a great Pyromancer if you overlook that.
 QUEST_20150714_002041	The Goddesses may be all gone but my powers are still doing fine, right? {nl} I'm sure it must be proof that Goddess Gabija is at least safe somewhere.
@@ -2090,7 +2090,7 @@ QUEST_20150714_002089	I just remembered something while I was talking to you.{nl
 QUEST_20150714_002090	I pray to the Goddess Gabiya everyday. The house is always warm because of that.{nl}You too probably know it already. Goddess Gabiya controls fire.{nl}Since I am a housewife, I am close to fire as well.
 QUEST_20150714_002091	If you cleverly use the dried air due to the severe cold, you can freeze an object even at in a desert.{nl}However, if you can't receive the blessing from the goddess, it won't be possible to make that kind of air.
 QUEST_20150714_002092	The records of the master himself
-QUEST_20150714_002093	I've studied magics for a long time as a Sorcerer.{nl}From the process, the advancement of Sorcerer can't be explained without relating with the demons, and since the demons and the goddesses were facing against each other, the field has been widened to the studying of the goddesses.
+QUEST_20150714_002093	I've studied magics for a long time as a 方士.{nl}From the process, the advancement of 方士 can't be explained without relating with the demons, and since the demons and the goddesses were facing against each other, the field has been widened to the studying of the goddesses.
 QUEST_20150714_002094	While I was doing that, I found out about the field of accumulation.{nl}That is an empty field. The theory of the start and the end is the fanstastical library which is at the boundary of transcendency for one purpose.
 QUEST_20150714_002095	The records about the disciple, Raius
 QUEST_20150714_002096	My another disciple Raius is clever and understands well, but his greed towards knowledge is too much so I am worried that he may ruin the task.{nl}A scholar should always try to learn, but if that is too much, he will walk on the wrong way. {nl}
@@ -2397,4 +2397,4 @@ QUEST_20150803_002399	Leave me a note so I can also make a verification ticket.
 QUEST_20150803_002400	When the greed and the arrogance of the people reach the end, the sacred tree that sleeps underground will wake up.{nl}The sacred tree that woke up will punish the arrogant people and take away everything they've achieved.
 QUEST_20150804_002401	Nothing is written on it.
 
-QUEST_20150810-123456	23:20 By Mamoru
+QUEST_20150813-123456	23:30 By Mamoru
