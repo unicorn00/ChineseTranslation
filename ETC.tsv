@@ -157,7 +157,7 @@ ETC_20150317_000156	Its slimy substance allows it to model itself into a prototy
 ETC_20150317_000157	Rusrat
 ETC_20150317_000158	During the times of Zachariel the Great, these monsters were placed to stop intruders. Its name stems from grave robbers who encountered it.
 ETC_20150317_000159	Madakia
-ETC_20150317_000160	Court sorcerers created the Madakia to fend off intruding grave robbers.
+ETC_20150317_000160	Court 方士s created the Madakia to fend off intruding grave robbers.
 ETC_20150317_000161	Wheelen
 ETC_20150317_000162	In order to watch over sealed ruins that lacked an overseer, monsters were created with a diversity of magic. The wheelen is one of these monsters.
 ETC_20150317_000163	Wheelen 3
@@ -1953,7 +1953,7 @@ ETC_20150317_001952	Are open
 ETC_20150317_001953	There is no reward list of the treasure chest.
 ETC_20150317_001954	The reward setting is incorrect.
 ETC_20150317_001955	If you destroy Tree Roots, your stamina will be recovered!
-ETC_20150317_001956	Class
+ETC_20150317_001956	职业
 ETC_20150317_001957	{@st41b} Title {/}
 ETC_20150317_001958	{@St41b} {Auto_1} Achievement Score: {/}{s20}{ol}{#FFFF00} {Auto_2}{/}
 ETC_20150317_001959	{@st41b} NPC Adventure Score: {/}
@@ -2263,8 +2263,8 @@ ETC_20150317_002262	A lighting fighter curses the sanctum
 ETC_20150317_002263	The lighting fighter appeared as the power of faith's mark!
 ETC_20150317_002264	Blessed from Sanctum, it is able to make a power attack during 10 sec!
 ETC_20150317_002265	Blessed from Sanctum, you will be received the spirit of divine during 10 sec!
-ETC_20150317_002266	Worship the Goddess Statue
-ETC_20150317_002267	使用 warp
+ETC_20150317_002266	崇拜女神雕像
+ETC_20150317_002267	使用传送
 ETC_20150317_002268	祈祷中
 ETC_20150317_002269	Picking up flowers for offering
 ETC_20150317_002270	Found the flowers!
@@ -2831,7 +2831,7 @@ ETC_20150317_002830	战士 Type
 ETC_20150317_002831	法师 Type
 ETC_20150317_002832	弓箭手 Type
 ETC_20150317_002833	牧师 Type
-ETC_20150317_002834	Sorcerer 型
+ETC_20150317_002834	方士 型
 ETC_20150317_002835	人型
 ETC_20150317_002836	恶魔型
 ETC_20150317_002837	植物型
@@ -4211,8 +4211,8 @@ ETC_20150317_004210	小时
 ETC_20150317_004211	分钟
 ETC_20150317_004212	秒
 ETC_20150317_004213	Select
-ETC_20150317_004214	{nl}Are you ready to advance your character?{nl}(Cannot be changed until the next advancement.)
-ETC_20150317_004215	{@st44}Next Class Rank Information
+ETC_20150317_004214	{nl}你确定要进阶你的角色?{nl}(不能在下个阶段前更换.)
+ETC_20150317_004215	{@st44}下一阶段信息
 ETC_20150317_004216	Current Job Information
 ETC_20150317_004217	{@st43}Date :
 ETC_20150317_004218	{@st43}Playtime :
@@ -4688,7 +4688,7 @@ ETC_20150317_004687	Please enter accurately:
 ETC_20150317_004688	while you pull out
 ETC_20150317_004689	During knock
 ETC_20150317_004690	{S16}{#f0dcaa} Level {nl}
-ETC_20150317_004691	Sorcerer
+ETC_20150317_004691	方士
 ETC_20150317_004692	Number of selected items
 ETC_20150317_004693	Default
 ETC_20150317_004694	{nl}{#ff0000} The code is not supported. Please check the Datatree_tooltipset {nl}
@@ -7344,7 +7344,7 @@ ETC_20150317_007343	使用 游侠 Attributes
 ETC_20150317_007344	使用 Monk Attributes
 ETC_20150317_007345	使用 宽恕者 Attributes
 ETC_20150317_007346	Buy 宽恕者 Items
-ETC_20150317_007347	使用 Sorcerer Attributes
+ETC_20150317_007347	使用 方士 Attributes
 ETC_20150317_007348	使用 死灵术士 Attributes
 ETC_20150317_007349	使用 双酬佣兵 Attributes
 ETC_20150317_007350	使用 时间法师 Attributes
@@ -8136,7 +8136,7 @@ ETC_20150317_008135	双手弓姿态
 ETC_20150317_008136	钝盾姿态
 ETC_20150317_008137	钝器姿态
 ETC_20150317_008138	法师 One-Hand Staff
-ETC_20150317_008139	Sorcerer Stance
+ETC_20150317_008139	方士 Stance
 ETC_20150317_008140	弓箭手 without bow Stance
 ETC_20150317_008141	弩姿态
 ETC_20150317_008142	0
@@ -8654,7 +8654,7 @@ ETC_20150317_008653	火卜术士 Advancement
 ETC_20150317_008654	零度术士 Advancement
 ETC_20150317_008655	心灵法师 Advancement
 ETC_20150317_008656	炼金术士 Advancement
-ETC_20150317_008657	Sorcerer Advancement
+ETC_20150317_008657	方士 Advancement
 ETC_20150317_008658	链接者 Advancement
 ETC_20150317_008659	Cronomancer Advancement
 ETC_20150317_008660	死灵术士 Advancement
@@ -9424,7 +9424,7 @@ ETC_20150317_009423	[铁甲骑兵 导师]{nl} Memet Culag
 ETC_20150317_009424	Pile of firewood
 ETC_20150317_009425	Unique lithograph
 ETC_20150317_009426	Buried remains
-ETC_20150317_009427	Sorcerer, 时间法师 5th advancement trigger
+ETC_20150317_009427	方士, 时间法师 5th advancement trigger
 ETC_20150317_009428	Jar of sacrifice
 ETC_20150317_009429	Destroyed inscription wreckage
 ETC_20150317_009430	Military Backpack
@@ -9433,9 +9433,9 @@ ETC_20150317_009432	Abondoned Luggage
 ETC_20150317_009433	Dumped Luggage
 ETC_20150317_009434	Old Box
 ETC_20150317_009435	[宽恕者 导师]{nl} Mistes Goldmund
-ETC_20150317_009436	[Sorcerer 导师]{nl} Dame Circe
+ETC_20150317_009436	[方士 导师]{nl} Dame Circe
 ETC_20150317_009437	For the 4th advancement of 宽恕者
-ETC_20150317_009438	For the 4th advancement of Sorcerer
+ETC_20150317_009438	For the 4th advancement of 方士
 ETC_20150317_009439	Eye of the Great King
 ETC_20150317_009440	Canyon area Device
 ETC_20150317_009441	Historian Gorath
@@ -9579,8 +9579,8 @@ ETC_20150323_009578	泽凯瑞尔岔路
 ETC_20150323_009579	碑石路
 ETC_20150323_009580	艾珊吉乌小镇
 ETC_20150323_009581	佩帝米安 外围
-ETC_20150323_009582	Pilgrim Path
-ETC_20150323_009583	Altary Way
+ETC_20150323_009582	朝圣小路
+ETC_20150323_009583	祭坛之路
 ETC_20150323_009584	祈祷之林
 ETC_20150323_009585	亚希梅斯岔路
 ETC_20150323_009586	乌吉斯耕作地
@@ -9902,7 +9902,7 @@ ETC_20150323_009901	PCSelfDown:10/Notice:NOTICE_Dm_!:Roots of Dandelions have be
 ETC_20150323_009902	DoTimeAction:Drying after putting the meats of monsters inside:5:None
 ETC_20150323_009903	AnimNPC:Local:OPEN:0/Notice:NOTICE_Dm_!:The meats are being dried! The beef jerkies are going to come out when the lid opens after 5 secs!\:3/Sleep:5/AnimNPC:Local:OPEN:0/EffectNPC:Local:F_smoke135_dark:2:BOT/Property:1/PropertyAdd:1/GiveItem:FARM47_1_SQ_060_ITEM_2:1:0/TakeItem:FARM47_1_SQ_060_ITEM_1:1:0
 ETC_20150323_009904	DoTimeAction:Retrieving:2:MAKING:None
-ETC_20150323_009905	According to rumors around 佩帝米安, when the pilgrims passed by the Pilgrim Path
+ETC_20150323_009905	According to rumors around 佩帝米安, when the pilgrims passed by the 朝圣小路
 ETC_20150323_009906	Survivors of the Fallen City lost their belongings or their lives in the Altar Way while going to 佩帝米安. According to the survivors
 ETC_20150323_009907	Revelators are exploring the different fallen parts of the world to find assignments of the Goddess. What seems to be a sanctuary was found in the Altar Way. If you can find something restore and use it again, you will be a hero to those who travel this area. 
 ETC_20150323_009908	According to the scout's reports, there were spell devices found in 祈祷之林. They tried to activate it but there were too many monsters around so they had to run for their lives. Someone has to activate the spell device and check what powers it has.
@@ -10331,8 +10331,8 @@ ETC_20150323_010330	Do you wish to sell?
 ETC_20150323_010331	Awakening Option
 ETC_20150323_010332	Can only be used in 泰耐特花园
 ETC_20150323_010333	Can only be used in 兰斯缇斯峡谷 Area
-ETC_20150323_010334	{@st42b}Advancement Date: 
-ETC_20150323_010335	{@st42b}Play Time: 
+ETC_20150323_010334	{@st42b}进阶日期: 
+ETC_20150323_010335	{@st42b}游戏时间: 
 ETC_20150323_010336	The people from the village were demons.{nl}Run away to portal of 贝亚山谷.
 ETC_20150323_010337	Cathedral completion stone
 ETC_20150323_010338	Briquetting
@@ -10747,7 +10747,7 @@ ETC_20150406_010746	借农耕工具 - 铲
 ETC_20150406_010747	Borrow farming tools - Pickaxe
 ETC_20150406_010748	Collect Niole roots in Liaum Uphill
 ETC_20150406_010749	Make jerky in the Drying Room
-ETC_20150406_010750	Destroy the 魔法阵 with magic stone of blessing
+ETC_20150406_010750	破坏 the 魔法阵 with magic stone of blessing
 ETC_20150406_010751	No!
 ETC_20150406_010752	图纸-Dunkell Bastard Sword
 ETC_20150406_010753	Food distribution table can only be installed near the basecamp.
@@ -10873,18 +10873,18 @@ ETC_20150414_010872	Weakening Type
 ETC_20150414_010873	Pheasant
 ETC_20150414_010874	Block the subordinates of Naktis until the transformation scroll is completed.
 ETC_20150414_010875	Altar of Knowledge
-ETC_20150414_010876	Attack and destroy the 魔法阵!
+ETC_20150414_010876	Attack and 破坏 the 魔法阵!
 ETC_20150414_010877	Flame moved on to the 魔法阵!{nl}Get kindlings from Orange Dandel and keep the fire alive!
 ETC_20150414_010878	Storage of Baron
 ETC_20150414_010879	Shaton Family Mercenary Chief
-ETC_20150414_010880	Guardian stone of 树根水晶 of Laziness appeared! {nl}Destroy all of it.
+ETC_20150414_010880	Guardian stone of 树根水晶 of Laziness appeared! {nl}破坏 all of it.
 ETC_20150414_010881	Guardian Stone of 树根水晶
 ETC_20150414_010882	Are you trying to interfere with my plans?
 ETC_20150414_010883	Kill them.
 ETC_20150414_010884	It's not late yet. {nl}You need to be cured first..
 ETC_20150414_010885	You touched the evil stone of the altar.{nl}I warned you not to..
 ETC_20150414_010886	Can't help it then, Revelator. {nl}I have something to tell you so please come to the Farmland.
-ETC_20150414_010887	Destroy 恶魔 Summon Crystal
+ETC_20150414_010887	破坏 恶魔 Summon Crystal
 ETC_20150414_010888	You finally showed up.
 ETC_20150414_010889	Stop them from interfering while I absorb the power.
 ETC_20150414_010890	You think I'll fall for you!
@@ -10924,9 +10924,9 @@ ETC_20150414_010923	Squires are warriors who support fellow soldiers. They suppo
 ETC_20150414_010924	Support, Craft, Party
 ETC_20150414_010925	Attack, Support
 ETC_20150414_010926	Alchemists use alchemy to enhance gems and synthesize or craft items.
-ETC_20150414_010927	Sorcerers summon demons which they control to fight enemies or even use as mounts.
+ETC_20150414_010927	方士s summon demons which they control to fight enemies or even use as mounts.
 ETC_20150414_010928	Summon, Attack
-ETC_20150414_010929	Support
+ETC_20150414_010929	辅助
 ETC_20150414_010930	Cronomancers are wizards who control time. They stop, speed up, or change back time to help fellow soldiers.
 ETC_20150414_010931	Necromancers are wizards who use dead body parts. They attack or make summons using the dead body parts collected.
 ETC_20150414_010932	Support, Control
@@ -10984,8 +10984,8 @@ ETC_20150414_010983	使用 Falconer Attribute
 ETC_20150414_010984	IvnItem:FARM47_1_SQ_060_ITEM_1:1/DoTimeAction:Making meat jerky:3:MAKING:None
 ETC_20150414_010985	AnimNPC:Local:OPEN:0/Notice:NOTICE_Dm_!:Made jerky!:3/Sleep:5000/AnimNPC:Local:CLOSE:0/EffectNPC:Local:F_smoke135_dark:2:BOT/GiveItem:FARM47_1_SQ_060_ITEM_2:1/TakeItem:FARM47_1_SQ_060_ITEM_1:1/Property:2/PropertyAdd:1
 ETC_20150414_010986	Stop Rexipher
-ETC_20150414_010987	Destroy the scattered core of 树根水晶
-ETC_20150414_010988	Activate the Gedula altar before Rexipher destroys it
+ETC_20150414_010987	破坏 the scattered core of 树根水晶
+ETC_20150414_010988	Activate the Gedula altar before Rexipher 破坏s it
 ETC_20150414_010989	Activate Sviesa Altar
 ETC_20150414_010990	Protect the sealing ritual of the contaminated gap
 ETC_20150414_010991	Find Houberg hiding in the demon's body
@@ -11134,7 +11134,7 @@ ETC_20150414_011133	Defeat the monster near the 魔法阵!
 ETC_20150414_011134	Obtained meat!{nl}Put it in the dryer to make jerky!
 ETC_20150414_011135	Installed pot. Monsters are flocking near the pot!
 ETC_20150414_011136	Bury the pot full of monsters' forces!
-ETC_20150414_011137	Failed to destroy the 魔法阵 in time!
+ETC_20150414_011137	Failed to 破坏 the 魔法阵 in time!
 ETC_20150414_011138	About the location of Goddess Vakarine
 ETC_20150414_011139	How can I believe it?
 ETC_20150414_011140	What do you plan to do now?
@@ -11175,7 +11175,7 @@ ETC_20150414_011174	装备单手剑和盾牌
 ETC_20150414_011175	装备 双手弓
 ETC_20150414_011176	装备 钝器和盾牌
 ETC_20150414_011177	装备 盾牌
-ETC_20150414_011178	装备 Sorcerer
+ETC_20150414_011178	装备 方士
 ETC_20150414_011179	Bow Unequipped
 ETC_20150414_011180	装备 弩
 ETC_20150414_011181	装备 Double Bow
@@ -11234,13 +11234,13 @@ ETC_20150428_011233	Dark Chapparition
 ETC_20150428_011234	皇家陵墓 Builder's Chapel
 ETC_20150428_011235	Ugh.. What is this taste?
 ETC_20150428_011236	Defeat all the monsters!
-ETC_20150428_011237	Destroy the 2nd Movement 魔法阵 restraining Grita!
+ETC_20150428_011237	破坏 the 2nd Movement 魔法阵 restraining Grita!
 ETC_20150428_011238	This restraining magic.. It's a trap!
 ETC_20150428_011239	Defeat the Salamander that appeared in the defense shield device!
 ETC_20150428_011240	Defeat the Golem guarding the seal stone!
 ETC_20150428_011241	Defeat the Archon guarding the Flame Fusion Machine!
 ETC_20150428_011242	Defeat all the Chomadogs summoned by Antares!
-ETC_20150428_011243	Destroy the Spell Contro Valve!
+ETC_20150428_011243	破坏 the Spell Contro Valve!
 ETC_20150428_011244	The Mineloader has started working!{nl}Defeat the Mineloader!
 ETC_20150428_011245	Defeat the monsters reacting to the Spell Stabilizer {n} and guard the Jewel of Prominence!
 ETC_20150428_011246	Defeat the Grinenter that Grita summoned {nl}and retrieve the Jewel of Prominence!
@@ -11434,7 +11434,7 @@ ETC_20150428_011433	图纸 - Sage Necklace
 ETC_20150428_011434	图纸 - Superior Rune Bracelet
 ETC_20150428_011435	图纸 - Star Bracelet
 ETC_20150428_011436	FAQ : Lodge{nl}1)You can change the name of your lodge by clicking "Lodge Settings". {nl}2)You can buy Lodge skins using iCoins by clicking "Change Lodge".{nl}3)You select your desired channel from the Lodge.
-ETC_20150428_011437	FAQ : Character HP, SP, STA {nl} 1) You can check your character's information on the upper left side of the screen. {nl}2) STA: This is stamina. When your STA is 0, you can only walk and can't run. {nl} It is also used when learning certain attributes. {nl} You can recover STA by destroying Tree Root Crystals or by using Stamina Pills. {nl} Stamina Pills can be bought through shop or can be earned by completing quests or defeating boss monsters.
+ETC_20150428_011437	FAQ : Character HP, SP, STA {nl} 1) You can check your character's information on the upper left side of the screen. {nl}2) STA: This is stamina. When your STA is 0, you can only walk and can't run. {nl} It is also used when learning certain attributes. {nl} You can recover STA by 破坏ing Tree Root Crystals or by using Stamina Pills. {nl} Stamina Pills can be bought through shop or can be earned by completing quests or defeating boss monsters.
 ETC_20150428_011438	FAQ : 人物等级和职业等级 {nl}你可以在屏幕的最下方查看信息 {nl}2) 人物等级: 指你人物的等级 {nl}3) 职业等级: 指你选择职业的等级 {nl} 当你达到15级，你可以进阶到另外一个职业
 ETC_20150428_011439	FAQ : Quick Slot{nl}1) You can add items or skills to the quick slot at the lower part of your screen. {nl}2) Skills are automatically added to quick slot when you learn skills. {nl}3)You can use up to 40 quick slots. {nl}4) Quick slots can be locked or unlocked. {nl}You cannot add or remove items or skill in quick slot when it is locked.
 ETC_20150428_011440	FAQ : 切换频道{nl}1) 你可以在小地图上方的列表中切换频道 {nl}2) 你可以在你的房间内切换频道并进入世界
@@ -11638,9 +11638,9 @@ ETC_20150714_011637	Minos Mage
 ETC_20150714_011638	Minos 弓箭手
 ETC_20150714_011639	Short Tree Magician
 ETC_20150714_011640	Flask Mage
-ETC_20150714_011641	Kepari Sorcerer
+ETC_20150714_011641	Kepari 方士
 ETC_20150714_011642	Wendigo Magician
-ETC_20150714_011643	Wendigo Sorcerer
+ETC_20150714_011643	Wendigo 方士
 ETC_20150714_011644	Wendigo 弓箭手
 ETC_20150714_011645	Wendigo 弓箭手
 ETC_20150714_011646	Socket Mage
@@ -11651,7 +11651,7 @@ ETC_20150714_011650	Lizardman Magician
 ETC_20150714_011651	Saltisdaughter Magician
 ETC_20150714_011652	Saltisdaughter 弓箭手
 ETC_20150714_011653	Goblin Magician
-ETC_20150714_011654	Goblin Sorcerer
+ETC_20150714_011654	Goblin 方士
 ETC_20150714_011655	Goblin Magician
 ETC_20150714_011656	Goblin 战士
 ETC_20150714_011657	Goblin Charger
@@ -11659,7 +11659,7 @@ ETC_20150714_011658	Goblin Axe Soldier
 ETC_20150714_011659	The maid of the dawn
 ETC_20150714_011660	The maid of the darkness
 ETC_20150714_011661	Lapasape Mage
-ETC_20150714_011662	Lapasape Sorcerer
+ETC_20150714_011662	Lapasape 方士
 ETC_20150714_011663	Collimen Magician
 ETC_20150714_011664	TerraNymph Mage
 ETC_20150714_011665	TerraNymph 弓箭手
@@ -11733,7 +11733,7 @@ ETC_20150714_011732	魔法师的塔
 ETC_20150714_011733	碧蒂斯森林
 ETC_20150714_011734	Glade Slope
 ETC_20150714_011735	Raukime Resorvoir
-ETC_20150714_011736	Thilla Monastery
+ETC_20150714_011736	缇丽拉修道院
 ETC_20150714_011737	Nuoridin Falls
 ETC_20150714_011738	Namu Temple Ruins
 ETC_20150714_011739	Istora Ruins
@@ -11777,7 +11777,7 @@ ETC_20150714_011776	Barrier Stone
 ETC_20150714_011777	Black Chaser
 ETC_20150714_011778	Sealed Spatial Magic Stone
 ETC_20150714_011779	Defeat Temple Shooter and obtain the spatial magic stone!
-ETC_20150714_011780	It seems that you've been spotted while you were destroying the pots of silence!{nl}Defeat all the demons that are rushing in!
+ETC_20150714_011780	It seems that you've been spotted while you were 破坏ing the pots of silence!{nl}Defeat all the demons that are rushing in!
 ETC_20150714_011781	The pots of silence
 ETC_20150714_011782	Protect until the contract field of the bodies all burn out!
 ETC_20150714_011783	Contract Field of the Bodies
@@ -11805,7 +11805,7 @@ ETC_20150714_011804	Thorny Vines are spreading evil energies!
 ETC_20150714_011805	Protect the crystal of the authority
 ETC_20150714_011806	The portal suddenly opened!
 ETC_20150714_011807	Monsters started to attack the sealed tower!
-ETC_20150714_011808	The protecting stone that protects the Tree Root Crystals of Laziness has appeared!{nl}You better destroy all protecting stones!
+ETC_20150714_011808	The protecting stone that protects the Tree Root Crystals of Laziness has appeared!{nl}You better 破坏 all protecting stones!
 ETC_20150714_011809	The flame has been ignited but it seems that it would be extinguished soon.{nl}Obtain some kindlings from the mosnters and make the flame bigger!
 ETC_20150714_011810	It doesn't look like the slate you are looking for!
 ETC_20150714_011811	Necrobenter which can't be controlled has been summoned!{nl}The experiment failed! Defeat Necrobenter!
@@ -11861,11 +11861,11 @@ ETC_20150714_011860	You body is becoming stiff due to the effects from the petri
 ETC_20150714_011861	Petrified
 ETC_20150714_011862	You've been petrified!
 ETC_20150714_011863	Demonic Stone - SP Recovery
-ETC_20150714_011864	You've obtained the effect of increasing SP recovery amount from the destroyed magic crystal.
+ETC_20150714_011864	You've obtained the effect of increasing SP recovery amount from the 破坏ed magic crystal.
 ETC_20150714_011865	Demonic Stone - HP Recovery
-ETC_20150714_011866	You've obtained the effect of increasing HP recovery amount from the destroyed magic crystal.
+ETC_20150714_011866	You've obtained the effect of increasing HP recovery amount from the 破坏ed magic crystal.
 ETC_20150714_011867	Demonic Stone - Recover Stamina
-ETC_20150714_011868	You've obtained the effect of increasing Stamina recovery amount from the destroyed magic crystal.
+ETC_20150714_011868	You've obtained the effect of increasing Stamina recovery amount from the 破坏ed magic crystal.
 ETC_20150714_011869	Addicted to the magical power
 ETC_20150714_011870	You've influenced by the steam of the magical power.
 ETC_20150714_011871	For dialogCheck
@@ -12287,7 +12287,7 @@ ETC_20150714_012286	There is no quest that satisfies the starting requirements f
 ETC_20150714_012287	The party quest has been selected!
 ETC_20150714_012288	You are doing all the quests that can be selected
 ETC_20150714_012289	Copy
-ETC_20150714_012290	These utensils are destroyed so they won't be helpful
+ETC_20150714_012290	These utensils are 破坏ed so they won't be helpful
 ETC_20150714_012291	The source of the pollution has been purified.
 ETC_20150714_012292	You could purify the lake when you defeat Merregina that is the source of the pollution
 ETC_20150714_012293	Defeat the nearby monsters to weaken the source of the pollution
@@ -12312,7 +12312,7 @@ ETC_20150714_012311	You've failed the quest since the time ran out!{nl}You can't
 ETC_20150714_012312	使用 it near the pole that has the similar symbol like the symbol of space
 ETC_20150714_012313	You've put all evil energy into the box
 ETC_20150714_012314	The evil energy is being sucked into the treasure box
-ETC_20150714_012315	You've succeeded destroying the demonic summon field
+ETC_20150714_012315	You've succeeded 破坏ing the demonic summon field
 ETC_20150714_012316	You've put the handkerchief back into the box{nl} You can pull it out again
 ETC_20150714_012317	There's no key that works{nl}Try finding the key from the monsters
 ETC_20150714_012318	Obtain the patterned stone again and enter
@@ -12394,7 +12394,7 @@ ETC_20150714_012393	You've burnt the funeral oration
 ETC_20150714_012394	Move
 ETC_20150714_012395	Don't move
 ETC_20150714_012396	Murky energy is about to pour over! Run away far!
-ETC_20150714_012397	You've succeeded destroying Gaigalas!{nl}Cut down the root of Bramble
+ETC_20150714_012397	You've succeeded 破坏ing Gaigalas!{nl}Cut down the root of Bramble
 ETC_20150714_012398	You've defeated Molek!{nl}Cut down the root of Bramble
 ETC_20150714_012399	You've succeeded eliminating the roots of Brambles!{nl}Defeat Gaigalas
 ETC_20150714_012400	You've succeeded eliminating the roots of Brambles!{nl}Defeat Molek
@@ -12416,7 +12416,7 @@ ETC_20150714_012415	The notice which the kindom soldiers are being recruited is 
 ETC_20150714_012416	You've obtained the petrified propaganda
 ETC_20150714_012417	You've rubbed the odor of the monster on the supplies
 ETC_20150714_012418	The odor of the monster is already rubbed on the supplies
-ETC_20150714_012419	You've destroyed the petrified records
+ETC_20150714_012419	You've 破坏ed the petrified records
 ETC_20150714_012420	Other player is collecting
 ETC_20150714_012421	You've eliminated the small space of the crossover
 ETC_20150714_012422	You've removed Rwalda seal
@@ -12461,7 +12461,7 @@ ETC_20150714_012460	Move using the power
 ETC_20150714_012461	The power of the portal is lacking so you can't use it
 ETC_20150714_012462	Demons' energy
 ETC_20150714_012463	The power of the sealed sphere of the demons is weakning
-ETC_20150714_012464	The sealed sphere of the demons of AA has been destroyed and Durahan was released!
+ETC_20150714_012464	The sealed sphere of the demons of AA has been 破坏ed and Durahan was released!
 ETC_20150714_012465	北面
 ETC_20150714_012466	南面
 ETC_20150714_012467	The power has been supplied to the north portal using the power of white demonic power crystal!{nl}(
@@ -12551,7 +12551,7 @@ ETC_20150714_012550	You can't use it now
 ETC_20150714_012551	With the pieces you have, there's nothing you can craft at the moment
 ETC_20150714_012552	Resonate the magical crystal (20 Crystal Fragments)
 ETC_20150714_012553	Opening the bag
-ETC_20150714_012554	Poisonous gas will leak from the destroyed purification device soon!
+ETC_20150714_012554	Poisonous gas will leak from the 破坏ed purification device soon!
 ETC_20150714_012555	The devices are activating! It's dangerous!
 ETC_20150714_012556	The grapes already dried out and died
 ETC_20150714_012557	You've failed to guide the soldiers who fell behind
@@ -12749,11 +12749,11 @@ ETC_20150714_012748	Your stat increased by 1 after using Bigi of Zbeck
 ETC_20150714_012749	You've charged Holy Bead by attacking the demons
 ETC_20150714_012750	Gesti is near{nl}Be careful not to get caught!
 ETC_20150714_012751	You've obtained the pieces of the barrier.{nl}Insert them into the center pole
-ETC_20150714_012752	You can't destroy it due to the energy of the demon that is surrounding Panto Totem.
+ETC_20150714_012752	You can't 破坏 it due to the energy of the demon that is surrounding Panto Totem.
 ETC_20150714_012753	The spirit of the demon has been dissipated.
 ETC_20150714_012754	The spirits of the demons were detached due to the holy power.{nl}Defeat the detached spirits!
 ETC_20150714_012755	The power of the barrier can be only activated when the weakened monsters are nearby
-ETC_20150714_012756	You've obtained the pieces of the destroyed barrier
+ETC_20150714_012756	You've obtained the pieces of the 破坏ed barrier
 ETC_20150714_012757	You've charged the tree base barrier using the spirits of the demons
 ETC_20150714_012758	You should defeat the demons near the barrier to charge the barrier.
 ETC_20150714_012759	You charged the tree base barrier a bit
@@ -13196,11 +13196,11 @@ ETC_20150717_013195	Grimm Reaper
 ETC_20150717_013196	The 2nd Demons' Prison
 ETC_20150717_013197	Where did that kind of monster appear from...
 ETC_20150717_013198	Hold up little more!{nl}I will gather some people!
-ETC_20150717_013199	The petrified frosts are coming!{nl}Destroy the obstacles or jump over them to move to a safe place!
+ETC_20150717_013199	The petrified frosts are coming!{nl}破坏 the obstacles or jump over them to move to a safe place!
 ETC_20150717_013200	Trigger for the completion
 ETC_20150717_013201	As you were trying to repair the detector, the monsters rushed in!
 ETC_20150717_013202	Weakened Petrified Frosts
-ETC_20150717_013203	Intensive Spirits' Device has been destroyed and lots of monsters are rushing in!
+ETC_20150717_013203	Intensive Spirits' Device has been 破坏ed and lots of monsters are rushing in!
 ETC_20150717_013204	Defeat Salamanders that are going after Protective Shell activating device
 ETC_20150717_013205	As the magic stabilizing device activated, the monsters rushed in! 
 ETC_20150717_013206	Protect Grita while she is controlling the magic of the tower!
@@ -13350,7 +13350,7 @@ ETC_20150717_013349	按 {img mouseclick_right 40 40} on the Anvil, then select a
 ETC_20150717_013350	and
 ETC_20150717_013351	will appear. Hit the
 ETC_20150717_013352	three times to Enhance the item.
-ETC_20150717_013353	When enhancing a 武器 beyond +4, Potential will be consumed on failure and the effects will be reset. The item will be destroyed when Potential drops to zero.
+ETC_20150717_013353	When enhancing a 武器 beyond +4, Potential will be consumed on failure and the effects will be reset. The item will be 破坏ed when Potential drops to zero.
 ETC_20150717_013354	Enhancement penalties occur beyond +2 for armors, bracelets, and necklaces.
 ETC_20150717_013355	You can't use an item with 0 durability.
 ETC_20150717_013356	Repair items in the Repair window.{nl}Select an item, then click Repair to restore durability to 100%.
@@ -13523,8 +13523,8 @@ ETC_20150717_013522	Do you want to learn the attribute(s)?
 ETC_20150717_013523	连接到服务器...
 ETC_20150717_013524	{gr gradation2}{s19}{ol}{b}{#ffcc00}Right-click: Sell / Buy Button{/}{/}{nl}按 down the Shift + right-click for long to sell multiple quantities of the item.{nl}Double-click to sell all.
 ETC_20150717_013525	You will move to another channel due to full.
-ETC_20150717_013526	If the enhancement of armor, bracelets or necklaces above level {#ffffcc}+{Auto_1} fails, its Potential will be consumed. When the Potential falls below 0, the item will be destroyed. Do you want to enhance?
-ETC_20150717_013527	If the enhancement of 武器s above level {#ffffcc}+{Auto_1} fails, its Potential will be consumed. When the Potential falls below 0, the item will be destroyed. Do you want to enhance?
+ETC_20150717_013526	If the enhancement of armor, bracelets or necklaces above level {#ffffcc}+{Auto_1} fails, its Potential will be consumed. When the Potential falls below 0, the item will be 破坏ed. Do you want to enhance?
+ETC_20150717_013527	If the enhancement of 武器s above level {#ffffcc}+{Auto_1} fails, its Potential will be consumed. When the Potential falls below 0, the item will be 破坏ed. Do you want to enhance?
 ETC_20150717_013528	Will be entered automatically after 5 secs
 ETC_20150717_013529	When you go out of the dungeon, you will fail Awaken. Are you going to really go out?
 ETC_20150717_013530	You've obtained 银币s
@@ -13749,9 +13749,9 @@ ETC_20150729_013748	{nl}{nl}[Natural Recovery] :
 ETC_20150729_013749	Natural Recovery is very slow compared to other methods, but does not require any control or conditions.
 ETC_20150729_013750	{nl}{nl}[Restore by Potion] : Restore HP/SP/STA instantly using various potions.
 ETC_20150729_013751	However, potions have a cooldown before they can be re-used.
-ETC_20150729_013752	{nl}{nl}[Destroy Tree Root Crystal] : Destroy a Tree Root Crystal to restore the Stamina of all nearby players.
-ETC_20150729_013753	Destroying a Tree Root Crystal recovers your Stamina.
-ETC_20150729_013754	Stamina of all the players nearby will be restored when you destroy a Tree Root Crystal.
+ETC_20150729_013752	{nl}{nl}[破坏 Tree Root Crystal] : 破坏 a Tree Root Crystal to restore the Stamina of all nearby players.
+ETC_20150729_013753	破坏ing a Tree Root Crystal recovers your Stamina.
+ETC_20150729_013754	Stamina of all the players nearby will be restored when you 破坏 a Tree Root Crystal.
 ETC_20150729_013755	Team Battle League
 ETC_20150729_013756	Team Battle League is a 5:5 team battle among players.
 ETC_20150729_013757	If Party and all party members press accept, system will search for opponents. When matching opponent party is found, you will move to battle zone to begin the battle.
@@ -13773,7 +13773,7 @@ ETC_20150729_013772	You need funds and an anvil to enhance your item.
 ETC_20150729_013773	can be purchased from the Tools Merchant or obtained from monsters.
 ETC_20150729_013774	{nl}{nl}{img mouseclick_right 40 40} on the anvil, then select an item to open Enhancement window.
 ETC_20150729_013775	{nl}{nl}When your equipment is enhanced, its power increases. 
-ETC_20150729_013776	{nl}{nl}When enhancing a weapon beyond +5, Potential will be consumed on failure and the effects will be reset. The item will be destroyed when Potential drops to 0.
+ETC_20150729_013776	{nl}{nl}When enhancing a weapon beyond +5, Potential will be consumed on failure and the effects will be reset. The item will be 破坏ed when Potential drops to 0.
 ETC_20150729_013777	Repair items with low durability through the 铁匠 NPC.
 ETC_20150729_013778	Repair items with low durability in the Item Repair window.
 ETC_20150729_013779	{nl}{nl}Select an item, then click Repair to restore its durability to 100%.
@@ -13994,8 +13994,8 @@ ETC_20150729_013993	You've dedicated the cores of Zolems
 ETC_20150729_013994	You've dedicated Ashulong Stems
 ETC_20150729_013995	You've dedicated the fishing rod
 ETC_20150729_013996	Cremating
-ETC_20150729_013997	The spell doll of the grave guard has been destroyed!
-ETC_20150729_013998	Due to an unknown power that is surrounding the sacred object of the religious body, you can't destroy it.
+ETC_20150729_013997	The spell doll of the grave guard has been 破坏ed!
+ETC_20150729_013998	Due to an unknown power that is surrounding the sacred object of the religious body, you can't 破坏 it.
 ETC_20150729_013999	Fallen down corpse
 ETC_20150729_014000	Release the lunatic energy!
 ETC_20150729_014001	When party members gather at {img trasuremapmark 25 25}{nl}Boss Hunting Mission will be started. {nl}Mission Area : {MapName}{nl}Defeat the boss and receive the rewards with your party members.
@@ -14075,7 +14075,7 @@ ETC_20150803_014074	Don..Don't come!
 ETC_20150803_014075	I can't die like this...
 ETC_20150803_014076	Oh sacred tree...
 ETC_20150803_014077	While purifying the magical crystal, defeat the monsters that are rushing in!
-ETC_20150803_014078	Destroy the demon summoning crystals!
+ETC_20150803_014078	破坏 the demon summoning crystals!
 ETC_20150803_014079	Honeypins are attacking!
 ETC_20150803_014080	They are demons!
 ETC_20150803_014081	The soldier with the resentment
@@ -14185,4 +14185,4 @@ ETC_20150804_014184	TypeF管理者
 ETC_20150804_014185	放置石头的两个地方
 ETC_20150804_014186	扎卡莉爱尔的秘门	QUEST_20150317_000341
 
-ETC_20150810-123456	23:20 By Mamoru
+ETC_20150813-123456	23:30 By Mamoru
